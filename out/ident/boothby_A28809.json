@@ -1,0 +1,858 @@
+{
+ "n_entries": 84,
+ "n_mapped": 75,
+ "n_concepts": 53,
+ "affixes_removed": [],
+ "candidates": [
+  {
+   "doculect": "asjp:MALAGASY_AMBOSITRA",
+   "name": "MALAGASY_AMBOSITRA",
+   "source": "ASJP",
+   "glottocode": "plat1254",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Plateau Malagasy"
+   ],
+   "ldnd": 0.596,
+   "dsame": 0.488,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.66
+  },
+  {
+   "doculect": "asjp:MALAGASY_MERINA",
+   "name": "MALAGASY_MERINA",
+   "source": "ASJP",
+   "glottocode": "plat1254",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Plateau Malagasy"
+   ],
+   "ldnd": 0.596,
+   "dsame": 0.488,
+   "n": 8,
+   "p": 0.0066,
+   "z": 3.55
+  },
+  {
+   "doculect": "asjp:MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAISAKA_VANGAINDRANO",
+   "name": "MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAISAKA_VANGAINDRANO",
+   "source": "ASJP",
+   "glottocode": "sout2920",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Southern Betsimisaraka Malagasy"
+   ],
+   "ldnd": 0.601,
+   "dsame": 0.51,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.18
+  },
+  {
+   "doculect": "asjp:MALAGASY_SAKALAVA_MAJUNGA",
+   "name": "MALAGASY_SAKALAVA_MAJUNGA",
+   "source": "ASJP",
+   "glottocode": "saka1291",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "Southwestern Malagasic",
+    "South West-Central Malagasic",
+    "Nuclear South West-Central Malagasic",
+    "Inland-Western Malagasic",
+    "Western Malagasic",
+    "West Malagasy Sakalava"
+   ],
+   "ldnd": 0.605,
+   "dsame": 0.51,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.22
+  },
+  {
+   "doculect": "asjp:MALAGASY_PLATEAU_BETSILEO_FIANARANTSOA",
+   "name": "MALAGASY_PLATEAU_BETSILEO_FIANARANTSOA",
+   "source": "ASJP",
+   "glottocode": "plat1254",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Plateau Malagasy"
+   ],
+   "ldnd": 0.605,
+   "dsame": 0.508,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.54
+  },
+  {
+   "doculect": "asjp:MALAGASY_PLATEAU_MERINA_ANTANANARIVO",
+   "name": "MALAGASY_PLATEAU_MERINA_ANTANANARIVO",
+   "source": "ASJP",
+   "glottocode": "plat1254",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Plateau Malagasy"
+   ],
+   "ldnd": 0.605,
+   "dsame": 0.508,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.49
+  },
+  {
+   "doculect": "asjp:NABA_KUKA",
+   "name": "NABA_KUKA",
+   "source": "ASJP",
+   "glottocode": "naba1253",
+   "path": [
+    "Central Sudanic",
+    "Sara-Bongo-Bagirmi",
+    "SBB Occidental",
+    "Nuclear SBB Occidental",
+    "Saraic",
+    "Bagirmic",
+    "Morom-Jaya-Naba",
+    "Naba-Berakou",
+    "Naba"
+   ],
+   "ldnd": 0.613,
+   "dsame": 0.5,
+   "n": 9,
+   "p": 0.0033,
+   "z": 4.03
+  },
+  {
+   "doculect": "asjp:MALAGASY_SIHANAKA",
+   "name": "MALAGASY_SIHANAKA",
+   "source": "ASJP",
+   "glottocode": "plat1254",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Plateau Malagasy"
+   ],
+   "ldnd": 0.615,
+   "dsame": 0.5,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.21
+  },
+  {
+   "doculect": "asjp:PROTO_BODO",
+   "name": "PROTO_BODO",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "PROTO_BODO"
+   ],
+   "ldnd": 0.616,
+   "dsame": 0.479,
+   "n": 8,
+   "p": 0.0066,
+   "z": 2.95
+  },
+  {
+   "doculect": "asjp:MALAGASY_ANTANKARANA",
+   "name": "MALAGASY_ANTANKARANA",
+   "source": "ASJP",
+   "glottocode": "anta1255",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Northern Malagasic",
+    "Antankarana Malagasy"
+   ],
+   "ldnd": 0.619,
+   "dsame": 0.5,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.24
+  },
+  {
+   "doculect": "asjp:MALAGASY_ANATANKARANA_ANTALAHA",
+   "name": "MALAGASY_ANATANKARANA_ANTALAHA",
+   "source": "ASJP",
+   "glottocode": "anta1255",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Northern Malagasic",
+    "Antankarana Malagasy"
+   ],
+   "ldnd": 0.623,
+   "dsame": 0.521,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.15
+  },
+  {
+   "doculect": "asjp:MALAGASY_ANATANKARANA_VOHEMAR",
+   "name": "MALAGASY_ANATANKARANA_VOHEMAR",
+   "source": "ASJP",
+   "glottocode": "anta1255",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Northern Malagasic",
+    "Antankarana Malagasy"
+   ],
+   "ldnd": 0.623,
+   "dsame": 0.521,
+   "n": 8,
+   "p": 0.0066,
+   "z": 3.23
+  },
+  {
+   "doculect": "asjp:MALAGASY_TSIMIHETY_MANDRITSARA",
+   "name": "MALAGASY_TSIMIHETY_MANDRITSARA",
+   "source": "ASJP",
+   "glottocode": "tsim1257",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Northern Malagasic",
+    "Tsimihety-Betsimisaraka",
+    "Tsimihety Malagasy"
+   ],
+   "ldnd": 0.623,
+   "dsame": 0.521,
+   "n": 8,
+   "p": 0.0066,
+   "z": 3.11
+  },
+  {
+   "doculect": "asjp:MALAGASY_FIANARANTSOA",
+   "name": "MALAGASY_FIANARANTSOA",
+   "source": "ASJP",
+   "glottocode": "plat1254",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Plateau Malagasy"
+   ],
+   "ldnd": 0.626,
+   "dsame": 0.513,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.36
+  },
+  {
+   "doculect": "asjp:MALAGASY_TANOSY_TOLAGNARO",
+   "name": "MALAGASY_TANOSY_TOLAGNARO",
+   "source": "ASJP",
+   "glottocode": "tano1246",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "Southwestern Malagasic",
+    "South West-Central Malagasic",
+    "Nuclear South West-Central Malagasic",
+    "Inland-Western Malagasic",
+    "Bara-Tanosy",
+    "Tanosy Malagasy"
+   ],
+   "ldnd": 0.637,
+   "dsame": 0.542,
+   "n": 8,
+   "p": 0.0133,
+   "z": 2.91
+  },
+  {
+   "doculect": "asjp:MALAGASY_SAKALAVA_MAINTIRANO",
+   "name": "MALAGASY_SAKALAVA_MAINTIRANO",
+   "source": "ASJP",
+   "glottocode": "saka1291",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "Southwestern Malagasic",
+    "South West-Central Malagasic",
+    "Nuclear South West-Central Malagasic",
+    "Inland-Western Malagasic",
+    "Western Malagasic",
+    "West Malagasy Sakalava"
+   ],
+   "ldnd": 0.643,
+   "dsame": 0.542,
+   "n": 8,
+   "p": 0.0199,
+   "z": 2.36
+  },
+  {
+   "doculect": "asjp:MALAGASY_TAIMORO",
+   "name": "MALAGASY_TAIMORO",
+   "source": "ASJP",
+   "glottocode": "plat1254",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Plateau Malagasy"
+   ],
+   "ldnd": 0.643,
+   "dsame": 0.521,
+   "n": 8,
+   "p": 0.0066,
+   "z": 2.88
+  },
+  {
+   "doculect": "asjp:MALAGASY_BARA_BETROKA",
+   "name": "MALAGASY_BARA_BETROKA",
+   "source": "ASJP",
+   "glottocode": "bara1369",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "Southwestern Malagasic",
+    "South West-Central Malagasic",
+    "Nuclear South West-Central Malagasic",
+    "Inland-Western Malagasic",
+    "Bara-Tanosy",
+    "Bara Malagasy"
+   ],
+   "ldnd": 0.649,
+   "dsame": 0.542,
+   "n": 8,
+   "p": 0.0066,
+   "z": 2.67
+  },
+  {
+   "doculect": "asjp:PAPORA_2",
+   "name": "PAPORA_2",
+   "source": "ASJP",
+   "glottocode": "papo1239",
+   "path": [
+    "Austronesian",
+    "Western Plains Austronesian",
+    "Central Western Plains",
+    "Papora-Hoanya"
+   ],
+   "ldnd": 0.651,
+   "dsame": 0.407,
+   "n": 9,
+   "p": 0.0033,
+   "z": 2.96
+  },
+  {
+   "doculect": "asjp:YOGLI",
+   "name": "YOGLI",
+   "source": "ASJP",
+   "glottocode": "tase1235",
+   "path": [
+    "Sino-Tibetan",
+    "Brahmaputran",
+    "Patkaian",
+    "North Patkaian",
+    "Tangsa",
+    "Pangwa Naga"
+   ],
+   "ldnd": 0.653,
+   "dsame": 0.51,
+   "n": 8,
+   "p": 0.0066,
+   "z": 2.83
+  },
+  {
+   "doculect": "asjp:MALAGASY_TANDROY_MAHAFALY_AMPANIHY",
+   "name": "MALAGASY_TANDROY_MAHAFALY_AMPANIHY",
+   "source": "ASJP",
+   "glottocode": "tand1256",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "Southwestern Malagasic",
+    "Tandroy Malagasy"
+   ],
+   "ldnd": 0.659,
+   "dsame": 0.556,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.21
+  },
+  {
+   "doculect": "asjp:MALAGASY_PLATEAU_SIHANAKA_AMBATONDRAZAKA",
+   "name": "MALAGASY_PLATEAU_SIHANAKA_AMBATONDRAZAKA",
+   "source": "ASJP",
+   "glottocode": "plat1254",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Plateau Malagasy"
+   ],
+   "ldnd": 0.664,
+   "dsame": 0.552,
+   "n": 8,
+   "p": 0.0033,
+   "z": 2.97
+  },
+  {
+   "doculect": "asjp:MALAGASY_TANDROY_1",
+   "name": "MALAGASY_TANDROY_1",
+   "source": "ASJP",
+   "glottocode": "tand1256",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "Southwestern Malagasic",
+    "Tandroy Malagasy"
+   ],
+   "ldnd": 0.67,
+   "dsame": 0.542,
+   "n": 8,
+   "p": 0.0133,
+   "z": 2.72
+  },
+  {
+   "doculect": "asjp:MALAGASY_BARA",
+   "name": "MALAGASY_BARA",
+   "source": "ASJP",
+   "glottocode": "bara1369",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "Southwestern Malagasic",
+    "South West-Central Malagasic",
+    "Nuclear South West-Central Malagasic",
+    "Inland-Western Malagasic",
+    "Bara-Tanosy",
+    "Bara Malagasy"
+   ],
+   "ldnd": 0.679,
+   "dsame": 0.562,
+   "n": 8,
+   "p": 0.0399,
+   "z": 2.13
+  },
+  {
+   "doculect": "asjp:MALAGASY_ANATANKARANA_AMBILOBE",
+   "name": "MALAGASY_ANATANKARANA_AMBILOBE",
+   "source": "ASJP",
+   "glottocode": "anta1255",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Northern Malagasic",
+    "Antankarana Malagasy"
+   ],
+   "ldnd": 0.68,
+   "dsame": 0.574,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.6
+  },
+  {
+   "doculect": "asjp:KHARIA",
+   "name": "KHARIA",
+   "source": "ASJP",
+   "glottocode": "khar1287",
+   "path": [
+    "Austroasiatic",
+    "Mundaic",
+    "Kharia"
+   ],
+   "ldnd": 0.687,
+   "dsame": 0.531,
+   "n": 8,
+   "p": 0.01,
+   "z": 2.95
+  },
+  {
+   "doculect": "asjp:KANASHI",
+   "name": "KANASHI",
+   "source": "ASJP",
+   "glottocode": "kana1283",
+   "path": [
+    "Sino-Tibetan",
+    "Bodic",
+    "West Himalayish",
+    "Western West Himalayish",
+    "Kinnauric",
+    "Kanashi"
+   ],
+   "ldnd": 0.688,
+   "dsame": 0.574,
+   "n": 9,
+   "p": 0.01,
+   "z": 2.85
+  },
+  {
+   "doculect": "asjp:HAKKA_LONGYAN_WUPING",
+   "name": "HAKKA_LONGYAN_WUPING",
+   "source": "ASJP",
+   "glottocode": "hakk1236",
+   "path": [
+    "Sino-Tibetan",
+    "Sinitic",
+    "Classical-Middle-Modern Sinitic",
+    "Middle-Modern Sinitic",
+    "Hakka Chinese"
+   ],
+   "ldnd": 0.703,
+   "dsame": 0.509,
+   "n": 9,
+   "p": 0.0033,
+   "z": 2.98
+  },
+  {
+   "doculect": "asjp:KUBU",
+   "name": "KUBU",
+   "source": "ASJP",
+   "glottocode": "kubu1239",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Malayo-Chamic",
+    "Malayic",
+    "Nuclear Malayic",
+    "Central Sumatran Malay",
+    "Kubu"
+   ],
+   "ldnd": 0.711,
+   "dsame": 0.6,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.57
+  },
+  {
+   "doculect": "asjp:KURIL_AINU",
+   "name": "KURIL_AINU",
+   "source": "ASJP",
+   "glottocode": "ainu1240",
+   "path": [
+    "Ainu",
+    "Hokkaido-Kuril Ainu",
+    "Hokkaido Ainu"
+   ],
+   "ldnd": 0.716,
+   "dsame": 0.6,
+   "n": 10,
+   "p": 0.01,
+   "z": 2.95
+  },
+  {
+   "doculect": "asjp:PROTO_OTO_MANGUEAN",
+   "name": "PROTO_OTO_MANGUEAN",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "PROTO_OTO_MANGUEAN"
+   ],
+   "ldnd": 0.718,
+   "dsame": 0.583,
+   "n": 9,
+   "p": 0.0066,
+   "z": 2.32
+  },
+  {
+   "doculect": "asjp:KINNAURI",
+   "name": "KINNAURI",
+   "source": "ASJP",
+   "glottocode": "kinn1249",
+   "path": [
+    "Sino-Tibetan",
+    "Bodic",
+    "West Himalayish",
+    "Western West Himalayish",
+    "Kinnauric",
+    "Kinnauri"
+   ],
+   "ldnd": 0.719,
+   "dsame": 0.575,
+   "n": 10,
+   "p": 0.0233,
+   "z": 2.47
+  },
+  {
+   "doculect": "asjp:YONGAN_CHINESE",
+   "name": "YONGAN_CHINESE",
+   "source": "ASJP",
+   "glottocode": "minz1235",
+   "path": [
+    "Sino-Tibetan",
+    "Sinitic",
+    "Min",
+    "Inland Min",
+    "Min Zhong Chinese"
+   ],
+   "ldnd": 0.72,
+   "dsame": 0.568,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.18
+  },
+  {
+   "doculect": "asjp:MANDARIN_NANNING_WUMING_1",
+   "name": "MANDARIN_NANNING_WUMING_1",
+   "source": "ASJP",
+   "glottocode": "mand1415",
+   "path": [
+    "Sino-Tibetan",
+    "Sinitic",
+    "Classical-Middle-Modern Sinitic",
+    "Middle-Modern Sinitic",
+    "Northern Chinese",
+    "Mandarinic",
+    "Mandarin Chinese"
+   ],
+   "ldnd": 0.726,
+   "dsame": 0.575,
+   "n": 10,
+   "p": 0.0133,
+   "z": 2.57
+  },
+  {
+   "doculect": "asjp:YUE_GUILIN_XINGAN",
+   "name": "YUE_GUILIN_XINGAN",
+   "source": "ASJP",
+   "glottocode": "yuec1235",
+   "path": [
+    "Sino-Tibetan",
+    "Sinitic",
+    "Classical-Middle-Modern Sinitic",
+    "Middle-Modern Sinitic",
+    "Yue-Pinghua",
+    "Yue Chinese"
+   ],
+   "ldnd": 0.729,
+   "dsame": 0.576,
+   "n": 11,
+   "p": 0.01,
+   "z": 2.98
+  },
+  {
+   "doculect": "asjp:KAANG",
+   "name": "KAANG",
+   "source": "ASJP",
+   "glottocode": "kaan1248",
+   "path": [
+    "Sino-Tibetan",
+    "Kuki-Chin-Naga",
+    "Kuki-Chin",
+    "Peripheral Kuki-Chin",
+    "South Peripheral Kuki-Chin",
+    "Choic",
+    "Daai-Nghmoye-Muun-Kaang",
+    "Kaang Chin"
+   ],
+   "ldnd": 0.73,
+   "dsame": 0.575,
+   "n": 10,
+   "p": 0.0199,
+   "z": 2.61
+  },
+  {
+   "doculect": "asjp:MALAGASY_SOUTHERN_BETSIMISARAKA_ZAFISIRO_FARAFANGANA",
+   "name": "MALAGASY_SOUTHERN_BETSIMISARAKA_ZAFISIRO_FARAFANGANA",
+   "source": "ASJP",
+   "glottocode": "sout2920",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Southern Betsimisaraka Malagasy"
+   ],
+   "ldnd": 0.734,
+   "dsame": 0.604,
+   "n": 8,
+   "p": 0.0332,
+   "z": 2.16
+  },
+  {
+   "doculect": "asjp:DAAI_2",
+   "name": "DAAI_2",
+   "source": "ASJP",
+   "glottocode": "daai1236",
+   "path": [
+    "Sino-Tibetan",
+    "Kuki-Chin-Naga",
+    "Kuki-Chin",
+    "Peripheral Kuki-Chin",
+    "South Peripheral Kuki-Chin",
+    "Choic",
+    "Daai-Nghmoye-Muun-Kaang",
+    "Daai Chin"
+   ],
+   "ldnd": 0.736,
+   "dsame": 0.608,
+   "n": 10,
+   "p": 0.01,
+   "z": 2.93
+  },
+  {
+   "doculect": "asjp:MALAGASY_ANTAISAKA",
+   "name": "MALAGASY_ANTAISAKA",
+   "source": "ASJP",
+   "glottocode": "tesa1236",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "Southwestern Malagasic",
+    "South West-Central Malagasic",
+    "Tesaka Malagasy"
+   ],
+   "ldnd": 0.739,
+   "dsame": 0.611,
+   "n": 9,
+   "p": 0.01,
+   "z": 2.44
+  },
+  {
+   "doculect": "asjp:MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAIMORO_MANAKARA",
+   "name": "MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAIMORO_MANAKARA",
+   "source": "ASJP",
+   "glottocode": "sout2920",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Southern Betsimisaraka Malagasy"
+   ],
+   "ldnd": 0.74,
+   "dsame": 0.604,
+   "n": 8,
+   "p": 0.0199,
+   "z": 2.33
+  }
+ ],
+ "hierarchy": [
+  [
+   "Austronesian",
+   0.66
+  ],
+  [
+   "Malayo-Polynesian",
+   0.63
+  ],
+  [
+   "Basap-Greater Barito",
+   0.59
+  ]
+ ],
+ "status": "resolved"
+}

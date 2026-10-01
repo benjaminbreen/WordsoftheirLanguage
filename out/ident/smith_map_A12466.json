@@ -1,0 +1,758 @@
+{
+ "n_entries": 75,
+ "n_mapped": 40,
+ "n_concepts": 40,
+ "affixes_removed": [],
+ "candidates": [
+  {
+   "doculect": "asjp:PASSAMAQUODDY_MALISEET_UnnamedInSource",
+   "name": "PASSAMAQUODDY_MALISEET_UnnamedInSource",
+   "source": "ASJP",
+   "glottocode": "male1292",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Northern Eastern Algonquian",
+    "Micmacic",
+    "Malecite-Passamaquoddy"
+   ],
+   "ldnd": 0.722,
+   "dsame": 0.535,
+   "n": 8,
+   "p": 0.01,
+   "z": 3.35
+  },
+  {
+   "doculect": "asjp:MENOMINEE",
+   "name": "MENOMINEE",
+   "source": "ASJP",
+   "glottocode": "meno1252",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Menominee"
+   ],
+   "ldnd": 0.73,
+   "dsame": 0.531,
+   "n": 8,
+   "p": 0.0066,
+   "z": 2.49
+  },
+  {
+   "doculect": "asjp:FOX",
+   "name": "FOX",
+   "source": "ASJP",
+   "glottocode": "mesk1242",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Fox",
+    "Meskwaki"
+   ],
+   "ldnd": 0.731,
+   "dsame": 0.564,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.15
+  },
+  {
+   "doculect": "asjp:SIBE_MANCHU",
+   "name": "SIBE_MANCHU",
+   "source": "ASJP",
+   "glottocode": "xibe1242",
+   "path": [
+    "Tungusic",
+    "Manchu-Jurchen",
+    "Manchu-Xibe",
+    "Xibe"
+   ],
+   "ldnd": 0.754,
+   "dsame": 0.65,
+   "n": 8,
+   "p": 0.0066,
+   "z": 2.69
+  },
+  {
+   "doculect": "asjp:NANTICOKE",
+   "name": "NANTICOKE",
+   "source": "ASJP",
+   "glottocode": "nant1249",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Nanticoke-Conoy",
+    "Nanticoke"
+   ],
+   "ldnd": 0.766,
+   "dsame": 0.61,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.28
+  },
+  {
+   "doculect": "asjp:KADUO",
+   "name": "KADUO",
+   "source": "ASJP",
+   "glottocode": "kadu1253",
+   "path": [
+    "Sino-Tibetan",
+    "Burmo-Qiangic",
+    "Lolo-Burmese",
+    "Loloish",
+    "Hani-Jino",
+    "Bisoid-Hanic",
+    "Hanic",
+    "Bi-Ka",
+    "Kaduo"
+   ],
+   "ldnd": 0.767,
+   "dsame": 0.652,
+   "n": 8,
+   "p": 0.0033,
+   "z": 2.75
+  },
+  {
+   "doculect": "asjp:TADAKSAHAK",
+   "name": "TADAKSAHAK",
+   "source": "ASJP",
+   "glottocode": "tada1238",
+   "path": [
+    "Songhay",
+    "Northwest Songhay",
+    "Northern Songhay",
+    "Tadaksahak"
+   ],
+   "ldnd": 0.768,
+   "dsame": 0.638,
+   "n": 8,
+   "p": 0.0133,
+   "z": 2.74
+  },
+  {
+   "doculect": "asjp:KASKASKIA_ILLINOIS",
+   "name": "KASKASKIA_ILLINOIS",
+   "source": "ASJP",
+   "glottocode": "miam1252",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Miami"
+   ],
+   "ldnd": 0.772,
+   "dsame": 0.57,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.07
+  },
+  {
+   "doculect": "asjp:SARUGA",
+   "name": "SARUGA",
+   "source": "ASJP",
+   "glottocode": "saru1243",
+   "path": [
+    "Nuclear Trans New Guinea",
+    "Madang",
+    "Croisilles",
+    "Mabuso",
+    "Hanseman",
+    "Silopic",
+    "Saruga"
+   ],
+   "ldnd": 0.781,
+   "dsame": 0.646,
+   "n": 9,
+   "p": 0.0299,
+   "z": 2.24
+  },
+  {
+   "doculect": "asjp:KAMAKAN",
+   "name": "KAMAKAN",
+   "source": "ASJP",
+   "glottocode": "kama1372",
+   "path": [
+    "Kamakanan",
+    "Nuclear Kamakanan",
+    "Kamakan"
+   ],
+   "ldnd": 0.782,
+   "dsame": 0.665,
+   "n": 8,
+   "p": 0.0166,
+   "z": 2.52
+  },
+  {
+   "doculect": "asjp:MURUPI",
+   "name": "MURUPI",
+   "source": "ASJP",
+   "glottocode": "muru1273",
+   "path": [
+    "Nuclear Trans New Guinea",
+    "Madang",
+    "Croisilles",
+    "Mabuso",
+    "Hanseman",
+    "Wamas-Samosa-Murupi-Mosimo",
+    "Murupi"
+   ],
+   "ldnd": 0.783,
+   "dsame": 0.696,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.09
+  },
+  {
+   "doculect": "asjp:KAFOA",
+   "name": "KAFOA",
+   "source": "ASJP",
+   "glottocode": "kafo1240",
+   "path": [
+    "Timor-Alor-Pantar",
+    "Alor-Pantar",
+    "Nuclear Alor-Pantar",
+    "Kafoa"
+   ],
+   "ldnd": 0.784,
+   "dsame": 0.69,
+   "n": 10,
+   "p": 0.01,
+   "z": 3.21
+  },
+  {
+   "doculect": "asjp:XIBE",
+   "name": "XIBE",
+   "source": "ASJP",
+   "glottocode": "xibe1242",
+   "path": [
+    "Tungusic",
+    "Manchu-Jurchen",
+    "Manchu-Xibe",
+    "Xibe"
+   ],
+   "ldnd": 0.79,
+   "dsame": 0.633,
+   "n": 11,
+   "p": 0.0066,
+   "z": 2.83
+  },
+  {
+   "doculect": "asjp:SOUTHERN_EAST_CREE",
+   "name": "SOUTHERN_EAST_CREE",
+   "source": "ASJP",
+   "glottocode": "sout2978",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Southern East Cree"
+   ],
+   "ldnd": 0.794,
+   "dsame": 0.627,
+   "n": 10,
+   "p": 0.01,
+   "z": 2.35
+  },
+  {
+   "doculect": "asjp:AIRORAN",
+   "name": "AIRORAN",
+   "source": "ASJP",
+   "glottocode": "airo1242",
+   "path": [
+    "Greater Kwerba",
+    "Kwerba-Samarokena",
+    "Samarokena-Airoran",
+    "Airoran"
+   ],
+   "ldnd": 0.797,
+   "dsame": 0.687,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.27
+  },
+  {
+   "doculect": "asjp:MAHICAN",
+   "name": "MAHICAN",
+   "source": "ASJP",
+   "glottocode": "mahi1248",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Delawaran",
+    "Mahican-Woronoco-Pojassick",
+    "Mahican"
+   ],
+   "ldnd": 0.798,
+   "dsame": 0.621,
+   "n": 8,
+   "p": 0.0199,
+   "z": 2.15
+  },
+  {
+   "doculect": "asjp:KUI_INDONESIA",
+   "name": "KUI_INDONESIA",
+   "source": "ASJP",
+   "glottocode": "kuii1253",
+   "path": [
+    "Timor-Alor-Pantar",
+    "Alor-Pantar",
+    "Nuclear Alor-Pantar",
+    "Central Alor",
+    "Kui (Indonesia)"
+   ],
+   "ldnd": 0.798,
+   "dsame": 0.69,
+   "n": 10,
+   "p": 0.0066,
+   "z": 3.25
+  },
+  {
+   "doculect": "asjp:TUTSA",
+   "name": "TUTSA",
+   "source": "ASJP",
+   "glottocode": "tuts1235",
+   "path": [
+    "Sino-Tibetan",
+    "Brahmaputran",
+    "Patkaian",
+    "North Patkaian",
+    "Noctean",
+    "Tutsic",
+    "Tutsa Naga"
+   ],
+   "ldnd": 0.8,
+   "dsame": 0.68,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.32
+  },
+  {
+   "doculect": "asjp:POTAWATOMI",
+   "name": "POTAWATOMI",
+   "source": "ASJP",
+   "glottocode": "pota1247",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Potawatomi"
+   ],
+   "ldnd": 0.802,
+   "dsame": 0.605,
+   "n": 10,
+   "p": 0.0332,
+   "z": 1.99
+  },
+  {
+   "doculect": "asjp:NORTHERN_EAST_CREE",
+   "name": "NORTHERN_EAST_CREE",
+   "source": "ASJP",
+   "glottocode": "nort1552",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Northern East Cree"
+   ],
+   "ldnd": 0.803,
+   "dsame": 0.652,
+   "n": 10,
+   "p": 0.0066,
+   "z": 2.4
+  },
+  {
+   "doculect": "asjp:YUE_JIANGMEN_HUICHENG",
+   "name": "YUE_JIANGMEN_HUICHENG",
+   "source": "ASJP",
+   "glottocode": "yuec1235",
+   "path": [
+    "Sino-Tibetan",
+    "Sinitic",
+    "Classical-Middle-Modern Sinitic",
+    "Middle-Modern Sinitic",
+    "Yue-Pinghua",
+    "Yue Chinese"
+   ],
+   "ldnd": 0.803,
+   "dsame": 0.618,
+   "n": 11,
+   "p": 0.0033,
+   "z": 2.43
+  },
+  {
+   "doculect": "asjp:YUE_ZHANJIANG_CHIKAN",
+   "name": "YUE_ZHANJIANG_CHIKAN",
+   "source": "ASJP",
+   "glottocode": "yuec1235",
+   "path": [
+    "Sino-Tibetan",
+    "Sinitic",
+    "Classical-Middle-Modern Sinitic",
+    "Middle-Modern Sinitic",
+    "Yue-Pinghua",
+    "Yue Chinese"
+   ],
+   "ldnd": 0.803,
+   "dsame": 0.645,
+   "n": 11,
+   "p": 0.0133,
+   "z": 2.73
+  },
+  {
+   "doculect": "asjp:TIFOL_AFENG_ABUI",
+   "name": "TIFOL_AFENG_ABUI",
+   "source": "ASJP",
+   "glottocode": "abui1241",
+   "path": [
+    "Timor-Alor-Pantar",
+    "Alor-Pantar",
+    "Nuclear Alor-Pantar",
+    "Central Alor",
+    "Abuic",
+    "Abui"
+   ],
+   "ldnd": 0.806,
+   "dsame": 0.718,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.6
+  },
+  {
+   "doculect": "asjp:SANGLECHI",
+   "name": "SANGLECHI",
+   "source": "ASJP",
+   "glottocode": "sang1344",
+   "path": [
+    "Indo-European",
+    "Classical Indo-European",
+    "Indo-Iranian",
+    "Iranian-Nuristani",
+    "Iranian",
+    "Sanglechi-Ishkashimi",
+    "Sanglechi"
+   ],
+   "ldnd": 0.806,
+   "dsame": 0.652,
+   "n": 14,
+   "p": 0.0033,
+   "z": 3.54
+  },
+  {
+   "doculect": "asjp:YUE_ZHUHAI_DOUMEN_2",
+   "name": "YUE_ZHUHAI_DOUMEN_2",
+   "source": "ASJP",
+   "glottocode": "yuec1235",
+   "path": [
+    "Sino-Tibetan",
+    "Sinitic",
+    "Classical-Middle-Modern Sinitic",
+    "Middle-Modern Sinitic",
+    "Yue-Pinghua",
+    "Yue Chinese"
+   ],
+   "ldnd": 0.81,
+   "dsame": 0.645,
+   "n": 11,
+   "p": 0.0166,
+   "z": 2.54
+  },
+  {
+   "doculect": "asjp:TEIWA",
+   "name": "TEIWA",
+   "source": "ASJP",
+   "glottocode": "teiw1235",
+   "path": [
+    "Timor-Alor-Pantar",
+    "Alor-Pantar",
+    "Nuclear Alor-Pantar",
+    "West Alor-Straits-Pantar",
+    "Pantar",
+    "Teiwa-Sar",
+    "Teiwa"
+   ],
+   "ldnd": 0.81,
+   "dsame": 0.67,
+   "n": 10,
+   "p": 0.0066,
+   "z": 2.9
+  },
+  {
+   "doculect": "asjp:JICARILLA_APACHE",
+   "name": "JICARILLA_APACHE",
+   "source": "ASJP",
+   "glottocode": "jica1244",
+   "path": [
+    "Athabaskan-Eyak-Tlingit",
+    "Athabaskan-Eyak",
+    "Athabaskan",
+    "Apachean",
+    "Southwestern Apachean",
+    "Eastern Southwestern Apachean",
+    "Jicarilla Apache"
+   ],
+   "ldnd": 0.811,
+   "dsame": 0.679,
+   "n": 8,
+   "p": 0.0233,
+   "z": 2.1
+  },
+  {
+   "doculect": "asjp:SAR_INDONESIA",
+   "name": "SAR_INDONESIA",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "SAR_INDONESIA"
+   ],
+   "ldnd": 0.813,
+   "dsame": 0.69,
+   "n": 10,
+   "p": 0.0033,
+   "z": 2.91
+  },
+  {
+   "doculect": "asjp:WALAPAI",
+   "name": "WALAPAI",
+   "source": "ASJP",
+   "glottocode": "hava1248",
+   "path": [
+    "Cochimi-Yuman",
+    "Yuman",
+    "General Yuman",
+    "Pai",
+    "Havasupai-Walapai-Yavapai"
+   ],
+   "ldnd": 0.813,
+   "dsame": 0.72,
+   "n": 9,
+   "p": 0.0033,
+   "z": 2.99
+  },
+  {
+   "doculect": "asjp:YAO_3",
+   "name": "YAO_3",
+   "source": "ASJP",
+   "glottocode": "yaoo1241",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Bantoid",
+    "Southern Bantoid",
+    "Narrow Bantu",
+    "East Bantu",
+    "Rufiji-Ruvuma",
+    "Ruvuma",
+    "Yaoic",
+    "Yao"
+   ],
+   "ldnd": 0.814,
+   "dsame": 0.676,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.75
+  },
+  {
+   "doculect": "asjp:ABUI_MAKADAI",
+   "name": "ABUI_MAKADAI",
+   "source": "ASJP",
+   "glottocode": "abui1241",
+   "path": [
+    "Timor-Alor-Pantar",
+    "Alor-Pantar",
+    "Nuclear Alor-Pantar",
+    "Central Alor",
+    "Abuic",
+    "Abui"
+   ],
+   "ldnd": 0.817,
+   "dsame": 0.718,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.35
+  },
+  {
+   "doculect": "asjp:AWJILAH",
+   "name": "AWJILAH",
+   "source": "ASJP",
+   "glottocode": "awji1241",
+   "path": [
+    "Afro-Asiatic",
+    "Berber",
+    "Awjilah"
+   ],
+   "ldnd": 0.818,
+   "dsame": 0.704,
+   "n": 8,
+   "p": 0.01,
+   "z": 2.51
+  },
+  {
+   "doculect": "asjp:RABHA",
+   "name": "RABHA",
+   "source": "ASJP",
+   "glottocode": "rabh1238",
+   "path": [
+    "Sino-Tibetan",
+    "Brahmaputran",
+    "Bodo-Garo",
+    "Kochic",
+    "Rabha"
+   ],
+   "ldnd": 0.819,
+   "dsame": 0.726,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.4
+  },
+  {
+   "doculect": "asjp:QILIQIAO_BAI",
+   "name": "QILIQIAO_BAI",
+   "source": "ASJP",
+   "glottocode": "sout2730",
+   "path": [
+    "Sino-Tibetan",
+    "Macro-Bai",
+    "Baic",
+    "South-Central Bai",
+    "Southern Bai"
+   ],
+   "ldnd": 0.82,
+   "dsame": 0.689,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.16
+  },
+  {
+   "doculect": "asjp:YUE_JIANGMEN_NIUJIANG",
+   "name": "YUE_JIANGMEN_NIUJIANG",
+   "source": "ASJP",
+   "glottocode": "yuec1235",
+   "path": [
+    "Sino-Tibetan",
+    "Sinitic",
+    "Classical-Middle-Modern Sinitic",
+    "Middle-Modern Sinitic",
+    "Yue-Pinghua",
+    "Yue Chinese"
+   ],
+   "ldnd": 0.824,
+   "dsame": 0.654,
+   "n": 11,
+   "p": 0.0133,
+   "z": 2.45
+  },
+  {
+   "doculect": "asjp:ABNAKI_EASTERN",
+   "name": "ABNAKI_EASTERN",
+   "source": "ASJP",
+   "glottocode": "east2544",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Northern Eastern Algonquian",
+    "Abenaki",
+    "Eastern Abenaki"
+   ],
+   "ldnd": 0.826,
+   "dsame": 0.612,
+   "n": 10,
+   "p": 0.0332,
+   "z": 1.92
+  },
+  {
+   "doculect": "asjp:HOPER_NAGAR_BURUSHASKI",
+   "name": "HOPER_NAGAR_BURUSHASKI",
+   "source": "ASJP",
+   "glottocode": "buru1296",
+   "path": [
+    "Burushaski"
+   ],
+   "ldnd": 0.827,
+   "dsame": 0.723,
+   "n": 11,
+   "p": 0.0066,
+   "z": 3.26
+  },
+  {
+   "doculect": "asjp:HEDIAN_BAI",
+   "name": "HEDIAN_BAI",
+   "source": "ASJP",
+   "glottocode": "sout2730",
+   "path": [
+    "Sino-Tibetan",
+    "Macro-Bai",
+    "Baic",
+    "South-Central Bai",
+    "Southern Bai"
+   ],
+   "ldnd": 0.827,
+   "dsame": 0.689,
+   "n": 9,
+   "p": 0.0033,
+   "z": 2.92
+  },
+  {
+   "doculect": "asjp:SHI_BAI",
+   "name": "SHI_BAI",
+   "source": "ASJP",
+   "glottocode": "cent2004",
+   "path": [
+    "Sino-Tibetan",
+    "Macro-Bai",
+    "Baic",
+    "South-Central Bai",
+    "Central Bai"
+   ],
+   "ldnd": 0.827,
+   "dsame": 0.689,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.12
+  },
+  {
+   "doculect": "asjp:LONGMEN_BAI",
+   "name": "LONGMEN_BAI",
+   "source": "ASJP",
+   "glottocode": "cent2004",
+   "path": [
+    "Sino-Tibetan",
+    "Macro-Bai",
+    "Baic",
+    "South-Central Bai",
+    "Central Bai"
+   ],
+   "ldnd": 0.828,
+   "dsame": 0.717,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.29
+  }
+ ],
+ "hierarchy": [
+  [
+   "Sino-Tibetan",
+   0.27
+  ]
+ ],
+ "status": "resolved"
+}

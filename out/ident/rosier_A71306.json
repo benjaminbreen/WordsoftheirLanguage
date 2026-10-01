@@ -1,0 +1,823 @@
+{
+ "n_entries": 86,
+ "n_mapped": 53,
+ "n_concepts": 52,
+ "affixes_removed": [],
+ "candidates": [
+  {
+   "doculect": "asjp:ABNAKI_WESTERN",
+   "name": "ABNAKI_WESTERN",
+   "source": "ASJP",
+   "glottocode": "west2630",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Northern Eastern Algonquian",
+    "Abenaki",
+    "Western Abenaki"
+   ],
+   "ldnd": 0.614,
+   "dsame": 0.38,
+   "n": 12,
+   "p": 0.0033,
+   "z": 5.67
+  },
+  {
+   "doculect": "asjp:PASSAMAQUODDY_MALISEET_UnnamedInSource",
+   "name": "PASSAMAQUODDY_MALISEET_UnnamedInSource",
+   "source": "ASJP",
+   "glottocode": "male1292",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Northern Eastern Algonquian",
+    "Micmacic",
+    "Malecite-Passamaquoddy"
+   ],
+   "ldnd": 0.581,
+   "dsame": 0.362,
+   "n": 11,
+   "p": 0.0033,
+   "z": 5.56
+  },
+  {
+   "doculect": "asjp:ABNAKI_EASTERN",
+   "name": "ABNAKI_EASTERN",
+   "source": "ASJP",
+   "glottocode": "east2544",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Northern Eastern Algonquian",
+    "Abenaki",
+    "Eastern Abenaki"
+   ],
+   "ldnd": 0.649,
+   "dsame": 0.416,
+   "n": 12,
+   "p": 0.0033,
+   "z": 5.39
+  },
+  {
+   "doculect": "asjp:KICKAPOO",
+   "name": "KICKAPOO",
+   "source": "ASJP",
+   "glottocode": "kick1244",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Fox",
+    "Kickapoo"
+   ],
+   "ldnd": 0.728,
+   "dsame": 0.448,
+   "n": 12,
+   "p": 0.0033,
+   "z": 5.07
+  },
+  {
+   "doculect": "asjp:OJIBWA_EASTERN",
+   "name": "OJIBWA_EASTERN",
+   "source": "ASJP",
+   "glottocode": "east2542",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Ojibwa",
+    "Nuclear Ojibwe",
+    "Central-Eastern-Southwestern Ojibwa",
+    "Eastern Ojibwa"
+   ],
+   "ldnd": 0.756,
+   "dsame": 0.532,
+   "n": 11,
+   "p": 0.0033,
+   "z": 4.46
+  },
+  {
+   "doculect": "asjp:POTAWATOMI",
+   "name": "POTAWATOMI",
+   "source": "ASJP",
+   "glottocode": "pota1247",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Potawatomi"
+   ],
+   "ldnd": 0.778,
+   "dsame": 0.525,
+   "n": 12,
+   "p": 0.0033,
+   "z": 4.32
+  },
+  {
+   "doculect": "asjp:NISHNAABEMWIN",
+   "name": "NISHNAABEMWIN",
+   "source": "ASJP",
+   "glottocode": "nort2961",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Ojibwa",
+    "Nuclear Ojibwe",
+    "Northwestern-Saulteaux Ojibwa",
+    "Northwestern Ojibwa"
+   ],
+   "ldnd": 0.758,
+   "dsame": 0.511,
+   "n": 12,
+   "p": 0.0033,
+   "z": 4.3
+  },
+  {
+   "doculect": "asjp:ALGONQUIN",
+   "name": "ALGONQUIN",
+   "source": "ASJP",
+   "glottocode": "algo1255",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Ojibwa",
+    "Severn-Algonquin",
+    "Algonquin"
+   ],
+   "ldnd": 0.762,
+   "dsame": 0.49,
+   "n": 12,
+   "p": 0.0033,
+   "z": 4.22
+  },
+  {
+   "doculect": "asjp:KARAKALPAK",
+   "name": "KARAKALPAK",
+   "source": "ASJP",
+   "glottocode": "kara1467",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Kipchak-Turkestan",
+    "Kipchak",
+    "Southeast Kipchak",
+    "South Kipchak",
+    "Kara-Kalpak"
+   ],
+   "ldnd": 0.845,
+   "dsame": 0.598,
+   "n": 12,
+   "p": 0.0033,
+   "z": 4.0
+  },
+  {
+   "doculect": "asjp:SHAWNEE",
+   "name": "SHAWNEE",
+   "source": "ASJP",
+   "glottocode": "shaw1249",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Shawnee"
+   ],
+   "ldnd": 0.733,
+   "dsame": 0.43,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.95
+  },
+  {
+   "doculect": "asjp:LENCA_HONDURAS",
+   "name": "LENCA_HONDURAS",
+   "source": "ASJP",
+   "glottocode": "lenc1242",
+   "path": [
+    "Lencan",
+    "Lenca-Honduras"
+   ],
+   "ldnd": 0.817,
+   "dsame": 0.513,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.95
+  },
+  {
+   "doculect": "asjp:SHOR",
+   "name": "SHOR",
+   "source": "ASJP",
+   "glottocode": "shor1247",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "South Siberian Turkic",
+    "Sayan-Yenisei Turkic",
+    "Yenisey Turkic",
+    "Mrassu Shor-Tutal"
+   ],
+   "ldnd": 0.827,
+   "dsame": 0.579,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.9
+  },
+  {
+   "doculect": "asjp:MISHER_TATAR",
+   "name": "MISHER_TATAR",
+   "source": "ASJP",
+   "glottocode": "tata1255",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Kipchak-Turkestan",
+    "Kipchak",
+    "Northwest Kipchak",
+    "North Kipchak",
+    "Bashkiric",
+    "Tatar"
+   ],
+   "ldnd": 0.839,
+   "dsame": 0.602,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.89
+  },
+  {
+   "doculect": "asjp:TANGGU",
+   "name": "TANGGU",
+   "source": "ASJP",
+   "glottocode": "tang1355",
+   "path": [
+    "Ramu",
+    "Goam",
+    "Ataitan",
+    "Tangu-Igom",
+    "Tanggu"
+   ],
+   "ldnd": 0.827,
+   "dsame": 0.583,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.81
+  },
+  {
+   "doculect": "asjp:PLAINS_CREE",
+   "name": "PLAINS_CREE",
+   "source": "ASJP",
+   "glottocode": "plai1258",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Plains Creeic",
+    "Plains Cree"
+   ],
+   "ldnd": 0.807,
+   "dsame": 0.542,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.79
+  },
+  {
+   "doculect": "asjp:MIAN_GUANGDONG_LIANNAN_DAPING",
+   "name": "MIAN_GUANGDONG_LIANNAN_DAPING",
+   "source": "ASJP",
+   "glottocode": "dzao1238",
+   "path": [
+    "Hmong-Mien",
+    "Mienic",
+    "Zaominic",
+    "Dzao Min"
+   ],
+   "ldnd": 0.847,
+   "dsame": 0.566,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.74
+  },
+  {
+   "doculect": "asjp:UYGHUR",
+   "name": "UYGHUR",
+   "source": "ASJP",
+   "glottocode": "uigh1240",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Kipchak-Turkestan",
+    "Turkestan",
+    "Modern Turkestan",
+    "Uyghuric",
+    "Uighur"
+   ],
+   "ldnd": 0.825,
+   "dsame": 0.578,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.72
+  },
+  {
+   "doculect": "asjp:OJIBWA_SEVERN",
+   "name": "OJIBWA_SEVERN",
+   "source": "ASJP",
+   "glottocode": "seve1240",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Ojibwa",
+    "Severn-Algonquin",
+    "Severn Ojibwa"
+   ],
+   "ldnd": 0.757,
+   "dsame": 0.481,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.63
+  },
+  {
+   "doculect": "asjp:MOHEGAN",
+   "name": "MOHEGAN",
+   "source": "ASJP",
+   "glottocode": "pequ1242",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Southern New England Algonquian",
+    "Western Southern New England Algonquian",
+    "Mohegan-Montauk-Narragansett",
+    "Pequot-Mohegan"
+   ],
+   "ldnd": 0.79,
+   "dsame": 0.53,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.63
+  },
+  {
+   "doculect": "asjp:SHIRWAN_KHORASANI",
+   "name": "SHIRWAN_KHORASANI",
+   "source": "ASJP",
+   "glottocode": "khor1269",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Oghuz",
+    "Nuclear Oghuz",
+    "East Oghuz",
+    "Khorasan Turkic"
+   ],
+   "ldnd": 0.843,
+   "dsame": 0.612,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.61
+  },
+  {
+   "doculect": "asjp:CHAGATAI",
+   "name": "CHAGATAI",
+   "source": "ASJP",
+   "glottocode": "chag1247",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Kipchak-Turkestan",
+    "Turkestan",
+    "Chagatai"
+   ],
+   "ldnd": 0.826,
+   "dsame": 0.603,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.58
+  },
+  {
+   "doculect": "asjp:DARA_GAZ_KHORASANI_1",
+   "name": "DARA_GAZ_KHORASANI_1",
+   "source": "ASJP",
+   "glottocode": "khor1269",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Oghuz",
+    "Nuclear Oghuz",
+    "East Oghuz",
+    "Khorasan Turkic"
+   ],
+   "ldnd": 0.838,
+   "dsame": 0.597,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.58
+  },
+  {
+   "doculect": "asjp:TATAR",
+   "name": "TATAR",
+   "source": "ASJP",
+   "glottocode": "tata1255",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Kipchak-Turkestan",
+    "Kipchak",
+    "Northwest Kipchak",
+    "North Kipchak",
+    "Bashkiric",
+    "Tatar"
+   ],
+   "ldnd": 0.819,
+   "dsame": 0.581,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.57
+  },
+  {
+   "doculect": "asjp:MENOMINEE",
+   "name": "MENOMINEE",
+   "source": "ASJP",
+   "glottocode": "meno1252",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Menominee"
+   ],
+   "ldnd": 0.776,
+   "dsame": 0.484,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.47
+  },
+  {
+   "doculect": "asjp:KUMYK",
+   "name": "KUMYK",
+   "source": "ASJP",
+   "glottocode": "kumy1244",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Kipchak-Turkestan",
+    "Kipchak",
+    "Northwest Kipchak",
+    "West Kipchak",
+    "Kaukasus Kipchak",
+    "Kumyk"
+   ],
+   "ldnd": 0.834,
+   "dsame": 0.571,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.46
+  },
+  {
+   "doculect": "asjp:FOX",
+   "name": "FOX",
+   "source": "ASJP",
+   "glottocode": "mesk1242",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Fox",
+    "Meskwaki"
+   ],
+   "ldnd": 0.834,
+   "dsame": 0.507,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.42
+  },
+  {
+   "doculect": "asjp:TUVAN",
+   "name": "TUVAN",
+   "source": "ASJP",
+   "glottocode": "tuvi1240",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "South Siberian Turkic",
+    "Sayan-Yenisei Turkic",
+    "Sayan",
+    "Tuvinian"
+   ],
+   "ldnd": 0.856,
+   "dsame": 0.607,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.27
+  },
+  {
+   "doculect": "asjp:CRIMEAN_TURKISH",
+   "name": "CRIMEAN_TURKISH",
+   "source": "ASJP",
+   "glottocode": "crim1257",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Kipchak-Turkestan",
+    "Kipchak",
+    "Northwest Kipchak",
+    "West Kipchak",
+    "Crimean Tatar-Urum",
+    "Crimeaic",
+    "Crimean Tatar"
+   ],
+   "ldnd": 0.841,
+   "dsame": 0.568,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.17
+  },
+  {
+   "doculect": "asjp:KAKO_2",
+   "name": "KAKO_2",
+   "source": "ASJP",
+   "glottocode": "kako1242",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Bantoid",
+    "Southern Bantoid",
+    "Narrow Bantu",
+    "Bantu A-B10-B20-B30",
+    "Makaa-Kako (A.80-90)",
+    "Kako"
+   ],
+   "ldnd": 0.837,
+   "dsame": 0.56,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.08
+  },
+  {
+   "doculect": "asjp:MOOSE_CREE",
+   "name": "MOOSE_CREE",
+   "source": "ASJP",
+   "glottocode": "moos1236",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Moose Cree"
+   ],
+   "ldnd": 0.83,
+   "dsame": 0.51,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.06
+  },
+  {
+   "doculect": "asjp:MENA",
+   "name": "MENA",
+   "source": "ASJP",
+   "glottocode": "ikob1240",
+   "path": [
+    "Turama-Kikori",
+    "Turama-Omatian",
+    "Ikobi"
+   ],
+   "ldnd": 0.854,
+   "dsame": 0.537,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.06
+  },
+  {
+   "doculect": "asjp:KATUKINA_PANO",
+   "name": "KATUKINA_PANO",
+   "source": "ASJP",
+   "glottocode": "pano1254",
+   "path": [
+    "Pano-Tacanan",
+    "Panoan",
+    "Mainline Pano",
+    "Pano Nawa",
+    "Marubo Subgroup",
+    "Panoan Katukína"
+   ],
+   "ldnd": 0.854,
+   "dsame": 0.54,
+   "n": 12,
+   "p": 0.0033,
+   "z": 2.95
+  },
+  {
+   "doculect": "asjp:NANTICOKE",
+   "name": "NANTICOKE",
+   "source": "ASJP",
+   "glottocode": "nant1249",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Nanticoke-Conoy",
+    "Nanticoke"
+   ],
+   "ldnd": 0.812,
+   "dsame": 0.472,
+   "n": 11,
+   "p": 0.0133,
+   "z": 2.77
+  },
+  {
+   "doculect": "asjp:TURKMEN_2",
+   "name": "TURKMEN_2",
+   "source": "ASJP",
+   "glottocode": "turk1304",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Oghuz",
+    "Nuclear Oghuz",
+    "East Oghuz",
+    "Turkmen"
+   ],
+   "ldnd": 0.853,
+   "dsame": 0.551,
+   "n": 9,
+   "p": 0.0066,
+   "z": 2.73
+  },
+  {
+   "doculect": "asjp:PROTO_MUSKOGEAN",
+   "name": "PROTO_MUSKOGEAN",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "PROTO_MUSKOGEAN"
+   ],
+   "ldnd": 0.84,
+   "dsame": 0.532,
+   "n": 8,
+   "p": 0.0066,
+   "z": 2.64
+  },
+  {
+   "doculect": "asjp:ALTAI",
+   "name": "ALTAI",
+   "source": "ASJP",
+   "glottocode": "sout2694",
+   "path": [
+    "Turkic",
+    "Common Turkic",
+    "Kipchak-Turkestan",
+    "Kipchak",
+    "Southeast Kipchak",
+    "East Kipchak",
+    "Southern Altai"
+   ],
+   "ldnd": 0.847,
+   "dsame": 0.594,
+   "n": 8,
+   "p": 0.01,
+   "z": 2.56
+  },
+  {
+   "doculect": "asjp:NIPMUCK",
+   "name": "NIPMUCK",
+   "source": "ASJP",
+   "glottocode": "loup1243",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Southern New England Algonquian",
+    "Nipmuck"
+   ],
+   "ldnd": 0.831,
+   "dsame": 0.548,
+   "n": 8,
+   "p": 0.0199,
+   "z": 2.54
+  },
+  {
+   "doculect": "asjp:ISCONAHUA",
+   "name": "ISCONAHUA",
+   "source": "ASJP",
+   "glottocode": "isco1239",
+   "path": [
+    "Pano-Tacanan",
+    "Panoan",
+    "Mainline Pano",
+    "Pano Nawa",
+    "Poyanawa Subgroup",
+    "Isconahua"
+   ],
+   "ldnd": 0.839,
+   "dsame": 0.49,
+   "n": 9,
+   "p": 0.01,
+   "z": 2.38
+  },
+  {
+   "doculect": "asjp:MAHICAN",
+   "name": "MAHICAN",
+   "source": "ASJP",
+   "glottocode": "mahi1248",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Delawaran",
+    "Mahican-Woronoco-Pojassick",
+    "Mahican"
+   ],
+   "ldnd": 0.842,
+   "dsame": 0.539,
+   "n": 8,
+   "p": 0.0233,
+   "z": 2.3
+  },
+  {
+   "doculect": "asjp:KONIBO",
+   "name": "KONIBO",
+   "source": "ASJP",
+   "glottocode": "ship1254",
+   "path": [
+    "Pano-Tacanan",
+    "Panoan",
+    "Mainline Pano",
+    "Pano Nawa",
+    "Chama subgroup",
+    "Shipibo-Konibo-Kapanawa",
+    "Shipibo-Conibo"
+   ],
+   "ldnd": 0.847,
+   "dsame": 0.508,
+   "n": 9,
+   "p": 0.0199,
+   "z": 2.18
+  }
+ ],
+ "hierarchy": [
+  [
+   "Algic",
+   1.0
+  ],
+  [
+   "Algonquian-Blackfoot",
+   1.0
+  ],
+  [
+   "Algonquian",
+   1.0
+  ],
+  [
+   "Eastern Algonquian",
+   0.82
+  ],
+  [
+   "Maritimes-Southern New England Algonquian",
+   0.82
+  ],
+  [
+   "Northern Eastern Algonquian",
+   0.82
+  ],
+  [
+   "Abenaki",
+   0.54
+  ]
+ ],
+ "status": "resolved",
+ "leading": {
+  "name": "ABNAKI_WESTERN",
+  "family": "Algic",
+  "z": 5.67
+ }
+}

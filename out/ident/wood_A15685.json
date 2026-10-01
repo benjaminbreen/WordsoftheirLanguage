@@ -1,0 +1,818 @@
+{
+ "n_entries": 332,
+ "n_mapped": 134,
+ "n_concepts": 114,
+ "affixes_removed": [
+  [
+   "suffix",
+   "KV"
+  ]
+ ],
+ "candidates": [
+  {
+   "doculect": "asjp:WAMPANOAG_NATICK",
+   "name": "WAMPANOAG_NATICK",
+   "source": "ASJP",
+   "glottocode": "wamp1249",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Southern New England Algonquian",
+    "Wampanoag"
+   ],
+   "ldnd": 0.526,
+   "dsame": 0.318,
+   "n": 18,
+   "p": 0.0033,
+   "z": 7.35
+  },
+  {
+   "doculect": "asjp:ABNAKI_EASTERN",
+   "name": "ABNAKI_EASTERN",
+   "source": "ASJP",
+   "glottocode": "east2544",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Northern Eastern Algonquian",
+    "Abenaki",
+    "Eastern Abenaki"
+   ],
+   "ldnd": 0.667,
+   "dsame": 0.433,
+   "n": 15,
+   "p": 0.0033,
+   "z": 5.97
+  },
+  {
+   "doculect": "asjp:PASSAMAQUODDY_MALISEET_UnnamedInSource",
+   "name": "PASSAMAQUODDY_MALISEET_UnnamedInSource",
+   "source": "ASJP",
+   "glottocode": "male1292",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Northern Eastern Algonquian",
+    "Micmacic",
+    "Malecite-Passamaquoddy"
+   ],
+   "ldnd": 0.686,
+   "dsame": 0.416,
+   "n": 15,
+   "p": 0.0033,
+   "z": 5.9
+  },
+  {
+   "doculect": "asjp:NANTICOKE",
+   "name": "NANTICOKE",
+   "source": "ASJP",
+   "glottocode": "nant1249",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Nanticoke-Conoy",
+    "Nanticoke"
+   ],
+   "ldnd": 0.629,
+   "dsame": 0.366,
+   "n": 16,
+   "p": 0.0033,
+   "z": 5.83
+  },
+  {
+   "doculect": "asjp:ABNAKI_WESTERN",
+   "name": "ABNAKI_WESTERN",
+   "source": "ASJP",
+   "glottocode": "west2630",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Northern Eastern Algonquian",
+    "Abenaki",
+    "Western Abenaki"
+   ],
+   "ldnd": 0.681,
+   "dsame": 0.428,
+   "n": 18,
+   "p": 0.0033,
+   "z": 5.78
+  },
+  {
+   "doculect": "asjp:OJIBWA_EASTERN",
+   "name": "OJIBWA_EASTERN",
+   "source": "ASJP",
+   "glottocode": "east2542",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Ojibwa",
+    "Nuclear Ojibwe",
+    "Central-Eastern-Southwestern Ojibwa",
+    "Eastern Ojibwa"
+   ],
+   "ldnd": 0.707,
+   "dsame": 0.469,
+   "n": 18,
+   "p": 0.0033,
+   "z": 5.53
+  },
+  {
+   "doculect": "asjp:NISHNAABEMWIN",
+   "name": "NISHNAABEMWIN",
+   "source": "ASJP",
+   "glottocode": "nort2961",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Ojibwa",
+    "Nuclear Ojibwe",
+    "Northwestern-Saulteaux Ojibwa",
+    "Northwestern Ojibwa"
+   ],
+   "ldnd": 0.694,
+   "dsame": 0.452,
+   "n": 18,
+   "p": 0.0033,
+   "z": 5.46
+  },
+  {
+   "doculect": "asjp:MENOMINEE",
+   "name": "MENOMINEE",
+   "source": "ASJP",
+   "glottocode": "meno1252",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Menominee"
+   ],
+   "ldnd": 0.636,
+   "dsame": 0.394,
+   "n": 15,
+   "p": 0.0033,
+   "z": 5.34
+  },
+  {
+   "doculect": "asjp:FOX",
+   "name": "FOX",
+   "source": "ASJP",
+   "glottocode": "mesk1242",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Fox",
+    "Meskwaki"
+   ],
+   "ldnd": 0.716,
+   "dsame": 0.43,
+   "n": 17,
+   "p": 0.0033,
+   "z": 5.23
+  },
+  {
+   "doculect": "asjp:SOUTHERN_EAST_CREE",
+   "name": "SOUTHERN_EAST_CREE",
+   "source": "ASJP",
+   "glottocode": "sout2978",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Southern East Cree"
+   ],
+   "ldnd": 0.701,
+   "dsame": 0.452,
+   "n": 16,
+   "p": 0.0033,
+   "z": 5.2
+  },
+  {
+   "doculect": "asjp:UNAMI_UnnamedInSource",
+   "name": "UNAMI_UnnamedInSource",
+   "source": "ASJP",
+   "glottocode": "unam1242",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Delawaran",
+    "Common Delaware",
+    "Unami"
+   ],
+   "ldnd": 0.734,
+   "dsame": 0.478,
+   "n": 17,
+   "p": 0.0033,
+   "z": 5.02
+  },
+  {
+   "doculect": "asjp:POTAWATOMI",
+   "name": "POTAWATOMI",
+   "source": "ASJP",
+   "glottocode": "pota1247",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Potawatomi"
+   ],
+   "ldnd": 0.695,
+   "dsame": 0.451,
+   "n": 17,
+   "p": 0.0033,
+   "z": 4.84
+  },
+  {
+   "doculect": "asjp:OJIBWA_SEVERN",
+   "name": "OJIBWA_SEVERN",
+   "source": "ASJP",
+   "glottocode": "seve1240",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Ojibwa",
+    "Severn-Algonquin",
+    "Severn Ojibwa"
+   ],
+   "ldnd": 0.638,
+   "dsame": 0.401,
+   "n": 12,
+   "p": 0.0033,
+   "z": 4.5
+  },
+  {
+   "doculect": "asjp:NORTHERN_EAST_CREE",
+   "name": "NORTHERN_EAST_CREE",
+   "source": "ASJP",
+   "glottocode": "nort1552",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Northern East Cree"
+   ],
+   "ldnd": 0.716,
+   "dsame": 0.467,
+   "n": 15,
+   "p": 0.0033,
+   "z": 4.46
+  },
+  {
+   "doculect": "asjp:WAKUNG",
+   "name": "WAKUNG",
+   "source": "ASJP",
+   "glottocode": "mroc1235",
+   "path": [
+    "Sino-Tibetan",
+    "Kuki-Chin-Naga",
+    "Kuki-Chin",
+    "Peripheral Kuki-Chin",
+    "Khomic",
+    "Mro Chin"
+   ],
+   "ldnd": 0.837,
+   "dsame": 0.58,
+   "n": 17,
+   "p": 0.0033,
+   "z": 4.43
+  },
+  {
+   "doculect": "asjp:MOOSE_CREE",
+   "name": "MOOSE_CREE",
+   "source": "ASJP",
+   "glottocode": "moos1236",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Moose Cree"
+   ],
+   "ldnd": 0.755,
+   "dsame": 0.468,
+   "n": 18,
+   "p": 0.0033,
+   "z": 4.42
+  },
+  {
+   "doculect": "asjp:MONTAGNAIS",
+   "name": "MONTAGNAIS",
+   "source": "ASJP",
+   "glottocode": "mont1268",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Montagnais"
+   ],
+   "ldnd": 0.768,
+   "dsame": 0.47,
+   "n": 18,
+   "p": 0.0033,
+   "z": 4.38
+  },
+  {
+   "doculect": "asjp:NASKAPI",
+   "name": "NASKAPI",
+   "source": "ASJP",
+   "glottocode": "nask1242",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Naskapi"
+   ],
+   "ldnd": 0.781,
+   "dsame": 0.503,
+   "n": 18,
+   "p": 0.0033,
+   "z": 4.38
+  },
+  {
+   "doculect": "asjp:ALGONQUIN",
+   "name": "ALGONQUIN",
+   "source": "ASJP",
+   "glottocode": "algo1255",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Ojibwa",
+    "Severn-Algonquin",
+    "Algonquin"
+   ],
+   "ldnd": 0.772,
+   "dsame": 0.483,
+   "n": 18,
+   "p": 0.0033,
+   "z": 4.26
+  },
+  {
+   "doculect": "asjp:PIDGIN_DELAWARE",
+   "name": "PIDGIN_DELAWARE",
+   "source": "ASJP",
+   "glottocode": "pidg1246",
+   "path": [
+    "Pidgin",
+    "Delaware-based pidgin",
+    "Pidgin Delaware"
+   ],
+   "ldnd": 0.788,
+   "dsame": 0.502,
+   "n": 16,
+   "p": 0.0033,
+   "z": 4.25
+  },
+  {
+   "doculect": "asjp:CHIPPEWA",
+   "name": "CHIPPEWA",
+   "source": "ASJP",
+   "glottocode": "chip1241",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Ojibwa-Potawatomi",
+    "Ojibwa",
+    "Nuclear Ojibwe",
+    "Central-Eastern-Southwestern Ojibwa",
+    "Chippewa"
+   ],
+   "ldnd": 0.749,
+   "dsame": 0.465,
+   "n": 14,
+   "p": 0.0033,
+   "z": 4.22
+  },
+  {
+   "doculect": "asjp:KICKAPOO",
+   "name": "KICKAPOO",
+   "source": "ASJP",
+   "glottocode": "kick1244",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Fox",
+    "Kickapoo"
+   ],
+   "ldnd": 0.762,
+   "dsame": 0.459,
+   "n": 18,
+   "p": 0.0033,
+   "z": 4.13
+  },
+  {
+   "doculect": "asjp:MOHEGAN",
+   "name": "MOHEGAN",
+   "source": "ASJP",
+   "glottocode": "pequ1242",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Southern New England Algonquian",
+    "Western Southern New England Algonquian",
+    "Mohegan-Montauk-Narragansett",
+    "Pequot-Mohegan"
+   ],
+   "ldnd": 0.746,
+   "dsame": 0.484,
+   "n": 15,
+   "p": 0.0033,
+   "z": 3.91
+  },
+  {
+   "doculect": "asjp:NIPMUCK",
+   "name": "NIPMUCK",
+   "source": "ASJP",
+   "glottocode": "loup1243",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Maritimes-Southern New England Algonquian",
+    "Southern New England Algonquian",
+    "Nipmuck"
+   ],
+   "ldnd": 0.701,
+   "dsame": 0.439,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.89
+  },
+  {
+   "doculect": "asjp:PLAINS_CREE",
+   "name": "PLAINS_CREE",
+   "source": "ASJP",
+   "glottocode": "plai1258",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Plains Creeic",
+    "Plains Cree"
+   ],
+   "ldnd": 0.799,
+   "dsame": 0.524,
+   "n": 18,
+   "p": 0.0033,
+   "z": 3.67
+  },
+  {
+   "doculect": "asjp:SARDINIAN",
+   "name": "SARDINIAN",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "SARDINIAN"
+   ],
+   "ldnd": 0.828,
+   "dsame": 0.529,
+   "n": 18,
+   "p": 0.0033,
+   "z": 3.56
+  },
+  {
+   "doculect": "asjp:LORHON",
+   "name": "LORHON",
+   "source": "ASJP",
+   "glottocode": "teen1242",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "North Volta-Congo",
+    "Gur",
+    "Kulango-Lorom",
+    "Teenic",
+    "Téén"
+   ],
+   "ldnd": 0.83,
+   "dsame": 0.54,
+   "n": 17,
+   "p": 0.0033,
+   "z": 3.53
+  },
+  {
+   "doculect": "asjp:SARDINIAN_LOGUDARESE",
+   "name": "SARDINIAN_LOGUDARESE",
+   "source": "ASJP",
+   "glottocode": "logu1236",
+   "path": [
+    "Indo-European",
+    "Classical Indo-European",
+    "Italic",
+    "Latino-Faliscan",
+    "Latinic",
+    "Imperial Latin",
+    "Romance",
+    "Southern Romance",
+    "Logudorese Sardinian"
+   ],
+   "ldnd": 0.837,
+   "dsame": 0.544,
+   "n": 18,
+   "p": 0.0033,
+   "z": 3.53
+  },
+  {
+   "doculect": "asjp:SHAWNEE",
+   "name": "SHAWNEE",
+   "source": "ASJP",
+   "glottocode": "shaw1249",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Shawnee"
+   ],
+   "ldnd": 0.8,
+   "dsame": 0.504,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.45
+  },
+  {
+   "doculect": "asjp:LEMBATA_WEST",
+   "name": "LEMBATA_WEST",
+   "source": "ASJP",
+   "glottocode": "west2541",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Bima-Lembata",
+    "Flores",
+    "Flores-Lembata",
+    "Lamaholot Tengah",
+    "West Lembata"
+   ],
+   "ldnd": 0.825,
+   "dsame": 0.473,
+   "n": 14,
+   "p": 0.0033,
+   "z": 3.39
+  },
+  {
+   "doculect": "asjp:ATIKAMEKW",
+   "name": "ATIKAMEKW",
+   "source": "ASJP",
+   "glottocode": "atik1240",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Atikamekw"
+   ],
+   "ldnd": 0.809,
+   "dsame": 0.513,
+   "n": 18,
+   "p": 0.0066,
+   "z": 3.31
+  },
+  {
+   "doculect": "asjp:MIAMI",
+   "name": "MIAMI",
+   "source": "ASJP",
+   "glottocode": "miam1252",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Great Lakes Algonquian",
+    "Miami"
+   ],
+   "ldnd": 0.802,
+   "dsame": 0.501,
+   "n": 18,
+   "p": 0.0033,
+   "z": 3.3
+  },
+  {
+   "doculect": "asjp:MALAGASY_MERINA",
+   "name": "MALAGASY_MERINA",
+   "source": "ASJP",
+   "glottocode": "plat1254",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Plateau Malagasy"
+   ],
+   "ldnd": 0.839,
+   "dsame": 0.571,
+   "n": 14,
+   "p": 0.01,
+   "z": 3.25
+  },
+  {
+   "doculect": "asjp:MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAIMORO_MANAKARA",
+   "name": "MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAIMORO_MANAKARA",
+   "source": "ASJP",
+   "glottocode": "sout2920",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Southern Betsimisaraka Malagasy"
+   ],
+   "ldnd": 0.828,
+   "dsame": 0.548,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.14
+  },
+  {
+   "doculect": "asjp:MAHICAN",
+   "name": "MAHICAN",
+   "source": "ASJP",
+   "glottocode": "mahi1248",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Eastern Algonquian",
+    "Delawaran",
+    "Mahican-Woronoco-Pojassick",
+    "Mahican"
+   ],
+   "ldnd": 0.805,
+   "dsame": 0.514,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.07
+  },
+  {
+   "doculect": "asjp:MALAGASY_AMBOSITRA",
+   "name": "MALAGASY_AMBOSITRA",
+   "source": "ASJP",
+   "glottocode": "plat1254",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Plateau Malagasy"
+   ],
+   "ldnd": 0.838,
+   "dsame": 0.569,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.07
+  },
+  {
+   "doculect": "asjp:CREE_WOODS",
+   "name": "CREE_WOODS",
+   "source": "ASJP",
+   "glottocode": "wood1236",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Woods Cree"
+   ],
+   "ldnd": 0.706,
+   "dsame": 0.444,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.05
+  },
+  {
+   "doculect": "asjp:PROTO_ALGIC",
+   "name": "PROTO_ALGIC",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "PROTO_ALGIC"
+   ],
+   "ldnd": 0.787,
+   "dsame": 0.489,
+   "n": 10,
+   "p": 0.01,
+   "z": 2.91
+  },
+  {
+   "doculect": "asjp:EASTERN_SWAMPY_CREE",
+   "name": "EASTERN_SWAMPY_CREE",
+   "source": "ASJP",
+   "glottocode": "swam1239",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Swampy Cree"
+   ],
+   "ldnd": 0.76,
+   "dsame": 0.472,
+   "n": 8,
+   "p": 0.01,
+   "z": 2.51
+  },
+  {
+   "doculect": "asjp:TAULIL",
+   "name": "TAULIL",
+   "source": "ASJP",
+   "glottocode": "taul1251",
+   "path": [
+    "Taulil-Butam",
+    "Taulil"
+   ],
+   "ldnd": 0.795,
+   "dsame": 0.482,
+   "n": 8,
+   "p": 0.0166,
+   "z": 2.36
+  }
+ ],
+ "hierarchy": [
+  [
+   "Algic",
+   1.0
+  ],
+  [
+   "Algonquian-Blackfoot",
+   1.0
+  ],
+  [
+   "Algonquian",
+   1.0
+  ],
+  [
+   "Eastern Algonquian",
+   0.62
+  ],
+  [
+   "Maritimes-Southern New England Algonquian",
+   0.47
+  ]
+ ],
+ "status": "resolved",
+ "leading": {
+  "name": "WAMPANOAG_NATICK",
+  "family": "Algic",
+  "z": 7.35
+ }
+}

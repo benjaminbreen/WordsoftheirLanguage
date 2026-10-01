@@ -1,0 +1,843 @@
+{
+ "n_entries": 111,
+ "n_mapped": 73,
+ "n_concepts": 73,
+ "affixes_removed": [],
+ "candidates": [
+  {
+   "doculect": "asjp:TRIPOLI_JEWISH_ARABIC",
+   "name": "TRIPOLI_JEWISH_ARABIC",
+   "source": "ASJP",
+   "glottocode": "liby1240",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "North African Arabic",
+    "Libyan Arabic"
+   ],
+   "ldnd": 0.474,
+   "dsame": 0.375,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.91
+  },
+  {
+   "doculect": "asjp:HIJAZI_ARABIC",
+   "name": "HIJAZI_ARABIC",
+   "source": "ASJP",
+   "glottocode": "hija1235",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Arabian Peninsula Arabic",
+    "Hijazi Arabic"
+   ],
+   "ldnd": 0.611,
+   "dsame": 0.5,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.7
+  },
+  {
+   "doculect": "asjp:KUWAITI_ARABIC",
+   "name": "KUWAITI_ARABIC",
+   "source": "ASJP",
+   "glottocode": "gulf1241",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Arabian Peninsula Arabic",
+    "North Arabian Beduin Arabic",
+    "Gulf Arabic"
+   ],
+   "ldnd": 0.631,
+   "dsame": 0.517,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.67
+  },
+  {
+   "doculect": "asjp:PALESTINIAN_ARABIC",
+   "name": "PALESTINIAN_ARABIC",
+   "source": "ASJP",
+   "glottocode": "sout3123",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Levantine-Cypriot Arabic",
+    "Levantine Arabic",
+    "South Levantine Arabic"
+   ],
+   "ldnd": 0.638,
+   "dsame": 0.517,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.69
+  },
+  {
+   "doculect": "asjp:SAN_ANDRES_ARABIC_2",
+   "name": "SAN_ANDRES_ARABIC_2",
+   "source": "ASJP",
+   "glottocode": "nort3139",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Levantine-Cypriot Arabic",
+    "Levantine Arabic"
+   ],
+   "ldnd": 0.646,
+   "dsame": 0.542,
+   "n": 9,
+   "p": 0.01,
+   "z": 3.25
+  },
+  {
+   "doculect": "asjp:BAHRAIN_ARABIC",
+   "name": "BAHRAIN_ARABIC",
+   "source": "ASJP",
+   "glottocode": "baha1259",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Arabian Peninsula Arabic",
+    "North Arabian Beduin Arabic",
+    "Baharna Arabic"
+   ],
+   "ldnd": 0.666,
+   "dsame": 0.589,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.49
+  },
+  {
+   "doculect": "asjp:SAN_ANDRES_ARABIC_3",
+   "name": "SAN_ANDRES_ARABIC_3",
+   "source": "ASJP",
+   "glottocode": "nort3139",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Levantine-Cypriot Arabic",
+    "Levantine Arabic"
+   ],
+   "ldnd": 0.667,
+   "dsame": 0.551,
+   "n": 9,
+   "p": 0.01,
+   "z": 2.94
+  },
+  {
+   "doculect": "asjp:BODE_DOEI",
+   "name": "BODE_DOEI",
+   "source": "ASJP",
+   "glottocode": "duwa1244",
+   "path": [
+    "Afro-Asiatic",
+    "Chadic",
+    "West Chadic",
+    "West Chadic B",
+    "West Chadic B.1",
+    "Duwai"
+   ],
+   "ldnd": 0.667,
+   "dsame": 0.543,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.44
+  },
+  {
+   "doculect": "asjp:ARABIC_SUDANESE_SPOKEN",
+   "name": "ARABIC_SUDANESE_SPOKEN",
+   "source": "ASJP",
+   "glottocode": "suda1236",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Egyptic Arabic",
+    "Egypto-Sudanic Arabic",
+    "Sudanese-Chadian Arabic",
+    "East Sudanic Arabic",
+    "Sudanese Arabic"
+   ],
+   "ldnd": 0.673,
+   "dsame": 0.538,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.93
+  },
+  {
+   "doculect": "asjp:CLASSICAL_SYRIAC",
+   "name": "CLASSICAL_SYRIAC",
+   "source": "ASJP",
+   "glottocode": "clas1252",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Northwest Semitic",
+    "Aramaic",
+    "Imperial-Middle-Modern Aramaic",
+    "Middle-Modern Aramaic",
+    "Eastern Aramaic",
+    "Classical Syriac"
+   ],
+   "ldnd": 0.673,
+   "dsame": 0.55,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.16
+  },
+  {
+   "doculect": "asjp:SAURI",
+   "name": "SAURI",
+   "source": "ASJP",
+   "glottocode": "sheh1240",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Modern South Arabian",
+    "Eastern MSA",
+    "Jibbali"
+   ],
+   "ldnd": 0.675,
+   "dsame": 0.552,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.91
+  },
+  {
+   "doculect": "asjp:STANDARD_ARABIC",
+   "name": "STANDARD_ARABIC",
+   "source": "ASJP",
+   "glottocode": "stan1318",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Standard Arabic"
+   ],
+   "ldnd": 0.681,
+   "dsame": 0.545,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.73
+  },
+  {
+   "doculect": "asjp:ANDRO",
+   "name": "ANDRO",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "ANDRO"
+   ],
+   "ldnd": 0.682,
+   "dsame": 0.538,
+   "n": 11,
+   "p": 0.0066,
+   "z": 3.53
+  },
+  {
+   "doculect": "asjp:ARABIC_QURANIC",
+   "name": "ARABIC_QURANIC",
+   "source": "ASJP",
+   "glottocode": "stan1318",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Standard Arabic"
+   ],
+   "ldnd": 0.689,
+   "dsame": 0.573,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.87
+  },
+  {
+   "doculect": "asjp:SAN_ANDRES_ARABIC_1",
+   "name": "SAN_ANDRES_ARABIC_1",
+   "source": "ASJP",
+   "glottocode": "nort3139",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Levantine-Cypriot Arabic",
+    "Levantine Arabic"
+   ],
+   "ldnd": 0.689,
+   "dsame": 0.579,
+   "n": 9,
+   "p": 0.0166,
+   "z": 2.54
+  },
+  {
+   "doculect": "asjp:JUDEO_TRIPOLITANIAN_ARABIC",
+   "name": "JUDEO_TRIPOLITANIAN_ARABIC",
+   "source": "ASJP",
+   "glottocode": "jude1264",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "North African Arabic",
+    "Judeo-Tripolitanian Arabic"
+   ],
+   "ldnd": 0.691,
+   "dsame": 0.58,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.65
+  },
+  {
+   "doculect": "asjp:MEYMAI",
+   "name": "MEYMAI",
+   "source": "ASJP",
+   "glottocode": "khun1255",
+   "path": [
+    "Indo-European",
+    "Classical Indo-European",
+    "Indo-Iranian",
+    "Iranian-Nuristani",
+    "Iranian",
+    "Central Iranian PBS",
+    "Central Iranian PB",
+    "Northwestern Iranian",
+    "Central Iran Kermanic",
+    "Nuclear Central Iran Kermanic",
+    "Khunsaric"
+   ],
+   "ldnd": 0.693,
+   "dsame": 0.565,
+   "n": 9,
+   "p": 0.0033,
+   "z": 2.96
+  },
+  {
+   "doculect": "asjp:CLASSICAL_ARABIC",
+   "name": "CLASSICAL_ARABIC",
+   "source": "ASJP",
+   "glottocode": "stan1318",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Standard Arabic"
+   ],
+   "ldnd": 0.694,
+   "dsame": 0.559,
+   "n": 12,
+   "p": 0.0066,
+   "z": 3.09
+  },
+  {
+   "doculect": "asjp:QIFT_ARABIC",
+   "name": "QIFT_ARABIC",
+   "source": "ASJP",
+   "glottocode": "said1239",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Egyptic Arabic",
+    "Egypto-Sudanic Arabic",
+    "Saidi Arabic"
+   ],
+   "ldnd": 0.695,
+   "dsame": 0.559,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.97
+  },
+  {
+   "doculect": "asjp:ONONDAGA",
+   "name": "ONONDAGA",
+   "source": "ASJP",
+   "glottocode": "onon1246",
+   "path": [
+    "Iroquoian",
+    "Northern Iroquoian",
+    "Lake Iroquoian",
+    "Greater Iroquois",
+    "Iroquois",
+    "Onondaga"
+   ],
+   "ldnd": 0.701,
+   "dsame": 0.542,
+   "n": 12,
+   "p": 0.0033,
+   "z": 4.08
+  },
+  {
+   "doculect": "asjp:TIMUGON_MURUT",
+   "name": "TIMUGON_MURUT",
+   "source": "ASJP",
+   "glottocode": "timu1262",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "North Borneo Malayo-Polynesian",
+    "Sabahan",
+    "Southwest Sabahan",
+    "Greater Murutic",
+    "Murutic",
+    "Northern Murutic",
+    "Lowland Murut",
+    "Timugon Murut"
+   ],
+   "ldnd": 0.701,
+   "dsame": 0.567,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.68
+  },
+  {
+   "doculect": "asjp:TAMAJEQ_TAYART_AIR",
+   "name": "TAMAJEQ_TAYART_AIR",
+   "source": "ASJP",
+   "glottocode": "taya1257",
+   "path": [
+    "Afro-Asiatic",
+    "Berber",
+    "Tuareg",
+    "Southern Tuareg",
+    "Tayart Tamajeq"
+   ],
+   "ldnd": 0.702,
+   "dsame": 0.58,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.86
+  },
+  {
+   "doculect": "asjp:CHRISTIAN_PALESTINIAN",
+   "name": "CHRISTIAN_PALESTINIAN",
+   "source": "ASJP",
+   "glottocode": "west2763",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Northwest Semitic",
+    "Aramaic",
+    "Imperial-Middle-Modern Aramaic",
+    "Middle-Modern Aramaic",
+    "Western Aramaic",
+    "Western Neo-Aramaic"
+   ],
+   "ldnd": 0.703,
+   "dsame": 0.608,
+   "n": 10,
+   "p": 0.0066,
+   "z": 3.4
+  },
+  {
+   "doculect": "asjp:SENGMAI",
+   "name": "SENGMAI",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "SENGMAI"
+   ],
+   "ldnd": 0.704,
+   "dsame": 0.555,
+   "n": 11,
+   "p": 0.0066,
+   "z": 3.22
+  },
+  {
+   "doculect": "asjp:EASTERN_EGYPTIAN_BEDAWI_ARABIC",
+   "name": "EASTERN_EGYPTIAN_BEDAWI_ARABIC",
+   "source": "ASJP",
+   "glottocode": "east2690",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Egyptic Arabic",
+    "Eastern Egyptian Bedawi Arabic"
+   ],
+   "ldnd": 0.709,
+   "dsame": 0.588,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.13
+  },
+  {
+   "doculect": "asjp:EKPARABONG",
+   "name": "EKPARABONG",
+   "source": "ASJP",
+   "glottocode": "ndoe1238",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Bantoid",
+    "Southern Bantoid",
+    "Ekoid-Mbe",
+    "Ekoid",
+    "Ndoe"
+   ],
+   "ldnd": 0.713,
+   "dsame": 0.642,
+   "n": 12,
+   "p": 0.0033,
+   "z": 4.51
+  },
+  {
+   "doculect": "asjp:ARAMAIC_ANCIENT",
+   "name": "ARAMAIC_ANCIENT",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "ARAMAIC_ANCIENT"
+   ],
+   "ldnd": 0.715,
+   "dsame": 0.573,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.26
+  },
+  {
+   "doculect": "asjp:JUDEO_IRAQI_ARABIC",
+   "name": "JUDEO_IRAQI_ARABIC",
+   "source": "ASJP",
+   "glottocode": "jude1266",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Eastern Arabic",
+    "Qeltu",
+    "Judeo-Iraqi Arabic"
+   ],
+   "ldnd": 0.715,
+   "dsame": 0.588,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.24
+  },
+  {
+   "doculect": "asjp:ZANZIBAR_ARABIC",
+   "name": "ZANZIBAR_ARABIC",
+   "source": "ASJP",
+   "glottocode": "oman1239",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Arabian Peninsula Arabic",
+    "North Arabian Beduin Arabic",
+    "Omani Arabic"
+   ],
+   "ldnd": 0.715,
+   "dsame": 0.587,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.33
+  },
+  {
+   "doculect": "asjp:ARABIC_CYPRIOT_SPOKEN",
+   "name": "ARABIC_CYPRIOT_SPOKEN",
+   "source": "ASJP",
+   "glottocode": "cypr1248",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Levantine-Cypriot Arabic",
+    "Cypriot Arabic"
+   ],
+   "ldnd": 0.716,
+   "dsame": 0.567,
+   "n": 10,
+   "p": 0.0166,
+   "z": 2.82
+  },
+  {
+   "doculect": "asjp:TUNISIAN_ARABIC_MAGHRIB",
+   "name": "TUNISIAN_ARABIC_MAGHRIB",
+   "source": "ASJP",
+   "glottocode": "tuni1259",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "North African Arabic",
+    "Western Middle Arabic",
+    "Maghrebi",
+    "Malta-Tunisian Arabic",
+    "Tunisian Arabic"
+   ],
+   "ldnd": 0.716,
+   "dsame": 0.587,
+   "n": 12,
+   "p": 0.01,
+   "z": 3.25
+  },
+  {
+   "doculect": "asjp:MALTESE_ARABIC",
+   "name": "MALTESE_ARABIC",
+   "source": "ASJP",
+   "glottocode": "malt1254",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "North African Arabic",
+    "Western Middle Arabic",
+    "Maghrebi",
+    "Malta-Tunisian Arabic",
+    "Maltese"
+   ],
+   "ldnd": 0.717,
+   "dsame": 0.587,
+   "n": 12,
+   "p": 0.0033,
+   "z": 4.03
+  },
+  {
+   "doculect": "asjp:KUTEB",
+   "name": "KUTEB",
+   "source": "ASJP",
+   "glottocode": "kute1248",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Jukunoid",
+    "Kutep"
+   ],
+   "ldnd": 0.717,
+   "dsame": 0.573,
+   "n": 8,
+   "p": 0.0166,
+   "z": 2.41
+  },
+  {
+   "doculect": "asjp:PROTO_MON_KHMER",
+   "name": "PROTO_MON_KHMER",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "PROTO_MON_KHMER"
+   ],
+   "ldnd": 0.717,
+   "dsame": 0.55,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.06
+  },
+  {
+   "doculect": "asjp:LONG_WAT",
+   "name": "LONG_WAT",
+   "source": "ASJP",
+   "glottocode": "long1406",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "North Borneo Malayo-Polynesian",
+    "North Sarawakan",
+    "Kenyahic",
+    "Lowland Kenyah",
+    "Western Lowland Kenyah-Penan",
+    "Western Lowland Kenyah"
+   ],
+   "ldnd": 0.72,
+   "dsame": 0.534,
+   "n": 11,
+   "p": 0.0066,
+   "z": 3.26
+  },
+  {
+   "doculect": "asjp:SEBERUANG",
+   "name": "SEBERUANG",
+   "source": "ASJP",
+   "glottocode": "sebe1242",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Malayo-Chamic",
+    "Malayic",
+    "Ibanic",
+    "Iban-Mualang-Seberuang",
+    "Iban-Seberuang",
+    "Seberuang"
+   ],
+   "ldnd": 0.722,
+   "dsame": 0.595,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.37
+  },
+  {
+   "doculect": "asjp:HADRAMI_ARABIC",
+   "name": "HADRAMI_ARABIC",
+   "source": "ASJP",
+   "glottocode": "hadr1236",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "Arabian Peninsula Arabic",
+    "Hadrami Arabic"
+   ],
+   "ldnd": 0.723,
+   "dsame": 0.573,
+   "n": 12,
+   "p": 0.0033,
+   "z": 2.98
+  },
+  {
+   "doculect": "asjp:OGADEN_ARABIC",
+   "name": "OGADEN_ARABIC",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "OGADEN_ARABIC"
+   ],
+   "ldnd": 0.724,
+   "dsame": 0.587,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.43
+  },
+  {
+   "doculect": "asjp:MALTESE",
+   "name": "MALTESE",
+   "source": "ASJP",
+   "glottocode": "malt1254",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Arabian",
+    "Arabic",
+    "North African Arabic",
+    "Western Middle Arabic",
+    "Maghrebi",
+    "Malta-Tunisian Arabic",
+    "Maltese"
+   ],
+   "ldnd": 0.725,
+   "dsame": 0.587,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.54
+  },
+  {
+   "doculect": "asjp:TAI_LOI",
+   "name": "TAI_LOI",
+   "source": "ASJP",
+   "glottocode": "tail1246",
+   "path": [
+    "Austroasiatic",
+    "Khasi-Palaung",
+    "Palaungic",
+    "East Palaungic",
+    "Angkuic",
+    "Southern Angkuic",
+    "Muak"
+   ],
+   "ldnd": 0.729,
+   "dsame": 0.56,
+   "n": 12,
+   "p": 0.0066,
+   "z": 2.86
+  }
+ ],
+ "hierarchy": [
+  [
+   "Afro-Asiatic",
+   0.68
+  ],
+  [
+   "Semitic",
+   0.62
+  ],
+  [
+   "West Semitic",
+   0.62
+  ],
+  [
+   "Central Semitic",
+   0.59
+  ]
+ ],
+ "status": "resolved"
+}

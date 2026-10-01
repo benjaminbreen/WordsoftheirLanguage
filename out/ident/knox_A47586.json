@@ -1,0 +1,766 @@
+{
+ "n_entries": 134,
+ "n_mapped": 52,
+ "n_concepts": 41,
+ "affixes_removed": [],
+ "candidates": [
+  {
+   "doculect": "asjp:ABUN",
+   "name": "ABUN",
+   "source": "ASJP",
+   "glottocode": "abun1252",
+   "path": [
+    "Abun"
+   ],
+   "ldnd": 0.681,
+   "dsame": 0.542,
+   "n": 10,
+   "p": 0.0133,
+   "z": 2.68
+  },
+  {
+   "doculect": "asjp:DUTCH_2",
+   "name": "DUTCH_2",
+   "source": "ASJP",
+   "glottocode": "dutc1256",
+   "path": [
+    "Indo-European",
+    "Classical Indo-European",
+    "Germanic",
+    "Northwest Germanic",
+    "West Germanic",
+    "Macro-Dutch",
+    "Middle-Modern Dutch",
+    "Modern Dutch",
+    "Global Dutch",
+    "Dutch"
+   ],
+   "ldnd": 0.703,
+   "dsame": 0.589,
+   "n": 14,
+   "p": 0.0033,
+   "z": 3.94
+  },
+  {
+   "doculect": "asjp:ONNELE_WOLWALE",
+   "name": "ONNELE_WOLWALE",
+   "source": "ASJP",
+   "glottocode": "nort2907",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Central-Northern One",
+    "Northern One"
+   ],
+   "ldnd": 0.705,
+   "dsame": 0.625,
+   "n": 8,
+   "p": 0.0066,
+   "z": 2.65
+  },
+  {
+   "doculect": "asjp:ONE_WONDU",
+   "name": "ONE_WONDU",
+   "source": "ASJP",
+   "glottocode": "sout2932",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Southern One"
+   ],
+   "ldnd": 0.71,
+   "dsame": 0.577,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.9
+  },
+  {
+   "doculect": "asjp:MONUMBO_2",
+   "name": "MONUMBO_2",
+   "source": "ASJP",
+   "glottocode": "nucl1458",
+   "path": [
+    "Bogia",
+    "Monumbo"
+   ],
+   "ldnd": 0.71,
+   "dsame": 0.571,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.54
+  },
+  {
+   "doculect": "asjp:JOOLA_GUSILAY",
+   "name": "JOOLA_GUSILAY",
+   "source": "ASJP",
+   "glottocode": "gusi1246",
+   "path": [
+    "Atlantic-Congo",
+    "North-Central Atlantic",
+    "Central Atlantic",
+    "Bak",
+    "Joola-Manjaku",
+    "Jola",
+    "Gusilay-Bandial",
+    "Gusilay"
+   ],
+   "ldnd": 0.716,
+   "dsame": 0.592,
+   "n": 10,
+   "p": 0.0066,
+   "z": 3.07
+  },
+  {
+   "doculect": "asjp:KHAH",
+   "name": "KHAH",
+   "source": "ASJP",
+   "glottocode": "khah1234",
+   "path": [
+    "Indo-European",
+    "Classical Indo-European",
+    "Indo-Iranian",
+    "Indo-Aryan",
+    "Middle-Modern Indo-Aryan",
+    "Eastern Dardic",
+    "Kashmiric",
+    "Khah"
+   ],
+   "ldnd": 0.716,
+   "dsame": 0.581,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.94
+  },
+  {
+   "doculect": "asjp:ENGLISH",
+   "name": "ENGLISH",
+   "source": "ASJP",
+   "glottocode": "stan1293",
+   "path": [
+    "Indo-European",
+    "Classical Indo-European",
+    "Germanic",
+    "Northwest Germanic",
+    "West Germanic",
+    "North Sea Germanic",
+    "Anglo-Frisian",
+    "Anglic",
+    "Later Anglic",
+    "Middle-Modern English",
+    "Macro-English",
+    "English"
+   ],
+   "ldnd": 0.72,
+   "dsame": 0.604,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.29
+  },
+  {
+   "doculect": "asjp:ONE_BUGUMA",
+   "name": "ONE_BUGUMA",
+   "source": "ASJP",
+   "glottocode": "sout2932",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Southern One"
+   ],
+   "ldnd": 0.721,
+   "dsame": 0.59,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.67
+  },
+  {
+   "doculect": "asjp:ZOQUE_FRANCISCO_LEON",
+   "name": "ZOQUE_FRANCISCO_LEON",
+   "source": "ASJP",
+   "glottocode": "fran1266",
+   "path": [
+    "Mixe-Zoque",
+    "Zoque",
+    "Chiapas-Jitotolteco Zoque",
+    "Chiapas Zoque",
+    "Northern Chiapas Zoque"
+   ],
+   "ldnd": 0.723,
+   "dsame": 0.577,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.07
+  },
+  {
+   "doculect": "asjp:NEPALI",
+   "name": "NEPALI",
+   "source": "ASJP",
+   "glottocode": "nepa1254",
+   "path": [
+    "Indo-European",
+    "Classical Indo-European",
+    "Indo-Iranian",
+    "Indo-Aryan",
+    "Middle-Modern Indo-Aryan",
+    "Continental Indo-Aryan",
+    "Midlands Indo-Aryan",
+    "Indo-Aryan Northern zone",
+    "Eastern Pahari",
+    "Nepali"
+   ],
+   "ldnd": 0.731,
+   "dsame": 0.539,
+   "n": 14,
+   "p": 0.0033,
+   "z": 2.83
+  },
+  {
+   "doculect": "asjp:DENDI_2",
+   "name": "DENDI_2",
+   "source": "ASJP",
+   "glottocode": "dend1243",
+   "path": [
+    "Songhay",
+    "Eastern Songhay",
+    "Zarma-Kaado-Dendi",
+    "Dendi (Benin)"
+   ],
+   "ldnd": 0.739,
+   "dsame": 0.573,
+   "n": 8,
+   "p": 0.0199,
+   "z": 2.7
+  },
+  {
+   "doculect": "asjp:SEEKU_3",
+   "name": "SEEKU_3",
+   "source": "ASJP",
+   "glottocode": "seek1238",
+   "path": [
+    "Mande",
+    "Western Mande",
+    "Northwestern Mande",
+    "Duun-Bobo",
+    "Duun-Jo",
+    "Duun-Seenku",
+    "Seeku"
+   ],
+   "ldnd": 0.745,
+   "dsame": 0.563,
+   "n": 12,
+   "p": 0.01,
+   "z": 2.59
+  },
+  {
+   "doculect": "asjp:BISHNUPURIYA",
+   "name": "BISHNUPURIYA",
+   "source": "ASJP",
+   "glottocode": "bish1244",
+   "path": [
+    "Indo-European",
+    "Classical Indo-European",
+    "Indo-Iranian",
+    "Indo-Aryan",
+    "Middle-Modern Indo-Aryan",
+    "Continental Indo-Aryan",
+    "Indo-Aryan Eastern zone",
+    "Oriya-Gauda-Kamrupa",
+    "Gauda-Kamrupa",
+    "Gauda-Banga",
+    "Bishnupriya Manipuri"
+   ],
+   "ldnd": 0.748,
+   "dsame": 0.538,
+   "n": 11,
+   "p": 0.0199,
+   "z": 2.08
+  },
+  {
+   "doculect": "asjp:ONE_KARANTU",
+   "name": "ONE_KARANTU",
+   "source": "ASJP",
+   "glottocode": "nort2907",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Central-Northern One",
+    "Northern One"
+   ],
+   "ldnd": 0.749,
+   "dsame": 0.632,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.49
+  },
+  {
+   "doculect": "asjp:JOOLA_GUSILAY_2",
+   "name": "JOOLA_GUSILAY_2",
+   "source": "ASJP",
+   "glottocode": "gusi1246",
+   "path": [
+    "Atlantic-Congo",
+    "North-Central Atlantic",
+    "Central Atlantic",
+    "Bak",
+    "Joola-Manjaku",
+    "Jola",
+    "Gusilay-Bandial",
+    "Gusilay"
+   ],
+   "ldnd": 0.754,
+   "dsame": 0.618,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.07
+  },
+  {
+   "doculect": "asjp:BRAHUI_2",
+   "name": "BRAHUI_2",
+   "source": "ASJP",
+   "glottocode": "brah1256",
+   "path": [
+    "Dravidian",
+    "North Dravidian",
+    "Brahui"
+   ],
+   "ldnd": 0.757,
+   "dsame": 0.556,
+   "n": 14,
+   "p": 0.01,
+   "z": 2.55
+  },
+  {
+   "doculect": "asjp:ONE_KALAU",
+   "name": "ONE_KALAU",
+   "source": "ASJP",
+   "glottocode": "nort2907",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Central-Northern One",
+    "Northern One"
+   ],
+   "ldnd": 0.758,
+   "dsame": 0.632,
+   "n": 12,
+   "p": 0.0033,
+   "z": 2.75
+  },
+  {
+   "doculect": "asjp:SEI",
+   "name": "SEI",
+   "source": "ASJP",
+   "glottocode": "bull1247",
+   "path": [
+    "Atlantic-Congo",
+    "Mel",
+    "Southern Mel",
+    "Bullom",
+    "Northern Bullom",
+    "Bullom So"
+   ],
+   "ldnd": 0.769,
+   "dsame": 0.611,
+   "n": 9,
+   "p": 0.0166,
+   "z": 2.37
+  },
+  {
+   "doculect": "asjp:C_AMIS",
+   "name": "C_AMIS",
+   "source": "ASJP",
+   "glottocode": "amis1246",
+   "path": [
+    "Austronesian",
+    "East Formosan",
+    "Central East Formosan",
+    "Amis"
+   ],
+   "ldnd": 0.769,
+   "dsame": 0.59,
+   "n": 12,
+   "p": 0.01,
+   "z": 2.6
+  },
+  {
+   "doculect": "asjp:KUAMTIM_ONE",
+   "name": "KUAMTIM_ONE",
+   "source": "ASJP",
+   "glottocode": "kwam1254",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Kwamtim One"
+   ],
+   "ldnd": 0.769,
+   "dsame": 0.641,
+   "n": 13,
+   "p": 0.0066,
+   "z": 3.51
+  },
+  {
+   "doculect": "asjp:SWEDISH_2",
+   "name": "SWEDISH_2",
+   "source": "ASJP",
+   "glottocode": "swed1254",
+   "path": [
+    "Indo-European",
+    "Classical Indo-European",
+    "Germanic",
+    "Northwest Germanic",
+    "North Germanic",
+    "North Scandinavian",
+    "East-Central Swedic",
+    "East Swedic",
+    "Swedish"
+   ],
+   "ldnd": 0.77,
+   "dsame": 0.625,
+   "n": 14,
+   "p": 0.0033,
+   "z": 3.04
+  },
+  {
+   "doculect": "asjp:MOLMO_ONE_2",
+   "name": "MOLMO_ONE_2",
+   "source": "ASJP",
+   "glottocode": "molm1235",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Central-Northern One",
+    "Molmo One"
+   ],
+   "ldnd": 0.771,
+   "dsame": 0.655,
+   "n": 14,
+   "p": 0.0033,
+   "z": 3.24
+  },
+  {
+   "doculect": "asjp:ONE_ALKULA",
+   "name": "ONE_ALKULA",
+   "source": "ASJP",
+   "glottocode": "molm1235",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Central-Northern One",
+    "Molmo One"
+   ],
+   "ldnd": 0.772,
+   "dsame": 0.654,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.08
+  },
+  {
+   "doculect": "asjp:OLO_ERETEI",
+   "name": "OLO_ERETEI",
+   "source": "ASJP",
+   "glottocode": "oloo1241",
+   "path": [
+    "Nuclear Torricelli",
+    "Wapei-Palei",
+    "Central Torricelli",
+    "Wapeic",
+    "Au-Olo-Elkei",
+    "Olo-Elkei",
+    "Olo"
+   ],
+   "ldnd": 0.773,
+   "dsame": 0.62,
+   "n": 9,
+   "p": 0.01,
+   "z": 2.26
+  },
+  {
+   "doculect": "asjp:THARU_KATHARIYA",
+   "name": "THARU_KATHARIYA",
+   "source": "ASJP",
+   "glottocode": "kath1250",
+   "path": [
+    "Indo-European",
+    "Classical Indo-European",
+    "Indo-Iranian",
+    "Indo-Aryan",
+    "Middle-Modern Indo-Aryan",
+    "Continental Indo-Aryan",
+    "Midlands Indo-Aryan",
+    "Shaurasenic",
+    "Bihari",
+    "Tharuic",
+    "Eastern Tharu",
+    "Kathoriya Tharu"
+   ],
+   "ldnd": 0.776,
+   "dsame": 0.576,
+   "n": 11,
+   "p": 0.01,
+   "z": 2.1
+  },
+  {
+   "doculect": "asjp:TENE_KAN_4",
+   "name": "TENE_KAN_4",
+   "source": "ASJP",
+   "glottocode": "tene1248",
+   "path": [
+    "Dogon",
+    "Plains Dogon",
+    "Western Plains Dogon",
+    "Tengou-Togo Dogon"
+   ],
+   "ldnd": 0.781,
+   "dsame": 0.611,
+   "n": 12,
+   "p": 0.0233,
+   "z": 2.34
+  },
+  {
+   "doculect": "asjp:ONE_ROMEI",
+   "name": "ONE_ROMEI",
+   "source": "ASJP",
+   "glottocode": "nort2907",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Central-Northern One",
+    "Northern One"
+   ],
+   "ldnd": 0.781,
+   "dsame": 0.66,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.08
+  },
+  {
+   "doculect": "asjp:MORAORI",
+   "name": "MORAORI",
+   "source": "ASJP",
+   "glottocode": "moro1289",
+   "path": [
+    "Marori"
+   ],
+   "ldnd": 0.784,
+   "dsame": 0.648,
+   "n": 11,
+   "p": 0.0133,
+   "z": 2.55
+  },
+  {
+   "doculect": "asjp:TAGISH",
+   "name": "TAGISH",
+   "source": "ASJP",
+   "glottocode": "tagi1240",
+   "path": [
+    "Athabaskan-Eyak-Tlingit",
+    "Athabaskan-Eyak",
+    "Athabaskan",
+    "Northwestern Canada Athabaskan",
+    "Cordillera Athabaskan",
+    "Nahanni",
+    "Tagish"
+   ],
+   "ldnd": 0.784,
+   "dsame": 0.593,
+   "n": 9,
+   "p": 0.0365,
+   "z": 1.77
+  },
+  {
+   "doculect": "asjp:ONE_SIAMA",
+   "name": "ONE_SIAMA",
+   "source": "ASJP",
+   "glottocode": "sout2932",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Southern One"
+   ],
+   "ldnd": 0.785,
+   "dsame": 0.635,
+   "n": 13,
+   "p": 0.0066,
+   "z": 3.04
+  },
+  {
+   "doculect": "asjp:C_YUPIK",
+   "name": "C_YUPIK",
+   "source": "ASJP",
+   "glottocode": "cent2127",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Yupik",
+    "Central Alaskan Yupik"
+   ],
+   "ldnd": 0.785,
+   "dsame": 0.607,
+   "n": 14,
+   "p": 0.0066,
+   "z": 3.13
+  },
+  {
+   "doculect": "asjp:MANKANYA_2",
+   "name": "MANKANYA_2",
+   "source": "ASJP",
+   "glottocode": "mank1251",
+   "path": [
+    "Atlantic-Congo",
+    "North-Central Atlantic",
+    "Central Atlantic",
+    "Bak",
+    "Joola-Manjaku",
+    "Manjaku-Mankanya-Pepel",
+    "Mankanya"
+   ],
+   "ldnd": 0.785,
+   "dsame": 0.602,
+   "n": 9,
+   "p": 0.0266,
+   "z": 1.93
+  },
+  {
+   "doculect": "asjp:LILAU_2",
+   "name": "LILAU_2",
+   "source": "ASJP",
+   "glottocode": "lila1246",
+   "path": [
+    "Bogia",
+    "Lilau"
+   ],
+   "ldnd": 0.786,
+   "dsame": 0.62,
+   "n": 9,
+   "p": 0.0299,
+   "z": 1.99
+  },
+  {
+   "doculect": "asjp:SETI",
+   "name": "SETI",
+   "source": "ASJP",
+   "glottocode": "seti1248",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "Seti"
+   ],
+   "ldnd": 0.786,
+   "dsame": 0.674,
+   "n": 11,
+   "p": 0.01,
+   "z": 2.84
+  },
+  {
+   "doculect": "asjp:JOOLA_EJAMAT",
+   "name": "JOOLA_EJAMAT",
+   "source": "ASJP",
+   "glottocode": "ejam1238",
+   "path": [
+    "Atlantic-Congo",
+    "North-Central Atlantic",
+    "Central Atlantic",
+    "Bak",
+    "Joola-Manjaku",
+    "Jola",
+    "FH-Jola",
+    "PF-Jola",
+    "Her-Ejamat",
+    "Ejamat"
+   ],
+   "ldnd": 0.786,
+   "dsame": 0.66,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.19
+  },
+  {
+   "doculect": "asjp:BAKA_SUDAN_2",
+   "name": "BAKA_SUDAN_2",
+   "source": "ASJP",
+   "glottocode": "baka1274",
+   "path": [
+    "Central Sudanic",
+    "Sara-Bongo-Bagirmi",
+    "Baka-Beli",
+    "Baka (South Sudan)"
+   ],
+   "ldnd": 0.788,
+   "dsame": 0.631,
+   "n": 14,
+   "p": 0.01,
+   "z": 2.56
+  },
+  {
+   "doculect": "asjp:SETA_PLEMA",
+   "name": "SETA_PLEMA",
+   "source": "ASJP",
+   "glottocode": "seta1245",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "Seta"
+   ],
+   "ldnd": 0.788,
+   "dsame": 0.662,
+   "n": 13,
+   "p": 0.0133,
+   "z": 2.88
+  },
+  {
+   "doculect": "asjp:ONE_INEBU_2",
+   "name": "ONE_INEBU_2",
+   "source": "ASJP",
+   "glottocode": "ineb1235",
+   "path": [
+    "Nuclear Torricelli",
+    "West Wapei",
+    "One",
+    "Central-Northern One",
+    "Inebu One"
+   ],
+   "ldnd": 0.791,
+   "dsame": 0.674,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.1
+  },
+  {
+   "doculect": "asjp:JOOLA_GUSILAY_3",
+   "name": "JOOLA_GUSILAY_3",
+   "source": "ASJP",
+   "glottocode": "gusi1246",
+   "path": [
+    "Atlantic-Congo",
+    "North-Central Atlantic",
+    "Central Atlantic",
+    "Bak",
+    "Joola-Manjaku",
+    "Jola",
+    "Gusilay-Bandial",
+    "Gusilay"
+   ],
+   "ldnd": 0.793,
+   "dsame": 0.66,
+   "n": 13,
+   "p": 0.01,
+   "z": 2.58
+  }
+ ],
+ "hierarchy": [
+  [
+   "Nuclear Torricelli",
+   0.44
+  ]
+ ],
+ "status": "resolved"
+}
