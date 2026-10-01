@@ -1,0 +1,840 @@
+{
+ "n_entries": 68,
+ "n_mapped": 45,
+ "n_concepts": 43,
+ "affixes_removed": [
+  [
+   "prefix",
+   "da",
+   7
+  ]
+ ],
+ "candidates": [
+  {
+   "doculect": "lb:huntergatherer-405",
+   "name": "Lokono",
+   "source": "Lexibank",
+   "glottocode": "araw1276",
+   "path": [
+    "Arawakan",
+    "Caribbean Arawakan",
+    "Antillean Arawakan",
+    "Ineric",
+    "Lokono"
+   ],
+   "ldnd": 0.531,
+   "dsame": 0.296,
+   "n": 21,
+   "p": 0.0033,
+   "z": 7.84
+  },
+  {
+   "doculect": "lb:walkerarawakan-Lokono",
+   "name": "Lokono",
+   "source": "Lexibank",
+   "glottocode": "araw1276",
+   "path": [
+    "Arawakan",
+    "Caribbean Arawakan",
+    "Antillean Arawakan",
+    "Ineric",
+    "Lokono"
+   ],
+   "ldnd": 0.592,
+   "dsame": 0.313,
+   "n": 14,
+   "p": 0.0033,
+   "z": 5.31
+  },
+  {
+   "doculect": "asjp:PLAINS_CREE",
+   "name": "PLAINS_CREE",
+   "source": "ASJP",
+   "glottocode": "plai1258",
+   "path": [
+    "Algic",
+    "Algonquian-Blackfoot",
+    "Algonquian",
+    "Cree-Montagnais-Naskapi",
+    "Cree",
+    "Plains Creeic",
+    "Plains Cree"
+   ],
+   "ldnd": 0.776,
+   "dsame": 0.515,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.9
+  },
+  {
+   "doculect": "asjp:LOKONO",
+   "name": "LOKONO",
+   "source": "ASJP",
+   "glottocode": "araw1276",
+   "path": [
+    "Arawakan",
+    "Caribbean Arawakan",
+    "Antillean Arawakan",
+    "Ineric",
+    "Lokono"
+   ],
+   "ldnd": 0.602,
+   "dsame": 0.322,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.7
+  },
+  {
+   "doculect": "asjp:YOMBE_2",
+   "name": "YOMBE_2",
+   "source": "ASJP",
+   "glottocode": "yomb1244",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Bantoid",
+    "Southern Bantoid",
+    "Narrow Bantu",
+    "Central-Western Bantu",
+    "West-Coastal Bantu",
+    "Nzadic",
+    "Lweric",
+    "Dingic",
+    "Loange-Atlantic",
+    "KLC Extended",
+    "Kikongo Language Cluster",
+    "Nuclear KLC",
+    "Kikongoic",
+    "Kambakunyic Kikongo",
+    "Kilaadic Kikongo",
+    "Central-Southern Kikongo",
+    "West Kikongo",
+    "Yombe"
+   ],
+   "ldnd": 0.708,
+   "dsame": 0.42,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.4
+  },
+  {
+   "doculect": "asjp:DINKA_SOUTHEASTERN",
+   "name": "DINKA_SOUTHEASTERN",
+   "source": "ASJP",
+   "glottocode": "sout2834",
+   "path": [
+    "Nilotic",
+    "Western Nilotic",
+    "Dinka-Nuer",
+    "Dinka",
+    "Southeastern Dinka"
+   ],
+   "ldnd": 0.715,
+   "dsame": 0.491,
+   "n": 8,
+   "p": 0.0033,
+   "z": 3.37
+  },
+  {
+   "doculect": "lb:walkerarawakan-Yavitero",
+   "name": "Yavitero",
+   "source": "Lexibank",
+   "glottocode": "yavi1244",
+   "path": [
+    "Arawakan",
+    "Alto Orinoco",
+    "Parenic",
+    "Yavitero-Pareni"
+   ],
+   "ldnd": 0.763,
+   "dsame": 0.409,
+   "n": 14,
+   "p": 0.0033,
+   "z": 3.34
+  },
+  {
+   "doculect": "asjp:AMDANG",
+   "name": "AMDANG",
+   "source": "ASJP",
+   "glottocode": "amda1238",
+   "path": [
+    "Furan",
+    "Amdang"
+   ],
+   "ldnd": 0.665,
+   "dsame": 0.4,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.31
+  },
+  {
+   "doculect": "asjp:NYANKPA",
+   "name": "NYANKPA",
+   "source": "ASJP",
+   "glottocode": "yesk1239",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Benue-Congo Plateau",
+    "West-Central Benue-Congo Plateau",
+    "Northwestern Benue-Congo Plateau",
+    "Koroic",
+    "Nyankpa"
+   ],
+   "ldnd": 0.763,
+   "dsame": 0.472,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.27
+  },
+  {
+   "doculect": "asjp:BANDA_YANGERE",
+   "name": "BANDA_YANGERE",
+   "source": "ASJP",
+   "glottocode": "band1348",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "North Volta-Congo",
+    "Cameroun-Ubangian",
+    "Ubangi",
+    "Ubangi Ka",
+    "Bandaic",
+    "Nuclear Bandaic",
+    "Central Bandaic",
+    "Banda-Yangere"
+   ],
+   "ldnd": 0.748,
+   "dsame": 0.396,
+   "n": 9,
+   "p": 0.0033,
+   "z": 2.97
+  },
+  {
+   "doculect": "asjp:TUNICA",
+   "name": "TUNICA",
+   "source": "ASJP",
+   "glottocode": "tuni1252",
+   "path": [
+    "Tunica"
+   ],
+   "ldnd": 0.778,
+   "dsame": 0.446,
+   "n": 10,
+   "p": 0.0066,
+   "z": 2.91
+  },
+  {
+   "doculect": "asjp:NGYEPU",
+   "name": "NGYEPU",
+   "source": "ASJP",
+   "glottocode": "bari1284",
+   "path": [
+    "Nilotic",
+    "Eastern Nilotic",
+    "Barian",
+    "Nuclear Barian",
+    "Bari"
+   ],
+   "ldnd": 0.776,
+   "dsame": 0.447,
+   "n": 10,
+   "p": 0.0033,
+   "z": 2.89
+  },
+  {
+   "doculect": "asjp:SOUTHEAST_AMBRYM_MAAT",
+   "name": "SOUTHEAST_AMBRYM_MAAT",
+   "source": "ASJP",
+   "glottocode": "sout2859",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Eastern Malayo-Polynesian",
+    "Oceanic",
+    "North and Central Vanuatu",
+    "Central Vanuatu",
+    "Ambrym",
+    "Southeast Ambrym"
+   ],
+   "ldnd": 0.763,
+   "dsame": 0.48,
+   "n": 9,
+   "p": 0.0033,
+   "z": 2.86
+  },
+  {
+   "doculect": "lb:blustaustronesian-nias",
+   "name": "Nias",
+   "source": "Lexibank",
+   "glottocode": "nias1242",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Sumatran",
+    "Central Barrier Islands",
+    "Nias"
+   ],
+   "ldnd": 0.786,
+   "dsame": 0.427,
+   "n": 11,
+   "p": 0.01,
+   "z": 2.85
+  },
+  {
+   "doculect": "asjp:KUNUZ_NUBIAN",
+   "name": "KUNUZ_NUBIAN",
+   "source": "ASJP",
+   "glottocode": "kenu1243",
+   "path": [
+    "Nubian",
+    "Nile Nubian",
+    "Kenuzi-Dongola",
+    "Kenuzi"
+   ],
+   "ldnd": 0.777,
+   "dsame": 0.495,
+   "n": 9,
+   "p": 0.0133,
+   "z": 2.78
+  },
+  {
+   "doculect": "asjp:MALAGASY_SOUTHERN_BETSIMISARAKA_ZAFISIRO_FARAFANGANA",
+   "name": "MALAGASY_SOUTHERN_BETSIMISARAKA_ZAFISIRO_FARAFANGANA",
+   "source": "ASJP",
+   "glottocode": "sout2920",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Southern Betsimisaraka Malagasy"
+   ],
+   "ldnd": 0.762,
+   "dsame": 0.451,
+   "n": 8,
+   "p": 0.0033,
+   "z": 2.74
+  },
+  {
+   "doculect": "asjp:MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAIMORO_MANAKARA",
+   "name": "MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAIMORO_MANAKARA",
+   "source": "ASJP",
+   "glottocode": "sout2920",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Southern Betsimisaraka Malagasy"
+   ],
+   "ldnd": 0.746,
+   "dsame": 0.448,
+   "n": 8,
+   "p": 0.0033,
+   "z": 2.71
+  },
+  {
+   "doculect": "asjp:MALAGASY_NORTHERN_BETSIMISARAKA_FENOARIVO_EAST",
+   "name": "MALAGASY_NORTHERN_BETSIMISARAKA_FENOARIVO_EAST",
+   "source": "ASJP",
+   "glottocode": "nort2890",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Northern Malagasic",
+    "Tsimihety-Betsimisaraka",
+    "Northern Betsimisaraka Malagasy"
+   ],
+   "ldnd": 0.762,
+   "dsame": 0.451,
+   "n": 8,
+   "p": 0.0066,
+   "z": 2.68
+  },
+  {
+   "doculect": "asjp:YAVITERO",
+   "name": "YAVITERO",
+   "source": "ASJP",
+   "glottocode": "yavi1244",
+   "path": [
+    "Arawakan",
+    "Alto Orinoco",
+    "Parenic",
+    "Yavitero-Pareni"
+   ],
+   "ldnd": 0.749,
+   "dsame": 0.412,
+   "n": 10,
+   "p": 0.01,
+   "z": 2.65
+  },
+  {
+   "doculect": "asjp:FALI",
+   "name": "FALI",
+   "source": "ASJP",
+   "glottocode": "sout2782",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Unclassified Volta-Congo",
+    "Adamawa Fali",
+    "South Fali"
+   ],
+   "ldnd": 0.773,
+   "dsame": 0.51,
+   "n": 10,
+   "p": 0.0066,
+   "z": 2.64
+  },
+  {
+   "doculect": "asjp:CUPENO",
+   "name": "CUPENO",
+   "source": "ASJP",
+   "glottocode": "cupe1243",
+   "path": [
+    "Uto-Aztecan",
+    "Northern Uto-Aztecan",
+    "Takic",
+    "Cupan",
+    "Cahuilla-Cupeno",
+    "Cupeño"
+   ],
+   "ldnd": 0.767,
+   "dsame": 0.498,
+   "n": 8,
+   "p": 0.0133,
+   "z": 2.61
+  },
+  {
+   "doculect": "asjp:ULWA",
+   "name": "ULWA",
+   "source": "ASJP",
+   "glottocode": "ulwa1239",
+   "path": [
+    "Misumalpan",
+    "Sumalpan",
+    "Sumuic",
+    "Ulwa"
+   ],
+   "ldnd": 0.788,
+   "dsame": 0.524,
+   "n": 9,
+   "p": 0.0033,
+   "z": 2.6
+  },
+  {
+   "doculect": "asjp:MALAGASY_SOUTHERN_BETSIMISARAKA_MAHANORO",
+   "name": "MALAGASY_SOUTHERN_BETSIMISARAKA_MAHANORO",
+   "source": "ASJP",
+   "glottocode": "sout2920",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Southern Betsimisaraka Malagasy"
+   ],
+   "ldnd": 0.762,
+   "dsame": 0.451,
+   "n": 8,
+   "p": 0.01,
+   "z": 2.59
+  },
+  {
+   "doculect": "asjp:MOLIMA",
+   "name": "MOLIMA",
+   "source": "ASJP",
+   "glottocode": "moli1248",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Eastern Malayo-Polynesian",
+    "Oceanic",
+    "Western Oceanic linkage",
+    "Papuan Tip linkage",
+    "Nuclear Papuan Tip linkage",
+    "North Papuan Mainland-D'Entrecasteaux linkage",
+    "Bwaidoga linkage",
+    "Molima"
+   ],
+   "ldnd": 0.779,
+   "dsame": 0.457,
+   "n": 10,
+   "p": 0.0033,
+   "z": 2.59
+  },
+  {
+   "doculect": "asjp:MBALA_5",
+   "name": "MBALA_5",
+   "source": "ASJP",
+   "glottocode": "mbal1257",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Bantoid",
+    "Southern Bantoid",
+    "Narrow Bantu",
+    "Central-Western Bantu",
+    "Njila",
+    "Northern Njila",
+    "Mbala-Holu-Sondi (K.10)",
+    "Mbala-Sondi",
+    "Mbala"
+   ],
+   "ldnd": 0.774,
+   "dsame": 0.472,
+   "n": 9,
+   "p": 0.01,
+   "z": 2.57
+  },
+  {
+   "doculect": "asjp:KUKU",
+   "name": "KUKU",
+   "source": "ASJP",
+   "glottocode": "bari1284",
+   "path": [
+    "Nilotic",
+    "Eastern Nilotic",
+    "Barian",
+    "Nuclear Barian",
+    "Bari"
+   ],
+   "ldnd": 0.775,
+   "dsame": 0.44,
+   "n": 10,
+   "p": 0.01,
+   "z": 2.57
+  },
+  {
+   "doculect": "asjp:MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAMBOHOAKA_MANANJARY",
+   "name": "MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAMBOHOAKA_MANANJARY",
+   "source": "ASJP",
+   "glottocode": "sout2920",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Basap-Greater Barito",
+    "Greater Barito linkage",
+    "Southeast Barito",
+    "Malagasic",
+    "North-Central Malagasic",
+    "Central-Eastern Malagasic",
+    "Southern Betsimisaraka Malagasy"
+   ],
+   "ldnd": 0.762,
+   "dsame": 0.451,
+   "n": 8,
+   "p": 0.0033,
+   "z": 2.53
+  },
+  {
+   "doculect": "asjp:RITHARNGU",
+   "name": "RITHARNGU",
+   "source": "ASJP",
+   "glottocode": "rita1239",
+   "path": [
+    "Pama-Nyungan",
+    "Yuulngu",
+    "Southern Yolngu",
+    "Ritharrngu"
+   ],
+   "ldnd": 0.748,
+   "dsame": 0.403,
+   "n": 10,
+   "p": 0.01,
+   "z": 2.51
+  },
+  {
+   "doculect": "asjp:KEMANT_2",
+   "name": "KEMANT_2",
+   "source": "ASJP",
+   "glottocode": "qima1242",
+   "path": [
+    "Afro-Asiatic",
+    "Cushitic",
+    "Agaw",
+    "Northern-Eastern-Western Agaw",
+    "Qimant"
+   ],
+   "ldnd": 0.771,
+   "dsame": 0.455,
+   "n": 10,
+   "p": 0.01,
+   "z": 2.5
+  },
+  {
+   "doculect": "asjp:BARI_SUDAN",
+   "name": "BARI_SUDAN",
+   "source": "ASJP",
+   "glottocode": "bari1284",
+   "path": [
+    "Nilotic",
+    "Eastern Nilotic",
+    "Barian",
+    "Nuclear Barian",
+    "Bari"
+   ],
+   "ldnd": 0.775,
+   "dsame": 0.44,
+   "n": 10,
+   "p": 0.0033,
+   "z": 2.5
+  },
+  {
+   "doculect": "asjp:SIMALUR",
+   "name": "SIMALUR",
+   "source": "ASJP",
+   "glottocode": "sime1241",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Sumatran",
+    "Simeulue"
+   ],
+   "ldnd": 0.755,
+   "dsame": 0.439,
+   "n": 10,
+   "p": 0.0133,
+   "z": 2.44
+  },
+  {
+   "doculect": "asjp:TUTONG_2",
+   "name": "TUTONG_2",
+   "source": "ASJP",
+   "glottocode": "tuto1241",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "North Borneo Malayo-Polynesian",
+    "North Sarawakan",
+    "Berawan-Lower Baram",
+    "Lower Baram",
+    "Central Lower Baram A",
+    "Tutong"
+   ],
+   "ldnd": 0.777,
+   "dsame": 0.442,
+   "n": 9,
+   "p": 0.0166,
+   "z": 2.43
+  },
+  {
+   "doculect": "asjp:MONO_CONGO",
+   "name": "MONO_CONGO",
+   "source": "ASJP",
+   "glottocode": "mono1270",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "North Volta-Congo",
+    "Cameroun-Ubangian",
+    "Ubangi",
+    "Ubangi Ka",
+    "Bandaic",
+    "Nuclear Bandaic",
+    "Central Bandaic",
+    "Core Central Bandaic",
+    "Mono (Democratic Republic of Congo)"
+   ],
+   "ldnd": 0.78,
+   "dsame": 0.445,
+   "n": 10,
+   "p": 0.0066,
+   "z": 2.42
+  },
+  {
+   "doculect": "asjp:MORO",
+   "name": "MORO",
+   "source": "ASJP",
+   "glottocode": "moro1285",
+   "path": [
+    "Heibanic",
+    "West-Central Heibanic",
+    "Western Heibanic",
+    "Moro"
+   ],
+   "ldnd": 0.756,
+   "dsame": 0.433,
+   "n": 10,
+   "p": 0.01,
+   "z": 2.39
+  },
+  {
+   "doculect": "asjp:KIHA",
+   "name": "KIHA",
+   "source": "ASJP",
+   "glottocode": "bamb1270",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Greater South Sulawesi",
+    "South Sulawesi",
+    "Northern South Sulawesi",
+    "Pitu Ulunna Salu",
+    "Matangnga-Aralle-Tabulahan",
+    "Bambam"
+   ],
+   "ldnd": 0.772,
+   "dsame": 0.445,
+   "n": 10,
+   "p": 0.0266,
+   "z": 2.34
+  },
+  {
+   "doculect": "asjp:TEHUELCHE",
+   "name": "TEHUELCHE",
+   "source": "ASJP",
+   "glottocode": "tehu1242",
+   "path": [
+    "Chonan",
+    "Nuclear Chonan",
+    "Tehuelche"
+   ],
+   "ldnd": 0.782,
+   "dsame": 0.513,
+   "n": 9,
+   "p": 0.01,
+   "z": 2.25
+  },
+  {
+   "doculect": "asjp:GARRE",
+   "name": "GARRE",
+   "source": "ASJP",
+   "glottocode": "garr1259",
+   "path": [
+    "Afro-Asiatic",
+    "Cushitic",
+    "East Cushitic",
+    "Lowland East Cushitic",
+    "Southern Lowland East Cushitic",
+    "Mainstream Lowland East Cushitic",
+    "Omo-Tana",
+    "Eastern Omo-Tana",
+    "Karre-Boni",
+    "Garre"
+   ],
+   "ldnd": 0.751,
+   "dsame": 0.461,
+   "n": 10,
+   "p": 0.0033,
+   "z": 2.2
+  },
+  {
+   "doculect": "asjp:YERUKULA",
+   "name": "YERUKULA",
+   "source": "ASJP",
+   "glottocode": "yeru1240",
+   "path": [
+    "Dravidian",
+    "South Dravidian",
+    "South Dravidian I",
+    "Tamil-Kannada",
+    "Tamil-Kota",
+    "Tamil-Toda",
+    "Tamil-Irula",
+    "Tamil-Kodagu",
+    "Tamil-Malayalam",
+    "Tamiloid",
+    "Yerukula-Korava-Kaikadi",
+    "Yerukula"
+   ],
+   "ldnd": 0.78,
+   "dsame": 0.451,
+   "n": 9,
+   "p": 0.0166,
+   "z": 2.14
+  },
+  {
+   "doculect": "asjp:KONDO",
+   "name": "KONDO",
+   "source": "ASJP",
+   "glottocode": "ulum1237",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Greater South Sulawesi",
+    "South Sulawesi",
+    "Northern South Sulawesi",
+    "Pitu Ulunna Salu",
+    "Matangnga-Aralle-Tabulahan",
+    "Ulumanda'"
+   ],
+   "ldnd": 0.787,
+   "dsame": 0.455,
+   "n": 10,
+   "p": 0.0266,
+   "z": 2.14
+  },
+  {
+   "doculect": "asjp:GIRIRRA_2",
+   "name": "GIRIRRA_2",
+   "source": "ASJP",
+   "glottocode": "giri1245",
+   "path": [
+    "Afro-Asiatic",
+    "Cushitic",
+    "East Cushitic",
+    "Lowland East Cushitic",
+    "Southern Lowland East Cushitic",
+    "Mainstream Lowland East Cushitic",
+    "Omo-Tana",
+    "Eastern Omo-Tana",
+    "Girirra"
+   ],
+   "ldnd": 0.786,
+   "dsame": 0.471,
+   "n": 10,
+   "p": 0.0299,
+   "z": 2.13
+  }
+ ],
+ "hierarchy": [
+  [
+   "Arawakan",
+   1.0
+  ],
+  [
+   "Caribbean Arawakan",
+   1.0
+  ],
+  [
+   "Antillean Arawakan",
+   1.0
+  ],
+  [
+   "Ineric",
+   1.0
+  ],
+  [
+   "Lokono",
+   1.0
+  ]
+ ],
+ "status": "resolved",
+ "leading": {
+  "name": "Lokono",
+  "family": "Arawakan",
+  "z": 7.84
+ }
+}

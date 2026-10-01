@@ -1,0 +1,6394 @@
+[
+ {
+  "tcp_id": "A62332",
+  "year": 1674,
+  "author": "Scheffer, Johannes, 1621-1679.",
+  "title": "The history of Lapland wherein are shewed the original, manners, habits, marriages, conjurations, &c. of that people / written by John Scheffer ...",
+  "n_windows": 3,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Language of the Laplanders",
+   "The Laplanders call",
+   "The Tartars call / The Laplanders"
+  ],
+  "places": [
+   "Lapland"
+  ],
+  "regions": [
+   "Lapland"
+  ],
+  "n_forms": 90,
+  "sample_pairs": [
+   [
+    "the Swedes, stoor",
+    "stour"
+   ],
+   [
+    "saligh",
+    "Salug"
+   ],
+   [
+    "God",
+    "Allah"
+   ],
+   [
+    "God",
+    "Jubmel"
+   ],
+   [
+    "the Sun",
+    "Beiwe"
+   ],
+   [
+    "Heaven",
+    "Alm"
+   ],
+   [
+    "Fire",
+    "Tulla"
+   ],
+   [
+    "God",
+    "Jubmar or Immel"
+   ]
+  ],
+  "contact_flags": [
+   "Cuningas",
+   "Konnagas"
+  ],
+  "why": [
+   "Scheffer's paired Tartar/Laplander word comparison to refute common origin; guess: Turkic vs Sami.",
+   "guess: Sami-Finnish comparative list, with loanwords like Konnagas/Cuningas (Germanic king) visible.",
+   "Chapter on Lapp language with only a couple of comparative forms at snippet edge; guess: Sami."
+  ]
+ },
+ {
+  "tcp_id": "A53322",
+  "year": 1669,
+  "author": "Olearius, Adam, 1603-1671.",
+  "title": "The voyages and travells of the ambassadors sent by Frederick, Duke of Holstein, to the Great Duke of Muscovy and the King of Persia begun in the year",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Groenlanders"
+  ],
+  "places": [
+   "Groenlanders"
+  ],
+  "regions": [
+   "Greenland"
+  ],
+  "n_forms": 107,
+  "sample_pairs": [
+   [
+    "coelum",
+    "Keiling"
+   ],
+   [
+    "Latiue",
+    "Igne"
+   ],
+   [
+    "Heaven.",
+    "Keiling"
+   ],
+   [
+    "a Star.",
+    "Vbleisin"
+   ],
+   [
+    "the Sun.",
+    "Iliout"
+   ],
+   [
+    "the Moon.",
+    "Aningang"
+   ],
+   [
+    "a Dog.",
+    "Pissiak"
+   ]
+  ],
+  "contact_flags": [
+   "Kalulia",
+   "Kalulisen",
+   "Karlein",
+   "Kia mecle",
+   "Naglein",
+   "Neizin",
+   "Sua",
+   "Suna"
+  ],
+  "why": [
+   "guess: Greenlandic (Inuit) list of ~100 words with numerals, in Olearius; author notes the word Igne is not Latin; some glosses look mis-elicited.",
+   "Discussion of Greenlanders' speech with two words compared to Latin/Greek at snippet edge."
+  ]
+ },
+ {
+  "tcp_id": "A03066",
+  "year": 1638,
+  "author": "Herbert, Thomas, Sir, 1606-1682.",
+  "title": "Some yeares travels into divers parts of Asia and Afrique Describing especially the two famous empires, the Persian, and the great Mogull: weaved with",
+  "n_windows": 5,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "English. | Malay.",
+   "English. | Persian.",
+   "Persian. | English. | Turkish.",
+   "their Alphabet"
+  ],
+  "places": [
+   "Persia",
+   "Tauris"
+  ],
+  "regions": [
+   "East Indies",
+   "Persia"
+  ],
+  "n_forms": 535,
+  "sample_pairs": [
+   [
+    "Aleph",
+    "Aleph"
+   ],
+   [
+    "bea",
+    "bea"
+   ],
+   [
+    "tea",
+    "tea"
+   ],
+   [
+    "sea",
+    "sea"
+   ],
+   [
+    "Icam",
+    "Icam"
+   ],
+   [
+    "a King",
+    "Rutgee"
+   ],
+   [
+    "a Priest",
+    "Kay"
+   ],
+   [
+    "a Dog",
+    "Domba"
+   ]
+  ],
+  "contact_flags": [
+   "Alforees a Shooe",
+   "Bizmilla",
+   "Broder",
+   "Cabo",
+   "Calvenetten Baggs",
+   "Capel. Iunck",
+   "Cartas Quills",
+   "Che, pader man",
+   "Daughter",
+   "Hummum",
+   "Lemoon",
+   "Mamma & Madre",
+   "Padre",
+   "Phetor an Interpreter",
+   "Pistachoes"
+  ],
+  "why": [
+   "guess: Persian wordlist in pipe-separated run with gloss-form offset; mixes European-looking kin terms (Padre, Madre, Broder) among the Persian.",
+   "Alphabet letter-names transliterated, introducing a short Language section at snippet edge; guess: Persian.",
+   "Large Herbert English-Malay table with many glosses visibly shifted/misaligned (e.g. Fire/Api, Water/Eyer); guess: Malay with Portuguese/Dutch admixture."
+  ]
+ },
+ {
+  "tcp_id": "A15685",
+  "year": 1634,
+  "author": "Wood, William, fl. 1629-1635.",
+  "title": "Nevv Englands prospect· A true, lively, and experimentall description of that part of America, commonly called Nevv England: discovering the state of ",
+  "n_windows": 4,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Nomenclator",
+   "The Indians count their time by nights, and not by dayes, as followeth."
+  ],
+  "places": [],
+  "regions": [
+   "New England"
+  ],
+  "n_forms": 266,
+  "sample_pairs": [
+   [
+    "Squaw",
+    "Squaw"
+   ],
+   [
+    "yes",
+    "Haha"
+   ],
+   [
+    "water",
+    "Nippe"
+   ],
+   [
+    "a friend",
+    "Netop"
+   ],
+   [
+    "no",
+    "Matta"
+   ],
+   [
+    "meat",
+    "Mitchin"
+   ],
+   [
+    "a pipe",
+    "Ponesanto"
+   ],
+   [
+    "a king",
+    "Sagamore"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Wood introduces a Nomenclator of the Natives Language at snippet edge; list itself not visible.",
+   "guess: Algonquian (Massachusett/Narragansett) alphabetical vocabulary in Wood's New Englands Prospect, with phrases.",
+   "Alphabetical English-gloss/native word list in Wood's New England's Prospect (guess: Massachusett/Narragansett)."
+  ]
+ },
+ {
+  "tcp_id": "A57484",
+  "year": 1666,
+  "author": "Rochefort, César de, b. 1605.",
+  "title": "The history of the Caribby-islands, viz, Barbados, St Christophers, St Vincents, Martinico, Dominico, Barbouthos, Monserrat, Mevis, Antego, &c in all ",
+  "n_windows": 5,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "A CARIBBIAN VOCABULARY",
+   "Caribbians",
+   "THINGS ELEMENTARY and IN ANIMATE",
+   "VII. LIVING CREATURES."
+  ],
+  "places": [
+   "Caribbies",
+   "Caribby-islands"
+  ],
+  "regions": [
+   "Caribbean / Apalachites",
+   "Caribbean islands",
+   "Caribbee Islands",
+   "Caribbee islands"
+  ],
+  "n_forms": 236,
+  "sample_pairs": [
+   [
+    "terms of",
+    "Cakonnes"
+   ],
+   [
+    "I am hungry",
+    "Lamanatina"
+   ],
+   [
+    "I am thirsty",
+    "Nacrabatina"
+   ],
+   [
+    "Eat, in the Imperative",
+    "Baika"
+   ],
+   [
+    "I dance",
+    "Nabinakayem"
+   ],
+   [
+    "Weep",
+    "Ayakouaba"
+   ],
+   [
+    "A Dog",
+    "Anly"
+   ],
+   [
+    "A Cat",
+    "Mechou"
+   ]
+  ],
+  "contact_flags": [
+   "Batta",
+   "Choucre",
+   "Cocuyos",
+   "Couloubera",
+   "Haouanemeti",
+   "Iganas",
+   "Kanarou",
+   "Maringoins",
+   "Mechou",
+   "Pisket",
+   "Tortillé"
+  ],
+  "why": [
+   "Rochefort phrase and verb list with separate men's (M.) and women's (W.) forms; guess: Island Carib.",
+   "Rochefort topical word list explicitly noting 'corrupt Language' loans and Spanish-derived words; guess: Island Carib.",
+   "guess: Island Carib thematic list in Rochefort with separate men's (M.) and women's (W.) forms; Rochefort is famous but the sex-marked variants are notable."
+  ]
+ },
+ {
+  "tcp_id": "A53222",
+  "year": 1671,
+  "author": "Ogilby, John, 1600-1676.",
+  "title": "America : being the latest, and most accurate description of the new vvorld containing the original of the inhabitants, and the remarkable voyages thi",
+  "n_windows": 5,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "A View of the Chilesian Language.",
+   "Tapuaiyans"
+  ],
+  "places": [],
+  "regions": [
+   "Brasil",
+   "Brazil",
+   "Chile",
+   "South America"
+  ],
+  "n_forms": 442,
+  "sample_pairs": [
+   [
+    "Idol",
+    "Maraka"
+   ],
+   [
+    "the Cane",
+    "Tacaara"
+   ],
+   [
+    "A Whale.",
+    "Iene"
+   ],
+   [
+    "Dead.",
+    "Pilo"
+   ],
+   [
+    "Two.",
+    "Eppo"
+   ],
+   [
+    "The Head.",
+    "Congo"
+   ],
+   [
+    "The Eyes.",
+    "Ne"
+   ],
+   [
+    "A Ship",
+    "Buta-wampo"
+   ]
+  ],
+  "contact_flags": [
+   "Apo",
+   "Apo-curaca",
+   "Catila",
+   "Charavilla",
+   "Chiliweki",
+   "Cobra",
+   "Cuchy",
+   "Curaca",
+   "Kispi",
+   "Mama",
+   "Nido-iwas",
+   "Paila",
+   "Quichio",
+   "Tassaquido",
+   "Tupana"
+  ],
+  "why": [
+   "guess: Mapuche (Chile) list of ~120 words with numerals and body parts in Ogilby's America; region heading is outside the snippet.",
+   "Long alphabetised-by-topic Ogilby word list with Spanish loans mixed in; guess: Mapudungun (Chile).",
+   "guess: Tupi alphabetical word list (A-Y) in Ogilby's America, with kin terms distinguished by speaker sex; heading not in snippet."
+  ]
+ },
+ {
+  "tcp_id": "A03065",
+  "year": 1634,
+  "author": "Herbert, Thomas, Sir, 1606-1682.",
+  "title": "A relation of some yeares trauaile begunne anno 1626. Into Afrique and the greater Asia, especially the territories of the Persian monarchie: and some",
+  "n_windows": 6,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "English. | Persian.",
+   "Persian. | English | Turkish.",
+   "The Malayan Tongue",
+   "the Persian Alphabet"
+  ],
+  "places": [
+   "Babylon",
+   "Babylon | Bagdat Tauris | Tabris Syras | Shyraz",
+   "Malacca, Iaua, Sumatra, Macassar",
+   "Persia",
+   "Persian"
+  ],
+  "regions": [
+   "East Indies",
+   "Persia"
+  ],
+  "n_forms": 485,
+  "sample_pairs": [
+   [
+    "Aleph",
+    "Aleph"
+   ],
+   [
+    "bea",
+    "bea"
+   ],
+   [
+    "tea",
+    "tea"
+   ],
+   [
+    "sea",
+    "sea"
+   ],
+   [
+    "Icam",
+    "Icam"
+   ],
+   [
+    "A Horse",
+    "Asp"
+   ],
+   [
+    "a Saddle",
+    "Zeen"
+   ],
+   [
+    "Wine",
+    "Sherap"
+   ]
+  ],
+  "contact_flags": [
+   "Alforees",
+   "Awpheat bashat-broder",
+   "Bolla-push",
+   "Caffar",
+   "Capall",
+   "Cartas",
+   "Iorbissa",
+   "Ophium",
+   "Pistachoes",
+   "Praw",
+   "Quo ia merue?",
+   "Rhubarr",
+   "Saboon",
+   "Tombacco",
+   "Triacke"
+  ],
+  "why": [
+   "Herbert's English/Malay table begins at the snippet edge; entries not visible.",
+   "Alphabet letter-names transliterated with numerals; vocabulary proper at snippet edge.",
+   "Herbert's Persian word list in pipe format; gloss/form columns appear shifted by one so glosses precede the form they belong to (guess: Persian)."
+  ]
+ },
+ {
+  "tcp_id": "A16221",
+  "year": 1594,
+  "author": "Blundeville, Thomas, fl. 1561.",
+  "title": "M. Blundevile his exercises containing sixe treatises, the titles wherof are set down in the next printed page: which treatises are verie necessarie t",
+  "n_windows": 3,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Aticlabassi",
+   "called"
+  ],
+  "places": [
+   "Afrique",
+   "Images contayned in the sixt space",
+   "Scorpio, Sagittarius, Capricornus, Aquarius"
+  ],
+  "regions": [
+   "Africa",
+   "Arabic star-name tradition",
+   "star names"
+  ],
+  "n_forms": 19,
+  "sample_pairs": [
+   [
+    "Emperour of the Moores or Ethiopians",
+    "Aticlabassi"
+   ],
+   [
+    "of his owne subiects",
+    "Acegue"
+   ],
+   [
+    "Emperor and King of the Abassines",
+    "Neguz"
+   ],
+   [
+    "cor Scorpionis",
+    "chalb Alatrab"
+   ],
+   [
+    "Scorpius Nepa",
+    "Alatrab"
+   ],
+   [
+    "Capricornus",
+    "Algedi"
+   ],
+   [
+    "Piscis Meridionalis",
+    "Fomahant"
+   ],
+   [
+    "Aquarii",
+    "Scheat"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Three titles for the Ethiopian ruler in different languages inside a geography digest.",
+   "Star names with Latin equivalents in Blundeville's globe treatise (guess: Arabic star names via Latin); astronomical not ethnographic.",
+   "Arabic-derived star names listed as synonyms of Latin/Greek constellation names; guess: Arabic."
+  ]
+ },
+ {
+  "tcp_id": "A28809",
+  "year": 1647,
+  "author": "Boothby, Richard.",
+  "title": "A briefe discovery or description of the most famous island of Madagascar or St. Laurence in Asia neare unto East-India with relation of the healthful",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "a few words of their language",
+   "their language or speech"
+  ],
+  "places": [
+   "Madagascar",
+   "Madagascar, Saint Laurence"
+  ],
+  "regions": [
+   "Madagascar"
+  ],
+  "n_forms": 70,
+  "sample_pairs": [
+   [
+    "a man.",
+    "Tona"
+   ],
+   [
+    "a woman.",
+    "Codez"
+   ],
+   [
+    "water.",
+    "Camba"
+   ],
+   [
+    "the head.",
+    "Bingta or Sooa"
+   ],
+   [
+    "a gun.",
+    "Pingbara"
+   ]
+  ],
+  "contact_flags": [
+   "Caba",
+   "Calibus",
+   "Cowhee",
+   "Maca",
+   "Nunqua",
+   "Pingbara",
+   "Saffee"
+  ],
+  "why": [
+   "Boothby's Madagascar list; guess: forms do not look Malagasy (possibly Bantu or mixed), with eye/ear and other glosses doubled, recorded from memory and a purser's papers.",
+   "Author introduces a few recorded words of the island's language from an old table book at snippet edge; guess: Malagasy, obscure tract."
+  ]
+ },
+ {
+  "tcp_id": "A12461",
+  "year": 1624,
+  "author": "Smith, John, 1580-1631.",
+  "title": "The generall historie of Virginia, New-England, and the Summer Isles with the names of the adventurers, planters, and governours from their first begi",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Because many doe desire to know the manner of their Language, I haue inserted these few words.",
+   "the manner of their Language"
+  ],
+  "places": [
+   "Virginia"
+  ],
+  "regions": [
+   "Virginia"
+  ],
+  "n_forms": 45,
+  "sample_pairs": [
+   [
+    "a man",
+    "Nemarough"
+   ],
+   [
+    "a woman",
+    "Crenepo"
+   ],
+   [
+    "Fire",
+    "Pokatawer"
+   ],
+   [
+    "Axes",
+    "Tomahacks"
+   ],
+   [
+    "Water",
+    "Suckahanna"
+   ]
+  ],
+  "contact_flags": [
+   "Mockasins",
+   "Tomahacks"
+  ],
+  "why": [
+   "Smith's heading introducing an inserted Virginia word list begins at snippet edge.",
+   "Famous John Smith Virginia wordlist with numerals; guess: Powhatan."
+  ]
+ },
+ {
+  "tcp_id": "A66450",
+  "year": 1643,
+  "author": "Williams, Roger, 1604?-1683.",
+  "title": "A key into the language of America, or, An help to the language of the natives in that part of America called New-England together with briefe observa",
+  "n_windows": 6,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Directions for the use of the LANGUAGE",
+   "Fire",
+   "Friend, I will aske you a Question",
+   "Give me drinke",
+   "Nanouwétea",
+   "Numbers of the masculine gender"
+  ],
+  "places": [
+   "Language of America",
+   "Language of America (Tree-eaters, West into the land)",
+   "Narroganset"
+  ],
+  "regions": [
+   "New England"
+  ],
+  "n_forms": 210,
+  "sample_pairs": [
+   [
+    "An over-Seer ana Orderer of their Worship.",
+    "Nanouwétea."
+   ],
+   [
+    "I will order or oversee.",
+    "Neen nanowwúnnemun."
+   ],
+   [
+    "I give away at the Worship.",
+    "Nowemaúsi•…teem."
+   ],
+   [
+    "I'le give these things.",
+    "Nowemacaūnash."
+   ],
+   [
+    "Kings",
+    "Sachima•…g"
+   ],
+   [
+    "Friend, I will aske you a Question.",
+    "Netop Kunnatótemous"
+   ],
+   [
+    "Who made the Heavens?",
+    "Nawun Keesiteoùwin Kéesuck"
+   ],
+   [
+    "Fire.",
+    "Nòte"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Williams's Key preface directions; no word pairs visible yet; guess: Narragansett.",
+   "Roger Williams Key, form|gloss lines on worship; guess: Narragansett.",
+   "Roger Williams, Key into the Language of America, conversational dialogue; guess: Narragansett."
+  ]
+ },
+ {
+  "tcp_id": "A12466",
+  "year": 1612,
+  "author": "Smith, John, 1580-1631.",
+  "title": "A map of Virginia VVith a description of the countrey, the commodities, people, government and religion. VVritten by Captaine Smith, sometimes governo",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Because many doe desire to knowe the maner of their language, I haue inserted these few words",
+   "which they call"
+  ],
+  "places": [
+   "Powhatan, Werowocomoco, Orapaks",
+   "Virginia"
+  ],
+  "regions": [
+   "Virginia"
+  ],
+  "n_forms": 87,
+  "sample_pairs": [
+   [
+    "Plumbs ... which they call",
+    "Putchamins"
+   ],
+   [
+    "another sort of grape ... this they call",
+    "Messaminnes"
+   ],
+   [
+    "a man.",
+    "Nemarough"
+   ],
+   [
+    "A woman.",
+    "Crenepo"
+   ],
+   [
+    "Fire.",
+    "Pokatawer"
+   ],
+   [
+    "Water.",
+    "Suckahanna"
+   ],
+   [
+    "Axes.",
+    "Tomahacks"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Two native fruit names in Smith's Map of Virginia natural-history section.",
+   "John Smith's Map of Virginia word list, numbers and phrases; guess: Powhatan."
+  ]
+ },
+ {
+  "tcp_id": "A08052",
+  "year": 1601,
+  "author": "Neck, Jacob Cornelissoon van, ca. 1564-1638.",
+  "title": "The iournall, or dayly register, contayning a true manifestation, and historicall declaration of the voyage, accomplished by eight shippes of Amsterda",
+  "n_windows": 3,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Some Iauanish words. | Counting in the Molucas tongue.",
+   "Some words of the Malish speech"
+  ],
+  "places": [
+   "the East Indies",
+   "these Islands"
+  ],
+  "regions": [
+   "East Indies",
+   "East Indies (Java, Moluccas)",
+   "East Indies islands"
+  ],
+  "n_forms": 340,
+  "sample_pairs": [
+   [
+    "a Brother",
+    "Addollaley"
+   ],
+   [
+    "Blood",
+    "Darna"
+   ],
+   [
+    "Bookes",
+    "Kytab"
+   ],
+   [
+    "to Eate",
+    "Makan"
+   ],
+   [
+    "a Hen",
+    "Ayam"
+   ],
+   [
+    "Strong",
+    "Cras"
+   ],
+   [
+    "a Ship",
+    "Capal"
+   ],
+   [
+    "Water",
+    "Eyer"
+   ]
+  ],
+  "contact_flags": [
+   "Alforces",
+   "Alforees",
+   "Arac",
+   "Beeff",
+   "Capello",
+   "Cartaes",
+   "Cartas",
+   "Casses",
+   "Gatto d'algalia",
+   "Pyennig",
+   "Tambagle"
+  ],
+  "why": [
+   "Alphabetical English-to-native wordlist with Javanese and Moluccas sections; headings suggest mixed languages (guess: Malay with some other, possibly Madagascar, words early in list).",
+   "Heading for a Malay word list begins at snippet edge; entries not visible.",
+   "guess: Malay wordlist, alphabetical English-to-form, in Dutch voyage journal (van Neck); note says Portuguese is the lingua franca there."
+  ]
+ },
+ {
+  "tcp_id": "A53223",
+  "year": 1673,
+  "author": "Ogilby, John, 1600-1676.",
+  "title": "Asia. The first part being an accurate description of Persia, and the several provinces thereof : the vast empire of the Great Mogol, and other parts ",
+  "n_windows": 4,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Patalam"
+  ],
+  "places": [],
+  "regions": [
+   "East Indies",
+   "India"
+  ],
+  "n_forms": 388,
+  "sample_pairs": [
+   [
+    "The Infernal Pit",
+    "Patalam"
+   ],
+   [
+    "Heaven",
+    "Surgam"
+   ],
+   [
+    "Heaven",
+    "Brammar-Lokon"
+   ],
+   [
+    "Bread",
+    "Rotty"
+   ],
+   [
+    "A Barber",
+    "Oran pande thicor"
+   ],
+   [
+    "A Mountain",
+    "Gouno"
+   ],
+   [
+    "A Book",
+    "Cambyn"
+   ],
+   [
+    "The Devil",
+    "Settam"
+   ]
+  ],
+  "contact_flags": [
+   "Bedil",
+   "Cambyn",
+   "Cartas",
+   "Cartas bieguidit",
+   "Cartas sapzy",
+   "Dastar",
+   "Dios",
+   "Lapis",
+   "Mallim",
+   "Sapirin Boat",
+   "Satou nesserani",
+   "Settam",
+   "Soutra viloudu",
+   "Soutratoieist",
+   "Taryman"
+  ],
+  "why": [
+   "guess: Malay-type wordlist in Ogilby Asia, alphabetical English gloss order, label cut off.",
+   "Hindu cosmology terms glossed in running text (Bramma, Patalam, Surgam).",
+   "Long alphabetical English-gloss list in Ogilby's Asia (guess: Malay)."
+  ]
+ },
+ {
+  "tcp_id": "A51768",
+  "year": 1675,
+  "author": "Manilius, Marcus.",
+  "title": "The sphere of Marcus Manilius made an English poem with annotations and an astronomical appendix / by Edward Sherburne, Esquire.",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "by the Arabs Aldebaran"
+  ],
+  "places": [],
+  "regions": [
+   "Egypt / Arabia (star names)"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "Stella Dominatrix",
+    "Aldebaran"
+   ],
+   [
+    "Oculus Tauri",
+    "Ain Al Thaur"
+   ],
+   [
+    "Statio, seu Dominium Hori",
+    "Piorion"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Star names given in Arabic and Egyptian with Latin glosses inside a Manilius commentary; footnote also mentions Coptic names."
+  ]
+ },
+ {
+  "tcp_id": "A14027",
+  "year": 1542,
+  "author": "Geuffroy, Antoine.",
+  "title": "The order of the greate Turckes courte, of hys menne of warre, and of all hys conquestes, with the summe of Mahumetes doctryne. Translated out of Fren",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Begy, or Bey",
+   "whyche the Turkes cal Stamboll"
+  ],
+  "places": [
+   "Constantynople",
+   "Natolie"
+  ],
+  "regions": [
+   "Anatolia / Ottoman",
+   "Ottoman Empire"
+  ],
+  "n_forms": 4,
+  "sample_pairs": [
+   [
+    "lorde or master",
+    "Begy, or Bey"
+   ],
+   [
+    "lorde or master",
+    "Othmanbeg"
+   ],
+   [
+    "Constantynople",
+    "Stamboll"
+   ],
+   [
+    "his house",
+    "Saray"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Turkish title glossed in Ottoman origin narrative; few terms.",
+   "Two Turkish words glossed at start of Ottoman court treatise."
+  ]
+ },
+ {
+  "tcp_id": "A44885",
+  "year": 1659,
+  "author": "Hues, Robert, 1553-1632.",
+  "title": "A learned treatise of globes, both cœlestiall and terrestriall with their several uses / written first in Latine, by Mr. Robert Hues, and by him so pu",
+  "n_windows": 4,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "in Arabique"
+  ],
+  "places": [],
+  "regions": [
+   "Arabic astronomy",
+   "Arabic star names"
+  ],
+  "n_forms": 34,
+  "sample_pairs": [
+   [
+    "the Waggoner",
+    "Roha"
+   ],
+   [
+    "the Eagle",
+    "Altayr"
+   ],
+   [
+    "the Dolphin",
+    "Aldelphin"
+   ],
+   [
+    "the Arrow or Dart",
+    "Alsoham"
+   ],
+   [
+    "Serpent bearer",
+    "Alhava"
+   ],
+   [
+    "lesser Bear",
+    "Dub Alasgar"
+   ],
+   [
+    "a Wagon or Chariot",
+    "Alrucaba"
+   ],
+   [
+    "that is to say, the River",
+    "Alvahar"
+   ]
+  ],
+  "contact_flags": [
+   "Algomeiza",
+   "Bellatrix",
+   "Habor"
+  ],
+  "why": [
+   "Constellation names in Arabic with Latin/English glosses in a globes treatise.",
+   "Arabic constellation names with glosses in a globes treatise.",
+   "guess: Arabic star and constellation names with English glosses and etymologies."
+  ]
+ },
+ {
+  "tcp_id": "A64026",
+  "year": 1688,
+  "author": "La Chapelle, M. de (Jean), 1655-1723. Langage müet. English.",
+  "title": "Two new novels ... translated out of the French by P.B.G.",
+  "n_windows": 5,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "The Alphabetical Dictionary of the Dumb Language, containing the Name, Signification, Worth, and Interpretation of the *Selams.*",
+   "in the Turkish Language",
+   "those things which the Turks call Selam's"
+  ],
+  "places": [
+   "Seraglio"
+  ],
+  "regions": [
+   "Turkey",
+   "Turkey (Ottoman)"
+  ],
+  "n_forms": 183,
+  "sample_pairs": [
+   [
+    "Salutes",
+    "Selam's"
+   ],
+   [
+    "Precious-Stone",
+    "Gevaher"
+   ],
+   [
+    "Salutes",
+    "Selam"
+   ],
+   [
+    "Looking-Glass",
+    "AIna"
+   ],
+   [
+    "Red",
+    "Al"
+   ],
+   [
+    "Apple",
+    "Alma"
+   ],
+   [
+    "Half-peny",
+    "Aktché Asper"
+   ],
+   [
+    "Barley",
+    "Arpa"
+   ]
+  ],
+  "contact_flags": [
+   "Ambretta",
+   "Asper",
+   "Badian hindj",
+   "Dartchin",
+   "Frag Fourj",
+   "Taxta",
+   "Tulbend",
+   "sequin"
+  ],
+  "why": [
+   "Translated French novel introducing an 'Alphabetical Dictionary of the Dumb Language' of love-tokens (Selams); dictionary starts at snippet edge; guess: Turkish, unusual genre.",
+   "Dictionary of Turkish flower/object love-tokens with phrases, embedded in a translated French novel (guess: Turkish); unexpected genre.",
+   "guess: Turkish alphabetical word-and-phrase list of love-talk inside a French novel translation (Langage muet), unusual genre with phrases for seduction."
+  ]
+ },
+ {
+  "tcp_id": "A13665",
+  "year": 1568,
+  "author": "Thevet, André, 1502-1590.",
+  "title": "The new found vvorlde, or Antarctike wherin is contained wo[n]derful and strange things, as well of humaine creatures, as beastes, fishes, foules, and",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "this worde Iugies"
+  ],
+  "places": [
+   "Cuzco"
+  ],
+  "regions": [
+   "America",
+   "Peru"
+  ],
+  "n_forms": 15,
+  "sample_pairs": [
+   [
+    "Kings",
+    "Iugies"
+   ],
+   [
+    "a kind of Palme",
+    "Ierahuua"
+   ],
+   [
+    "a green birde",
+    "Aiouroub"
+   ],
+   [
+    "a bird very litle",
+    "Gouanbuch"
+   ],
+   [
+    "a beast",
+    "Tapihire"
+   ],
+   [
+    "a bird",
+    "Quiapian"
+   ]
+  ],
+  "contact_flags": [
+   "Popengayes"
+  ],
+  "why": [
+   "One native word glossed ('Iugies' as much as Kings) among Peruvian province names.",
+   "Thevet marginal headings name American plants, birds and beasts with brief English glosses (and 'Thata. Thatatin' for fire); guess: Tupi."
+  ]
+ },
+ {
+  "tcp_id": "A30685",
+  "year": 1694,
+  "author": "Busbecq, Ogier Ghislain de, 1522-1592.",
+  "title": "The four epistles of A.G. Busbequius concerning his embassy into Turkey being remarks upon the religion, customs, riches, strength and government of t",
+  "n_windows": 3,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "in that Language",
+   "many German Words",
+   "which the Turks call Ciacals or Iacals"
+  ],
+  "places": [
+   "Maneup, Scivarin",
+   "Nice, Lake Ascanius",
+   "Taurick Chersoness"
+  ],
+  "regions": [
+   "Anatolia",
+   "Crimea (Taurick Chersoness)",
+   "Tartary (Crimea)"
+  ],
+  "n_forms": 81,
+  "sample_pairs": [
+   [
+    "certain Beasts",
+    "Ciacals or Iacals"
+   ],
+   [
+    "Bread",
+    "Broe"
+   ],
+   [
+    "a House",
+    "Hus"
+   ],
+   [
+    "a Star",
+    "Stern"
+   ],
+   [
+    "Life or Health",
+    "Jel"
+   ],
+   [
+    "a Stone",
+    "Ael"
+   ]
+  ],
+  "contact_flags": [
+   "Bruder",
+   "Kommen",
+   "Schieten",
+   "Schwester",
+   "Singhen"
+  ],
+  "why": [
+   "Busbecq's account of an envoy speaking 'German Words' unintelligible to them; the word list falls just beyond the snippet edge; guess: Crimean Gothic.",
+   "guess: Crimean Gothic word list from Busbecq, with numerals and a song; famous but unusual European minority language.",
+   "One Turkish animal name glossed in Busbecq's travel letter; guess: Turkish."
+  ]
+ },
+ {
+  "tcp_id": "A20049",
+  "year": 1577,
+  "author": "Anghiera, Pietro Martire d', 1457-1526.",
+  "title": "The history of trauayle in the VVest and East Indies, and other countreys lying eyther way, towardes the fruitfull and ryche Moluccaes As Moscouia, Pe",
+  "n_windows": 3,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Samoged",
+   "the Iland called",
+   "which they call Quinigelinam"
+  ],
+  "places": [
+   "Petzora",
+   "Zeilam"
+  ],
+  "regions": [
+   "Ceylon and Narsinga",
+   "Northern Russia / Arctic",
+   "West Indies (Hispaniola)"
+  ],
+  "n_forms": 11,
+  "sample_pairs": [
+   [
+    "bread of the Iland",
+    "Cazabbi"
+   ],
+   [
+    "roote",
+    "Iucca"
+   ],
+   [
+    "such as eate them selues",
+    "Samoged"
+   ],
+   [
+    "the beast called Mors",
+    "Mors"
+   ],
+   [
+    "another sorte of Saphires",
+    "Quinigelinam"
+   ],
+   [
+    "another sorte of Saphires",
+    "Cinganloam"
+   ],
+   [
+    "",
+    "Mangiar"
+   ],
+   [
+    "",
+    "Fanan"
+   ]
+  ],
+  "contact_flags": [
+   "Caratte",
+   "Marcels",
+   "Mors",
+   "Semfi"
+  ],
+  "why": [
+   "Two Caribbean food words (Cazabbi, Iucca) embedded in narrative; guess: Taino.",
+   "Few glossed ethnonyms and animal names in Eden/Willes Muscovy section; guess: Russian/Samoyed.",
+   "Gem names and weights in price tables; guess: Indian trade terms."
+  ]
+ },
+ {
+  "tcp_id": "A70735",
+  "year": 1670,
+  "author": "Ogilby, John, 1600-1676.",
+  "title": "Africa being an accurate description of the regions of Ægypt, Barbary, Lybia, and Billedulgerid, the land of Negroes, Guinee, Æthiopia and the Abyssin",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Countrey Language"
+  ],
+  "places": [
+   "Bay of Antongil"
+  ],
+  "regions": [
+   "Madagascar"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "Lord, in the Countrey Language call'd",
+    "Filoubei"
+   ],
+   [
+    "Bay of Zonghelabe; so call'd by the Inhabitants, but by the Europeans St. Augustin",
+    "Zonghelabe"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Only a couple of glossed native terms in a Madagascar description."
+  ]
+ },
+ {
+  "tcp_id": "A54746",
+  "year": 1658,
+  "author": "Phillips, Edward, 1630-1696?",
+  "title": "The new world of English words, or, A general dictionary containing the interpretations of such hard words as are derived from other languages ... tog",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "the Turkish language"
+  ],
+  "places": [],
+  "regions": [],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "a great Officer among the Turks, called the Captain of the Janizaries",
+    "AGa"
+   ],
+   [
+    "the word in the Turkish language signifieth untaught",
+    "Agemoglans"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Hard-word dictionary with a couple of Turkish terms glossed."
+  ]
+ },
+ {
+  "tcp_id": "A71305",
+  "year": 1625,
+  "author": "Purchas, Samuel, 1577?-1626.",
+  "title": "Purchas his pilgrimes. part 3 In fiue bookes. The first, contayning the voyages and peregrinations made by ancient kings, patriarkes, apostles, philos",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Pequin"
+  ],
+  "regions": [
+   "China",
+   "Mexico"
+  ],
+  "n_forms": 19,
+  "sample_pairs": [
+   [
+    "80000. Badas to carrie their prouision",
+    "Badas"
+   ],
+   [
+    "sixteene thousand Laulees and Ia•gas",
+    "Laulees"
+   ],
+   [
+    "a Cony",
+    "Tochtli"
+   ],
+   [
+    "a Caue",
+    "Acatlh"
+   ],
+   [
+    "a Knife",
+    "Tecpatlh"
+   ],
+   [
+    "a House",
+    "Calli"
+   ],
+   [
+    "One yeere",
+    "Ce Totchtli"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Captivity narrative with a few transliterated Chinese terms for boats and beasts, glosses in footnotes.",
+   "guess: Nahuatl day-sign year-count with numerals, in Purchas; well known."
+  ]
+ },
+ {
+  "tcp_id": "A01864",
+  "year": 1588,
+  "author": "González de Mendoza, Juan, 1545-1618.",
+  "title": "The historie of the great and mightie kingdome of China, and the situation thereof togither with the great riches, huge citties, politike gouernement,",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Chinos"
+  ],
+  "places": [],
+  "regions": [
+   "China"
+  ],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "whom they call by name",
+    "Tayn"
+   ],
+   [
+    "who they call",
+    "Pauzon"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Two Chinese creation-myth names glossed inline; edge of famous Mendoza text."
+  ]
+ },
+ {
+  "tcp_id": "A26565",
+  "year": 1651,
+  "author": "Agrippa von Nettesheim, Heinrich Cornelius, 1486?-1535.",
+  "title": "Three books of occult philosophy written by Henry Cornelius Agrippa of Nettesheim ... ; translated out of the Latin into the English tongue by J.F.",
+  "n_windows": 3,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "called Alchatay or Albachay",
+   "is called",
+   "twenty eight Mansions of the Moon"
+  ],
+  "places": [
+   "Scorpio, Capricorn"
+  ],
+  "regions": [
+   "Arabic astrological tradition",
+   "astrology"
+  ],
+  "n_forms": 28,
+  "sample_pairs": [
+   [
+    "the horns of Aries",
+    "Alnath"
+   ],
+   [
+    "the Crown of *Scorpio*",
+    "*Alchil*"
+   ],
+   [
+    "the Heart of *Scorpio*",
+    "*Alchas*"
+   ],
+   [
+    "a beam",
+    "*Abnahaya*"
+   ],
+   [
+    "a desert",
+    "*Abeda*"
+   ],
+   [
+    "a pastour",
+    "*Sadabacha*"
+   ],
+   [
+    "the little Star of great light",
+    "Alhanna or Alchaya"
+   ],
+   [
+    "the Arm of Gemini",
+    "Aldimiach or Alarzach"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Moon mansion names begin at the snippet edge; guess: Arabic star names.",
+   "Names of the lunar mansions with 'that is' glosses (guess: Arabic star names); astrological/magical context so borderline.",
+   "Agrippa lists the Moon's mansions by Arabic names with English glosses and alternates; guess: Arabic astronomical names."
+  ]
+ },
+ {
+  "tcp_id": "A47586",
+  "year": 1681,
+  "author": "Knox, Robert, 1640?-1720.",
+  "title": "An historical relation of the island Ceylon, in the East-Indies together, with an account of the detaining in captivity the author and divers other En",
+  "n_windows": 4,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "I shall only give a few instances of their words",
+   "Proverbs",
+   "in their Language"
+  ],
+  "places": [
+   "Cande Vda",
+   "Ceylon",
+   "Columbo",
+   "Conde Vda"
+  ],
+  "regions": [
+   "Ceylon"
+  ],
+  "n_forms": 106,
+  "sample_pairs": [
+   [
+    "I have given Pepper, and got Ginger.",
+    "Miris dilah, ingurah gotta."
+   ],
+   [
+    "Pick your Teeth to fill your Belly.",
+    "Datta horrala Badda peri•d."
+   ],
+   [
+    "To eat before you go forth is handsom and convenient.",
+    "Caula yonawa ruah atti."
+   ],
+   [
+    "A Begger and a Trader cannot be lost.",
+    "Hingonna wellendam cor cottonwat geah par wardenda netta."
+   ],
+   [
+    "To lend to another makes him become an Enemy.",
+    "Atting mitting delah hottarah harracurnowah."
+   ],
+   [
+    "a Tree the Natives call",
+    "Ambo"
+   ],
+   [
+    "in their Language is",
+    "Cola"
+   ],
+   [
+    "thence they called the Tree",
+    "Colaambo"
+   ]
+  ],
+  "contact_flags": [
+   "Banglale",
+   "Dio",
+   "Jacco"
+  ],
+  "why": [
+   "Proverb list in the island's language with English glosses; guess: Sinhalese; spellings are Knox's own.",
+   "Knox's Ceylon vocabulary with noun plurals and verb forms; guess: Sinhala.",
+   "Etymology of a place name from the island's language plus province names; few forms."
+  ]
+ },
+ {
+  "tcp_id": "A07559",
+  "year": 1595,
+  "author": "Minadoi, Giovanni Tommaso, 1545-1618.",
+  "title": "The history of the vvarres betvveene the Turkes and the Persians. Written in Italian by Iohn-Thomas Minadoi, and translated into English by Abraham Ha",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Names and wordes, vsed in this Historie, aswell Auncient, as Barbarous"
+  ],
+  "places": [
+   "Tauris"
+  ],
+  "regions": [
+   "Persia",
+   "Turkey and Persia"
+  ],
+  "n_forms": 10,
+  "sample_pairs": [
+   [
+    "a Capitayne, or Chiefe of his companie",
+    "Aga, B."
+   ],
+   [
+    "the Castell Deregrine, or the Castell of Strangers",
+    "Aggia-Chala, B."
+   ],
+   [
+    "the golden Castell, or Castell of gold",
+    "Altun-Chala, T."
+   ],
+   [
+    "a Citie of the Persians in Parthia",
+    "Amadan, B."
+   ],
+   [
+    "a Riuer that watreth the South part of great Armenia",
+    "Arasse, B."
+   ],
+   [
+    "the Turkes call Constantinople by the name of",
+    "Stambul"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Table of words tagged A/B/P/T (Ancient, Barbarous, Persian, Turkish) with English glosses; mostly place names.",
+   "Place-name etymology argument; one or two Turkish forms."
+  ]
+ },
+ {
+  "tcp_id": "A68617",
+  "year": 1625,
+  "author": "Purchas, Samuel, 1577?-1626.",
+  "title": "Purchas his pilgrimes. part 1 In fiue bookes. The first, contayning the voyages and peregrinations made by ancient kings, patriarkes, apostles, philos",
+  "n_windows": 5,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [],
+  "places": [
+   "Agra",
+   "Lanking, Canton, Chauchu",
+   "Maluccae",
+   "Persia"
+  ],
+  "regions": [
+   "China coast trade",
+   "East Indies pepper port (Java/Bantam)",
+   "Moluccas",
+   "Mughal India",
+   "Persia"
+  ],
+  "n_forms": 72,
+  "sample_pairs": [
+   [
+    "is called the Kings",
+    "Sikar or game"
+   ],
+   [
+    "a Devoncan",
+    "Devoncan"
+   ],
+   [
+    "Pagods",
+    "Pagods"
+   ],
+   [
+    "Indian Gobins or Saints",
+    "Gobins"
+   ],
+   [
+    "flat",
+    "Papang"
+   ],
+   [
+    "small Bastas",
+    "Selas"
+   ],
+   [
+    "Tancoulos",
+    "Betellias"
+   ],
+   [
+    "Cassas",
+    "White Cassas"
+   ]
+  ],
+  "contact_flags": [
+   "Basse",
+   "Candakeens",
+   "Cashes",
+   "Corge",
+   "Pahaw",
+   "Patta chere Malayo",
+   "Peecull",
+   "Pisos",
+   "Pouti Castella",
+   "Riall",
+   "Rialls",
+   "Rials",
+   "Sagu",
+   "Salalos Ytam",
+   "Tacke"
+  ],
+  "why": [
+   "Trade-cloth names for clove barter in the Moluccas, with a few glosses; mixed Indian, Malay and Portuguese forms.",
+   "guess: Chinese (Fujian-style) trade-goods names with prices, plus Malay-looking weights (Sa-Masse, Sa-Copang), inside Purchas.",
+   "A few Indian terms embedded in narrative; some glossed."
+  ]
+ },
+ {
+  "tcp_id": "A57004",
+  "year": 1657,
+  "author": "Renou, Jean de.",
+  "title": "A medicinal dispensatory, containing the whole body of physick discovering the natures, properties, and vertues of vegetables, minerals, & animals, th",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "called"
+  ],
+  "places": [
+   "Island Banda",
+   "Malavar, Guzarat, Canary"
+  ],
+  "regions": [
+   "Banda",
+   "India"
+  ],
+  "n_forms": 10,
+  "sample_pairs": [
+   [
+    "it is called",
+    "Palla, Mace, and B••• palla"
+   ],
+   [
+    "Tamarinds",
+    "Puli"
+   ],
+   [
+    "Tamarinds in Guzarat",
+    "Ambili"
+   ],
+   [
+    "Tamarinds in Canary",
+    "Chincha"
+   ],
+   [
+    "the flave Myrobalamb",
+    "Arare"
+   ],
+   [
+    "the Indian black Myrobalamb",
+    "Rezanuale"
+   ]
+  ],
+  "contact_flags": [
+   "Helecho"
+  ],
+  "why": [
+   "Renou's dispensatory gives vernacular names for tamarind and myrobalans by region after Garcia da Orta; guess: Malayalam, Gujarati, Kannada.",
+   "Nutmeg names in the local tongue given inline, damaged text."
+  ]
+ },
+ {
+  "tcp_id": "A21094",
+  "year": 1603,
+  "author": null,
+  "title": "A true and large discourse of the voyage of the whole fleete of ships set forth the 20. of Aprill 1601. by the Gouernours and assistants of the East I",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Certaine words of *Pegu* language."
+  ],
+  "places": [
+   "Pegu"
+  ],
+  "regions": [
+   "East Indies",
+   "Pegu"
+  ],
+  "n_forms": 66,
+  "sample_pairs": [
+   [
+    "that of goulde they call",
+    "Masse"
+   ],
+   [
+    "Those of Lead they call",
+    "Cashe"
+   ],
+   [
+    "a",
+    "Copaine"
+   ],
+   [
+    "is solde by the",
+    "Bambue"
+   ],
+   [
+    "what call you it",
+    "Mugaru"
+   ],
+   [
+    "Giue mee bread",
+    "Kidnan tiuan"
+   ],
+   [
+    "a Catte",
+    "Fegoe"
+   ],
+   [
+    "A Knife",
+    "Boon"
+   ]
+  ],
+  "contact_flags": [
+   "Aw, aw",
+   "Memuru",
+   "Mugaru"
+  ],
+  "why": [
+   "Short list of Pegu words from the East India Company 1601 voyage (guess: Mon).",
+   "Coin and measure terms glossed inline in a voyage narrative."
+  ]
+ },
+ {
+  "tcp_id": "A05569",
+  "year": 1598,
+  "author": "Linschoten, Jan Huygen van, 1563-1611.",
+  "title": "Iohn Huighen van Linschoten. his discours of voyages into ye Easte & West Indies Deuided into foure bookes.",
+  "n_windows": 4,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Brasilians",
+   "Egyptians",
+   "one sort called Lankijn"
+  ],
+  "places": [
+   "Brasilia",
+   "China",
+   "Damiata",
+   "Goa"
+  ],
+  "regions": [
+   "Brazil",
+   "China and Malacca",
+   "Egypt",
+   "Portuguese India / Goa"
+  ],
+  "n_forms": 16,
+  "sample_pairs": [
+   [
+    "which they cal",
+    "Tapirouslou"
+   ],
+   [
+    "by them called",
+    "Seouaslous"
+   ],
+   [
+    "by them called",
+    "•aroslou"
+   ],
+   [
+    "The Egyptians call it",
+    "Cassia Chaiarx-Ambar"
+   ],
+   [
+    "a kinde of money out of Persia",
+    "Lariins"
+   ],
+   [
+    "Indian and Heathenish money",
+    "Pagodes"
+   ],
+   [
+    "The lowest and smallest money",
+    "Bazaruco"
+   ],
+   [
+    "a kinde of reckoning of money",
+    "Tangas"
+   ]
+  ],
+  "contact_flags": [
+   "Bazaruco",
+   "Pagodes",
+   "Pardaw",
+   "Retres",
+   "Ryals of eight",
+   "Vintiins",
+   "Xeraphin"
+  ],
+  "why": [
+   "Three animal names in the local tongue glossed inline; guess: Tupi.",
+   "Single native plant name in a medicinal-plants passage.",
+   "guess: Indo-Portuguese coin and money-of-account terms explained inline in Linschoten."
+  ]
+ },
+ {
+  "tcp_id": "A67491",
+  "year": 1678,
+  "author": "Wansleben, Johann Michael, 1635-1679.",
+  "title": "The present state of Egypt, or, A new relation of a late voyage into that kingdom performed in the years 1672 and 1673 / by F. Vansleb, R.D. ; wherein",
+  "n_windows": 4,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "called in *Arab.*",
+   "in Arabick"
+  ],
+  "places": [
+   "Cairo",
+   "Egypt"
+  ],
+  "regions": [
+   "Egypt"
+  ],
+  "n_forms": 47,
+  "sample_pairs": [
+   [
+    "the Treasure",
+    "Hazna"
+   ],
+   [
+    "Commander of the Caravan to Mecha",
+    "Emir-hag"
+   ],
+   [
+    "or Colonel",
+    "Serdar"
+   ],
+   [
+    "or Mahomet with the great Whiskers",
+    "Mohammed Abu Sciaváreb"
+   ],
+   [
+    "or Superintendant of the Provisions",
+    "Methtesib"
+   ],
+   [
+    "or the Bey that commanded this Caravan",
+    "Emir-hag"
+   ],
+   [
+    "or North-west",
+    "Teijab"
+   ],
+   [
+    "our *Origanum*",
+    "*Rihan*"
+   ]
+  ],
+  "contact_flags": [
+   "Il Nile",
+   "Jugeolin",
+   "Tabacco"
+  ],
+  "why": [
+   "Official titles and names glossed inline; guess: Arabic/Turkish.",
+   "A few Arabic/Turkish terms glossed in travel narrative.",
+   "Arabic plant and bird names glossed in Wansleben's Egypt account, Italianate transliteration (guess: Arabic)."
+  ]
+ },
+ {
+  "tcp_id": "A48403",
+  "year": 1693,
+  "author": "La Loubère, Simon de, 1642-1729.",
+  "title": "A new historical relation of the kingdom of Siam by Monsieur De La Loubere ... ; done out of French, by A.P. Gen. R.S.S.",
+  "n_windows": 4,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Siamese",
+   "The Lords Prayer and the Ave Mary in Siamese, with the Interlineary Translation",
+   "The Names of the Days of the Months and of the Years of the Siameses.",
+   "The Twelve Names of the Year"
+  ],
+  "places": [
+   "Siam"
+  ],
+  "regions": [
+   "Siam"
+  ],
+  "n_forms": 53,
+  "sample_pairs": [
+   [
+    "eight Grains of whole Rice",
+    "Peet met caou pleuac"
+   ],
+   [
+    "the Councellor who reads it",
+    "Peng"
+   ],
+   [
+    "the Law of the Country",
+    "Pra Rayja cit di caa ajat caan"
+   ],
+   [
+    "Father our",
+    "Po raou"
+   ],
+   [
+    "who art in Heaven",
+    "you savang"
+   ],
+   [
+    "the Year of the Ape",
+    "Pii Vok"
+   ],
+   [
+    "the Year of the Crow",
+    "Pii Rakaa"
+   ],
+   [
+    "the Year of the Pig",
+    "Pii Counne"
+   ]
+  ],
+  "contact_flags": [
+   "Aera",
+   "Crist"
+  ],
+  "why": [
+   "Interlinear Siamese prayer begins at the snippet edge; guess: Siamese transcription in French-based spelling.",
+   "La Loubere's Siamese month and year-cycle names and numerals; guess: Thai.",
+   "Siamese legal fees with titles and measure terms glossed, start of a measures list; famous source."
+  ]
+ },
+ {
+  "tcp_id": "A42501",
+  "year": 1657,
+  "author": "Gaule, John, 1604?-1687.",
+  "title": "A collection out of the best approved authors containing histories of visions, apparitions, prophesies, spirits, divinations and other wonderful illus",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "Chaldeans"
+  ],
+  "places": [],
+  "regions": [],
+  "n_forms": 4,
+  "sample_pairs": [
+   [
+    "There is an herb among the Chaldeans called",
+    "Ireos"
+   ],
+   [
+    "among the Greeks",
+    "Mutuchiol"
+   ],
+   [
+    "The herb called by the Chaldeans",
+    "Aquilaris"
+   ],
+   [
+    "by the Greeks",
+    "Valis"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Magical herb names attributed to Chaldeans in a polemic against occult books; suspected fabricated or garbled names, unexpected genre."
+  ]
+ },
+ {
+  "tcp_id": "A42502",
+  "year": 1652,
+  "author": "Gaule, John, 1604?-1687.",
+  "title": "Pus-mantia the mag-astro-mancer, or, The magicall-astrologicall-diviner posed, and puzzled by John Gaule ...",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "Chaldeans"
+  ],
+  "places": [],
+  "regions": [],
+  "n_forms": 4,
+  "sample_pairs": [
+   [
+    "There is an herb among the Chaldeans called",
+    "Ireos"
+   ],
+   [
+    "among the Greeks",
+    "Mutuchiol"
+   ],
+   [
+    "The herb called by the Chaldeans",
+    "Aquilaris"
+   ],
+   [
+    "by the Greeks",
+    "Valis"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Same magical herb names attributed to Chaldeans as in A42501; suspected fabricated or garbled names, unexpected genre."
+  ]
+ },
+ {
+  "tcp_id": "A20032",
+  "year": 1555,
+  "author": "Anghiera, Pietro Martire d', 1457-1526.",
+  "title": "The decades of the newe worlde or west India conteynyng the nauigations and conquestes of the Spanyardes, with the particular description of the moste",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "hispaniola"
+  ],
+  "regions": [
+   "West Indies"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "Canoas.",
+    "Canoas"
+   ],
+   [
+    "Iucca. Breade of rootes.",
+    "Iucca"
+   ],
+   [
+    "Cannibales or Caribes Anthropophagi.",
+    "Can•bales or Caribes"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Marginal notes list a few Caribbean words with brief glosses; guess: Taino/Carib."
+  ]
+ },
+ {
+  "tcp_id": "A42798",
+  "year": 1682,
+  "author": "Glanius, Mr.",
+  "title": "A new voyage to the East-Indies containing an account of several of those rich countries, and more particularly of the kingdom of Bantam : giving an e",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Indians"
+  ],
+  "places": [],
+  "regions": [
+   "East Indies"
+  ],
+  "n_forms": 4,
+  "sample_pairs": [
+   [
+    "lap it up in a",
+    "Bettele"
+   ],
+   [
+    "they call them",
+    "Mangas d'acher"
+   ],
+   [
+    "which they call",
+    "Mangas bravas"
+   ],
+   [
+    "called it",
+    "Pinas"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "A few fruit names glossed inline; mostly Portuguese-derived."
+  ]
+ },
+ {
+  "tcp_id": "A15531",
+  "year": 1560,
+  "author": "Albertus, Magnus, Saint, 1193?-1280.",
+  "title": "The boke of secretes of Albertus Magnus of the vertues of herbes, stones, and certayne beasts : also, a boke of the same author, of the maruaylous thi",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "Chaldea"
+  ],
+  "places": [],
+  "regions": [],
+  "n_forms": 4,
+  "sample_pairs": [
+   [
+    "The seconde herbe is called of the men of Chaldea",
+    "Roybra"
+   ],
+   [
+    "of the Chaldeis",
+    "Lorumboror"
+   ],
+   [
+    "of Grekes",
+    "Allamor"
+   ],
+   [
+    "named Aquilaris, of Chaldeis",
+    "Aquilaris"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Source text of the magical herb names attributed to Chaldeans (parallel to the Gaule spans A42501/A42502); suspected pseudo-names in a grimoire-like genre."
+  ]
+ },
+ {
+  "tcp_id": "A61366",
+  "year": 1676,
+  "author": "Sammes, Aylett, 1636?-1679?",
+  "title": "Britannia antiqua illustrata, or, The antiquities of ancient Britain derived from the Phœenicians, wherein the original trade of this island is discov",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": false,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "The Words are these.",
+   "the Language of the Getes"
+  ],
+  "places": [
+   "Maeotis",
+   "Taurica Chersonesus"
+  ],
+  "regions": [
+   "Crimea"
+  ],
+  "n_forms": 50,
+  "sample_pairs": [
+   [
+    "Apple",
+    "Aple"
+   ],
+   [
+    "Old",
+    "Alt"
+   ],
+   [
+    "Brother",
+    "Bruder"
+   ],
+   [
+    "Sister",
+    "Schubesser"
+   ],
+   [
+    "One",
+    "Ita"
+   ]
+  ],
+  "contact_flags": [
+   "Singhen",
+   "Waghen"
+  ],
+  "why": [
+   "Busbequius's account introducing a word list of a Crimean people's language, list itself falls just beyond snippet edge; guess: Crimean Gothic, in an antiquarian book.",
+   "Busbequius's Crimean word list and numerals quoted in Sammes to argue Gothic descent; guess: Crimean Gothic (Germanic), so European but an odd antiquarian-genre vocabulary."
+  ]
+ },
+ {
+  "tcp_id": "A12609",
+  "year": 1603,
+  "author": "Soranzo, Lazzaro.",
+  "title": "The Ottoman of Lazaro Soranzo VVherein is deliuered aswell a full and perfect report of the might and power of Mahamet the third, great Emperour of th",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Ottoman Empire"
+  ],
+  "regions": [
+   "Ottoman Empire"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "souldiours of his owne",
+    "Spahi"
+   ],
+   [
+    "one is called",
+    "Timaro"
+   ],
+   [
+    "the other",
+    "Vlefe"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "A few Turkish military terms glossed inline in a well-known Ottoman treatise."
+  ]
+ },
+ {
+  "tcp_id": "A88616",
+  "year": 1661,
+  "author": "Lovell, Robert, 1630?-1690.",
+  "title": "Panzooryktologia. Sive Panzoologicomineralogia. Or A compleat history of animals and minerals, containing the summe of all authors, both ancient and m",
+  "n_windows": 3,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [],
+  "places": [],
+  "regions": [
+   "America",
+   "Americas"
+  ],
+  "n_forms": 73,
+  "sample_pairs": [
+   [
+    "Fox",
+    "cojotl"
+   ],
+   [
+    "Lion",
+    "mitzli"
+   ],
+   [
+    "coney",
+    "pactli"
+   ],
+   [
+    "squirrel",
+    "quauhtcchallotl"
+   ],
+   [
+    "Dogge",
+    "xoloitzeuintli"
+   ],
+   [
+    "Exoticks, or outlandish, chiefely the American",
+    "xochitenacatl"
+   ],
+   [
+    "",
+    "jajauhquitototl"
+   ]
+  ],
+  "contact_flags": [
+   "Pardal",
+   "danta",
+   "tamandua-gvacu",
+   "tigre"
+  ],
+  "why": [
+   "Zoological classification list embedding unglossed exotic animal names (cagua cuete, yztac macame, quauhtlamacame, tamamacame); guess: Nahuatl/American animal names in a natural-history book.",
+   "guess: Nahuatl and Tupi animal names strung in a natural-history classification beside European names, not aligned as glosses.",
+   "Nahuatl-type bird names at snippet edge in a zoological taxonomy; guess: Nahuatl."
+  ]
+ },
+ {
+  "tcp_id": "A13820",
+  "year": 1607,
+  "author": "Topsell, Edward, 1572-1625?",
+  "title": "The historie of foure-footed beastes Describing the true and liuely figure of euery beast, with a discourse of their seuerall names, conditions, kinde",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [],
+  "regions": [],
+  "n_forms": 4,
+  "sample_pairs": [
+   [
+    "In Haebrew it is called",
+    "Achar"
+   ],
+   [
+    "the Chaldee",
+    "Acbera"
+   ],
+   [
+    "the Arabians",
+    "Fer, or Phar"
+   ],
+   [
+    "The Persians",
+    "An Mus"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Polyglot names for the mouse in Hebrew, Chaldee, Arabic, Persian plus European languages."
+  ]
+ },
+ {
+  "tcp_id": "A37412",
+  "year": 1659,
+  "author": "Dee, John, 1527-1608.",
+  "title": "A true & faithful relation of what passed for many yeers between Dr. John Dee ... and some spirits tending ... to a general alteration of most states ",
+  "n_windows": 6,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": true,
+  "max_interest": 3,
+  "labels": [
+   "Call",
+   "the holy ones"
+  ],
+  "places": [
+   "Basel"
+  ],
+  "regions": [],
+  "n_forms": 155,
+  "sample_pairs": [
+   [
+    "of the secret wisdom",
+    "LEANANA"
+   ],
+   [
+    "partakers",
+    "ILPALP"
+   ],
+   [
+    "Descend",
+    "GALGINU"
+   ],
+   [
+    "Move",
+    "RACAZ"
+   ],
+   [
+    "mighty",
+    "ZLOACIM"
+   ],
+   [
+    "the sons of",
+    "PALOMRON"
+   ],
+   [
+    "amongst",
+    "FAA"
+   ],
+   [
+    "that you may praise him",
+    "LITSER"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "PSEUDO: Dee and Kelley's spirit-dictated language with English glosses and reversed forms (numbered letters), guess: Enochian.",
+   "PSEUDO: another stretch of Dee's spirit-dictated language with English glosses and reversed forms, guess: Enochian.",
+   "PSEUDO: John Dee and Kelley's angelic Call, word-by-word table of an unlabeled spirit language with English glosses and phonetic respellings; guess: Enochian."
+  ]
+ },
+ {
+  "tcp_id": "A40887",
+  "year": 1695,
+  "author": "Faria e Sousa, Manuel de, 1590-1649.",
+  "title": "The Portugues Asia, or, The history of the discovery and conquest of India by the Portugues containing all their discoveries from the coast of Africk,",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Ceylon",
+   "India"
+  ],
+  "regions": [
+   "Ceylon",
+   "India"
+  ],
+  "n_forms": 10,
+  "sample_pairs": [
+   [
+    "the Deity",
+    "Ixoreta"
+   ],
+   [
+    "Gods",
+    "Bramá"
+   ],
+   [
+    "the Woman called",
+    "Cbati"
+   ],
+   [
+    "loxenas",
+    "loxenas"
+   ],
+   [
+    "Paradise",
+    "Lancao"
+   ],
+   [
+    "banished Men",
+    "Galas"
+   ],
+   [
+    "King by force of Arms",
+    "Bo•negaboa"
+   ]
+  ],
+  "contact_flags": [
+   "Chingalas"
+  ],
+  "why": [
+   "Few Indian religious terms (Ixoreta, Bramá, Givem, loxenas) in Portuguese history.",
+   "Faria e Sousa glosses a few Ceylon names and titles in a narrative of the island's kings; guess: Sinhalese."
+  ]
+ },
+ {
+  "tcp_id": "A68132",
+  "year": 1613,
+  "author": "Hall, Joseph, 1574-1656.",
+  "title": "The discouery of a new world or A description of the South Indies Hetherto vnknowne by an English Mercury.",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": true,
+  "max_interest": 3,
+  "labels": [
+   "Supermonicall tongue",
+   "the Supermonicall tongue"
+  ],
+  "places": [
+   "South Indies"
+  ],
+  "regions": [
+   "South Indies"
+  ],
+  "n_forms": 53,
+  "sample_pairs": [
+   [
+    "They call the earth",
+    "Silo"
+   ],
+   [
+    "The soule",
+    "Adek"
+   ],
+   [
+    "the earth",
+    "Silo"
+   ],
+   [
+    "The soule",
+    "Adek"
+   ],
+   [
+    "Salt",
+    "Al, and Malek"
+   ],
+   [
+    "brimstone",
+    "Chibur, Alcubrith, Kibrit, and Alchur"
+   ],
+   [
+    "Vitriol",
+    "Colcohar"
+   ]
+  ],
+  "contact_flags": [
+   "Alchur",
+   "Alcubrith",
+   "Alembrot",
+   "Colcohar",
+   "Kibrit",
+   "Oppodeltoch",
+   "Xisinium"
+  ],
+  "why": [
+   "PSEUDO: satirical Mundus alter et idem invented language of the Gew-gawiasters with English glosses; list continues beyond snippet.",
+   "PSEUDO: Hall's satire invents a 'Supermonicall' alchemists' language credited to Paracelsus, mixing real Arabic-derived alchemical terms (guess: Kibrit, Alcubrith, Alembrot) with coinages."
+  ]
+ },
+ {
+  "tcp_id": "A42668",
+  "year": 1658,
+  "author": "Topsell, Edward, 1572-1625?",
+  "title": "The history of four-footed beasts and serpents describing at large their true and lively figure, their several names, conditions, kinds, virtues ... c",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "called by the *Arabians*",
+   "the Arabians, Fer, or Phar; the Persians, An Mus"
+  ],
+  "places": [],
+  "regions": [],
+  "n_forms": 12,
+  "sample_pairs": [
+   [
+    "the Arabians",
+    "Fer, or Phar"
+   ],
+   [
+    "the Persians",
+    "An Mus"
+   ],
+   [
+    "the Chaldee",
+    "Acbera"
+   ],
+   [
+    "In Hebrew",
+    "Achar"
+   ],
+   [
+    "Frogs",
+    "Hardun"
+   ],
+   [
+    "Frogs",
+    "Difdah"
+   ],
+   [
+    "Frogs",
+    "Altahaul"
+   ],
+   [
+    "Frogs",
+    "Zab"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Topsell polyglot names for mouse (Arabic/Persian forms among Hebrew, Latin, Italian).",
+   "Run of 'called by the X' names for one animal, mostly Hebrew and Arabic; philological rather than a vocabulary."
+  ]
+ },
+ {
+  "tcp_id": "A63439",
+  "year": 1677,
+  "author": "Tavernier, Jean-Baptiste, 1605-1689.",
+  "title": "The six voyages of John Baptista Tavernier, Baron of Aubonne through Turky, into Persia and the East-Indies, for the space of forty years : giving an ",
+  "n_windows": 3,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Circassian"
+  ],
+  "places": [
+   "Crim",
+   "Patna",
+   "Pettigor"
+  ],
+  "regions": [
+   "Caucasus",
+   "Crimea / Don steppe",
+   "India"
+  ],
+  "n_forms": 11,
+  "sample_pairs": [
+   [
+    "a Nahab or Favourite",
+    "Nahab"
+   ],
+   [
+    "Bambouck",
+    "Bambouck"
+   ],
+   [
+    "5 Hills",
+    "Pettigor"
+   ],
+   [
+    "the Hill of Snow",
+    "Sneesnagore"
+   ],
+   [
+    "a wonderful high Hill",
+    "Shadgore"
+   ],
+   [
+    "Horses",
+    "Hergels"
+   ],
+   [
+    "Boats",
+    "Strukes"
+   ],
+   [
+    "strong Skonces",
+    "Gorodkees"
+   ]
+  ],
+  "contact_flags": [
+   "Bohatteere",
+   "Hergels",
+   "Knasse",
+   "Myrsa",
+   "Pettigor",
+   "Skonces",
+   "Sneesnagore"
+  ],
+  "why": [
+   "Tavernier's glossed Caucasian mountain names and a hero title; guess: Russian-derived toponyms and Circassian.",
+   "Travel itinerary with a few Persian/Indian terms glossed (Nahab, Bambouck, sera); mostly place names.",
+   "guess: few Tatar/Russian words glossed inline in Tavernier's account of Crim Tartary."
+  ]
+ },
+ {
+  "tcp_id": "A41427",
+  "year": 1648,
+  "author": "Gage, Thomas, 1603?-1656.",
+  "title": "The English-American, his travail by sea and land, or, A new survey of the West-India's containing a journall of three thousand and three hundred mile",
+  "n_windows": 5,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "that tongue",
+   "the Indian tongue called Poconchi, or Pocoman",
+   "this Poconchi tongue",
+   "this tongue / the Indian tongues"
+  ],
+  "places": [
+   "Guatemala"
+  ],
+  "regions": [
+   "Guatemala (Poconchi district)",
+   "Guatemala and Honduras"
+  ],
+  "n_forms": 102,
+  "sample_pairs": [
+   [
+    "I pray God I bee loved",
+    "Quinloconhi ta"
+   ],
+   [
+    "I pray God thou bee loved",
+    "Tiloconhi ta"
+   ],
+   [
+    "if I be loved",
+    "Vei Quinloconhi"
+   ],
+   [
+    "would to God I have or had been loved",
+    "Xinloconhi ta"
+   ],
+   [
+    "Lords Prayer",
+    "Catat taxah vilcat"
+   ],
+   [
+    "horse",
+    "Queh"
+   ],
+   [
+    "booke, or paper",
+    "Huh"
+   ],
+   [
+    "Egge",
+    "Moloh"
+   ]
+  ],
+  "contact_flags": [
+   "Amen",
+   "Castilana ha",
+   "Chaye re Pedro rutsi",
+   "Dios",
+   "Nim Ahval",
+   "Rupat Pedro",
+   "vino"
+  ],
+  "why": [
+   "Gage's rules for Poconchi begin at the snippet edge; preamble on native languages only so far.",
+   "Gage's verb rules plus Lord's Prayer in a Guatemalan Indian tongue; guess: Poconchi/Pokomam (Mayan).",
+   "Gage's grammar with possessive paradigms of a Central American Mayan language; guess: Pocomchi/Mayan."
+  ]
+ },
+ {
+  "tcp_id": "A04024",
+  "year": 1500,
+  "author": null,
+  "title": "Informacon for pylgrymes vnto the holy londe",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "the langage of Moreske & of other countrees"
+  ],
+  "places": [
+   "Egypt"
+  ],
+  "regions": [
+   "Holy Land / Levant (pilgrim phrases)",
+   "Mediterranean pilgrim route"
+  ],
+  "n_forms": 82,
+  "sample_pairs": [
+   [
+    "i",
+    "whada"
+   ],
+   [
+    "ij",
+    "ettenin"
+   ],
+   [
+    "Brede",
+    "ghobbis"
+   ],
+   [
+    "wyne",
+    "nebete"
+   ],
+   [
+    "water",
+    "moy"
+   ],
+   [
+    "Good morow",
+    "sabalkir"
+   ],
+   [
+    "Fyre",
+    "nare"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Arabic numerals in a pilgrim guide (c.1500), list starts at snippet edge.",
+   "guess: pilgrim phrasebook with numerals and phrases in Arabic-like speech followed by a Greek list (headed Greke, European only); Arabic section heading is outside the snippet."
+  ]
+ },
+ {
+  "tcp_id": "A35310",
+  "year": 1698,
+  "author": "Crull, J. (Jodocus), d. 1713?",
+  "title": "The antient and present state of Muscovy containing a geographical, historical, and political account of all those nations and territories under the j",
+  "n_windows": 4,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "called by the Muscovites",
+   "called by the Russians",
+   "in the Russian Language"
+  ],
+  "places": [
+   "Muscovian",
+   "Muscovy",
+   "Volga"
+  ],
+  "regions": [
+   "Muscovy",
+   "Muscovy and the Baltic",
+   "Russia"
+  ],
+  "n_forms": 30,
+  "sample_pairs": [
+   [
+    "The Nativity of the Blessed Mother of God, called by the Russians",
+    "Prasnick Rosostua Priziste B•gerodice"
+   ],
+   [
+    "Drink of Apples",
+    "Jabla-New-quas"
+   ],
+   [
+    "Easterday",
+    "Welikoiden"
+   ],
+   [
+    "Palm Sunday",
+    "We•bna W•s•r•shenia"
+   ],
+   [
+    "The Epiphany",
+    "Cres••enia"
+   ],
+   [
+    "The Ascension of Christ",
+    "Wosneshenia Christova"
+   ],
+   [
+    "Candlemass Day",
+    "Stratenia Gospoda Boga"
+   ],
+   [
+    "the God of Heaven and Earth",
+    "Occopirnus"
+   ]
+  ],
+  "contact_flags": [
+   "Backtu•s",
+   "Cobolds",
+   "Coboli",
+   "Erdmanlein"
+  ],
+  "why": [
+   "guess: Baltic (Old Prussian/Lithuanian) deity names and Russian harvest-feast terms glossed in a pagan-religion passage.",
+   "Russian feast names glossed in a festival list.",
+   "Single Russian drink name glossed."
+  ]
+ },
+ {
+  "tcp_id": "A37317",
+  "year": 1676,
+  "author": "Debes, Lucas Jacobsen, 1623-1675.",
+  "title": "Færoæ & Færoa reserata, that is, A description of the islands & inhabitants of Foeroe being seventeen islands subject to the King of Denmark, lying un",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": false,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "in the Language of Feroe"
+  ],
+  "places": [],
+  "regions": [
+   "Faroe Islands"
+  ],
+  "n_forms": 1,
+  "sample_pairs": [
+   [
+    "in the Language of Feroe",
+    "Eide"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Isolated Faroese term for valley; mostly place names."
+  ]
+ },
+ {
+  "tcp_id": "A34454",
+  "year": 1663,
+  "author": "Caron, François, 1600-1673.",
+  "title": "A true description of the mighty kingdoms of Japan and Siam written originally in Dutch by Francis Caron and Joost Schorten ; and novv rendred into En",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Japan",
+   "Jedo"
+  ],
+  "regions": [
+   "Japan"
+  ],
+  "n_forms": 10,
+  "sample_pairs": [
+   [
+    "Norimons, or Palanquins",
+    "Norimons"
+   ],
+   [
+    "Tayl",
+    "Tayles"
+   ],
+   [
+    "A crooked Sable",
+    "Jeiuky Massamme"
+   ],
+   [
+    "A Pot",
+    "Naraissiba"
+   ],
+   [
+    "A Picture",
+    "Darme"
+   ],
+   [
+    "gold Oebans",
+    "Oebans"
+   ]
+  ],
+  "contact_flags": [
+   "Teylens",
+   "t'Siapol"
+  ],
+  "why": [
+   "Procession description with Japanese terms (Norimons, Deyro) glossed.",
+   "guess: Japanese names of regalia items and coin terms (Oeban, Teyl) in Caron's Dutch account."
+  ]
+ },
+ {
+  "tcp_id": "A51357",
+  "year": 1694,
+  "author": "Moréri, Louis, 1643-1680.",
+  "title": "The great historical, geographical and poetical dictionary being a curious miscellany of sacred and prophane history : containing, in short, the lives",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "which they call Soiax Ti"
+  ],
+  "places": [
+   "China"
+  ],
+  "regions": [
+   "China"
+  ],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "a First Being, which they call",
+    "Soiax Ti"
+   ],
+   [
+    "Drink",
+    "The"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Dictionary entry on China with couple of native terms (Soiax Ti, Bronzes, The)."
+  ]
+ },
+ {
+  "tcp_id": "A70505",
+  "year": 1693,
+  "author": "Luna, Miguel de, 16th/17th cent.",
+  "title": "The life of the most illustrious monarch Almanzor and of the several revolutions of the mighty empire of the caliphs, and of the African kingdoms. Tog",
+  "n_windows": 3,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "*Arabick*",
+   "In Arabick",
+   "the Arabs shortly after nam'd"
+  ],
+  "places": [
+   "Cordoua",
+   "Sierra Merena",
+   "Spain"
+  ],
+  "regions": [
+   "Moorish Spain (fictive)",
+   "Spain (Moorish)"
+  ],
+  "n_forms": 52,
+  "sample_pairs": [
+   [
+    "Royal Scepter",
+    "Har Malmucq"
+   ],
+   [
+    "the Common People, the Commons",
+    "Alhamemma"
+   ],
+   [
+    "Highland",
+    "Each meallalhimar"
+   ],
+   [
+    "submitted, subjected",
+    "Alcabir"
+   ],
+   [
+    "Inclination",
+    "Ni acha mila"
+   ],
+   [
+    "a Plain the Arabs shortly after nam'd",
+    "Fahe Alguidah"
+   ],
+   [
+    "Sadness",
+    "Alfiqr"
+   ],
+   [
+    "Absence",
+    "Alfirac"
+   ]
+  ],
+  "contact_flags": [
+   "Alfacar",
+   "Algouazil",
+   "Campo seco",
+   "Ibninacer",
+   "Mausenech"
+  ],
+  "why": [
+   "Footnote glosses 'in Arabick' in a historical romance; forms look garbled or invented, guess: pseudo-Arabic, suspected fabrication.",
+   "guess: Arabic-style glosses in footnotes of Luna's Almanzor, a text widely suspected as a forgery; many forms look invented or garbled, with Spanish equivalents mixed in.",
+   "Same Almanzor romance; Arabic-looking name glossed in footnote, guess: pseudo-Arabic."
+  ]
+ },
+ {
+  "tcp_id": "A11878",
+  "year": 1614,
+  "author": "Selden, John, 1584-1654.",
+  "title": "Titles of honor by Iohn Selden",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Ethiopique / their true Ethiopian tongue",
+   "they call them Imamlar"
+  ],
+  "places": [
+   "Ethiopia",
+   "Persian"
+  ],
+  "regions": [
+   "Ethiopia",
+   "Ottoman and Persian lands"
+  ],
+  "n_forms": 6,
+  "sample_pairs": [
+   [
+    "Precious Gian",
+    "Gian Belul"
+   ],
+   [
+    "Libertie",
+    "Giaein"
+   ],
+   [
+    "in Chaldaica lingua",
+    "Ioannes Encoe"
+   ],
+   [
+    "Doctors",
+    "Imamlar"
+   ],
+   [
+    "",
+    "Hunggiar"
+   ],
+   [
+    "",
+    "Hunggiar Baiazeth"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Selden's title discussion with Ethiopian forms glossed; the script-based forms are unreadable here.",
+   "guess: Turkish/Arabic titles and names in Selden; few words, well-known source."
+  ]
+ },
+ {
+  "tcp_id": "A17891",
+  "year": 1583,
+  "author": "Nicholas, Thomas, b. ca. 1532.",
+  "title": "A pleasant description of the fortunate ilandes, called the Ilands of Canaria vvith their straunge fruits and commodities. Verie delectable to read, t",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "They spake all one language"
+  ],
+  "places": [
+   "Ilands of Canaria"
+  ],
+  "regions": [
+   "Canary Islands"
+  ],
+  "n_forms": 1,
+  "sample_pairs": [
+   [
+    "bread was made of Barlie meale and Goats milke, called",
+    "Gofia"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Guanche food term Gofia among Spanish place/sugar terms; only one native word, edge of snippet."
+  ]
+ },
+ {
+  "tcp_id": "A22928",
+  "year": 1604,
+  "author": "Acosta, José de, 1540-1600.",
+  "title": "The naturall and morall historie of the East and West Indies Intreating of the remarkable things of heaven, of the elements, mettalls, plants and beas",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "the Mexicaines say",
+   "the first moneth which they call"
+  ],
+  "places": [
+   "Cusco",
+   "Mexico"
+  ],
+  "regions": [
+   "Mexico",
+   "Peru"
+  ],
+  "n_forms": 6,
+  "sample_pairs": [
+   [
+    "which is to say, a rich and principall feast",
+    "Capacrayme"
+   ],
+   [
+    "the first moneth which they call",
+    "Rayme"
+   ],
+   [
+    "ensignes",
+    "Guaras"
+   ],
+   [
+    "the left hand of a shining feather",
+    "Vitziliputzli"
+   ],
+   [
+    "",
+    "T lalos"
+   ],
+   [
+    "",
+    "TeZcallipuca"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Quechua feast and month names in Acosta; well-known source.",
+   "guess: Nahuatl deity names with one gloss, Acosta."
+  ]
+ },
+ {
+  "tcp_id": "A70807",
+  "year": 1680,
+  "author": "Pitt, Moses, fl. 1654-1696.",
+  "title": "The English atlas",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Muscovy"
+  ],
+  "regions": [
+   "Muscovy"
+  ],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "Johns-Lake",
+    "Ivanosera"
+   ],
+   [
+    "a Lake",
+    "Osera"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Russian hydronym gloss in geography atlas; two words only."
+  ]
+ },
+ {
+  "tcp_id": "A58159",
+  "year": 1693,
+  "author": "Ray, John, 1627-1705.",
+  "title": "A collection of curious travels & voyages in two tomes ... / by John Ray ...",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "that is to say",
+   "which they call"
+  ],
+  "places": [
+   "Cairo to Mecca caravan road"
+  ],
+  "regions": [
+   "Arabia and the Red Sea coast",
+   "Levant"
+  ],
+  "n_forms": 10,
+  "sample_pairs": [
+   [
+    "Pistacies-Trees, which they call",
+    "Fistuc"
+   ],
+   [
+    "their",
+    "Charnubis"
+   ],
+   [
+    "Cistern",
+    "Misana"
+   ],
+   [
+    "the Castle of Sand-pits",
+    "Kalaat Aadgeroud"
+   ],
+   [
+    "the Castle of Palmes",
+    "Kalaat el Nahhal"
+   ],
+   [
+    "the Plain of the Hill",
+    "Sath el Akaba"
+   ],
+   [
+    "Asses Back",
+    "Dar el Hhamar"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Arabic plant names in Rauwolf travels via Ray; two words.",
+   "Itinerary place names with 'that is to say' glosses (guess: Arabic toponyms); mostly place names, borderline."
+  ]
+ },
+ {
+  "tcp_id": "A66534",
+  "year": 1678,
+  "author": "Ray, John, 1627-1705.",
+  "title": "The ornithology of Francis Willughby of Middleton in the county of Warwick Esq, fellow of the Royal Society in three books : wherein all the birds hit",
+  "n_windows": 3,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "TAB. XLII"
+  ],
+  "places": [
+   "Brasilian"
+  ],
+  "regions": [
+   "Brazil / America",
+   "Mexico and Brazil"
+  ],
+  "n_forms": 33,
+  "sample_pairs": [
+   [
+    "or the hoarse bird",
+    "Acacacahoactly"
+   ],
+   [
+    "a sort of Douker",
+    "Acitli"
+   ],
+   [
+    "or Water-Quail",
+    "Acolin"
+   ],
+   [
+    "the hoarse bird",
+    "ACacacahoactly"
+   ],
+   [
+    "a sort of Douker",
+    "Acitli"
+   ],
+   [
+    "a sort of Water-hen",
+    "Aguapocaca"
+   ],
+   [
+    "the Brasilian Spoon-bill",
+    "Aiaia"
+   ],
+   [
+    "a Brasilian Bird",
+    "Anhima"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Tupi bird names credited to Marggrav scattered among Latin and English plate-list captions; mostly unglossed.",
+   "guess: Nahuatl bird names listed in the Ornithology index with English glosses; the rest of snippet is Faroese bird-fowling.",
+   "guess: index of Nahuatl and Tupi bird names in Willughby/Ray Ornithology, mostly bare names with few glosses."
+  ]
+ },
+ {
+  "tcp_id": "A65019",
+  "year": 1665,
+  "author": "Della Valle, Pietro, 1586-1652.",
+  "title": "The travels of Sig. Pietro della Valle, a noble Roman, into East-India and Arabia Deserta in which, the several countries, together with the customs, ",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Venk-tapà Naieka's Country"
+  ],
+  "regions": [
+   "India"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "",
+    "Gau"
+   ],
+   [
+    "",
+    "Pulià"
+   ],
+   [
+    "",
+    "Colùr"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Indian terms (distance measure, servant title) in Della Valle's travels; few words."
+  ]
+ },
+ {
+  "tcp_id": "A63414",
+  "year": 1684,
+  "author": "Tavernier, Jean-Baptiste, 1605-1689.",
+  "title": "Collections of travels through Turky into Persia, and the East-Indies Giving an account of the present state of those countries. As also a full relati",
+  "n_windows": 3,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Abassi's, Mamoudi's. Shaet's, and Bisti's"
+  ],
+  "places": [
+   "Crim",
+   "Ormus"
+  ],
+  "regions": [
+   "Crim",
+   "Crimea and the Don steppe",
+   "Persia"
+  ],
+  "n_forms": 16,
+  "sample_pairs": [
+   [
+    "Horses",
+    "Hergels"
+   ],
+   [
+    "Boats",
+    "Strukes"
+   ],
+   [
+    "strong Skonees",
+    "Gorodkees"
+   ],
+   [
+    "Great Prince",
+    "Ulugh"
+   ],
+   [
+    "The Copper pieces of Coyn are call'd",
+    "Casbeké"
+   ],
+   [
+    "Eight Larins make",
+    "an Or"
+   ],
+   [
+    "another Sum in payment",
+    "Toman"
+   ]
+  ],
+  "contact_flags": [
+   "Gorodkees",
+   "Larin",
+   "Or",
+   "Skonees",
+   "Strukes"
+  ],
+  "why": [
+   "guess: Tatar fuel names Fissheke, Fusshane, Curay, Stroa listed without glosses; place names.",
+   "guess: a few Tartar/Russian terms glossed in a captive's account of Crim; mostly place names.",
+   "Persian coin denominations explained with values by Tavernier; guess: Persian monetary terms."
+  ]
+ },
+ {
+  "tcp_id": "A06357",
+  "year": 1630,
+  "author": "Lord, Henry, b. 1563.",
+  "title": "A display of two forraigne sects in the East Indies vizt: the sect of the Banians the ancient natiues of India and the sect of the Persees the ancient",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "by them called the Vertea"
+  ],
+  "places": [
+   "East Indies"
+  ],
+  "regions": [
+   "India"
+  ],
+  "n_forms": 6,
+  "sample_pairs": [
+   [
+    "",
+    "Vertea"
+   ],
+   [
+    "",
+    "Soncaes"
+   ],
+   [
+    "",
+    "Tuppaes"
+   ],
+   [
+    "",
+    "Curthurs"
+   ],
+   [
+    "three persons",
+    "Bremaw, Vystney, and Ruddery"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Hindu/Indian caste and deity names in Lord's Banian account, mostly unglossed."
+  ]
+ },
+ {
+  "tcp_id": "A13821",
+  "year": 1608,
+  "author": "Topsell, Edward, 1572-1625?",
+  "title": "The historie of serpents. Or, The second booke of liuing creatures wherein is contained their diuine, naturall, and morall descriptions, with their li",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Frogges are called by the Hebrewes Zab, Zephardea, Vrdeana",
+   "which they call Celtium"
+  ],
+  "places": [
+   "Troglodytes"
+  ],
+  "regions": [
+   "Red Sea coast"
+  ],
+  "n_forms": 11,
+  "sample_pairs": [
+   [
+    "Sea-Tortoyce",
+    "Celtium"
+   ],
+   [
+    "Frogges (Hebrewes)",
+    "Zab"
+   ],
+   [
+    "Frogges (Arabians)",
+    "Hardun"
+   ],
+   [
+    "Frogges (Arabians)",
+    "Difdah"
+   ],
+   [
+    "Frogges (Graecians)",
+    "Batrachos"
+   ],
+   [
+    "Frogges (Germans)",
+    "Frosch"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: single Troglodyte term for a sea tortoise from classical lore; one word.",
+   "Multilingual names for frog in natural history: Hebrew, Arabic, Greek, plus European languages."
+  ]
+ },
+ {
+  "tcp_id": "A64548",
+  "year": 1698,
+  "author": "Thomas, Gabriel.",
+  "title": "An historical and geographical account of the province and country of Pensilvania, and of the West-New-Jersey in America ... with a map of both countr",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "The Indian Tongue. | The English of it.",
+   "the Indian Tongue"
+  ],
+  "places": [
+   "Arwaymouse",
+   "Pensilvania"
+  ],
+  "regions": [
+   "Pennsylvania"
+  ],
+  "n_forms": 60,
+  "sample_pairs": [
+   [
+    "Friend, from whence com'st?",
+    "Hitah takoman?"
+   ],
+   [
+    "Where is thy House?",
+    "Tony andogowa kee weekin?"
+   ],
+   [
+    "Yes.",
+    "Mogy"
+   ],
+   [
+    "How many hast?",
+    "Kacha hatah?"
+   ],
+   [
+    "Four.",
+    "Neo"
+   ]
+  ],
+  "contact_flags": [
+   "Arwaymouse",
+   "marchkee moos",
+   "neskee kabay"
+  ],
+  "why": [
+   "Gabriel Thomas's question-and-answer dialogue and numerals of the Pennsylvania Indians, plus a names list; guess: Lenape.",
+   "Introduces a questions-and-answers dialogue with the Indian tongue on one side and English on the other, but forms begin beyond snippet edge; check next span."
+  ]
+ },
+ {
+  "tcp_id": "A16711",
+  "year": 1602,
+  "author": "Brereton, John, 1572-ca. 1619.",
+  "title": "A briefe and true relation of the discouerie of the north part of Virginia being a most pleasant, fruitfull and commodious soile: made this present ye",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "by the naturall inhabitants"
+  ],
+  "places": [
+   "Virginia"
+  ],
+  "regions": [
+   "Virginia (Roanoke, 1585-86)"
+  ],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "a kinde of earth so called by the naturall inhabitants, very like to Terra Sigillata",
+    "Wapeih"
+   ],
+   [
+    "Sassafras, called by the inhabitants",
+    "Wynauk"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Algonquian commodity names from Harriot extract; two words only."
+  ]
+ },
+ {
+  "tcp_id": "A04680",
+  "year": 1602,
+  "author": "Josephus, Flavius.",
+  "title": "The famous and memorable vvorkes of Iosephus, a man of much honour and learning among the Iewes. Faithfully translated out of the Latin, and French, b",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "sacred tongue"
+  ],
+  "places": [],
+  "regions": [
+   "Egypt"
+  ],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "Kings shepheards",
+    "Hiscos"
+   ],
+   [
+    "a King",
+    "Hic"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Only two Egyptian glosses (Hiscos, Hic) at snippet edge in Josephus; guess: ancient Egyptian via Manetho."
+  ]
+ },
+ {
+  "tcp_id": "A17524",
+  "year": 1640,
+  "author": "Rohan, Henri, duc de, 1579-1638.",
+  "title": "The complete captain, or, an abbridgement of Cesars warres with observations upon them; together with a collection of the order of the militia of the ",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "the Hebrew, Chaldee, Arabians, Persians"
+  ],
+  "places": [],
+  "regions": [],
+  "n_forms": 4,
+  "sample_pairs": [
+   [
+    "Hebrew",
+    "Achar"
+   ],
+   [
+    "the Chaldee",
+    "Acbera"
+   ],
+   [
+    "the Arabians",
+    "Fer, or Phar"
+   ],
+   [
+    "The Persians",
+    "An Mus"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Topsell's polyglot names for the mouse mixing Hebrew, Arabic, Persian with European languages; guess: Near Eastern names."
+  ]
+ },
+ {
+  "tcp_id": "B16291",
+  "year": 1623,
+  "author": "Weemes, John, 1579?-1636.",
+  "title": "The Christian synagogue Wherein is contayned the diverse reading, the right poynting, translation, and collation of scripture with scripture. With the",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Patna"
+  ],
+  "regions": [
+   "India (Bengal route)"
+  ],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "a *Nahab* or Favourite",
+    "Nahab"
+   ],
+   [
+    "cover'd with *Bambouck,* or Str",
+    "Bambouck"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Tavernier itinerary with only a couple of glossed Indian words amid place names; guess: Persian/Hindi terms."
+  ]
+ },
+ {
+  "tcp_id": "A51053",
+  "year": 1696,
+  "author": "Mocquet, Jean, b. 1575.",
+  "title": "Travels and voyages into Africa, Asia, and America, the East and West-Indies, Syria, Jerusalem, and the Holy-land performed by Mr. John Mocquet ... : ",
+  "n_windows": 1,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "the Language of these People; the *Caribes*; the *Caripous*"
+  ],
+  "places": [],
+  "regions": [
+   "Guiana / Caribbean coast"
+  ],
+  "n_forms": 8,
+  "sample_pairs": [
+   [
+    "the Sun",
+    "*Occayou,*"
+   ],
+   [
+    "the Moon",
+    "*Nona,*"
+   ],
+   [
+    "the Stars",
+    "*Cherica,*"
+   ],
+   [
+    "Heaven",
+    "*Capa,*"
+   ],
+   [
+    "the Clouds",
+    "*Canopa;*"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Mocquet's Carib word run with a note that Caripous and Caribes speak differently; guess: Carib-family language of Guiana."
+  ]
+ },
+ {
+  "tcp_id": "A50610",
+  "year": 1653,
+  "author": "Pinto, Fernão Mendes, d. 1583.",
+  "title": "The voyages and adventures of Fernand Mendez Pinto, a Portugal, during his travels for the space of one and twenty years in the Kingdoms of Ethiopia, ",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "by them called",
+   "in their language"
+  ],
+  "places": [
+   "*Timplan*, capital City of the Empire of the *Calaminham*",
+   "the great river of *Pit•y*; the City of *Timpla•*"
+  ],
+  "regions": [
+   "Southeast Asia (Pinto's travels)"
+  ],
+  "n_forms": 5,
+  "sample_pairs": [
+   [
+    "the God of married folks",
+    "*Quiay Iareno,*"
+   ],
+   [
+    "the price of the Scepter",
+    "by them called"
+   ],
+   [
+    "Lord of the world",
+    "*Calaminham*"
+   ],
+   [
+    "Lord",
+    "*Cala*"
+   ],
+   [
+    "boat",
+    "*Laulea*"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Pinto narrative with a couple of native titles and a deity name glossed; no list; guess: Southeast Asian terms in Portuguese rendering.",
+   "Pinto glosses the title Calaminham and Cala with boat names Laulea and Seroos; guess: Southeast Asian (Burmese/Mon) terms."
+  ]
+ },
+ {
+  "tcp_id": "A19470",
+  "year": 1612,
+  "author": "Coverte, Robert.",
+  "title": "A true and almost incredible report of an Englishman, that (being cast away in the good ship called the Assention in Cambaya the farthest part of the ",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "(as they call him)"
+  ],
+  "places": [
+   "*Ispahawne* in *Persia*"
+  ],
+  "regions": [
+   "Persia / Mughal frontier"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "euery league 2. course",
+    "forsong"
+   ],
+   [
+    "conuoy",
+    "*Coffeloe*"
+   ],
+   [
+    "King (as they call him)",
+    "*Shawbash*"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Itinerary with a few glossed Persian/Indian terms (forsong, Coffeloe, Shawbash); guess: Persian."
+  ]
+ },
+ {
+  "tcp_id": "A46303",
+  "year": 1672,
+  "author": "Josselyn, John, fl. 1630-1675.",
+  "title": "New-Englands rarities discovered in birds, beasts, fishes, serpents, and plants of that country : together with the physical and chyrurgical remedies ",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "after the *Indian* manner"
+  ],
+  "places": [
+   "Cape *Sable*; *New-England*"
+  ],
+  "regions": [
+   "New England"
+  ],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "a kind of Deer",
+    "*Maccarib, Caribo,* or *Pohano*"
+   ],
+   [
+    "Indian chief",
+    "*Sagamor*"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Josselyn gives native names for deer and a chief title in a natural-history entry; guess: Eastern Algonquian."
+  ]
+ },
+ {
+  "tcp_id": "A07603",
+  "year": 1615,
+  "author": "Bedwell, William, ca. 1561-1632.",
+  "title": "Mohammedis imposturæ: that is, A discouery of the manifold forgeries, falshoods, and horrible impieties of the blasphemous seducer Mohammed with a dem",
+  "n_windows": 4,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Arabian Trudgman",
+   "E F G entries of an alphabetical glossary",
+   "KADI, Cadi, Alkaedi, Alkad",
+   "the Arabians; the Arabicke name"
+  ],
+  "places": [
+   "Arabia, Egypt, Armenia",
+   "Marocco"
+  ],
+  "regions": [
+   "Arabia",
+   "Arabia / Islamic world",
+   "Arabia and the Mediterranean",
+   "Barbary and Arabia"
+  ],
+  "n_forms": 44,
+  "sample_pairs": [
+   [
+    "Duorum cornuum",
+    "DHI' LKARNAIN"
+   ],
+   [
+    "an Iland",
+    "GEZIRA"
+   ],
+   [
+    "a mountaine",
+    "GABEL"
+   ],
+   [
+    "the eleuenth moneth of the Arabian yeare",
+    "Dilkada"
+   ],
+   [
+    "hoc est ciuitas",
+    "ELMADINA"
+   ],
+   [
+    "a mountaine",
+    "GABEL"
+   ],
+   [
+    "an Iland",
+    "GEZIRA"
+   ],
+   [
+    "the Turkes sabbath, which alwaies is our Friday",
+    "GIVMAA"
+   ]
+  ],
+  "contact_flags": [
+   "Alcasaua",
+   "Cantarus",
+   "Estrecho de Gibraltar",
+   "Mon-gibello"
+  ],
+  "why": [
+   "Alphabetical glossary of Arabic terms in Bedwell's anti-Mohammed tract; guess: Arabic.",
+   "Arabic terms glossed in Latin and English in Bedwell's anti-Muhammad tract (guess: Arabic); anti-Islamic polemical genre.",
+   "Bedwell's alphabetical lexicon of Arabic/Muslim terms with English explanation and Latin quotes; guess: Arabic."
+  ]
+ },
+ {
+  "tcp_id": "A40123",
+  "year": 1660,
+  "author": "Fox, George, 1624-1691.",
+  "title": "A battle-door for teachers & professors to learn singular & plural you to many, and thou to one, singular one, thou, plural many, you : wherein is she",
+  "n_windows": 4,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "The End of the *Armenian*",
+   "The end of the *Egyptian* Language / Examples in the *Armenian* Language",
+   "is this good Arabick",
+   "the *Syrian* Language"
+  ],
+  "places": [
+   "Egyptian, Armenian"
+  ],
+  "regions": [
+   "Arabia",
+   "Egypt and Armenia"
+  ],
+  "n_forms": 68,
+  "sample_pairs": [
+   [
+    "A Man",
+    "Air"
+   ],
+   [
+    "Men",
+    "Arch"
+   ],
+   [
+    "Thou",
+    "Tuu"
+   ],
+   [
+    "we",
+    "Mench"
+   ],
+   [
+    "ye",
+    "Tuuch"
+   ],
+   [
+    "woe to *you*",
+    "woi lechun"
+   ],
+   [
+    "thou hast said it",
+    "at emart"
+   ],
+   [
+    "thy name",
+    "shemoch"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Quaker pamphlet giving Coptic-style singular/plural pronoun and noun paradigms and Armenian letter names to argue thou/you; unexpected genre (guess: Coptic, Armenian).",
+   "Quaker polemic (Fox) tabulating pronoun and number forms of Armenian with English glosses, unexpected genre; guess: Armenian transliterated.",
+   "guess: Syriac (Peshitta) forms in an unexpected genre, George Fox's thee/thou tract; non-Latin alphabet partly lost."
+  ]
+ },
+ {
+  "tcp_id": "A39081",
+  "year": 1684,
+  "author": "Exquemelin, A. O. (Alexandre Olivier).",
+  "title": "Bucaniers of America, or, A true account of the most remarkable assaults committed of late years upon the coasts of the West-Indies by the bucaniers o",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "The French Nation calleth them *Acajou*"
+  ],
+  "places": [],
+  "regions": [
+   "West Indies"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "Cedars",
+    "Acajou"
+   ],
+   [
+    "tree called",
+    "Mapou"
+   ],
+   [
+    "tree called",
+    "Acoma"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Few Caribbean tree names in passing; guess: Taino/Carib-derived, via French."
+  ]
+ },
+ {
+  "tcp_id": "A16169",
+  "year": 1577,
+  "author": "Bishop, John, d. 1613.",
+  "title": "Beautiful blossomes, gathered by Iohn Byshop, from the best trees of all kyndes, diuine, philosophicall, astronomicall, cosmographical, historical, & ",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "which kinde of men they do call *Morabuth*"
+  ],
+  "places": [
+   "*Africa*"
+  ],
+  "regions": [
+   "North Africa"
+  ],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "an Hermite",
+    "Morabuth"
+   ],
+   [
+    "the prieste",
+    "Cherife"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Two glossed Moroccan titles; guess: Arabic."
+  ]
+ },
+ {
+  "tcp_id": "A28984",
+  "year": 1692,
+  "author": "Boyle, Robert, 1627-1691.",
+  "title": "General heads for the natural history of a country great or small drawn out for the use of travellers and navigators / imparted by ... Robert Boyle ..",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "*Wapergh*"
+  ],
+  "places": [
+   "*Virginia and Bermudas*"
+  ],
+  "regions": [
+   "Virginia"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "a fish",
+    "Cabala"
+   ],
+   [
+    "a kind of Porcupine",
+    "Pedro Porco"
+   ],
+   [
+    "Earth like Terra Sigillata",
+    "Wapergh"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Boyle's travel-inquiry list names a few exotic terms in passing, e.g. Wapergh earth; guess: Virginia Algonquian."
+  ]
+ },
+ {
+  "tcp_id": "A48869",
+  "year": 1669,
+  "author": "Lobo, Jerónimo, 1596?-1678.",
+  "title": "A short relation of the river Nile of its sourse and current, of its overflowing the Campagnia of Ægypt, till it runs into the Mediterranean, and of o",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "the Natives",
+   "which amongst them signifie excellent"
+  ],
+  "places": [
+   "*India*",
+   "Ceilaon"
+  ],
+  "regions": [
+   "Ceilaon (coast)",
+   "India"
+  ],
+  "n_forms": 4,
+  "sample_pairs": [
+   [
+    "excellent",
+    "Barca"
+   ],
+   [
+    "Coco",
+    "Coco's"
+   ],
+   [
+    "little fish",
+    "Cuta"
+   ],
+   [
+    "Twig",
+    "Poyo"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "One glossed native term for coconut quality in a Nile/palm treatise; guess: Indo-Portuguese.",
+   "Two native words glossed in a palm-tree passage; guess: Sinhala or Indian-coast vernacular via Portuguese."
+  ]
+ },
+ {
+  "tcp_id": "A66798",
+  "year": 1653,
+  "author": "Bon, Ottaviano, 1552-1623.",
+  "title": "A description of the grand signour's seraglio or Turkish emperours court [edited] by John Greaves.",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "The Turkish word"
+  ],
+  "places": [],
+  "regions": [
+   "Ottoman court (Seraglio)"
+  ],
+  "n_forms": 8,
+  "sample_pairs": [
+   [
+    "youths within",
+    "Itchoglans"
+   ],
+   [
+    "a chamber, or room",
+    "Oda"
+   ],
+   [
+    "a house",
+    "Sarai"
+   ],
+   [
+    "a house",
+    "Seraw"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Marginal glosses of a few Turkish court terms (Itchoglans, Oda, Musahib, Capee Aga); guess: Turkish.",
+   "Few marginal glosses of Turkish and Persian words (Sarai, Seraw, Kiosks, Imawms); guess: Turkish/Persian."
+  ]
+ },
+ {
+  "tcp_id": "A74637",
+  "year": 1652,
+  "author": "Maurus, Johannes, fl. 1654.",
+  "title": "The confusion of Muhamed's sect, or a confutation of the Turkish Alcoran. Being a discovery of many secret policies and practices in that religion, no",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Mecca"
+  ],
+  "regions": [
+   "Arabia"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "tower",
+    "Elcabba"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Few Arabic terms (Alkibla, Elcabba, Alcoran) explained in a confutation of Muhamed; guess: Arabic."
+  ]
+ },
+ {
+  "tcp_id": "A32765",
+  "year": 1657,
+  "author": "Camden, William, 1551-1623.",
+  "title": "Remaines concerning Britain their languages, names, surnames, allusions, anagrammes, armories, monies, empreses, apparell, artillarie, wise speeches, ",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "inhabitants of Taurica Chersonessus"
+  ],
+  "places": [
+   "Taurica Chersonessus"
+  ],
+  "regions": [
+   "Taurica Chersonessus (eastern Europe)"
+  ],
+  "n_forms": 11,
+  "sample_pairs": [],
+  "contact_flags": [],
+  "why": [
+   "Camden cites word forms (Wind, Silver, Corn, Salt, Ilanda, Waggen) from the Crimea via Busbequius plus Persian cognates Fader, Moder, Bruder; guess: Crimean Gothic list, a Lord's Prayer comparison follows."
+  ]
+ },
+ {
+  "tcp_id": "A02800",
+  "year": 1616,
+  "author": "Haughton, William, d. 1605.",
+  "title": "English-men for my money: or, A pleasant comedy, called, A woman will haue her will",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": false,
+  "pseudo": true,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Leaden-hall"
+  ],
+  "regions": [
+   "London (stage)"
+  ],
+  "n_forms": 4,
+  "sample_pairs": [],
+  "contact_flags": [],
+  "why": [
+   "PSEUDO: stage broken English of foreigners (Signor, Cassa, de gratia, adio); guess: mock Italian/Dutch/French."
+  ]
+ },
+ {
+  "tcp_id": "A42257",
+  "year": 1688,
+  "author": "Vega, Garcilaso de la, 1539-1616.",
+  "title": "The royal commentaries of Peru, in two parts the first part, treating of the original of their Incas or kings, of their idolatry, of their laws and go",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "the Indians"
+  ],
+  "places": [
+   "Cozco"
+  ],
+  "regions": [
+   "Peru"
+  ],
+  "n_forms": 13,
+  "sample_pairs": [
+   [
+    "the Upper and the Lower Town",
+    "Hanan-Cozco, and Hurin-Cozco"
+   ],
+   [
+    "the Royal Progeny",
+    "Capac Ayllu"
+   ],
+   [
+    "Their Pedigree",
+    "Chima Panaca"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Few Inca place terms glossed (Hanan-Cozco, Hurin-Cozco, Collcampata); guess: Quechua.",
+   "Garcilaso names Inca lineages (panaca/ayllu) with one gloss ('Royal Progeny'); guess: Quechua, mostly personal and lineage names."
+  ]
+ },
+ {
+  "tcp_id": "A28352",
+  "year": 1651,
+  "author": "Bland, Edward, d. 1653.",
+  "title": "The discovery of Nevv Brittaine began August 27, Anno Dom. 1650 / by Edward Bland, merchant, Abraham Woode, captaine, Sackford Brewster, Elias Pennant",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [],
+  "places": [
+   "Maharineck"
+  ],
+  "regions": [
+   "inland Virginia/Carolina country visited in 1650"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "their Werrowance",
+    "Werrowance"
+   ],
+   [
+    "a measure for",
+    "Roanoak"
+   ],
+   [
+    "their great Emperour",
+    "Apachancano"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Exploration journal with a few Native words (Werrowance, Roanoak, Apachancano) unglossed beyond context; guess: Virginia Algonquian."
+  ]
+ },
+ {
+  "tcp_id": "A31753",
+  "year": 1686,
+  "author": "Chardin, John, Sir, 1643-1713.",
+  "title": "The travels of Sir John Chardin into Persia and the East-Indies the first volume, containing the author's voyage from Paris to Ispahan : to which is a",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "ancient Persian"
+  ],
+  "places": [
+   "Casbin"
+  ],
+  "regions": [
+   "Persia"
+  ],
+  "n_forms": 9,
+  "sample_pairs": [
+   [
+    "signifies a King",
+    "Shae"
+   ],
+   [
+    "a Son",
+    "Pour"
+   ],
+   [
+    "the Explication",
+    "Elbeijon"
+   ],
+   [
+    "a King",
+    "Shae"
+   ],
+   [
+    "a Son",
+    "Pour"
+   ],
+   [
+    "blessed",
+    "Moubarec"
+   ],
+   [
+    "habitation",
+    "abad"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Chardin travels: a few Persian etymological glosses in a place-name discussion.",
+   "guess: Persian word etymologies of city names glossed inline in Chardin."
+  ]
+ },
+ {
+  "tcp_id": "A05331",
+  "year": 1600,
+  "author": "Leo, Africanus, ca. 1492-ca. 1550.",
+  "title": "A geographical historie of Africa, written in Arabicke and Italian by Iohn Leo a More, borne in Granada, and brought vp in Barbarie. Wherein he hath a",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Arabian",
+   "Of the principall Peere next vnder the Soldan called Eddaguadare"
+  ],
+  "places": [
+   "Cairo",
+   "Egypt"
+  ],
+  "regions": [
+   "Egypt",
+   "Egypt (Mamluk court)"
+  ],
+  "n_forms": 5,
+  "sample_pairs": [
+   [
+    "an enforcing or imperious mistresse",
+    "El Chahira"
+   ],
+   [
+    "peeces of golde",
+    "Saraffi"
+   ],
+   [
+    "principall Peere next vnder the Soldan",
+    "Eddaguadare"
+   ],
+   [
+    "Soldans officer",
+    "Amir Cabir"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Leo Africanus: a few Arabic etymological glosses (El Chahira, Saraffi).",
+   "Leo Africanus: Arabic/Turkish offices named with English glosses; only two terms."
+  ]
+ },
+ {
+  "tcp_id": "A61855",
+  "year": 1683,
+  "author": "Struys, Jan Janszoon, d. 1694.",
+  "title": "The perillous and most unhappy voyages of John Struys Through Italy, Greece, Lifeland, Muscovia, Tartary, Media, Persia, East-India, Japan, and other ",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "A TABLE Of The Names and most remarkable Things"
+  ],
+  "places": [
+   "Persia, Moscovia"
+  ],
+  "regions": [
+   "Persia and Muscovy"
+  ],
+  "n_forms": 4,
+  "sample_pairs": [
+   [
+    "a Festival Day among the Persians",
+    "Asshur"
+   ],
+   [
+    "the Paschal Feast of the Persians",
+    "Bairam, or Biram del Carban"
+   ],
+   [
+    "a form of Punishment in Moscovia",
+    "Battoki"
+   ],
+   [
+    "a strange Kind of Fruit found near Astrachan",
+    "Baronez"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Book index with a few Persian/Russian terms glossed; index only, not a word list."
+  ]
+ },
+ {
+  "tcp_id": "A17848",
+  "year": 1605,
+  "author": "Camden, William, 1551-1623.",
+  "title": "Remaines of a greater worke, concerning Britaine, the inhabitants thereof, their languages, names, surnames, empreses, wise speeches, poësies, and epi",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": false,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "Taurica-Chersonessus"
+  ],
+  "places": [
+   "Taurica-Chersonessus, in the vtter-most part of Europe eastward"
+  ],
+  "regions": [
+   "Crimea (Taurica Chersonesus)"
+  ],
+  "n_forms": 9,
+  "sample_pairs": [
+   [
+    "Wind",
+    "Wind"
+   ],
+   [
+    "Silver",
+    "Silver"
+   ],
+   [
+    "Fish",
+    "Fish"
+   ],
+   [
+    "Apple",
+    "Apple"
+   ],
+   [
+    "Beard",
+    "Beard"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Camden cites Busbecq's Crimean word list showing Germanic-looking words; also Scaliger on Persian Fader/Moder/Bruder; guess: Crimean Gothic."
+  ]
+ },
+ {
+  "tcp_id": "A40881",
+  "year": 1689,
+  "author": "Farewell, James.",
+  "title": "The Irish Hudibras, or, Fingallian prince taken from the sixth book of Virgil's Æneids, and adapted to the present times.",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": false,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Fingallian",
+   "Fingallian Words"
+  ],
+  "places": [
+   "Ireland"
+  ],
+  "regions": [
+   "Ireland"
+  ],
+  "n_forms": 9,
+  "sample_pairs": [
+   [
+    "",
+    "Hil-lil-loo's"
+   ],
+   [
+    "",
+    "Ca-bash"
+   ],
+   [
+    "",
+    "Garrane"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Footnote glosses of Anglo-Irish/Irish words (Maddabrist, Bun-guol, Sloo Skeal donna no Dees) in a burlesque Aeneid; guess: Irish, European only.",
+   "Burlesque verse with Anglo-Irish dialect words explained in marginal notes; European only (Irish/English)."
+  ]
+ },
+ {
+  "tcp_id": "A96033",
+  "year": 1696,
+  "author": "Le Maire, Jacques-Joseph.",
+  "title": "A voyage of the Sieur Le Maire to the Canary Islands, Cape-Verd, Senegal and Gamby, under Monsieur Dancourt, Director-General of the Royal African Com",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Negroes"
+  ],
+  "places": [],
+  "regions": [
+   "Senegambia coast"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [],
+  "contact_flags": [],
+  "why": [
+   "Account of customs with a few unglossed-by-list African terms (Marabou, Guiriats, Folgar); guess: Mande/Wolof-region loanwords."
+  ]
+ },
+ {
+  "tcp_id": "B15540",
+  "year": 1610,
+  "author": "Rid, Samuel.",
+  "title": "Martin Mark-all, beadle of Bridevvell; his defence and answere to the Belman of London Discouering the long-concealed originall and regiment of rogues",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": false,
+  "pseudo": true,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Theuingen"
+  ],
+  "regions": [],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "",
+    "Tribulamenti fons"
+   ],
+   [
+    "",
+    "Mare Discontentaneum"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "PSEUDO: satirical imaginary geography with mock-Latin names (Theuingen, Lecheritania)."
+  ]
+ },
+ {
+  "tcp_id": "A02495",
+  "year": 1599,
+  "author": null,
+  "title": "The principal nauigations, voyages, traffiques and discoueries of the English nation. [vols. 1-3] made by sea or ouer-land, to the remote and farthest",
+  "n_windows": 3,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "Here follow the names of the chiefest partes of man, and other words necessary to be knowen.",
+   "I obserued certaine wordes of their language, which I thought good to set downe",
+   "certaine wordes of the language of *Trinidad*"
+  ],
+  "places": [
+   "Trinidad"
+  ],
+  "regions": [
+   "Arctic / northern voyage",
+   "St Lawrence / Canada",
+   "Trinidad"
+  ],
+  "n_forms": 290,
+  "sample_pairs": [
+   [
+    "A man.",
+    "GVttemock"
+   ],
+   [
+    "The moone.",
+    "Cattie"
+   ],
+   [
+    "Water.",
+    "Oronuie"
+   ],
+   [
+    "Fire.",
+    "Hicket"
+   ],
+   [
+    "A parrot.",
+    "Walrowa"
+   ],
+   [
+    "what call you this",
+    "COwghtie coteat"
+   ],
+   [
+    "a man",
+    "Olmuelke"
+   ],
+   [
+    "fire",
+    "Tol"
+   ]
+  ],
+  "contact_flags": [
+   "Beyou",
+   "Calcouri",
+   "Casparo",
+   "Keestes",
+   "Lein",
+   "Maurisse",
+   "Non quapa",
+   "Non quo",
+   "Payte",
+   "Sambolers",
+   "Sarke",
+   "Sellowpe",
+   "Solda"
+  ],
+  "why": [
+   "Hakluyt voyage vocabulary with numerals to 100, unlabeled language; guess: Sami or Baffin/Greenland-region; several forms resemble Scandinavian/Germanic loans.",
+   "Hakluyt Trinidad wordlist with apparent Spanish-derived items (guess: Arawakan/Cariban mix).",
+   "guess: Cartier's Stadaconan/Hochelaga word list in Hakluyt; long list of body parts, food, phrases."
+  ]
+ },
+ {
+  "tcp_id": "A54868",
+  "year": 1658,
+  "author": "Pierson, Abraham, 1608-1678.",
+  "title": "Some helps for the Indians shewing them how to improve their natural reason, to know the true God, and the Christian religion 1. by leading them to se",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "the Indians"
+  ],
+  "places": [],
+  "regions": [
+   "New England"
+  ],
+  "n_forms": 0,
+  "sample_pairs": [],
+  "contact_flags": [
+   "Adam re Moses",
+   "God",
+   "Iehovah",
+   "Jehovah",
+   "restauwun"
+  ],
+  "why": [
+   "guess: Algonquian (Connecticut) catechism question and answer text with no English gloss in the snippet; running native-language prose rather than a wordlist."
+  ]
+ },
+ {
+  "tcp_id": "A51184",
+  "year": 1671,
+  "author": "Montanus, Arnoldus, 1625?-1683.",
+  "title": "Remarkable addresses by way of embassy from the East-India Company of the United Provinces, to the Emperor of Japan Containing a description of their ",
+  "n_windows": 1,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "the *Janpan* Tongue"
+  ],
+  "places": [
+   "Japan"
+  ],
+  "regions": [
+   "Japan"
+  ],
+  "n_forms": 28,
+  "sample_pairs": [
+   [
+    "Give a Candle",
+    "Mos Resoucq gusarr"
+   ],
+   [
+    "Come here",
+    "Curi gusavimass"
+   ],
+   [
+    "I drink to you",
+    "Sass Massio"
+   ],
+   [
+    "Bad",
+    "Warrangusar"
+   ],
+   [
+    "Vinegar",
+    "Ksou"
+   ]
+  ],
+  "contact_flags": [
+   "Bobbo",
+   "Gekyo, donne or samma",
+   "Katania",
+   "Phnyx ikomassio"
+  ],
+  "why": [
+   "guess: Japanese phrase list in Dutch-derived orthography, some forms garbled; also mentions the Quanhoa (Mandarine) language without words."
+  ]
+ },
+ {
+  "tcp_id": "A05182",
+  "year": 1587,
+  "author": "Laudonnière, René Goulaine de.",
+  "title": "A notable historie containing foure voyages made by certayne French captaynes vnto Florida vvherein the great riches and fruitefulnes of the countrey ",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [],
+  "places": [
+   "Florida"
+  ],
+  "regions": [
+   "Florida"
+  ],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "a King and Gouernour",
+    "Paracoussy"
+   ],
+   [
+    "Phisitions and Chirurgions",
+    "Iawas"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Index to Laudonniere with two glossed native words (Paracoussy, Iawas) among many chiefs' names."
+  ]
+ },
+ {
+  "tcp_id": "A05597",
+  "year": 1640,
+  "author": "Lithgow, William, 1582-1645?",
+  "title": "The totall discourse, of the rare adventures, and painefull peregrinations of long nineteene yeares travailes from Scotland, to the most famous kingdo",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Greece"
+  ],
+  "regions": [
+   "Ottoman Greece"
+  ],
+  "n_forms": 3,
+  "sample_pairs": [
+   [
+    "Horse-men",
+    "Timariots"
+   ],
+   [
+    "Judges deputies of Jurisdictions",
+    "Sanzacks"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Turkish office terms glossed inline (Timariots, Sanzacks, Begelbergship); only a few words."
+  ]
+ },
+ {
+  "tcp_id": "A06340",
+  "year": 1578,
+  "author": "López de Gómara, Francisco, 1511-1564.",
+  "title": "The pleasant historie of the conquest of the VVeast India, now called new Spayne atchieued by the vvorthy prince Hernando Cortes Marques of the valley",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "The order how to recken.",
+   "Those foure figures or names"
+  ],
+  "places": [
+   "Mexico"
+  ],
+  "regions": [
+   "Mexico / New Spain",
+   "New Spain"
+  ],
+  "n_forms": 112,
+  "sample_pairs": [
+   [
+    "a Conny",
+    "Tochtli"
+   ],
+   [
+    "a Caue",
+    "Acatlh"
+   ],
+   [
+    "a Knife",
+    "Tecpatlh"
+   ],
+   [
+    "a House",
+    "Calli"
+   ],
+   [
+    "One yeare",
+    "Ce Totchtli"
+   ],
+   [
+    "One",
+    "Ce"
+   ],
+   [
+    "Two",
+    "Ome"
+   ],
+   [
+    "Water",
+    "Atl"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Gomara's table of Mexican year-sign and numeral combinations (guess: Nahuatl) with four sign glosses.",
+   "guess: Nahuatl numerals, month names and day-sign glosses in Gomara's Conquest."
+  ]
+ },
+ {
+  "tcp_id": "A18057",
+  "year": 1580,
+  "author": "Cartier, Jacques, 1491-1557.",
+  "title": "A shorte and briefe narration of the two nauigations and discoueries to the northweast partes called Newe Fraunce: first translated out of French into",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen",
+   "The language that is spoken in the Land newly discouered, called new Fraunce."
+  ],
+  "places": [
+   "Canada",
+   "new Fraunce"
+  ],
+  "regions": [
+   "New France",
+   "New France (St Lawrence)"
+  ],
+  "n_forms": 155,
+  "sample_pairs": [
+   [
+    "the Sunne",
+    "Isnetz"
+   ],
+   [
+    "Water",
+    "ame"
+   ],
+   [
+    "the Head",
+    "agonaze"
+   ],
+   [
+    "a Hatchet",
+    "asogne"
+   ],
+   [
+    "a Man",
+    "vndo"
+   ],
+   [
+    "the Heade",
+    "aggonzi"
+   ],
+   [
+    "the Eyes",
+    "higata"
+   ],
+   [
+    "a Towne",
+    "canada"
+   ]
+  ],
+  "contact_flags": [
+   "Sourhanda",
+   "anougaza",
+   "ascond•"
+  ],
+  "why": [
+   "Cartier's famous first-voyage word list in the English translation; guess: St Lawrence Iroquoian.",
+   "Cartier's well-known St Lawrence word list (Italian-derived English translation); guess: Laurentian Iroquoian."
+  ]
+ },
+ {
+  "tcp_id": "A36730",
+  "year": 1671,
+  "author": "Montanus, Arnoldus, 1625?-1683.",
+  "title": "Atlas Chinensis being a second part of A relation of remarkable passages in two embassies from the East-India Company of the United Provinces to the v",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Nangan"
+  ],
+  "regions": [
+   "China"
+  ],
+  "n_forms": 2,
+  "sample_pairs": [
+   [
+    "Western",
+    "Si"
+   ],
+   [
+    "Flower",
+    "Hoa"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Mostly Chinese mountain and city names; one gloss of a name's two syllables; guess: Chinese."
+  ]
+ },
+ {
+  "tcp_id": "A06786",
+  "year": 1622,
+  "author": "Malynes, Gerard, fl. 1586-1641.",
+  "title": "Consuetudo, vel lex mercatoria, or The ancient law-merchant Diuided into three parts: according to the essentiall parts of trafficke. Necessarie for a",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "called by seuerall names"
+  ],
+  "places": [
+   "Cambaya"
+  ],
+  "regions": [
+   "India"
+  ],
+  "n_forms": 15,
+  "sample_pairs": [
+   [
+    "Calico Cloth Dosinde",
+    "Iourins"
+   ],
+   [
+    "Calico Cloth of the coast of Canaor",
+    "Beatillas"
+   ],
+   [
+    "Mirabolanes",
+    "Emblici"
+   ],
+   [
+    "Calico Cloth of Vengala",
+    "Cassas"
+   ],
+   [
+    "Calico Cloth of the places following",
+    "Canequins"
+   ]
+  ],
+  "contact_flags": [
+   "Beatillas",
+   "Canequins",
+   "Cotonias",
+   "Soto pazes",
+   "Teadas"
+  ],
+  "why": [
+   "Law-merchant list of Indian calico and drug trade names with prices; guess: Indo-Portuguese trade terms."
+  ]
+ },
+ {
+  "tcp_id": "A01618",
+  "year": 1569,
+  "author": "Georgijević, Bartolomej, d. ca. 1566.",
+  "title": "The ofspring of the house of Ottomanno and officers pertaining to the greate Turkes court. Whereunto is added Bartholomeus Georgieuiz Epitome, of the ",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "A Dialogue conteininge questions, and aunsweres of a Turke with a christian",
+   "A salutinge dialogue in the Sclauone tounge."
+  ],
+  "places": [
+   "Callipolis",
+   "Constantinople"
+  ],
+  "regions": [
+   "Ottoman Balkans",
+   "Ottoman Empire"
+  ],
+  "n_forms": 80,
+  "sample_pairs": [
+   [
+    "Whether goest thou O Christian?",
+    "Handa gidertsan bre Giaur?"
+   ],
+   [
+    "I goe towardes Constantinople",
+    "Tsultanū giderum stambola."
+   ],
+   [
+    "What newes is ther spoken of in your partes?",
+    "Ne habar scizum gilerden?"
+   ],
+   [
+    "Haue you anye companion?",
+    "Gioldassum varmi tsenumle?"
+   ],
+   [
+    "Peace be vnto the O Father.",
+    "Sellam aliech Baba."
+   ],
+   [
+    "Bogh pomozi gospodaru",
+    "God helpe you my patrone."
+   ],
+   [
+    "Dobro dossao priiateliu.",
+    "In good time you come my frende."
+   ],
+   [
+    "Ni brate, Zabludiossi daleko.",
+    "No brother, you haue erred greatlye,"
+   ]
+  ],
+  "contact_flags": [
+   "Affendi",
+   "Allaha",
+   "Giaur"
+  ],
+  "why": [
+   "Early Turkish phrase dialogue with English glosses and salutations; guess: Turkish.",
+   "Georgieuiz Sclauone dialogue plus Lord's Prayer and Ave in English glosses; guess: Slavic (South Slavic), a European language, so borderline for the project."
+  ]
+ },
+ {
+  "tcp_id": "A40522",
+  "year": 1698,
+  "author": "Fryer, John, d. 1733.",
+  "title": "A new account of East-India and Persia, in eight letters being nine years travels begun 1672 and finished 1681 : containing observations made of the m",
+  "n_windows": 3,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Names of Things",
+   "Names of Things."
+  ],
+  "places": [
+   "East-India and Persia",
+   "Persia"
+  ],
+  "regions": [
+   "East India and Persia",
+   "India and Persia"
+  ],
+  "n_forms": 170,
+  "sample_pairs": [
+   [
+    "a Barge",
+    "Baloon"
+   ],
+   [
+    "a Wolf",
+    "Balu"
+   ],
+   [
+    "a poisonous Plant",
+    "Bang"
+   ],
+   [
+    "course Rice",
+    "Batty"
+   ],
+   [
+    "a Market",
+    "Buzzar"
+   ],
+   [
+    "a Bow, Health, or Complement",
+    "Salam"
+   ],
+   [
+    "a Girdle",
+    "Sash"
+   ],
+   [
+    "a Secretary",
+    "Scrivan"
+   ]
+  ],
+  "contact_flags": [
+   "Bandarines",
+   "Banksol",
+   "Bastion",
+   "Bocca mortis",
+   "Bonano",
+   "Boneto",
+   "Cabesso",
+   "Natal",
+   "Paddy",
+   "Padre",
+   "Palmeto",
+   "Parochet",
+   "Paulistin",
+   "Petacha",
+   "Pintado"
+  ],
+  "why": [
+   "Fryer's back-of-book glossary of Indian, Persian and Portuguese-derived terms with page numbers; guess: mixed Indo-Persian.",
+   "guess: index glossary of Persian, Hindustani and Portuguese-mediated Indian terms in Fryer's travels, with page refs.",
+   "Fryer's index of 'Names of Things' glossing Indian, Persian and Portuguese-derived terms; guess: Hindustani, Persian, Marathi and Portuguese loans."
+  ]
+ },
+ {
+  "tcp_id": "A49883",
+  "year": 1660,
+  "author": "Leblanc, Vincent, 1554-ca. 1640.",
+  "title": "The world surveyed, or The famous voyages & travailes of Vincent le Blanc, or White, of Marseilles ... containing a more exact description of several ",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Mandimanca"
+  ],
+  "places": [
+   "Casamanca",
+   "Ceylon"
+  ],
+  "regions": [
+   "Guinea coast",
+   "India and Ceylon"
+  ],
+  "n_forms": 9,
+  "sample_pairs": [
+   [
+    "the God of night or darknesse",
+    "Bariamari"
+   ],
+   [
+    "Priests or Magicians",
+    "Acacani"
+   ],
+   [
+    "principal Idol",
+    "China"
+   ],
+   [
+    "a Monkey",
+    "Hanimam"
+   ],
+   [
+    "a Ruby",
+    "Matouca"
+   ],
+   [
+    "a Clovegilliflowr",
+    "Calanfour"
+   ],
+   [
+    "are Commissioners",
+    "Chitmi"
+   ]
+  ],
+  "contact_flags": [
+   "Bariamari",
+   "China",
+   "Gondola",
+   "Jonque",
+   "Pescaria"
+  ],
+  "why": [
+   "Le Blanc's Senegambia ethnography with a few glossed religious terms and many nation names; guess: Mande/Atlantic.",
+   "guess: scattered marginal glosses of Indian and Sinhalese terms in Le Blanc's travels; no list."
+  ]
+ },
+ {
+  "tcp_id": "A44230",
+  "year": 1688,
+  "author": "Holme, Randle, 1627-1699.",
+  "title": "The academy of armory, or, A storehouse of armory and blazon containing the several variety of created beings, and how born in coats of arms, both for",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [],
+  "regions": [],
+  "n_forms": 14,
+  "sample_pairs": [
+   [
+    "Guira-jenoia",
+    "11 65"
+   ],
+   [
+    "Gua-rauna",
+    "11 77"
+   ],
+   [
+    "Guira-guai-nombi",
+    "13 17"
+   ],
+   [
+    "Guira-acanga-tara",
+    "13 16"
+   ],
+   [
+    "Guara-cyaba",
+    "13 58 s 2"
+   ]
+  ],
+  "contact_flags": [
+   "Gaviotta",
+   "Giarola"
+  ],
+  "why": [
+   "Holme's armory index of bird names includes many Guira-/Guara- headwords with no glosses here; guess: Tupi bird names via Marcgrave/Piso, glossed only in the main text."
+  ]
+ },
+ {
+  "tcp_id": "A34686",
+  "year": 1691,
+  "author": "Cotton, John, 1584-1652.",
+  "title": "Nashauanittue meninnunk wutch Mukkiesog, wussesemumun wutch sogkodtunganash Naneeswe Testamentsash; wutch ukkesitchippooonganoo ukketeahogkounooh. Nog",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Nashauanittue meninnunk wutch Mukkiesog"
+  ],
+  "places": [],
+  "regions": [
+   "New England"
+  ],
+  "n_forms": 40,
+  "sample_pairs": [
+   [
+    "",
+    "Uttiyeu matcheseonk quahtinittimuk?"
+   ],
+   [
+    "",
+    "Webe nashpe JESUS CHRIST."
+   ],
+   [
+    "",
+    "Pannoowae wauwaonuhkon ketatteaumunk."
+   ]
+  ],
+  "contact_flags": [
+   "CHRIST",
+   "GOD",
+   "JEHOVAH",
+   "LORDE",
+   "Lordut"
+  ],
+  "why": [
+   "Question-and-answer catechism (Nat./Namp.) entirely in the native language with no English glosses visible; guess: Massachusett (Eliot-school printing), a text rather than a vocabulary.",
+   "Question-and-answer catechism in running Algonquian-type text (guess: Massachusett), no glosses visible in snippet."
+  ]
+ },
+ {
+  "tcp_id": "A64495",
+  "year": 1687,
+  "author": "Thévenot, Jean de, 1633-1667.",
+  "title": "The travels of Monsieur de Thevenot into the Levant in three parts, viz. into I. Turkey, II. Persia, III. the East-Indies / newly done out of French.",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Cistern",
+   "Golconda"
+  ],
+  "regions": [
+   "Egypt to Mecca route",
+   "India (Golconda, Coromandel)"
+  ],
+  "n_forms": 12,
+  "sample_pairs": [
+   [
+    "Cistern",
+    "Misana"
+   ],
+   [
+    "the Castle of Sand-Pits",
+    "Kalaat Aadgeroud"
+   ],
+   [
+    "the Castle of Palmes",
+    "Kalaat el Nahhal"
+   ],
+   [
+    "Asses Back",
+    "Dar el Hhamar"
+   ],
+   [
+    "the Grott of Jethro",
+    "Magare Chouaib"
+   ],
+   [
+    "a distemper",
+    "Akeron"
+   ],
+   [
+    "Sovereigns",
+    "Naiques"
+   ],
+   [
+    "Money",
+    "Fanons"
+   ]
+  ],
+  "contact_flags": [
+   "Fanons",
+   "Gazer",
+   "Istanbel antir"
+  ],
+  "why": [
+   "Thevenot's pilgrim-route itinerary glosses Arabic stage names in running text; guess: Arabic place names, not a word list.",
+   "Marginal-note index in Thevenot, mostly place names and itineraries with a few glossed Indian terms; guess: Telugu/Persian trade words."
+  ]
+ },
+ {
+  "tcp_id": "A51115",
+  "year": 1672,
+  "author": "Ravenscroft, Edward, 1654?-1707.",
+  "title": "The citizen turn'd gentleman a comedy acted at the Dvke's theatre / by Edw. Ravenscroft.",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": true,
+  "max_interest": 3,
+  "labels": [],
+  "places": [],
+  "regions": [
+   "Levant"
+  ],
+  "n_forms": 8,
+  "sample_pairs": [
+   [
+    "He bids you hold your peace.",
+    "Tazir, Tazir"
+   ],
+   [
+    "He asks you if you are a Knave?",
+    "Ti non star Furba"
+   ],
+   [
+    "He asks if you are a Paltroon.",
+    "Ti non star Furfanta"
+   ],
+   [
+    "He tells you, you are now made a Turk.",
+    "Star Bon Turca Giourdina"
+   ]
+  ],
+  "contact_flags": [
+   "Hivalla",
+   "Pigilar Schiabbola",
+   "Ti non star Furba"
+  ],
+  "why": [
+   "PSEUDO: mock-Turkish Mufti ceremony in a stage comedy, mainly Italian-based lingua franca with Italian words and gibberish (Hivalla, Hula baba la chou), glossed by Trickmore."
+  ]
+ },
+ {
+  "tcp_id": "A11777",
+  "year": 1609,
+  "author": "Martin, Gregory, d. 1582.",
+  "title": "The holie Bible faithfully translated into English, out of the authentical Latin. Diligently conferred with the Hebrew, Greeke, and other editions in ",
+  "n_windows": 1,
+  "any_yes": true,
+  "non_european": false,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Cornish"
+  ],
+  "places": [
+   "Cornwall"
+  ],
+  "regions": [
+   "Cornwall"
+  ],
+  "n_forms": 40,
+  "sample_pairs": [
+   [
+    "Draw",
+    "Tedua"
+   ],
+   [
+    "Mother",
+    "Mamm"
+   ],
+   [
+    "Bishop",
+    "Escoppe"
+   ],
+   [
+    "Dogge",
+    "Kye"
+   ],
+   [
+    "Good morrow to you",
+    "Durdatha why"
+   ]
+  ],
+  "contact_flags": [
+   "Cans",
+   "Escoppe",
+   "Mille"
+  ],
+  "why": [
+   "Cornish comparison with Greek, numerals 1-10000 and phrases in Carew; European Celtic language."
+  ]
+ },
+ {
+  "tcp_id": "A66045",
+  "year": 1668,
+  "author": "Wilkins, John, 1614-1672.",
+  "title": "An essay towards a real character, and a philosophical language by John Wilkins ...",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 3,
+  "labels": [
+   "Madagascar",
+   "Tartarian"
+  ],
+  "places": [
+   "New England"
+  ],
+  "regions": [
+   "world (polyglot Lord's Prayer)"
+  ],
+  "n_forms": 62,
+  "sample_pairs": [
+   [
+    "Madagascar",
+    "An tanetona and anghits•"
+   ],
+   [
+    "Poconchi",
+    "Yah uir vach a cal he invan taxah"
+   ],
+   [
+    "New England",
+    "Nen nach ohkeit neane kesukqut"
+   ],
+   [
+    "Chinish",
+    "Yu ty su sim thyaen"
+   ],
+   [
+    "M. Tartarian",
+    "Achtaver visungundaluch"
+   ],
+   [
+    "Copti 7.",
+    "Ouo omper tenechou epirasmos,"
+   ],
+   [
+    "M. Lappian 23.",
+    "Ia ale sata mei ta kin sauxen"
+   ],
+   [
+    "Tartarian 38.",
+    "Datcha koima visn sunan acha"
+   ]
+  ],
+  "contact_flags": [
+   "Chinish",
+   "Ineuedi nas fpapast",
+   "M. Armenian",
+   "M. Tartarian"
+  ],
+  "why": [
+   "Wilkins's polyglot Lord's Prayer table, mixing Europe with Madagascar, Poconchi, New England and 'Chinish' forms under his sources' labels (M. = Megiserus?); guess: Malagasy, Maya, Massachusett.",
+   "Wilkins polyglot Lord's Prayer table of many languages incl. Lappian, Tartarian, Turkish, Armenian, Persian; parallel text not glossed words, mostly European languages."
+  ]
+ },
+ {
+  "tcp_id": "A71306",
+  "year": 1625,
+  "author": "Purchas, Samuel, 1577?-1626.",
+  "title": "Purchas his pilgrimes. part 4 In fiue bookes. The first, contayning the voyages and peregrinations made by ancient kings, patriarkes, apostles, philos",
+  "n_windows": 2,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "Others called Taraguaig, haue another Speech",
+   "Words which I learned of the Sauages, in their Language."
+  ],
+  "places": [],
+  "regions": [
+   "Brazil",
+   "New England coast"
+  ],
+  "n_forms": 101,
+  "sample_pairs": [
+   [
+    "Sunne or Moone",
+    "Kesus"
+   ],
+   [
+    "Cod-fish",
+    "Biskeiore"
+   ],
+   [
+    "Water",
+    "Shamogoon"
+   ],
+   [
+    "Fire",
+    "Squida"
+   ],
+   [
+    "A Bowe",
+    "Shoanor"
+   ],
+   [
+    "Pigneos",
+    "Taepijguiri"
+   ]
+  ],
+  "contact_flags": [
+   "Breecke",
+   "Paune",
+   "Poco"
+  ],
+  "why": [
+   "guess: Eastern Abenaki wordlist from Waymouth 1605 voyage; long list with chief governours (Sagomoh) names following.",
+   "Mostly ethnonym list of Brazilian peoples; one gloss (\"because they are little\"); guess: Tupi."
+  ]
+ },
+ {
+  "tcp_id": "A26564",
+  "year": 1665,
+  "author": "Agrippa von Nettesheim, Heinrich Cornelius, 1486?-1535.",
+  "title": "Henry Cornelius Agrippa his fourth book of occult philosophy of geomancie, magical elements of Peter de Aban : astronomical geomancie ; the nature of ",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": true,
+  "max_interest": 2,
+  "labels": [
+   "the names of the times"
+  ],
+  "places": [],
+  "regions": [],
+  "n_forms": 14,
+  "sample_pairs": [
+   [
+    "The Spring.",
+    "Talvi."
+   ],
+   [
+    "The Summer.",
+    "Casmaran."
+   ],
+   [
+    "Autumne.",
+    "Adarael."
+   ],
+   [
+    "The Sun.",
+    "Abraym."
+   ],
+   [
+    "The Moon.",
+    "Agusita."
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "PSEUDO: magical names for seasons, sun and moon in pseudo-Agrippan ritual text; guess: some may be Finnic or Hebrew-derived (Talvi)."
+  ]
+ },
+ {
+  "tcp_id": "A88617",
+  "year": 1661,
+  "author": "Lovell, Robert, 1630?-1690.",
+  "title": "Panzooryktologia. Sive Panzoologicomineralogia. Or A compleat history of animals and minerals, containing the summe of all authors, both ancient and m",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [],
+  "places": [],
+  "regions": [],
+  "n_forms": 4,
+  "sample_pairs": [],
+  "contact_flags": [],
+  "why": [
+   "guess: a few Nahuatl animal names (jacacintli, achalalalactli, amalozque, acacalotl) mixed into a medical-use index of animals, without glosses."
+  ]
+ },
+ {
+  "tcp_id": "A96200",
+  "year": 1642,
+  "author": "Morgan, Shon ap.",
+  "title": "The VVelch-mans warning-piece. As it was delivered in a sermon in Shropshire at the assembly when the resolution was agreed upon. And now pnblished [s",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": false,
+  "pseudo": true,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "Monmouth-shire"
+  ],
+  "regions": [],
+  "n_forms": 1,
+  "sample_pairs": [
+   [
+    "Wash and pray",
+    "Vishilata torata"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "PSEUDO: stage-Welsh sermon in mock-Welsh English with a refrain given a pseudo-Welsh form and gloss."
+  ]
+ },
+ {
+  "tcp_id": "A20077",
+  "year": 1603,
+  "author": "Dekker, Thomas, ca. 1572-1632.",
+  "title": "The pleasant comodie of patient Grisill As it hath beene sundrie times lately plaid by the right honorable the Earle of Nottingham (Lord high Admirall",
+  "n_windows": 2,
+  "any_yes": false,
+  "non_european": false,
+  "pseudo": true,
+  "max_interest": 1,
+  "labels": [],
+  "places": [],
+  "regions": [],
+  "n_forms": 4,
+  "sample_pairs": [
+   [
+    "",
+    "Adologo whee Gwenthyan bethogh, en Thonigh, en moyen due"
+   ],
+   [
+    "",
+    "Ne vetho en Thonigh, cna wathe gethla Tee"
+   ],
+   [
+    "",
+    "O mon lago, mon due"
+   ]
+  ],
+  "contact_flags": [
+   "moyen due"
+  ],
+  "why": [
+   "PSEUDO: stage-Welsh speech in Dekker's play including a line of pseudo-Welsh (Belly the ruddo whee...) without gloss.",
+   "PSEUDO: stage-Welsh speech with garbled Welsh in Dekker play, unglossed; guess: Welsh."
+  ]
+ },
+ {
+  "tcp_id": "A44919",
+  "year": 1672,
+  "author": "Hughes, William, fl. 1665-1683.",
+  "title": "The American physitian, or, A treatise of the roots, plants, trees, shrubs, fruit, herbs, &c. growing in the English plantations in America describing",
+  "n_windows": 1,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [
+   "America"
+  ],
+  "regions": [
+   "Mexico and West Indies"
+  ],
+  "n_forms": 25,
+  "sample_pairs": [
+   [
+    "Is the Cacao-Tree, that beareth the fruit of which Chocolate is made.",
+    "Cacaua-Quahvil"
+   ],
+   [
+    "A certain drink much used in America heretofore, made of Cacao-Nuts, Maiz, &c.",
+    "Atolle"
+   ],
+   [
+    "One single Kernel, or Nut.",
+    "Cacao"
+   ],
+   [
+    "A certain sort of Cacaos, so called, which denotes them to be the very best.",
+    "Chalcacaos"
+   ],
+   [
+    "Indian Wheat, or Indian Corn.",
+    "Maiz"
+   ]
+  ],
+  "contact_flags": [
+   "Banillas",
+   "Molinet",
+   "Molinillo",
+   "Orejuelas",
+   "Pimienta",
+   "Vaynillas"
+  ],
+  "why": [
+   "guess: Nahuatl and Taino/Spanish chocolate-related terms in a short alphabetical glossary at the end of a herbal."
+  ]
+ },
+ {
+  "tcp_id": "A94530",
+  "year": 1655,
+  "author": "Tany, Thomas, fl. 1649-1655.",
+  "title": "Theauraujoh[n] his aurora in tranlagornm in Salem Gloria. Or The discussive of the law and the gospell betwixt the Jew and the Gentile in Salem resurr",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": true,
+  "max_interest": 3,
+  "labels": [],
+  "places": [],
+  "regions": [],
+  "n_forms": 0,
+  "sample_pairs": [],
+  "contact_flags": [],
+  "why": [
+   "PSEUDO: Thomas Tany's visionary pseudo-Hebraic/Latinate 'pure language' passages mixed with Hebrew script, with no glosses."
+  ]
+ },
+ {
+  "tcp_id": "A04813",
+  "year": 1596,
+  "author": "Kemys, Lawrence, d. 1618.",
+  "title": "A relation of the second voyage to Guiana. Perfourmed and written in the yeare 1596. By Lawrence Kemys, Gent",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Names of poysoned hearbes."
+  ],
+  "places": [
+   "Guiana"
+  ],
+  "regions": [
+   "Guiana coast"
+  ],
+  "n_forms": 9,
+  "sample_pairs": [
+   [
+    "Names of poysoned hearbes.",
+    "Ourari"
+   ],
+   [
+    "Names of poysoned hearbes.",
+    "Carassi"
+   ],
+   [
+    "Names of poysoned hearbes.",
+    "Parapara"
+   ],
+   [
+    "Hearbs good against poyson.",
+    "Turara"
+   ],
+   [
+    "Hearbs good against poyson.",
+    "Cutarapama"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Guiana plant names for poison and antidote herbs in a river and nations table; also a river table of Guiana names."
+  ]
+ },
+ {
+  "tcp_id": "A07605",
+  "year": 1600,
+  "author": "Carr, Ralph, of the Middle Temple.",
+  "title": "The Mahumetane or Turkish historie containing three bookes: 1 Of the originall and beginning of the Turkes, and of the foure empires which are issued ",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "in the Surienne tongue"
+  ],
+  "places": [
+   "Cair (Mitzir), Africk"
+  ],
+  "regions": [
+   "Egypt / Mamluk Sultanate"
+  ],
+  "n_forms": 5,
+  "sample_pairs": [
+   [
+    "a seruiteur or soldior",
+    "Mammaluch"
+   ],
+   [
+    "an Admerall",
+    "Emir"
+   ],
+   [
+    "great",
+    "Quibir"
+   ],
+   [
+    "a great constable",
+    "Derdard Quibir"
+   ],
+   [
+    "Cairo",
+    "Mitzir"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Few Arabic titles glossed in Turkish history; guess: Arabic."
+  ]
+ },
+ {
+  "tcp_id": "A57005",
+  "year": 1657,
+  "author": "Renou, Jean de.",
+  "title": "A medicinal dispensatory, containing the vvhole body of physick discovering the natures, properties, and vertues of vegetables, minerals, & animals: t",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "are called"
+  ],
+  "places": [
+   "Malavar, Guzarat, Canary, Cambaia"
+  ],
+  "regions": [
+   "India"
+  ],
+  "n_forms": 6,
+  "sample_pairs": [
+   [
+    "Tamarinds",
+    "Puli"
+   ],
+   [
+    "Tamarinds (in Guzarat)",
+    "Ambili"
+   ],
+   [
+    "Tamarinds (in Canary)",
+    "Chincha"
+   ],
+   [
+    "the flave Myrobalamb",
+    "Arare"
+   ],
+   [
+    "the Indian black Myrobalamb",
+    "Rezanuale"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "Indian vernacular drug names (via Garcia da Orta) in an English pharmacopoeia; guess: Malayalam, Gujarati, Kannada, Hindi."
+  ]
+ },
+ {
+  "tcp_id": "A68944",
+  "year": 1609,
+  "author": "Biddulph, William.",
+  "title": "The trauels of certaine Englishmen into Africa, Asia, Troy, Bythinia, Thracia, and to the Blacke Sea And into Syria, Cilicia, Pisidia, Mesopotamia, Da",
+  "n_windows": 1,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [
+   "The manner of numbring in foure Orientall tongues"
+  ],
+  "places": [
+   "Constantinople"
+  ],
+  "regions": [
+   "Ottoman Levant"
+  ],
+  "n_forms": 80,
+  "sample_pairs": [
+   [
+    "One",
+    "Wheheed"
+   ],
+   [
+    "Two",
+    "Tenteene"
+   ],
+   [
+    "One",
+    "Beer"
+   ],
+   [
+    "One",
+    "Mecke"
+   ],
+   [
+    "One",
+    "Euck"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: numerals 1-20 in Arabic, Turkish, Armenian, Persian, labelled Arabicke or Morisco and Persian or Agimesco."
+  ]
+ },
+ {
+  "tcp_id": "A49450",
+  "year": 1682,
+  "author": "Ludolf, Hiob, 1624-1704.",
+  "title": "A new history of Ethiopia being a full and accurate description of the kingdom of Abessinia, vulgarly, though erroneously called the empire of Prester",
+  "n_windows": 1,
+  "any_yes": true,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 2,
+  "labels": [
+   "Ethiopic. | Amharic. | Gallan. | English."
+  ],
+  "places": [
+   "Ethiopia"
+  ],
+  "regions": [
+   "Ethiopia / Abessinia"
+  ],
+  "n_forms": 40,
+  "sample_pairs": [
+   [
+    "Heaven",
+    "Kake"
+   ],
+   [
+    "Thunder",
+    "Dagae"
+   ],
+   [
+    "Fire",
+    "Jbije"
+   ],
+   [
+    "Water",
+    "Bisan"
+   ],
+   [
+    "A Horse",
+    "Tarej"
+   ]
+  ],
+  "contact_flags": [],
+  "why": [
+   "guess: Ludolf's comparative table of Ethiopic, Amharic and Gallan (Oromo) words, from Gregory's dictation, plus a Lord/Dominus comparison across five dialects."
+  ]
+ },
+ {
+  "tcp_id": "A59272",
+  "year": 1688,
+  "author": null,
+  "title": "A Sermon preach'd by a reverend father in the Jesuits chappel at the Kings Inn, Dublin, on St. Patrick's Day, 1687/8",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": false,
+  "pseudo": true,
+  "max_interest": 2,
+  "labels": [],
+  "places": [
+   "dish Country"
+  ],
+  "regions": [
+   "Ireland"
+  ],
+  "n_forms": 8,
+  "sample_pairs": [
+   [
+    "Saint",
+    "Shaint"
+   ],
+   [
+    "the",
+    "de"
+   ],
+   [
+    "Patrick",
+    "Parick"
+   ],
+   [
+    "house",
+    "housh"
+   ]
+  ],
+  "contact_flags": [
+   "Bunn Parick"
+  ],
+  "why": [
+   "PSEUDO: stage-Irish English dialect spelling in a mock Jesuit sermon at Dublin; satire, no non-English vocabulary."
+  ]
+ },
+ {
+  "tcp_id": "A50181",
+  "year": 1700,
+  "author": "Mather, Cotton, 1663-1728.",
+  "title": "An epistle to the Christian Indians, giving them a short account, of what the English desire them to know and to do, in order to their happiness writt",
+  "n_windows": 1,
+  "any_yes": false,
+  "non_european": true,
+  "pseudo": false,
+  "max_interest": 1,
+  "labels": [],
+  "places": [],
+  "regions": [
+   "New England"
+  ],
+  "n_forms": 60,
+  "sample_pairs": [],
+  "contact_flags": [
+   "God",
+   "Jehovah",
+   "Lordut J•sus Christ",
+   "Sabbath day"
+  ],
+  "why": [
+   "Running native-language catechetical text (Mather's epistle to Christian Indians) with a few English insertions; no glosses; guess: Massachusett."
+  ]
+ }
+]

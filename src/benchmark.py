@@ -51,7 +51,7 @@ def top_family(res):
     return c[0]["path"][0] if c else None
 
 
-def run(vowels, n_null=3, seed=1):
+def run(vowels, n_null=10, seed=1):
     I.VOWELS = vowels
     ref = I.Reference()
     rows, null_z = [], []
@@ -81,9 +81,9 @@ def run(vowels, n_null=3, seed=1):
 
 if __name__ == "__main__":
     out = {}
-    for vowels in (False, True):
+    for vowels in (True,):
         rows, null_z = run(vowels)
-        thr = float(np.percentile(null_z, 95)) if null_z else None
+        thr = float(np.percentile(null_z, 99)) if null_z else None
         out[f"vowels={vowels}"] = dict(rows=rows, null_z=null_z, null_z_95=thr)
         print(f"\n=== vowels={vowels}  null max-z 95th pct = {thr:.2f}  (n={len(null_z)}, max={max(null_z):.2f})")
         for r in rows:

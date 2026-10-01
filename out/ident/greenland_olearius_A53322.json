@@ -1,0 +1,798 @@
+{
+ "n_entries": 108,
+ "n_mapped": 85,
+ "n_concepts": 82,
+ "affixes_removed": [
+  [
+   "prefix",
+   "ka",
+   14
+  ]
+ ],
+ "candidates": [
+  {
+   "doculect": "lb:northeuralex-kal",
+   "name": "Kalaallisut",
+   "source": "Lexibank",
+   "glottocode": "kala1399",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Inuit",
+    "Greenlandic Inuit",
+    "Kalaallisut"
+   ],
+   "ldnd": 0.813,
+   "dsame": 0.495,
+   "n": 68,
+   "p": 0.0033,
+   "z": 8.33
+  },
+  {
+   "doculect": "lb:joophonosemantic-Greenlandic",
+   "name": "Greenlandic",
+   "source": "Lexibank",
+   "glottocode": "kala1399",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Inuit",
+    "Greenlandic Inuit",
+    "Kalaallisut"
+   ],
+   "ldnd": 0.77,
+   "dsame": 0.475,
+   "n": 24,
+   "p": 0.0033,
+   "z": 6.3
+  },
+  {
+   "doculect": "lb:johanssonsoundsymbolic-NorthAlaskanInupiatun",
+   "name": "North Alaskan Inupiatun",
+   "source": "Lexibank",
+   "glottocode": "nort2943",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Inuit",
+    "Alaskan Inupiaq",
+    "North Alaskan Inupiatun"
+   ],
+   "ldnd": 0.842,
+   "dsame": 0.513,
+   "n": 50,
+   "p": 0.0033,
+   "z": 5.96
+  },
+  {
+   "doculect": "lb:northeuralex-ess",
+   "name": "Central Siberian Yupik",
+   "source": "Lexibank",
+   "glottocode": "cent2128",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Yupik",
+    "Central Siberian Yupik"
+   ],
+   "ldnd": 0.876,
+   "dsame": 0.545,
+   "n": 62,
+   "p": 0.0033,
+   "z": 5.75
+  },
+  {
+   "doculect": "asjp:KALAALLISUT",
+   "name": "KALAALLISUT",
+   "source": "ASJP",
+   "glottocode": "kala1399",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Inuit",
+    "Greenlandic Inuit",
+    "Kalaallisut"
+   ],
+   "ldnd": 0.819,
+   "dsame": 0.492,
+   "n": 31,
+   "p": 0.0033,
+   "z": 5.39
+  },
+  {
+   "doculect": "asjp:WEST_GREENLANDIC",
+   "name": "WEST_GREENLANDIC",
+   "source": "ASJP",
+   "glottocode": "kala1399",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Inuit",
+    "Greenlandic Inuit",
+    "Kalaallisut"
+   ],
+   "ldnd": 0.733,
+   "dsame": 0.442,
+   "n": 21,
+   "p": 0.0033,
+   "z": 5.25
+  },
+  {
+   "doculect": "asjp:INUKTITUT_EASTERN_CANADIAN",
+   "name": "INUKTITUT_EASTERN_CANADIAN",
+   "source": "ASJP",
+   "glottocode": "east2534",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Inuit",
+    "Eastern Canadian Inuktitut"
+   ],
+   "ldnd": 0.795,
+   "dsame": 0.471,
+   "n": 20,
+   "p": 0.0033,
+   "z": 5.0
+  },
+  {
+   "doculect": "asjp:YUPIK_NAUKAN",
+   "name": "YUPIK_NAUKAN",
+   "source": "ASJP",
+   "glottocode": "nauk1242",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Yupik",
+    "Naukan Yupik"
+   ],
+   "ldnd": 0.756,
+   "dsame": 0.448,
+   "n": 17,
+   "p": 0.0033,
+   "z": 4.2
+  },
+  {
+   "doculect": "asjp:INUPIAQ",
+   "name": "INUPIAQ",
+   "source": "ASJP",
+   "glottocode": "nort2943",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Inuit",
+    "Alaskan Inupiaq",
+    "North Alaskan Inupiatun"
+   ],
+   "ldnd": 0.825,
+   "dsame": 0.491,
+   "n": 21,
+   "p": 0.0033,
+   "z": 3.98
+  },
+  {
+   "doculect": "asjp:NORTHWEST_ALASKA_INUPIATUN",
+   "name": "NORTHWEST_ALASKA_INUPIATUN",
+   "source": "ASJP",
+   "glottocode": "nort2945",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Inuit",
+    "Alaskan Inupiaq",
+    "Seward Alaska Inupiatun"
+   ],
+   "ldnd": 0.835,
+   "dsame": 0.494,
+   "n": 21,
+   "p": 0.0033,
+   "z": 3.88
+  },
+  {
+   "doculect": "asjp:BONGU",
+   "name": "BONGU",
+   "source": "ASJP",
+   "glottocode": "bong1291",
+   "path": [
+    "Nuclear Trans New Guinea",
+    "Madang",
+    "Rai Coast",
+    "Mindjim",
+    "Lower Minjim",
+    "Coastal Minjim",
+    "Bongu"
+   ],
+   "ldnd": 0.846,
+   "dsame": 0.555,
+   "n": 19,
+   "p": 0.0033,
+   "z": 3.56
+  },
+  {
+   "doculect": "asjp:PERO_2",
+   "name": "PERO_2",
+   "source": "ASJP",
+   "glottocode": "pero1241",
+   "path": [
+    "Afro-Asiatic",
+    "Chadic",
+    "West Chadic",
+    "West Chadic A",
+    "West Chadic A.2-3",
+    "West Chadic A.2",
+    "Tangalic",
+    "Nuclear Tangalic",
+    "Peroic",
+    "Pero"
+   ],
+   "ldnd": 0.863,
+   "dsame": 0.571,
+   "n": 18,
+   "p": 0.0033,
+   "z": 3.51
+  },
+  {
+   "doculect": "asjp:WAMDIU",
+   "name": "WAMDIU",
+   "source": "ASJP",
+   "glottocode": "marg1266",
+   "path": [
+    "Afro-Asiatic",
+    "Chadic",
+    "Biu-Mandara",
+    "North Biu-Mandara",
+    "Margi-Mandara-Mofu",
+    "Bura-Marghi",
+    "Marghic",
+    "Kilba-South Margi",
+    "Marghi South"
+   ],
+   "ldnd": 0.857,
+   "dsame": 0.575,
+   "n": 17,
+   "p": 0.0033,
+   "z": 3.5
+  },
+  {
+   "doculect": "asjp:KOREGUAJE",
+   "name": "KOREGUAJE",
+   "source": "ASJP",
+   "glottocode": "kore1283",
+   "path": [
+    "Tucanoan",
+    "Western Tucanoan",
+    "Koreguaje-Tama",
+    "Koreguaje"
+   ],
+   "ldnd": 0.863,
+   "dsame": 0.519,
+   "n": 19,
+   "p": 0.0033,
+   "z": 3.44
+  },
+  {
+   "doculect": "asjp:MURSI",
+   "name": "MURSI",
+   "source": "ASJP",
+   "glottocode": "murs1242",
+   "path": [
+    "Surmic",
+    "South Surmic",
+    "Southeast Surmic",
+    "Pastoral Surmic",
+    "Tirma-Chai-Mursi",
+    "Mursi"
+   ],
+   "ldnd": 0.867,
+   "dsame": 0.55,
+   "n": 20,
+   "p": 0.0033,
+   "z": 3.42
+  },
+  {
+   "doculect": "asjp:SURI_CHAI",
+   "name": "SURI_CHAI",
+   "source": "ASJP",
+   "glottocode": "suri1267",
+   "path": [
+    "Surmic",
+    "South Surmic",
+    "Southeast Surmic",
+    "Pastoral Surmic",
+    "Tirma-Chai-Mursi",
+    "Tirma-Chai"
+   ],
+   "ldnd": 0.867,
+   "dsame": 0.545,
+   "n": 21,
+   "p": 0.0033,
+   "z": 3.36
+  },
+  {
+   "doculect": "asjp:NINUHKAL",
+   "name": "NINUHKAL",
+   "source": "ASJP",
+   "glottocode": "dama1272",
+   "path": [
+    "Damal"
+   ],
+   "ldnd": 0.848,
+   "dsame": 0.617,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.35
+  },
+  {
+   "doculect": "asjp:HILDI",
+   "name": "HILDI",
+   "source": "ASJP",
+   "glottocode": "marg1266",
+   "path": [
+    "Afro-Asiatic",
+    "Chadic",
+    "Biu-Mandara",
+    "North Biu-Mandara",
+    "Margi-Mandara-Mofu",
+    "Bura-Marghi",
+    "Marghic",
+    "Kilba-South Margi",
+    "Marghi South"
+   ],
+   "ldnd": 0.872,
+   "dsame": 0.556,
+   "n": 17,
+   "p": 0.0066,
+   "z": 3.26
+  },
+  {
+   "doculect": "asjp:YUPIK_SIRENIK",
+   "name": "YUPIK_SIRENIK",
+   "source": "ASJP",
+   "glottocode": "sire1246",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Old Sirenik"
+   ],
+   "ldnd": 0.871,
+   "dsame": 0.529,
+   "n": 21,
+   "p": 0.0033,
+   "z": 3.18
+  },
+  {
+   "doculect": "asjp:TIRMA",
+   "name": "TIRMA",
+   "source": "ASJP",
+   "glottocode": "suri1267",
+   "path": [
+    "Surmic",
+    "South Surmic",
+    "Southeast Surmic",
+    "Pastoral Surmic",
+    "Tirma-Chai-Mursi",
+    "Tirma-Chai"
+   ],
+   "ldnd": 0.851,
+   "dsame": 0.544,
+   "n": 19,
+   "p": 0.0066,
+   "z": 3.17
+  },
+  {
+   "doculect": "asjp:EAST_GREENLANDIC",
+   "name": "EAST_GREENLANDIC",
+   "source": "ASJP",
+   "glottocode": "kala1399",
+   "path": [
+    "Eskimo-Aleut",
+    "Eskimo",
+    "Inuit",
+    "Greenlandic Inuit",
+    "Kalaallisut"
+   ],
+   "ldnd": 0.853,
+   "dsame": 0.524,
+   "n": 21,
+   "p": 0.0033,
+   "z": 3.14
+  },
+  {
+   "doculect": "asjp:KABALAY",
+   "name": "KABALAY",
+   "source": "ASJP",
+   "glottocode": "kaba1292",
+   "path": [
+    "Afro-Asiatic",
+    "Chadic",
+    "East Chadic",
+    "East Chadic A",
+    "East Chadic A.2",
+    "East Chadic A.2 2",
+    "Kabalai"
+   ],
+   "ldnd": 0.862,
+   "dsame": 0.524,
+   "n": 21,
+   "p": 0.0066,
+   "z": 3.14
+  },
+  {
+   "doculect": "asjp:BEEZEN",
+   "name": "BEEZEN",
+   "source": "ASJP",
+   "glottocode": "beez1238",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Benue-Congo Plateau",
+    "Yukubenic",
+    "Akum-Beezen",
+    "Beezen-Baazem",
+    "Beezen"
+   ],
+   "ldnd": 0.832,
+   "dsame": 0.499,
+   "n": 19,
+   "p": 0.0033,
+   "z": 3.12
+  },
+  {
+   "doculect": "asjp:PROTO_BIU_MANDARA",
+   "name": "PROTO_BIU_MANDARA",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "PROTO_BIU_MANDARA"
+   ],
+   "ldnd": 0.87,
+   "dsame": 0.56,
+   "n": 15,
+   "p": 0.0033,
+   "z": 3.1
+  },
+  {
+   "doculect": "asjp:DAHALO_2",
+   "name": "DAHALO_2",
+   "source": "ASJP",
+   "glottocode": "daha1245",
+   "path": [
+    "Afro-Asiatic",
+    "Cushitic",
+    "East Cushitic",
+    "Dahalo"
+   ],
+   "ldnd": 0.864,
+   "dsame": 0.536,
+   "n": 16,
+   "p": 0.0033,
+   "z": 3.07
+  },
+  {
+   "doculect": "asjp:KOBIANA",
+   "name": "KOBIANA",
+   "source": "ASJP",
+   "glottocode": "kobi1241",
+   "path": [
+    "Atlantic-Congo",
+    "North-Central Atlantic",
+    "Wolof-BKK",
+    "Nyun",
+    "Buy",
+    "Kobiana"
+   ],
+   "ldnd": 0.809,
+   "dsame": 0.492,
+   "n": 9,
+   "p": 0.01,
+   "z": 3.0
+  },
+  {
+   "doculect": "asjp:LAADI_1",
+   "name": "LAADI_1",
+   "source": "ASJP",
+   "glottocode": "laar1238",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Bantoid",
+    "Southern Bantoid",
+    "Narrow Bantu",
+    "Central-Western Bantu",
+    "West-Coastal Bantu",
+    "Nzadic",
+    "Lweric",
+    "Dingic",
+    "Loange-Atlantic",
+    "KLC Extended",
+    "Kikongo Language Cluster",
+    "Nuclear KLC",
+    "Kikongoic",
+    "Kambakunyic Kikongo",
+    "Kilaadic Kikongo",
+    "Nuclear Northern Kikongo",
+    "Laari"
+   ],
+   "ldnd": 0.873,
+   "dsame": 0.56,
+   "n": 18,
+   "p": 0.01,
+   "z": 2.99
+  },
+  {
+   "doculect": "asjp:PENGO",
+   "name": "PENGO",
+   "source": "ASJP",
+   "glottocode": "peng1244",
+   "path": [
+    "Dravidian",
+    "South Dravidian",
+    "South Dravidian II",
+    "Konda-Kui",
+    "Manda-Kui",
+    "Manda-Pengo",
+    "Pengo"
+   ],
+   "ldnd": 0.871,
+   "dsame": 0.57,
+   "n": 17,
+   "p": 0.0033,
+   "z": 2.87
+  },
+  {
+   "doculect": "asjp:HYA",
+   "name": "HYA",
+   "source": "ASJP",
+   "glottocode": "hyaa1239",
+   "path": [
+    "Afro-Asiatic",
+    "Chadic",
+    "Biu-Mandara",
+    "North Biu-Mandara",
+    "Higic",
+    "Hya"
+   ],
+   "ldnd": 0.863,
+   "dsame": 0.541,
+   "n": 15,
+   "p": 0.01,
+   "z": 2.82
+  },
+  {
+   "doculect": "asjp:PROTO_WAKASHAN",
+   "name": "PROTO_WAKASHAN",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "PROTO_WAKASHAN"
+   ],
+   "ldnd": 0.873,
+   "dsame": 0.625,
+   "n": 12,
+   "p": 0.0066,
+   "z": 2.81
+  },
+  {
+   "doculect": "asjp:KAYAGAR_3",
+   "name": "KAYAGAR_3",
+   "source": "ASJP",
+   "glottocode": "kaya1328",
+   "path": [
+    "Kayagaric",
+    "Kaygir-Tamagario",
+    "Kayagar"
+   ],
+   "ldnd": 0.868,
+   "dsame": 0.555,
+   "n": 16,
+   "p": 0.01,
+   "z": 2.73
+  },
+  {
+   "doculect": "asjp:BOKI",
+   "name": "BOKI",
+   "source": "ASJP",
+   "glottocode": "boky1238",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Bantoid",
+    "Southern Bantoid",
+    "Bendic",
+    "Nuclear Bendic",
+    "Bokyi"
+   ],
+   "ldnd": 0.871,
+   "dsame": 0.521,
+   "n": 17,
+   "p": 0.0133,
+   "z": 2.72
+  },
+  {
+   "doculect": "asjp:MELOKWO",
+   "name": "MELOKWO",
+   "source": "ASJP",
+   "glottocode": "molo1266",
+   "path": [
+    "Afro-Asiatic",
+    "Chadic",
+    "Biu-Mandara",
+    "North Biu-Mandara",
+    "Margi-Mandara-Mofu",
+    "Mofuic",
+    "Tokombere",
+    "Moloko"
+   ],
+   "ldnd": 0.869,
+   "dsame": 0.579,
+   "n": 15,
+   "p": 0.01,
+   "z": 2.69
+  },
+  {
+   "doculect": "asjp:KAMBOT_2",
+   "name": "KAMBOT_2",
+   "source": "ASJP",
+   "glottocode": "apma1241",
+   "path": [
+    "Keram",
+    "East Keram",
+    "Ap Ma"
+   ],
+   "ldnd": 0.862,
+   "dsame": 0.603,
+   "n": 9,
+   "p": 0.0166,
+   "z": 2.59
+  },
+  {
+   "doculect": "asjp:OROKAIVA_KENDATA",
+   "name": "OROKAIVA_KENDATA",
+   "source": "ASJP",
+   "glottocode": "orok1269",
+   "path": [
+    "Nuclear Trans New Guinea",
+    "Greater Binanderean",
+    "Binanderean",
+    "Nuclear Binanderean",
+    "South Binanderean",
+    "Orokaivic",
+    "Orokaiva"
+   ],
+   "ldnd": 0.859,
+   "dsame": 0.563,
+   "n": 10,
+   "p": 0.0166,
+   "z": 2.46
+  },
+  {
+   "doculect": "asjp:LIBIDO",
+   "name": "LIBIDO",
+   "source": "ASJP",
+   "glottocode": "libi1250",
+   "path": [
+    "Afro-Asiatic",
+    "Cushitic",
+    "East Cushitic",
+    "Highland East Cushitic",
+    "Sidaama-Hadiyya-Kambaata",
+    "Hadiyya-Kambaata",
+    "Hadiyyaic",
+    "Libido"
+   ],
+   "ldnd": 0.875,
+   "dsame": 0.527,
+   "n": 19,
+   "p": 0.01,
+   "z": 2.37
+  },
+  {
+   "doculect": "asjp:WIDALA",
+   "name": "WIDALA",
+   "source": "ASJP",
+   "glottocode": "khol1240",
+   "path": [
+    "Afro-Asiatic",
+    "Chadic",
+    "West Chadic",
+    "West Chadic A",
+    "West Chadic A.2-3",
+    "West Chadic A.2",
+    "Boleic",
+    "Unclassified Boleic",
+    "Kholok"
+   ],
+   "ldnd": 0.843,
+   "dsame": 0.559,
+   "n": 8,
+   "p": 0.0233,
+   "z": 2.27
+  },
+  {
+   "doculect": "asjp:RESIGARO_2",
+   "name": "RESIGARO_2",
+   "source": "ASJP",
+   "glottocode": "resi1247",
+   "path": [
+    "Arawakan",
+    "Japura-Colombia",
+    "Nuclear Japura-Colombia",
+    "Caqueta",
+    "Resígaro"
+   ],
+   "ldnd": 0.869,
+   "dsame": 0.521,
+   "n": 16,
+   "p": 0.0199,
+   "z": 2.27
+  },
+  {
+   "doculect": "asjp:BAREIN",
+   "name": "BAREIN",
+   "source": "ASJP",
+   "glottocode": "bare1279",
+   "path": [
+    "Afro-Asiatic",
+    "Chadic",
+    "East Chadic",
+    "East Chadic B",
+    "Barainic",
+    "Barain"
+   ],
+   "ldnd": 0.872,
+   "dsame": 0.522,
+   "n": 12,
+   "p": 0.0365,
+   "z": 2.01
+  },
+  {
+   "doculect": "lb:idssegmented-chutrucvariety",
+   "name": "Chut (Ruc variety)",
+   "source": "Lexibank",
+   "glottocode": "rucc1239",
+   "path": [
+    "Austroasiatic",
+    "Vietic",
+    "Chutic",
+    "East Chutic",
+    "Chut",
+    "Ruc"
+   ],
+   "ldnd": 0.868,
+   "dsame": 0.569,
+   "n": 12,
+   "p": 0.0365,
+   "z": 1.87
+  }
+ ],
+ "hierarchy": [
+  [
+   "Eskimo-Aleut",
+   1.0
+  ],
+  [
+   "Eskimo",
+   1.0
+  ],
+  [
+   "Inuit",
+   0.88
+  ],
+  [
+   "Greenlandic Inuit",
+   0.67
+  ],
+  [
+   "Kalaallisut",
+   0.67
+  ]
+ ],
+ "status": "resolved",
+ "leading": {
+  "name": "Kalaallisut",
+  "family": "Eskimo-Aleut",
+  "z": 8.33
+ }
+}

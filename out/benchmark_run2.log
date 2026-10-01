@@ -1,0 +1,12 @@
+
+=== vowels=True  null max-z 95th pct = 4.74  (n=100, max=4.78)
+rosier_A71306      c= 52 top=ABNAKI_WESTERN           Algic          maxz= 5.67 PASS fam1=True sub=True | Maritimes-Southern New England Algonquian > Northern Eastern Algonquian > Abenaki
+wood_A15685        c=114 top=WAMPANOAG_NATICK         Algic          maxz= 7.35 PASS fam1=True sub=False | Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian
+williams_A66450    c= 20 top=Lakkia                   Tai-Kadai      maxz= 3.46 abst fam1=False sub=False | 
+smith_map_A12466   c= 40 top=NANTICOKE                Algic          maxz= 4.14 abst fam1=True sub=False | 
+cartier_A18057     c= 73 top=YABEN                    Nuclear Trans  maxz= 4.67 abst fam1=False sub=False | Nuclear Trans New Guinea [single witness]
+rochefort_A57484   c=232 top=Garifuna                 Arawakan       maxz=11.93 PASS fam1=True sub=False | Arawakan > Caribbean Arawakan
+scheffer_A62332    c= 48 top=Inari Sami               Uralic         maxz=15.67 PASS fam1=True sub=True | Uralic > Saami > Western Saami
+knox_A47586        c= 43 top=Selice Romani            Indo-European  maxz= 5.39 PASS fam1=True sub=False | Shaurasenic > Indo-Aryan Central zone > Romani [single witness]
+boothby_A28809     c= 54 top=Antaisaka                Austronesian   maxz= 6.40 PASS fam1=None sub=None | Southwestern Malagasic > South West-Central Malagasic > Nuclear South West-Central Malagasic
+vanneck_A08052     c=154 top=Indonesian               Austronesian   maxz=19.35 PASS fam1=True sub=True | Malayic > Nuclear Malayic > Standard Malay-Indonesian

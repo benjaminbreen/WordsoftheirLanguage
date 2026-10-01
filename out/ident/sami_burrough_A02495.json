@@ -1,0 +1,738 @@
+{
+ "n_entries": 95,
+ "n_mapped": 61,
+ "n_concepts": 61,
+ "affixes_removed": [],
+ "candidates": [
+  {
+   "doculect": "lb:northeuralex-sjd",
+   "name": "Kildin Sami",
+   "source": "Lexibank",
+   "glottocode": "kild1236",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Peninsular Eastern Saami",
+    "Kildin Saami"
+   ],
+   "ldnd": 0.585,
+   "dsame": 0.417,
+   "n": 57,
+   "p": 0.0033,
+   "z": 17.22
+  },
+  {
+   "doculect": "lb:northeuralex-sms",
+   "name": "Skolt Sami",
+   "source": "Lexibank",
+   "glottocode": "skol1241",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Mainland Eastern Saami",
+    "Skolt Saami"
+   ],
+   "ldnd": 0.527,
+   "dsame": 0.321,
+   "n": 57,
+   "p": 0.0033,
+   "z": 16.57
+  },
+  {
+   "doculect": "lb:idssegmented-northernsaami",
+   "name": "Northern Saami",
+   "source": "Lexibank",
+   "glottocode": "nort2671",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Central Western Saami",
+    "North Saami"
+   ],
+   "ldnd": 0.507,
+   "dsame": 0.31,
+   "n": 54,
+   "p": 0.0033,
+   "z": 16.47
+  },
+  {
+   "doculect": "lb:wold-KildinSaami",
+   "name": "Kildin Saami",
+   "source": "Lexibank",
+   "glottocode": "kild1236",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Peninsular Eastern Saami",
+    "Kildin Saami"
+   ],
+   "ldnd": 0.574,
+   "dsame": 0.412,
+   "n": 57,
+   "p": 0.0033,
+   "z": 16.46
+  },
+  {
+   "doculect": "lb:northeuralex-sme",
+   "name": "Northern Sami",
+   "source": "Lexibank",
+   "glottocode": "nort2671",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Central Western Saami",
+    "North Saami"
+   ],
+   "ldnd": 0.594,
+   "dsame": 0.362,
+   "n": 57,
+   "p": 0.0033,
+   "z": 16.12
+  },
+  {
+   "doculect": "lb:northeuralex-smn",
+   "name": "Inari Sami",
+   "source": "Lexibank",
+   "glottocode": "inar1241",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Mainland Eastern Saami",
+    "Inari Saami"
+   ],
+   "ldnd": 0.528,
+   "dsame": 0.318,
+   "n": 57,
+   "p": 0.0033,
+   "z": 15.08
+  },
+  {
+   "doculect": "lb:northeuralex-smj",
+   "name": "Lule Sami",
+   "source": "Lexibank",
+   "glottocode": "lule1254",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Central Western Saami",
+    "Lule-Pite Saami",
+    "Lule Saami"
+   ],
+   "ldnd": 0.588,
+   "dsame": 0.362,
+   "n": 57,
+   "p": 0.0033,
+   "z": 13.94
+  },
+  {
+   "doculect": "lb:northeuralex-sma",
+   "name": "Southern Sami",
+   "source": "Lexibank",
+   "glottocode": "sout2674",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Southwestern Saami",
+    "South Saami"
+   ],
+   "ldnd": 0.617,
+   "dsame": 0.37,
+   "n": 57,
+   "p": 0.0033,
+   "z": 12.82
+  },
+  {
+   "doculect": "asjp:KILDIN_SAAMI_2",
+   "name": "KILDIN_SAAMI_2",
+   "source": "ASJP",
+   "glottocode": "kild1236",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Peninsular Eastern Saami",
+    "Kildin Saami"
+   ],
+   "ldnd": 0.591,
+   "dsame": 0.424,
+   "n": 24,
+   "p": 0.0033,
+   "z": 10.51
+  },
+  {
+   "doculect": "lb:northeuralex-mdf",
+   "name": "Moksha",
+   "source": "Lexibank",
+   "glottocode": "moks1248",
+   "path": [
+    "Uralic",
+    "Mordvin",
+    "Moksha"
+   ],
+   "ldnd": 0.749,
+   "dsame": 0.484,
+   "n": 57,
+   "p": 0.0033,
+   "z": 9.07
+  },
+  {
+   "doculect": "asjp:LULE_SAAMI_2",
+   "name": "LULE_SAAMI_2",
+   "source": "ASJP",
+   "glottocode": "lule1254",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Central Western Saami",
+    "Lule-Pite Saami",
+    "Lule Saami"
+   ],
+   "ldnd": 0.573,
+   "dsame": 0.368,
+   "n": 24,
+   "p": 0.0033,
+   "z": 9.05
+  },
+  {
+   "doculect": "asjp:NORTHERN_SAAMI",
+   "name": "NORTHERN_SAAMI",
+   "source": "ASJP",
+   "glottocode": "nort2671",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Central Western Saami",
+    "North Saami"
+   ],
+   "ldnd": 0.608,
+   "dsame": 0.38,
+   "n": 24,
+   "p": 0.0033,
+   "z": 8.92
+  },
+  {
+   "doculect": "asjp:SAAMI_PITE",
+   "name": "SAAMI_PITE",
+   "source": "ASJP",
+   "glottocode": "pite1240",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Central Western Saami",
+    "Lule-Pite Saami",
+    "Pite Saami"
+   ],
+   "ldnd": 0.576,
+   "dsame": 0.369,
+   "n": 21,
+   "p": 0.0033,
+   "z": 8.91
+  },
+  {
+   "doculect": "asjp:SOUTHERN_SAAMI",
+   "name": "SOUTHERN_SAAMI",
+   "source": "ASJP",
+   "glottocode": "sout2674",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Southwestern Saami",
+    "South Saami"
+   ],
+   "ldnd": 0.588,
+   "dsame": 0.36,
+   "n": 24,
+   "p": 0.0033,
+   "z": 8.88
+  },
+  {
+   "doculect": "asjp:INARI_SAAMI_2",
+   "name": "INARI_SAAMI_2",
+   "source": "ASJP",
+   "glottocode": "inar1241",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Mainland Eastern Saami",
+    "Inari Saami"
+   ],
+   "ldnd": 0.553,
+   "dsame": 0.344,
+   "n": 24,
+   "p": 0.0033,
+   "z": 8.83
+  },
+  {
+   "doculect": "asjp:SKOLT_SAAMI_2",
+   "name": "SKOLT_SAAMI_2",
+   "source": "ASJP",
+   "glottocode": "skol1241",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Mainland Eastern Saami",
+    "Skolt Saami"
+   ],
+   "ldnd": 0.625,
+   "dsame": 0.406,
+   "n": 24,
+   "p": 0.0033,
+   "z": 8.71
+  },
+  {
+   "doculect": "asjp:SAAMI_UME",
+   "name": "SAAMI_UME",
+   "source": "ASJP",
+   "glottocode": "umes1235",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Southwestern Saami",
+    "Ume Saami"
+   ],
+   "ldnd": 0.603,
+   "dsame": 0.387,
+   "n": 21,
+   "p": 0.0033,
+   "z": 8.67
+  },
+  {
+   "doculect": "lb:idssegmented-erzyamordvin",
+   "name": "Erzya Mordvin",
+   "source": "Lexibank",
+   "glottocode": "erzy1239",
+   "path": [
+    "Uralic",
+    "Mordvin",
+    "Erzya"
+   ],
+   "ldnd": 0.769,
+   "dsame": 0.497,
+   "n": 54,
+   "p": 0.0033,
+   "z": 8.46
+  },
+  {
+   "doculect": "asjp:SOUTH_SAAMI",
+   "name": "SOUTH_SAAMI",
+   "source": "ASJP",
+   "glottocode": "sout2674",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Southwestern Saami",
+    "South Saami"
+   ],
+   "ldnd": 0.477,
+   "dsame": 0.292,
+   "n": 14,
+   "p": 0.0033,
+   "z": 7.28
+  },
+  {
+   "doculect": "asjp:KILDIN_SAAMI",
+   "name": "KILDIN_SAAMI",
+   "source": "ASJP",
+   "glottocode": "kild1236",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Peninsular Eastern Saami",
+    "Kildin Saami"
+   ],
+   "ldnd": 0.545,
+   "dsame": 0.398,
+   "n": 14,
+   "p": 0.0033,
+   "z": 7.14
+  },
+  {
+   "doculect": "asjp:SKOLT_SAAMI",
+   "name": "SKOLT_SAAMI",
+   "source": "ASJP",
+   "glottocode": "skol1241",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Mainland Eastern Saami",
+    "Skolt Saami"
+   ],
+   "ldnd": 0.586,
+   "dsame": 0.426,
+   "n": 14,
+   "p": 0.0033,
+   "z": 6.96
+  },
+  {
+   "doculect": "asjp:LULE_SAAMI",
+   "name": "LULE_SAAMI",
+   "source": "ASJP",
+   "glottocode": "lule1254",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Central Western Saami",
+    "Lule-Pite Saami",
+    "Lule Saami"
+   ],
+   "ldnd": 0.554,
+   "dsame": 0.342,
+   "n": 14,
+   "p": 0.0033,
+   "z": 6.49
+  },
+  {
+   "doculect": "asjp:INARI_SAAMI",
+   "name": "INARI_SAAMI",
+   "source": "ASJP",
+   "glottocode": "inar1241",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Mainland Eastern Saami",
+    "Inari Saami"
+   ],
+   "ldnd": 0.577,
+   "dsame": 0.347,
+   "n": 14,
+   "p": 0.0033,
+   "z": 6.31
+  },
+  {
+   "doculect": "asjp:NORTH_SAAMI",
+   "name": "NORTH_SAAMI",
+   "source": "ASJP",
+   "glottocode": "nort2671",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Western Saami",
+    "Central Western Saami",
+    "North Saami"
+   ],
+   "ldnd": 0.575,
+   "dsame": 0.347,
+   "n": 14,
+   "p": 0.0033,
+   "z": 6.28
+  },
+  {
+   "doculect": "lb:syrjaenenuralic-erzya",
+   "name": "Erzya",
+   "source": "Lexibank",
+   "glottocode": "erzy1239",
+   "path": [
+    "Uralic",
+    "Mordvin",
+    "Erzya"
+   ],
+   "ldnd": 0.742,
+   "dsame": 0.481,
+   "n": 28,
+   "p": 0.0033,
+   "z": 6.02
+  },
+  {
+   "doculect": "asjp:ERZYA",
+   "name": "ERZYA",
+   "source": "ASJP",
+   "glottocode": "erzy1239",
+   "path": [
+    "Uralic",
+    "Mordvin",
+    "Erzya"
+   ],
+   "ldnd": 0.665,
+   "dsame": 0.449,
+   "n": 14,
+   "p": 0.0033,
+   "z": 5.8
+  },
+  {
+   "doculect": "asjp:ERZYA_2",
+   "name": "ERZYA_2",
+   "source": "ASJP",
+   "glottocode": "erzy1239",
+   "path": [
+    "Uralic",
+    "Mordvin",
+    "Erzya"
+   ],
+   "ldnd": 0.765,
+   "dsame": 0.525,
+   "n": 24,
+   "p": 0.0033,
+   "z": 5.63
+  },
+  {
+   "doculect": "asjp:MOKSCHA_MORDWINISCH",
+   "name": "MOKSCHA_MORDWINISCH",
+   "source": "ASJP",
+   "glottocode": "moks1248",
+   "path": [
+    "Uralic",
+    "Mordvin",
+    "Moksha"
+   ],
+   "ldnd": 0.607,
+   "dsame": 0.414,
+   "n": 13,
+   "p": 0.0033,
+   "z": 5.6
+  },
+  {
+   "doculect": "asjp:KARELIAN",
+   "name": "KARELIAN",
+   "source": "ASJP",
+   "glottocode": "kare1335",
+   "path": [
+    "Uralic",
+    "Finnic",
+    "Coastal Finnic",
+    "Neva",
+    "North Finnic",
+    "Ladogan",
+    "Karelian"
+   ],
+   "ldnd": 0.692,
+   "dsame": 0.411,
+   "n": 13,
+   "p": 0.0033,
+   "z": 4.9
+  },
+  {
+   "doculect": "asjp:INGRIAN",
+   "name": "INGRIAN",
+   "source": "ASJP",
+   "glottocode": "ingr1248",
+   "path": [
+    "Uralic",
+    "Finnic",
+    "Coastal Finnic",
+    "Neva",
+    "North Finnic",
+    "Ladogan",
+    "Ingrian"
+   ],
+   "ldnd": 0.718,
+   "dsame": 0.442,
+   "n": 11,
+   "p": 0.0033,
+   "z": 4.88
+  },
+  {
+   "doculect": "asjp:UDMURT",
+   "name": "UDMURT",
+   "source": "ASJP",
+   "glottocode": "udmu1245",
+   "path": [
+    "Uralic",
+    "Permian",
+    "Udmurt"
+   ],
+   "ldnd": 0.768,
+   "dsame": 0.551,
+   "n": 14,
+   "p": 0.0033,
+   "z": 4.35
+  },
+  {
+   "doculect": "asjp:MEADOW_MARI",
+   "name": "MEADOW_MARI",
+   "source": "ASJP",
+   "glottocode": "east2328",
+   "path": [
+    "Uralic",
+    "Mari",
+    "Eastern Mari"
+   ],
+   "ldnd": 0.723,
+   "dsame": 0.487,
+   "n": 14,
+   "p": 0.0033,
+   "z": 4.07
+  },
+  {
+   "doculect": "asjp:ESTONIAN_3",
+   "name": "ESTONIAN_3",
+   "source": "ASJP",
+   "glottocode": "esto1258",
+   "path": [
+    "Uralic",
+    "Finnic",
+    "Coastal Finnic",
+    "Neva",
+    "Central Finnic",
+    "Estonian"
+   ],
+   "ldnd": 0.766,
+   "dsame": 0.522,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.87
+  },
+  {
+   "doculect": "asjp:AKKALA_SAMI",
+   "name": "AKKALA_SAMI",
+   "source": "ASJP",
+   "glottocode": "akka1237",
+   "path": [
+    "Uralic",
+    "Saami",
+    "Eastern Saami",
+    "Mainland Eastern Saami",
+    "Akkala Saami"
+   ],
+   "ldnd": 0.689,
+   "dsame": 0.487,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.86
+  },
+  {
+   "doculect": "asjp:LIVE",
+   "name": "LIVE",
+   "source": "ASJP",
+   "glottocode": "livv1244",
+   "path": [
+    "Uralic",
+    "Finnic",
+    "Coastal Finnic",
+    "Liv"
+   ],
+   "ldnd": 0.739,
+   "dsame": 0.532,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.85
+  },
+  {
+   "doculect": "asjp:TSCHEREMISSISCH_URZUM",
+   "name": "TSCHEREMISSISCH_URZUM",
+   "source": "ASJP",
+   "glottocode": "east2328",
+   "path": [
+    "Uralic",
+    "Mari",
+    "Eastern Mari"
+   ],
+   "ldnd": 0.753,
+   "dsame": 0.521,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.63
+  },
+  {
+   "doculect": "asjp:ALINGA",
+   "name": "ALINGA",
+   "source": "ASJP",
+   "glottocode": "tune1261",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "Benue-Congo",
+    "Bantoid",
+    "Southern Bantoid",
+    "Narrow Bantu",
+    "Mbam-Bubi",
+    "Mbam",
+    "Nuclear Mbam",
+    "Sanaga-West Mbam (A.40)",
+    "West Mbam (A.40)",
+    "Mandi-Nyokon",
+    "Tunen"
+   ],
+   "ldnd": 0.768,
+   "dsame": 0.547,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.61
+  },
+  {
+   "doculect": "asjp:TSCHEREMISSISCH_KOZMODEMJANSK",
+   "name": "TSCHEREMISSISCH_KOZMODEMJANSK",
+   "source": "ASJP",
+   "glottocode": "west2392",
+   "path": [
+    "Uralic",
+    "Mari",
+    "Western Mari"
+   ],
+   "ldnd": 0.758,
+   "dsame": 0.517,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.6
+  },
+  {
+   "doculect": "asjp:ESTONIAN_VORO",
+   "name": "ESTONIAN_VORO",
+   "source": "ASJP",
+   "glottocode": "sout2679",
+   "path": [
+    "Uralic",
+    "Finnic",
+    "South Estonian"
+   ],
+   "ldnd": 0.737,
+   "dsame": 0.483,
+   "n": 13,
+   "p": 0.0033,
+   "z": 3.57
+  },
+  {
+   "doculect": "asjp:PROTO_URALIC",
+   "name": "PROTO_URALIC",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "PROTO_URALIC"
+   ],
+   "ldnd": 0.71,
+   "dsame": 0.43,
+   "n": 9,
+   "p": 0.0066,
+   "z": 3.22
+  }
+ ],
+ "hierarchy": [
+  [
+   "Uralic",
+   1.0
+  ],
+  [
+   "Saami",
+   0.89
+  ],
+  [
+   "Western Saami",
+   0.45
+  ]
+ ],
+ "status": "resolved",
+ "leading": {
+  "name": "Kildin Sami",
+  "family": "Uralic",
+  "z": 17.22
+ }
+}

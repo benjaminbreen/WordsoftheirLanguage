@@ -1,361 +1,59 @@
 {
- "vowels=False": {
-  "rows": [
-   {
-    "name": "rosier_A71306",
-    "concepts": 52,
-    "status": "resolved",
-    "top": "PASSAMAQUODDY_MALISEET_UnnamedInSource",
-    "top_family": "Algic",
-    "top_z": 5.26,
-    "max_z": 5.93,
-    "fam_expected": "Algic",
-    "fam_top1": true,
-    "fam_in_hier": true,
-    "sub_in_hier": false,
-    "hierarchy": [
-     [
-      "Algic",
-      0.62
-     ],
-     [
-      "Algonquian-Blackfoot",
-      0.62
-     ],
-     [
-      "Algonquian",
-      0.62
-     ],
-     [
-      "Eastern Algonquian",
-      0.26
-     ]
-    ],
-    "null_max_z": [
-     3.64,
-     3.96,
-     3.84
-    ]
-   },
-   {
-    "name": "wood_A15685",
-    "concepts": 113,
-    "status": "resolved",
-    "top": "WAMPANOAG_NATICK",
-    "top_family": "Algic",
-    "top_z": 7.15,
-    "max_z": 7.15,
-    "fam_expected": "Algic",
-    "fam_top1": true,
-    "fam_in_hier": true,
-    "sub_in_hier": false,
-    "hierarchy": [
-     [
-      "Algic",
-      0.79
-     ],
-     [
-      "Algonquian-Blackfoot",
-      0.79
-     ],
-     [
-      "Algonquian",
-      0.79
-     ],
-     [
-      "Eastern Algonquian",
-      0.3
-     ]
-    ],
-    "null_max_z": [
-     3.59,
-     3.59,
-     4.96
-    ]
-   },
-   {
-    "name": "williams_A66450",
-    "concepts": 20,
-    "status": "abstain",
-    "top": null,
-    "top_family": null,
-    "top_z": null,
-    "max_z": null,
-    "fam_expected": "Algic",
-    "fam_top1": null,
-    "fam_in_hier": false,
-    "sub_in_hier": false,
-    "hierarchy": [],
-    "null_max_z": []
-   },
-   {
-    "name": "smith_map_A12466",
-    "concepts": 40,
-    "status": "resolved",
-    "top": "PASSAMAQUODDY_MALISEET_UnnamedInSource",
-    "top_family": "Algic",
-    "top_z": 3.35,
-    "max_z": 3.75,
-    "fam_expected": "Algic",
-    "fam_top1": true,
-    "fam_in_hier": false,
-    "sub_in_hier": false,
-    "hierarchy": [
-     [
-      "Sino-Tibetan",
-      0.27
-     ]
-    ],
-    "null_max_z": [
-     3.55,
-     3.69,
-     3.82
-    ]
-   },
-   {
-    "name": "cartier_A18057",
-    "concepts": 73,
-    "status": "resolved",
-    "top": "TRIPOLI_JEWISH_ARABIC",
-    "top_family": "Afro-Asiatic",
-    "top_z": 3.91,
-    "max_z": 4.51,
-    "fam_expected": "Iroquoian",
-    "fam_top1": false,
-    "fam_in_hier": false,
-    "sub_in_hier": false,
-    "hierarchy": [
-     [
-      "Afro-Asiatic",
-      0.68
-     ],
-     [
-      "Semitic",
-      0.62
-     ],
-     [
-      "West Semitic",
-      0.62
-     ],
-     [
-      "Central Semitic",
-      0.59
-     ]
-    ],
-    "null_max_z": [
-     4.1,
-     4.35,
-     3.82
-    ]
-   },
-   {
-    "name": "rochefort_A57484",
-    "concepts": 230,
-    "status": "resolved",
-    "top": "GARIFUNA",
-    "top_family": "Arawakan",
-    "top_z": 7.61,
-    "max_z": 7.61,
-    "fam_expected": "Arawakan",
-    "fam_top1": true,
-    "fam_in_hier": true,
-    "sub_in_hier": false,
-    "hierarchy": [
-     [
-      "Arawakan",
-      0.38
-     ]
-    ],
-    "null_max_z": [
-     4.22,
-     4.05,
-     3.89
-    ]
-   },
-   {
-    "name": "scheffer_A62332",
-    "concepts": 47,
-    "status": "resolved",
-    "top": "KILDIN_SAAMI",
-    "top_family": "Uralic",
-    "top_z": 4.91,
-    "max_z": 8.64,
-    "fam_expected": "Uralic",
-    "fam_top1": true,
-    "fam_in_hier": true,
-    "sub_in_hier": true,
-    "hierarchy": [
-     [
-      "Uralic",
-      0.95
-     ],
-     [
-      "Saami",
-      0.45
-     ]
-    ],
-    "null_max_z": [
-     4.08,
-     3.82,
-     4.48
-    ]
-   },
-   {
-    "name": "knox_A47586",
-    "concepts": 41,
-    "status": "resolved",
-    "top": "ABUN",
-    "top_family": "Abun",
-    "top_z": 2.68,
-    "max_z": 3.94,
-    "fam_expected": "Indo-European",
-    "fam_top1": false,
-    "fam_in_hier": false,
-    "sub_in_hier": false,
-    "hierarchy": [
-     [
-      "Nuclear Torricelli",
-      0.44
-     ]
-    ],
-    "null_max_z": [
-     3.49,
-     3.58,
-     4.22
-    ]
-   },
-   {
-    "name": "boothby_A28809",
-    "concepts": 53,
-    "status": "resolved",
-    "top": "MALAGASY_AMBOSITRA",
-    "top_family": "Austronesian",
-    "top_z": 3.66,
-    "max_z": 4.03,
-    "fam_expected": null,
-    "fam_top1": null,
-    "fam_in_hier": null,
-    "sub_in_hier": null,
-    "hierarchy": [
-     [
-      "Austronesian",
-      0.66
-     ],
-     [
-      "Malayo-Polynesian",
-      0.63
-     ],
-     [
-      "Basap-Greater Barito",
-      0.59
-     ]
-    ],
-    "null_max_z": [
-     3.83,
-     4.18,
-     3.57
-    ]
-   },
-   {
-    "name": "vanneck_A08052",
-    "concepts": 154,
-    "status": "resolved",
-    "top": "SEKOLA_LONTHOIR_BANDA",
-    "top_family": "Austronesian",
-    "top_z": 5.95,
-    "max_z": 10.32,
-    "fam_expected": "Austronesian",
-    "fam_top1": true,
-    "fam_in_hier": true,
-    "sub_in_hier": true,
-    "hierarchy": [
-     [
-      "Austronesian",
-      0.98
-     ],
-     [
-      "Malayo-Polynesian",
-      0.98
-     ],
-     [
-      "Malayo-Chamic",
-      0.95
-     ],
-     [
-      "Malayic",
-      0.95
-     ],
-     [
-      "Nuclear Malayic",
-      0.93
-     ],
-     [
-      "Vehicular Malay",
-      0.34
-     ]
-    ],
-    "null_max_z": [
-     3.85,
-     4.23,
-     3.44
-    ]
-   }
-  ],
-  "null_z": [
-   3.64,
-   3.96,
-   3.84,
-   3.59,
-   3.59,
-   4.96,
-   3.55,
-   3.69,
-   3.82,
-   4.1,
-   4.35,
-   3.82,
-   4.22,
-   4.05,
-   3.89,
-   4.08,
-   3.82,
-   4.48,
-   3.49,
-   3.58,
-   4.22,
-   3.83,
-   4.18,
-   3.57,
-   3.85,
-   4.23,
-   3.44
-  ],
-  "null_z_95": 4.441
- },
  "vowels=True": {
   "rows": [
    {
     "name": "rosier_A71306",
     "concepts": 52,
     "status": "resolved",
-    "top": "PASSAMAQUODDY_MALISEET_UnnamedInSource",
+    "top": "ABNAKI_WESTERN",
     "top_family": "Algic",
-    "top_z": 5.56,
+    "top_z": 5.67,
     "max_z": 5.67,
     "fam_expected": "Algic",
     "fam_top1": true,
     "fam_in_hier": true,
-    "sub_in_hier": false,
+    "sub_in_hier": true,
     "hierarchy": [
      [
       "Algic",
-      0.48
+      1.0
+     ],
+     [
+      "Algonquian-Blackfoot",
+      1.0
+     ],
+     [
+      "Algonquian",
+      1.0
+     ],
+     [
+      "Eastern Algonquian",
+      0.82
+     ],
+     [
+      "Maritimes-Southern New England Algonquian",
+      0.82
+     ],
+     [
+      "Northern Eastern Algonquian",
+      0.82
+     ],
+     [
+      "Abenaki",
+      0.54
      ]
     ],
     "null_max_z": [
-     3.46,
-     3.7,
-     3.88
+     3.71,
+     4.0,
+     4.07,
+     4.21,
+     4.45,
+     4.19,
+     3.87,
+     4.16,
+     4.28,
+     3.73
     ]
    },
    {
@@ -373,98 +71,129 @@
     "hierarchy": [
      [
       "Algic",
-      0.79
+      1.0
      ],
      [
       "Algonquian-Blackfoot",
-      0.79
+      1.0
      ],
      [
       "Algonquian",
-      0.79
+      1.0
      ],
      [
       "Eastern Algonquian",
-      0.28
+      0.62
+     ],
+     [
+      "Maritimes-Southern New England Algonquian",
+      0.47
      ]
     ],
     "null_max_z": [
-     3.82,
-     3.79,
-     4.29
+     4.74,
+     4.4,
+     4.47,
+     4.14,
+     4.43,
+     3.41,
+     4.55,
+     3.63,
+     3.97,
+     4.03
     ]
    },
    {
     "name": "williams_A66450",
     "concepts": 20,
     "status": "abstain",
-    "top": null,
-    "top_family": null,
-    "top_z": null,
-    "max_z": null,
+    "top": "Lakkia",
+    "top_family": "Tai-Kadai",
+    "top_z": 3.46,
+    "max_z": 3.46,
     "fam_expected": "Algic",
-    "fam_top1": null,
+    "fam_top1": false,
     "fam_in_hier": false,
     "sub_in_hier": false,
     "hierarchy": [],
-    "null_max_z": []
+    "null_max_z": [
+     4.03,
+     2.56,
+     3.14,
+     3.22,
+     3.96,
+     3.47,
+     2.71,
+     3.69,
+     3.15,
+     3.79
+    ]
    },
    {
     "name": "smith_map_A12466",
     "concepts": 40,
-    "status": "resolved",
+    "status": "abstain",
     "top": "NANTICOKE",
     "top_family": "Algic",
-    "top_z": 3.12,
-    "max_z": 3.69,
+    "top_z": 4.14,
+    "max_z": 4.14,
     "fam_expected": "Algic",
     "fam_top1": true,
     "fam_in_hier": false,
     "sub_in_hier": false,
-    "hierarchy": [
-     [
-      "Sino-Tibetan",
-      0.59
-     ]
-    ],
+    "hierarchy": [],
     "null_max_z": [
+     4.4,
      3.86,
-     3.44,
-     4.25
+     3.76,
+     3.82,
+     3.73,
+     3.58,
+     3.9,
+     3.74,
+     3.78,
+     3.65
     ]
    },
    {
     "name": "cartier_A18057",
     "concepts": 73,
     "status": "resolved",
-    "top": "BODE_DOEI",
-    "top_family": "Afro-Asiatic",
-    "top_z": 3.54,
-    "max_z": 4.43,
+    "top": "YABEN",
+    "top_family": "Nuclear Trans New Guinea",
+    "top_z": 4.67,
+    "max_z": 4.67,
     "fam_expected": "Iroquoian",
     "fam_top1": false,
     "fam_in_hier": false,
     "sub_in_hier": false,
     "hierarchy": [
      [
-      "Atlantic-Congo",
-      0.29
+      "Nuclear Trans New Guinea [single witness]",
+      1.0
      ]
     ],
     "null_max_z": [
-     4.6,
-     3.94,
-     4.66
+     4.34,
+     3.28,
+     3.72,
+     3.82,
+     4.05,
+     3.88,
+     3.71,
+     4.36,
+     3.86,
+     3.79
     ]
    },
    {
     "name": "rochefort_A57484",
     "concepts": 232,
     "status": "resolved",
-    "top": "GARIFUNA",
+    "top": "Garifuna",
     "top_family": "Arawakan",
-    "top_z": 6.1,
-    "max_z": 6.1,
+    "top_z": 11.93,
+    "max_z": 11.93,
     "fam_expected": "Arawakan",
     "fam_top1": true,
     "fam_in_hier": true,
@@ -472,23 +201,34 @@
     "hierarchy": [
      [
       "Arawakan",
-      0.45
+      0.94
+     ],
+     [
+      "Caribbean Arawakan",
+      0.42
      ]
     ],
     "null_max_z": [
-     3.93,
-     4.36,
-     3.47
+     4.04,
+     3.73,
+     4.11,
+     4.72,
+     4.25,
+     4.19,
+     3.68,
+     4.15,
+     3.76,
+     4.43
     ]
    },
    {
     "name": "scheffer_A62332",
     "concepts": 48,
     "status": "resolved",
-    "top": "INARI_SAAMI_2",
+    "top": "Inari Sami",
     "top_family": "Uralic",
-    "top_z": 9.56,
-    "max_z": 9.56,
+    "top_z": 15.67,
+    "max_z": 15.67,
     "fam_expected": "Uralic",
     "fam_top1": true,
     "fam_in_hier": true,
@@ -496,51 +236,105 @@
     "hierarchy": [
      [
       "Uralic",
-      0.95
+      1.0
      ],
      [
       "Saami",
-      0.44
+      0.8
+     ],
+     [
+      "Western Saami",
+      0.45
      ]
     ],
     "null_max_z": [
-     3.72,
-     3.73,
-     4.06
+     3.71,
+     3.48,
+     4.12,
+     3.33,
+     3.71,
+     3.32,
+     3.93,
+     4.18,
+     3.91,
+     3.56
     ]
    },
    {
     "name": "knox_A47586",
     "concepts": 43,
     "status": "resolved",
-    "top": "BISHNUPURIYA",
+    "top": "Selice Romani",
     "top_family": "Indo-European",
-    "top_z": 2.91,
-    "max_z": 4.01,
+    "top_z": 5.39,
+    "max_z": 5.39,
     "fam_expected": "Indo-European",
     "fam_top1": true,
-    "fam_in_hier": false,
+    "fam_in_hier": true,
     "sub_in_hier": false,
     "hierarchy": [
      [
-      "Nuclear Torricelli",
-      0.37
+      "Indo-European",
+      1.0
+     ],
+     [
+      "Classical Indo-European",
+      1.0
+     ],
+     [
+      "Indo-Iranian",
+      1.0
+     ],
+     [
+      "Indo-Aryan",
+      1.0
+     ],
+     [
+      "Middle-Modern Indo-Aryan",
+      1.0
+     ],
+     [
+      "Continental Indo-Aryan",
+      1.0
+     ],
+     [
+      "Midlands Indo-Aryan",
+      1.0
+     ],
+     [
+      "Shaurasenic",
+      1.0
+     ],
+     [
+      "Indo-Aryan Central zone",
+      1.0
+     ],
+     [
+      "Romani [single witness]",
+      0.62
      ]
     ],
     "null_max_z": [
-     3.61,
-     4.45,
-     3.87
+     3.45,
+     3.7,
+     4.06,
+     4.06,
+     3.67,
+     4.14,
+     3.83,
+     4.08,
+     3.55,
+     3.84
     ]
    },
    {
     "name": "boothby_A28809",
     "concepts": 54,
     "status": "resolved",
-    "top": "MALAGASY_TANOSY_TOLAGNARO",
+    "top": "Antaisaka",
     "top_family": "Austronesian",
-    "top_z": 4.05,
-    "max_z": 4.09,
+    "top_z": 6.4,
+    "max_z": 6.4,
     "fam_expected": null,
     "fam_top1": null,
     "fam_in_hier": null,
@@ -548,31 +342,62 @@
     "hierarchy": [
      [
       "Austronesian",
-      0.92
+      1.0
      ],
      [
       "Malayo-Polynesian",
-      0.9
+      1.0
      ],
      [
       "Basap-Greater Barito",
+      1.0
+     ],
+     [
+      "Greater Barito linkage",
+      1.0
+     ],
+     [
+      "Southeast Barito",
+      1.0
+     ],
+     [
+      "Malagasic",
+      1.0
+     ],
+     [
+      "Southwestern Malagasic",
+      0.87
+     ],
+     [
+      "South West-Central Malagasic",
+      0.87
+     ],
+     [
+      "Nuclear South West-Central Malagasic",
       0.52
      ]
     ],
     "null_max_z": [
-     3.75,
-     3.8,
-     3.38
+     3.76,
+     3.58,
+     3.94,
+     3.26,
+     3.72,
+     4.0,
+     4.5,
+     3.49,
+     3.48,
+     4.12
     ]
    },
    {
     "name": "vanneck_A08052",
     "concepts": 154,
     "status": "resolved",
-    "top": "SEKOLA_LONTHOIR_BANDA",
+    "top": "Indonesian",
     "top_family": "Austronesian",
-    "top_z": 6.35,
-    "max_z": 10.61,
+    "top_z": 19.35,
+    "max_z": 19.35,
     "fam_expected": "Austronesian",
     "fam_top1": true,
     "fam_in_hier": true,
@@ -580,65 +405,145 @@
     "hierarchy": [
      [
       "Austronesian",
-      0.98
+      0.99
      ],
      [
       "Malayo-Polynesian",
-      0.98
+      0.99
      ],
      [
       "Malayo-Chamic",
-      0.96
+      0.98
      ],
      [
       "Malayic",
-      0.91
+      0.97
      ],
      [
       "Nuclear Malayic",
-      0.87
+      0.84
      ],
      [
-      "Vehicular Malay",
-      0.34
+      "Standard Malay-Indonesian",
+      0.41
      ]
     ],
     "null_max_z": [
-     3.44,
+     3.93,
+     4.08,
+     4.39,
+     4.78,
+     3.89,
      3.73,
-     4.23
+     4.02,
+     4.71,
+     4.43,
+     3.88
     ]
    }
   ],
   "null_z": [
-   3.46,
-   3.7,
-   3.88,
-   3.82,
-   3.79,
-   4.29,
-   3.86,
-   3.44,
-   4.25,
-   4.6,
-   3.94,
-   4.66,
-   3.93,
-   4.36,
-   3.47,
-   3.72,
-   3.73,
-   4.06,
-   3.61,
+   3.71,
+   4.0,
+   4.07,
+   4.21,
    4.45,
+   4.19,
    3.87,
-   3.75,
-   3.8,
-   3.38,
-   3.44,
+   4.16,
+   4.28,
    3.73,
-   4.23
+   4.74,
+   4.4,
+   4.47,
+   4.14,
+   4.43,
+   3.41,
+   4.55,
+   3.63,
+   3.97,
+   4.03,
+   4.03,
+   2.56,
+   3.14,
+   3.22,
+   3.96,
+   3.47,
+   2.71,
+   3.69,
+   3.15,
+   3.79,
+   4.4,
+   3.86,
+   3.76,
+   3.82,
+   3.73,
+   3.58,
+   3.9,
+   3.74,
+   3.78,
+   3.65,
+   4.34,
+   3.28,
+   3.72,
+   3.82,
+   4.05,
+   3.88,
+   3.71,
+   4.36,
+   3.86,
+   3.79,
+   4.04,
+   3.73,
+   4.11,
+   4.72,
+   4.25,
+   4.19,
+   3.68,
+   4.15,
+   3.76,
+   4.43,
+   3.71,
+   3.48,
+   4.12,
+   3.33,
+   3.71,
+   3.32,
+   3.93,
+   4.18,
+   3.91,
+   3.56,
+   3.45,
+   3.7,
+   4.06,
+   4.06,
+   3.67,
+   4.14,
+   3.83,
+   4.08,
+   3.55,
+   3.84,
+   3.76,
+   3.58,
+   3.94,
+   3.26,
+   3.72,
+   4.0,
+   4.5,
+   3.49,
+   3.48,
+   4.12,
+   3.93,
+   4.08,
+   4.39,
+   4.78,
+   3.89,
+   3.73,
+   4.02,
+   4.71,
+   4.43,
+   3.88
   ],
-  "null_z_95": 4.555
+  "null_z_95": 4.7404
  }
 }

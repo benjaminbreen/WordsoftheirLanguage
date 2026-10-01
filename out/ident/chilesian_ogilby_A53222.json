@@ -1,0 +1,755 @@
+{
+ "n_entries": 370,
+ "n_mapped": 243,
+ "n_concepts": 235,
+ "affixes_removed": [],
+ "candidates": [
+  {
+   "doculect": "lb:idssegmented-mapudungun",
+   "name": "Mapudungun",
+   "source": "Lexibank",
+   "glottocode": "mapu1245",
+   "path": [
+    "Araucanian",
+    "Mapudungun"
+   ],
+   "ldnd": 0.608,
+   "dsame": 0.367,
+   "n": 172,
+   "p": 0.0033,
+   "z": 23.99
+  },
+  {
+   "doculect": "lb:wold-Mapudungun",
+   "name": "Mapudungun",
+   "source": "Lexibank",
+   "glottocode": "mapu1245",
+   "path": [
+    "Araucanian",
+    "Mapudungun"
+   ],
+   "ldnd": 0.651,
+   "dsame": 0.387,
+   "n": 171,
+   "p": 0.0033,
+   "z": 20.63
+  },
+  {
+   "doculect": "lb:johanssonsoundsymbolic-Mapudungun",
+   "name": "Mapudungun",
+   "source": "Lexibank",
+   "glottocode": "mapu1245",
+   "path": [
+    "Araucanian",
+    "Mapudungun"
+   ],
+   "ldnd": 0.536,
+   "dsame": 0.321,
+   "n": 86,
+   "p": 0.0033,
+   "z": 18.87
+  },
+  {
+   "doculect": "lb:chacolanguages-Mapudungun",
+   "name": "Mapudungun",
+   "source": "Lexibank",
+   "glottocode": "mapu1245",
+   "path": [
+    "Araucanian",
+    "Mapudungun"
+   ],
+   "ldnd": 0.578,
+   "dsame": 0.333,
+   "n": 70,
+   "p": 0.0033,
+   "z": 16.48
+  },
+  {
+   "doculect": "asjp:MAPUDUNGUN",
+   "name": "MAPUDUNGUN",
+   "source": "ASJP",
+   "glottocode": "mapu1245",
+   "path": [
+    "Araucanian",
+    "Mapudungun"
+   ],
+   "ldnd": 0.412,
+   "dsame": 0.252,
+   "n": 43,
+   "p": 0.0033,
+   "z": 16.0
+  },
+  {
+   "doculect": "lb:joophonosemantic-Mapudungun",
+   "name": "Mapudungun",
+   "source": "Lexibank",
+   "glottocode": "mapu1245",
+   "path": [
+    "Araucanian",
+    "Mapudungun"
+   ],
+   "ldnd": 0.434,
+   "dsame": 0.265,
+   "n": 37,
+   "p": 0.0033,
+   "z": 13.57
+  },
+  {
+   "doculect": "asjp:MAPUDUNGUN_3",
+   "name": "MAPUDUNGUN_3",
+   "source": "ASJP",
+   "glottocode": "mapu1245",
+   "path": [
+    "Araucanian",
+    "Mapudungun"
+   ],
+   "ldnd": 0.297,
+   "dsame": 0.185,
+   "n": 26,
+   "p": 0.0033,
+   "z": 12.6
+  },
+  {
+   "doculect": "asjp:MAPUDUNGUN_2",
+   "name": "MAPUDUNGUN_2",
+   "source": "ASJP",
+   "glottocode": "mapu1245",
+   "path": [
+    "Araucanian",
+    "Mapudungun"
+   ],
+   "ldnd": 0.321,
+   "dsame": 0.199,
+   "n": 25,
+   "p": 0.0033,
+   "z": 12.07
+  },
+  {
+   "doculect": "asjp:RANQUELCHE",
+   "name": "RANQUELCHE",
+   "source": "ASJP",
+   "glottocode": "mapu1245",
+   "path": [
+    "Araucanian",
+    "Mapudungun"
+   ],
+   "ldnd": 0.386,
+   "dsame": 0.237,
+   "n": 27,
+   "p": 0.0033,
+   "z": 11.34
+  },
+  {
+   "doculect": "asjp:SAVOSAVO",
+   "name": "SAVOSAVO",
+   "source": "ASJP",
+   "glottocode": "savo1255",
+   "path": [
+    "Savosavo"
+   ],
+   "ldnd": 0.821,
+   "dsame": 0.497,
+   "n": 37,
+   "p": 0.0033,
+   "z": 5.61
+  },
+  {
+   "doculect": "asjp:WARU_LALOMERUI",
+   "name": "WARU_LALOMERUI",
+   "source": "ASJP",
+   "glottocode": "waru1266",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Celebic",
+    "Greater Eastern Celebic",
+    "Eastern Celebic",
+    "Southeastern Celebic",
+    "Bungku-Tolaki",
+    "Western Bungku-Tolaki",
+    "West Coast Bungku-Tolaki",
+    "Waru"
+   ],
+   "ldnd": 0.826,
+   "dsame": 0.501,
+   "n": 27,
+   "p": 0.0033,
+   "z": 4.05
+  },
+  {
+   "doculect": "asjp:QUECHUA_ANCASH_HUAYLAS_WATA",
+   "name": "QUECHUA_ANCASH_HUAYLAS_WATA",
+   "source": "ASJP",
+   "glottocode": "huay1240",
+   "path": [
+    "Quechuan",
+    "Quechua I",
+    "Central Quechua I",
+    "Huaylay",
+    "Huaylas Ancash Quechua"
+   ],
+   "ldnd": 0.798,
+   "dsame": 0.505,
+   "n": 18,
+   "p": 0.0033,
+   "z": 4.01
+  },
+  {
+   "doculect": "asjp:DUNA",
+   "name": "DUNA",
+   "source": "ASJP",
+   "glottocode": "duna1248",
+   "path": [
+    "Duna"
+   ],
+   "ldnd": 0.835,
+   "dsame": 0.507,
+   "n": 25,
+   "p": 0.0033,
+   "z": 3.8
+  },
+  {
+   "doculect": "asjp:QUECHUA_YAUYOS_SAN_PEDRO",
+   "name": "QUECHUA_YAUYOS_SAN_PEDRO",
+   "source": "ASJP",
+   "glottocode": "yauy1235",
+   "path": [
+    "Quechuan",
+    "Quechua I",
+    "Yauyosic",
+    "Yauyos Quechua"
+   ],
+   "ldnd": 0.822,
+   "dsame": 0.512,
+   "n": 19,
+   "p": 0.0033,
+   "z": 3.73
+  },
+  {
+   "doculect": "asjp:WARU",
+   "name": "WARU",
+   "source": "ASJP",
+   "glottocode": "waru1266",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Celebic",
+    "Greater Eastern Celebic",
+    "Eastern Celebic",
+    "Southeastern Celebic",
+    "Bungku-Tolaki",
+    "Western Bungku-Tolaki",
+    "West Coast Bungku-Tolaki",
+    "Waru"
+   ],
+   "ldnd": 0.831,
+   "dsame": 0.506,
+   "n": 27,
+   "p": 0.0033,
+   "z": 3.65
+  },
+  {
+   "doculect": "asjp:NGBAKA_MANZA",
+   "name": "NGBAKA_MANZA",
+   "source": "ASJP",
+   "glottocode": "ngba1287",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "North Volta-Congo",
+    "Gbaya-Manza-Ngbaka",
+    "Gbaya Oriental",
+    "Gbanu-Manza-Ngbaka",
+    "Manza-Ngbaka",
+    "Manzaic",
+    "Ngbaka-Manza-Ali",
+    "Ngbaka Manza"
+   ],
+   "ldnd": 0.818,
+   "dsame": 0.505,
+   "n": 19,
+   "p": 0.0033,
+   "z": 3.52
+  },
+  {
+   "doculect": "asjp:QUECHUA_AYACUCHO",
+   "name": "QUECHUA_AYACUCHO",
+   "source": "ASJP",
+   "glottocode": "ayac1239",
+   "path": [
+    "Quechuan",
+    "Southern Quechua",
+    "Ayacuchan Quechua",
+    "Ayacucho Quechua"
+   ],
+   "ldnd": 0.844,
+   "dsame": 0.504,
+   "n": 27,
+   "p": 0.0066,
+   "z": 3.48
+  },
+  {
+   "doculect": "asjp:MOUK_1",
+   "name": "MOUK_1",
+   "source": "ASJP",
+   "glottocode": "mouk1239",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Eastern Malayo-Polynesian",
+    "Oceanic",
+    "Western Oceanic linkage",
+    "North New Guinea linkage",
+    "Ngero-Vitiaz linkage",
+    "Vitiaz linkage",
+    "Southwest New Britain linkage",
+    "Bibling",
+    "Mouk-Aria"
+   ],
+   "ldnd": 0.845,
+   "dsame": 0.544,
+   "n": 22,
+   "p": 0.0033,
+   "z": 3.45
+  },
+  {
+   "doculect": "asjp:QUECHUA_YAUYOS_CACRA",
+   "name": "QUECHUA_YAUYOS_CACRA",
+   "source": "ASJP",
+   "glottocode": "yauy1235",
+   "path": [
+    "Quechuan",
+    "Quechua I",
+    "Yauyosic",
+    "Yauyos Quechua"
+   ],
+   "ldnd": 0.826,
+   "dsame": 0.518,
+   "n": 19,
+   "p": 0.0033,
+   "z": 3.42
+  },
+  {
+   "doculect": "asjp:QUECHUA_YAUYOS_LINCHA",
+   "name": "QUECHUA_YAUYOS_LINCHA",
+   "source": "ASJP",
+   "glottocode": "yauy1235",
+   "path": [
+    "Quechuan",
+    "Quechua I",
+    "Yauyosic",
+    "Yauyos Quechua"
+   ],
+   "ldnd": 0.843,
+   "dsame": 0.525,
+   "n": 19,
+   "p": 0.0033,
+   "z": 3.37
+  },
+  {
+   "doculect": "asjp:QUECHUA_ANCASH_HUAYLAS_PAMPAROMAS",
+   "name": "QUECHUA_ANCASH_HUAYLAS_PAMPAROMAS",
+   "source": "ASJP",
+   "glottocode": "huay1240",
+   "path": [
+    "Quechuan",
+    "Quechua I",
+    "Central Quechua I",
+    "Huaylay",
+    "Huaylas Ancash Quechua"
+   ],
+   "ldnd": 0.83,
+   "dsame": 0.518,
+   "n": 19,
+   "p": 0.0033,
+   "z": 3.35
+  },
+  {
+   "doculect": "asjp:QUECHUA_YAUYOS_TANA",
+   "name": "QUECHUA_YAUYOS_TANA",
+   "source": "ASJP",
+   "glottocode": "yauy1235",
+   "path": [
+    "Quechuan",
+    "Quechua I",
+    "Yauyosic",
+    "Yauyos Quechua"
+   ],
+   "ldnd": 0.843,
+   "dsame": 0.525,
+   "n": 19,
+   "p": 0.0033,
+   "z": 3.35
+  },
+  {
+   "doculect": "asjp:COLAC",
+   "name": "COLAC",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "COLAC"
+   ],
+   "ldnd": 0.838,
+   "dsame": 0.537,
+   "n": 21,
+   "p": 0.0033,
+   "z": 3.33
+  },
+  {
+   "doculect": "asjp:RASHIDPUR_SANTALI",
+   "name": "RASHIDPUR_SANTALI",
+   "source": "ASJP",
+   "glottocode": "sant1410",
+   "path": [
+    "Austroasiatic",
+    "Mundaic",
+    "North Munda",
+    "Kherwarian",
+    "Santalic",
+    "Santali"
+   ],
+   "ldnd": 0.841,
+   "dsame": 0.535,
+   "n": 22,
+   "p": 0.0033,
+   "z": 3.32
+  },
+  {
+   "doculect": "asjp:PACHONDOR_MAHALI",
+   "name": "PACHONDOR_MAHALI",
+   "source": "ASJP",
+   "glottocode": "maha1291",
+   "path": [
+    "Austroasiatic",
+    "Mundaic",
+    "North Munda",
+    "Kherwarian",
+    "Santalic",
+    "Mahali"
+   ],
+   "ldnd": 0.844,
+   "dsame": 0.541,
+   "n": 23,
+   "p": 0.0033,
+   "z": 3.26
+  },
+  {
+   "doculect": "asjp:MANZA",
+   "name": "MANZA",
+   "source": "ASJP",
+   "glottocode": "manz1243",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "North Volta-Congo",
+    "Gbaya-Manza-Ngbaka",
+    "Gbaya Oriental",
+    "Gbanu-Manza-Ngbaka",
+    "Manza-Ngbaka",
+    "Manzaic",
+    "Manza"
+   ],
+   "ldnd": 0.824,
+   "dsame": 0.514,
+   "n": 19,
+   "p": 0.0066,
+   "z": 3.21
+  },
+  {
+   "doculect": "asjp:TOLAKI_KONAWE",
+   "name": "TOLAKI_KONAWE",
+   "source": "ASJP",
+   "glottocode": "tola1247",
+   "path": [
+    "Austronesian",
+    "Malayo-Polynesian",
+    "Celebic",
+    "Greater Eastern Celebic",
+    "Eastern Celebic",
+    "Southeastern Celebic",
+    "Bungku-Tolaki",
+    "Western Bungku-Tolaki",
+    "West Coast Bungku-Tolaki",
+    "Tolaki"
+   ],
+   "ldnd": 0.843,
+   "dsame": 0.503,
+   "n": 27,
+   "p": 0.0066,
+   "z": 3.2
+  },
+  {
+   "doculect": "asjp:DIJIM_BWILIM",
+   "name": "DIJIM_BWILIM",
+   "source": "ASJP",
+   "glottocode": "diji1241",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "North Volta-Congo",
+    "Gur",
+    "Central Gur",
+    "Tula-Longuda",
+    "Tula-Waja",
+    "Tulaic",
+    "Dijim-Bwilim"
+   ],
+   "ldnd": 0.804,
+   "dsame": 0.528,
+   "n": 17,
+   "p": 0.0033,
+   "z": 3.17
+  },
+  {
+   "doculect": "asjp:DUNGMALI",
+   "name": "DUNGMALI",
+   "source": "ASJP",
+   "glottocode": "dung1252",
+   "path": [
+    "Sino-Tibetan",
+    "Himalayish",
+    "Mahakiranti",
+    "Kiranti",
+    "Eastern Kiranti",
+    "Southern Kiranti",
+    "Dungmali"
+   ],
+   "ldnd": 0.838,
+   "dsame": 0.541,
+   "n": 20,
+   "p": 0.01,
+   "z": 3.1
+  },
+  {
+   "doculect": "asjp:QUECHUA_ANCASH_HUAYLAS_HUARAZ",
+   "name": "QUECHUA_ANCASH_HUAYLAS_HUARAZ",
+   "source": "ASJP",
+   "glottocode": "huay1240",
+   "path": [
+    "Quechuan",
+    "Quechua I",
+    "Central Quechua I",
+    "Huaylay",
+    "Huaylas Ancash Quechua"
+   ],
+   "ldnd": 0.837,
+   "dsame": 0.531,
+   "n": 19,
+   "p": 0.0066,
+   "z": 3.05
+  },
+  {
+   "doculect": "asjp:QUECHUA_ABANCAY_TINTAY",
+   "name": "QUECHUA_ABANCAY_TINTAY",
+   "source": "ASJP",
+   "glottocode": "ayac1239",
+   "path": [
+    "Quechuan",
+    "Southern Quechua",
+    "Ayacuchan Quechua",
+    "Ayacucho Quechua"
+   ],
+   "ldnd": 0.845,
+   "dsame": 0.527,
+   "n": 18,
+   "p": 0.0066,
+   "z": 3.02
+  },
+  {
+   "doculect": "asjp:KAKABE_2",
+   "name": "KAKABE_2",
+   "source": "ASJP",
+   "glottocode": "kaka1265",
+   "path": [
+    "Mande",
+    "Western Mande",
+    "Manding-Kpelle",
+    "Central Mande",
+    "Manding-Jogo",
+    "Manding-Vai",
+    "Manding-Mokole",
+    "Nuclear Mokole",
+    "Mixiforic",
+    "Kakabe"
+   ],
+   "ldnd": 0.797,
+   "dsame": 0.488,
+   "n": 21,
+   "p": 0.01,
+   "z": 3.01
+  },
+  {
+   "doculect": "asjp:YAKOMA",
+   "name": "YAKOMA",
+   "source": "ASJP",
+   "glottocode": "yako1252",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "North Volta-Congo",
+    "Cameroun-Ubangian",
+    "Ubangi",
+    "Ngbandi-Mongoba-Kazibati",
+    "Ngbandic",
+    "Nuclear Ngbandic",
+    "Yakoma"
+   ],
+   "ldnd": 0.844,
+   "dsame": 0.537,
+   "n": 21,
+   "p": 0.0066,
+   "z": 2.92
+  },
+  {
+   "doculect": "asjp:QUECHUA_DE_AMBO_HUANUCO_PASCO_PASCO",
+   "name": "QUECHUA_DE_AMBO_HUANUCO_PASCO_PASCO",
+   "source": "ASJP",
+   "glottocode": "ambo1252",
+   "path": [
+    "Quechuan",
+    "Quechua I",
+    "Central Quechua I",
+    "Yaru Quechua",
+    "Ambo-Pasco Quechua"
+   ],
+   "ldnd": 0.823,
+   "dsame": 0.497,
+   "n": 17,
+   "p": 0.0033,
+   "z": 2.87
+  },
+  {
+   "doculect": "asjp:BIYANDA",
+   "name": "BIYANDA",
+   "source": "ASJP",
+   "glottocode": "sout2785",
+   "path": [
+    "Atlantic-Congo",
+    "Volta-Congo",
+    "North Volta-Congo",
+    "Gbaya-Manza-Ngbaka",
+    "Gbaya Meridional-Occidental",
+    "Gbaya Meridional",
+    "Southwest Gbaya"
+   ],
+   "ldnd": 0.828,
+   "dsame": 0.525,
+   "n": 18,
+   "p": 0.0033,
+   "z": 2.78
+  },
+  {
+   "doculect": "asjp:QUECHUA_YAUYOS_HUANGASCAR",
+   "name": "QUECHUA_YAUYOS_HUANGASCAR",
+   "source": "ASJP",
+   "glottocode": "yauy1235",
+   "path": [
+    "Quechuan",
+    "Quechua I",
+    "Yauyosic",
+    "Yauyos Quechua"
+   ],
+   "ldnd": 0.843,
+   "dsame": 0.525,
+   "n": 19,
+   "p": 0.01,
+   "z": 2.77
+  },
+  {
+   "doculect": "asjp:SARUA",
+   "name": "SARUA",
+   "source": "ASJP",
+   "glottocode": "saru1245",
+   "path": [
+    "Afro-Asiatic",
+    "Chadic",
+    "East Chadic",
+    "East Chadic A",
+    "East Chadic A.1",
+    "Sumrayic",
+    "Sarwa-Sumray",
+    "Sarua"
+   ],
+   "ldnd": 0.837,
+   "dsame": 0.56,
+   "n": 14,
+   "p": 0.0066,
+   "z": 2.72
+  },
+  {
+   "doculect": "asjp:TODE",
+   "name": "TODE",
+   "source": "ASJP",
+   "glottocode": "toma1245",
+   "path": [
+    "Mande",
+    "Western Mande",
+    "Manding-Kpelle",
+    "Southwest Mande",
+    "Mende-Loma",
+    "Loma",
+    "Toma"
+   ],
+   "ldnd": 0.845,
+   "dsame": 0.502,
+   "n": 15,
+   "p": 0.01,
+   "z": 2.6
+  },
+  {
+   "doculect": "asjp:URMI",
+   "name": "URMI",
+   "source": "ASJP",
+   "glottocode": "assy1241",
+   "path": [
+    "Afro-Asiatic",
+    "Semitic",
+    "West Semitic",
+    "Central Semitic",
+    "Northwest Semitic",
+    "Aramaic",
+    "Imperial-Middle-Modern Aramaic",
+    "Middle-Modern Aramaic",
+    "Eastern Aramaic",
+    "Central Eastern Aramaic",
+    "North-Eastern Neo-Aramaic",
+    "Assyrian Neo-Aramaic"
+   ],
+   "ldnd": 0.809,
+   "dsame": 0.497,
+   "n": 11,
+   "p": 0.0233,
+   "z": 2.2
+  },
+  {
+   "doculect": "asjp:PROTO_SOUTHWESTERN_MANDE",
+   "name": "PROTO_SOUTHWESTERN_MANDE",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "PROTO_SOUTHWESTERN_MANDE"
+   ],
+   "ldnd": 0.829,
+   "dsame": 0.482,
+   "n": 16,
+   "p": 0.0166,
+   "z": 2.15
+  }
+ ],
+ "hierarchy": [
+  [
+   "Araucanian",
+   0.99
+  ],
+  [
+   "Mapudungun",
+   0.99
+  ]
+ ],
+ "status": "resolved",
+ "leading": {
+  "name": "Mapudungun",
+  "family": "Araucanian",
+  "z": 23.99
+ }
+}

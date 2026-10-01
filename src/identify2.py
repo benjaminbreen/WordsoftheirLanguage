@@ -29,7 +29,7 @@ import glottolog
 from identify import classes_historical, classes_asjp, SPELL, NORM
 
 MIN_OVERLAP = 8
-Z_THRESHOLD = 4.6   # 95th pct of best-z over shuffled-list nulls (out/benchmark.json, vowels=True)
+Z_THRESHOLD = 4.8   # above max best-z over 100 shuffled-list nulls (4.78; 99th pct 4.74), out/benchmark.json
 TOP_TEST = 40
 N_PERM = 300
 ALPHA = 0.01
@@ -146,27 +146,32 @@ class Reference:
 
     def __init__(self, use=("asjp", "lexibank")):
         self.words = collections.defaultdict(lambda: collections.defaultdict(list))
+        self.raw = collections.defaultdict(lambda: collections.defaultdict(list))
         self.glotto, self.name, self.src = {}, {}, {}
         if "asjp" in use:
             f = pl.read_csv("data/raw/asjp_repo/cldf/forms.csv", infer_schema_length=0,
-                            columns=["Language_ID", "Parameter_ID", "Form", "Loan"])
+                            columns=["Language_ID", "Parameter_ID", "Form", "Loan"]).select(
+                "Language_ID", "Parameter_ID", "Form", "Loan")
             p = pl.read_csv("data/raw/asjp_repo/cldf/parameters.csv", infer_schema_length=0)
             pm = dict(zip(p["ID"], p["Concepticon_Gloss"]))
             for lid, pid, form, loan in f.iter_rows():
                 if loan == "true" or pid not in pm:
                     continue
                 self.words["asjp:" + lid][pm[pid]].append(asjp_classes(form))
+                self.raw["asjp:" + lid][pm[pid]].append(form)
             for r in pl.read_csv("data/raw/asjp_repo/cldf/languages.csv", infer_schema_length=0).iter_rows(named=True):
                 k = "asjp:" + r["ID"]
                 self.glotto[k], self.name[k], self.src[k] = r["Glottocode"], r["ID"], "ASJP"
         if "lexibank" in use:
-            f = pl.read_parquet("data/work/lexibank_forms.parquet")
+            f = pl.read_parquet("data/work/lexibank_forms.parquet").select(
+                "Language_ID", "Parameter_ID", "Dolgo_Sound_Classes", "Loan", "Form")
             c = pl.read_csv("data/raw/lexibank_repo/cldf/concepts.csv", infer_schema_length=0)
             cm = dict(zip(c["ID"], c["Concepticon_Gloss"]))
-            for lid, pid, dc, loan in f.iter_rows():
+            for lid, pid, dc, loan, form in f.iter_rows():
                 if loan == "true" or pid not in cm or not dc:
                     continue
                 self.words["lb:" + lid][cm[pid]].append(dolgo_to_classes(dc))
+                self.raw["lb:" + lid][cm[pid]].append(form)
             for r in pl.read_csv("data/raw/lexibank_repo/cldf/languages.csv", infer_schema_length=0).iter_rows(named=True):
                 k = "lb:" + r["ID"]
                 self.glotto[k], self.name[k], self.src[k] = r["Glottocode"], r["Name"], "Lexibank"
@@ -177,27 +182,44 @@ class Reference:
 
 
 # ----------------------------------------------------------------------- affixes
-def strip_affixes(forms, min_share=0.25, min_n=4):
-    """forms: list of class strings. Remove class-suffixes/prefixes recurring across the list."""
-    out = list(forms)
-    removed = []
-    for side in ("suffix", "prefix"):
-        best = None
-        for L in (4, 3, 2):
-            cnt = collections.Counter(
-                (f[-L:] if side == "suffix" else f[:L]) for f in out if len(f) >= L + 1)
+def _fold(f):
+    f = unicodedata.normalize("NFKD", f.lower())
+    return "".join(ch for ch in f if ch.isalpha())
+
+
+def split_forms(form):
+    """'Dasereth, or Dacosi' -> ['Dasereth', 'Dacosi']; 'Na & Natti' -> ['Na', 'Natti']."""
+    parts = re.split(r"\s*(?:,\s*or\s+|\bor\b|&|;|/|,)\s*", form)
+    return [p.strip(" .") for p in parts if p and p.strip(" .")]
+
+
+def find_affixes(forms, min_share=0.15, min_n=6):
+    """Orthographic prefixes (2-3 letters) / suffixes (3-5 letters) recurring across a list,
+    e.g. a possessive prefix recorded on every body part, or Cartier's '-ascon'."""
+    fs = [_fold(f) for f in forms if len(_fold(f)) >= 4]
+    found = []
+    if len(fs) < min_n:
+        return found
+    for side, lengths in (("prefix", (3, 2)), ("suffix", (5, 4, 3))):
+        for L in lengths:
+            cnt = collections.Counter((f[:L] if side == "prefix" else f[-L:]) for f in fs if len(f) >= L + 2)
             if not cnt:
                 continue
             aff, n = cnt.most_common(1)[0]
-            if n >= min_n and n / len(out) >= min_share:
-                best = aff
+            if n >= min_n and n / len(fs) >= min_share:
+                found.append((side, aff, n))
                 break
-        if best:
-            removed.append((side, best))
-            out = [(f[:-len(best)] if side == "suffix" else f[len(best):])
-                   if (f.endswith(best) if side == "suffix" else f.startswith(best)) and len(f) > len(best)
-                   else f for f in out]
-    return out, removed
+    return found
+
+
+def strip_form(form, affixes):
+    f = _fold(form)
+    for side, aff, _ in affixes:
+        if side == "prefix" and f.startswith(aff) and len(f) > len(aff) + 1:
+            f = f[len(aff):]
+        if side == "suffix" and f.endswith(aff) and len(f) > len(aff) + 1:
+            f = f[:-len(aff)]
+    return f
 
 
 # ----------------------------------------------------------------------- scoring
@@ -240,10 +262,13 @@ def identify(entries, ref, exclude=(), profile="english", seed=0):
     mapped = []
     for g, f in entries:
         for c in cm(g):
-            mapped.append((c, f))
-    cls = [hist_classes(f, profile) for _, f in mapped]
-    cls2, removed = strip_affixes(cls)
-    hist = [(c, x) for (c, _), x in zip(mapped, cls2) if x]
+            for sf in split_forms(f):
+                mapped.append((c, sf))
+    removed = find_affixes([f for _, f in mapped])
+    pairs = [((c, f), (c, hist_classes(strip_form(f, removed), profile))) for c, f in mapped]
+    pairs = [(src, h) for src, h in pairs if h[1]]
+    hist_src = [src for src, _ in pairs]
+    hist = [h for _, h in pairs]
     scores = []
     for k, refw in ref.words.items():
         if k in exclude or (ref.glotto.get(k) or "") in exclude:
@@ -264,6 +289,16 @@ def identify(entries, ref, exclude=(), profile="english", seed=0):
                            glottocode=ref.glotto.get(k), path=ref.path(k), ldnd=round(float(l), 3),
                            dsame=round(float(s), 3), n=int(n), p=round(float(p), 4), z=round(float(z), 2)))
     tested.sort(key=lambda t: -t["z"])
+    for t in tested[:5]:
+        refw, rawf = ref.words[t["doculect"]], ref.raw[t["doculect"]]
+        ev = []
+        for c in sorted({c for c, _ in hist if c in refw}):
+            hs = [(f, h) for (c2, f), (_, h) in zip(hist_src, hist) if c2 == c]
+            best = min(((Levenshtein.normalized_distance(h, r), f, rawf[c][i])
+                        for f, h in hs for i, r in enumerate(refw[c]) if i < len(rawf[c])), default=None)
+            if best:
+                ev.append(dict(concept=c, form=best[1], ref=best[2], dist=round(best[0], 2)))
+        t["evidence"] = sorted(ev, key=lambda e: e["dist"])
     sig = [t for t in tested if t["p"] <= ALPHA and t["z"] >= Z_THRESHOLD]
     lead = tested[0] if tested else None
     return dict(n_entries=len(entries), n_mapped=len(mapped), n_concepts=len({c for c, _ in hist}),
@@ -289,6 +324,11 @@ def hierarchy(sig, min_share=0.6):
             break
         node, w = cnt.most_common(1)[0]
         share = w / W
+        under = [t for t in sig if t["path"][:len(prefix) + 1] == prefix + [node]]
+        strong = any(t["z"] >= 2 * Z_THRESHOLD for t in under)
+        if len(under) < 2 and not strong:
+            out.append((node + " [single witness]", round(share, 2)))
+            break
         out.append((node, round(share, 2)))
         if share < min_share:
             break

@@ -1,0 +1,83 @@
+n,list_id,section_heading,gloss_as_printed,form_as_printed,form_language_label_as_printed,note
+1,gthomas_dialogue,The Indian Tongue | The English of it,"Friend, from whence com'st?",Hitah takoman?,The Indian Tongue,Quest.; English 'Friend' not obviously a separate word in the Indian text
+2,gthomas_dialogue,The Indian Tongue | The English of it,Yonder. [Quest. Where yonder?] [Answ.] My House.,Andogowa nee weekin.,The Indian Tongue,"Answ.; English column runs several turns together, so pairing is loose (cf. 'Where yonder?' / 'My House')"
+3,gthomas_dialogue,The Indian Tongue | The English of it,Where is thy House?,Tony andogowa kee weekin?,The Indian Tongue,"Quest.; printed English column also has 'Where yonder?' just before, offset from the Indian text"
+4,gthomas_dialogue,The Indian Tongue | The English of it,"Arwaymouse, which is the Name of an Indian Town.",Arwaymouse.,The Indian Tongue,"Answ.; place name, not a gloss"
+5,gthomas_dialogue,The Indian Tongue | The English of it,What hast got in thy House?,Keco kee hatah kee weekin?,The Indian Tongue,Quest.
+6,gthomas_dialogue,The Indian Tongue | The English of it,"I have very fat Venison, and good strong Skins, with very good Turkeys.",Nee hatah huska wees youse og huska chetena chase og huska orit chekenip.,The Indian Tongue,Answ.
+7,gthomas_dialogue,The Indian Tongue | The English of it,"When wilt thou bring me Skins and Venison, with Turkeys?",Chingo kee beto nee chase og youse etka chekenip.,The Indian Tongue,Quest.; printed with full stop in Indian text but English is a question; 'Chingo' = 'When' (question word)
+8,gthomas_dialogue,The Indian Tongue | The English of it,"To morrow, or two days hence.",Halopa etka nisha kishquicka.,The Indian Tongue,Answ.
+9,gthomas_dialogue,The Indian Tongue | The English of it,What hast got in thy House?,Keco kee hata kee weekin?,The Indian Tongue,Quest.; repeats earlier question with 'hata' for 'hatah'
+10,gthomas_dialogue,The Indian Tongue | The English of it,"I have very fat Venison, and good strong Skins, with very good Turkeys.",Nee hata orit poonk og huska horit haloons etka neskee og marchkee ochqueon.,The Indian Tongue,"Answ.; printed English repeats the earlier answer verbatim although the Indian words differ (poonk, haloons, neskee 'black', marchkee 'red', ochqueon): probable printer/compiler misalignment"
+11,gthomas_dialogue,The Indian Tongue | The English of it,(Very well.),(O huskia orit.),The Indian Tongue,
+12,gthomas_dialogue,The Indian Tongue | The English of it,"Did'st thou see black Horses and red Cows, with white Sheep?",Kee namen neskec kabay og marchkec moos etka opeg megis?,The Indian Tongue,Quest.; 'kabay' and 'moos' may be loans (Spanish caballo / English moo or Dutch koe); 'neskec'/'marchkec' printed with c for e
+13,gthomas_dialogue,The Indian Tongue | The English of it,I saw no Sheep: I did see black Horses yonder in the Woods?,Mata namen megis nee namen neskec kabay undogwa tekany.,The Indian Tongue,Answ.
+14,gthomas_dialogue,The Indian Tongue | The English of it,Did'st see red Cows yonder in the Woods?,Kee namen marchkec moos undogwa tekeny?,The Indian Tongue,Quest.
+15,gthomas_dialogue,The Indian Tongue | The English of it,Yes.,Mogy.,The Indian Tongue,Answ.
+16,gthomas_dialogue,The Indian Tongue | The English of it,Hast thou a Wife and Children?,Kee squa og enychan hatah?,The Indian Tongue,Quest.
+17,gthomas_dialogue,The Indian Tongue | The English of it,Yes.,Mogy.,The Indian Tongue,Answ.
+18,gthomas_dialogue,The Indian Tongue | The English of it,How many hast?,Kacha hatah?,The Indian Tongue,Quest.; question word
+19,gthomas_dialogue,The Indian Tongue | The English of it,Four.,Neo.,The Indian Tongue,Answ.; numeral
+20,gthomas_dialogue,The Indian Tongue | The English of it,Boys or Girls?,Benoingtid etka squatid?,The Indian Tongue,Quest.
+21,gthomas_dialogue,The Indian Tongue | The English of it,Two Boys and two Girls.,Nisha benointid og nisha squatid.,The Indian Tongue,Answ.; 'benoingtid' vs 'benointid' spelling variation
+22,gthomas_dialogue,The Indian Tongue | The English of it,Hast got a young Child?,Tongtid enychan hatah?,The Indian Tongue,Quest.
+23,gthomas_dialogue,The Indian Tongue | The English of it,Yes.,Mogy.,The Indian Tongue,Answ.
+24,gthomas_dialogue,The Indian Tongue | The English of it,How old?,Etka aroosise?,The Indian Tongue,Quest.; 'etka' elsewhere glossed 'or' / 'with'
+25,gthomas_dialogue,The Indian Tongue | The English of it,Four months.,Neo kishow.,The Indian Tongue,Answ.
+26,gthomas_dialogue,The Indian Tongue | The English of it,How old art thou?,Etka aroosise kee?,The Indian Tongue,Quest.
+27,gthomas_dialogue,The Indian Tongue | The English of it,Fifty years old.,Pelenacheenckan katingan aroosis.,The Indian Tongue,Answ.; compare numerals 'pelenchinchkan' Fifty in counting list
+28,gthomas_dialogue_words,The Indian Tongue | The English of it,Yonder,Andogowa,The Indian Tongue,word-level inference from dialogue; also printed 'undogwa'
+29,gthomas_dialogue_words,The Indian Tongue | The English of it,House,weekin,The Indian Tongue,"inferred; 'kee weekin' = thy House, 'nee weekin' = My House"
+30,gthomas_dialogue_words,The Indian Tongue | The English of it,My,nee,The Indian Tongue,inferred; also 'I' in 'nee hatah'
+31,gthomas_dialogue_words,The Indian Tongue | The English of it,Thy,kee,The Indian Tongue,inferred; also 'Thou' in 'kee namen'
+32,gthomas_dialogue_words,The Indian Tongue | The English of it,hast got / have,hatah,The Indian Tongue,inferred; variant 'hata'
+33,gthomas_dialogue_words,The Indian Tongue | The English of it,Venison,youse,The Indian Tongue,inferred from parallel phrases; ordering of Skins/Venison confirmed by 'chase og youse'
+34,gthomas_dialogue_words,The Indian Tongue | The English of it,Skins,chase,The Indian Tongue,inferred
+35,gthomas_dialogue_words,The Indian Tongue | The English of it,very fat,huska wees,The Indian Tongue,inferred; 'huska' also seems to mean 'good/very'
+36,gthomas_dialogue_words,The Indian Tongue | The English of it,Turkeys,chekenip,The Indian Tongue,inferred
+37,gthomas_dialogue_words,The Indian Tongue | The English of it,Wife,squa,The Indian Tongue,inferred; compare 'squatid' Girls
+38,gthomas_dialogue_words,The Indian Tongue | The English of it,Children,enychan,The Indian Tongue,inferred; also 'a young Child' in 'Tongtid enychan'
+39,gthomas_dialogue_words,The Indian Tongue | The English of it,Boys,benoingtid,The Indian Tongue,inferred; variant 'benointid'
+40,gthomas_dialogue_words,The Indian Tongue | The English of it,Girls,squatid,The Indian Tongue,inferred
+41,gthomas_dialogue_words,The Indian Tongue | The English of it,Horses,kabay,The Indian Tongue,inferred; possible European loan (cf. Spanish caballo)
+42,gthomas_dialogue_words,The Indian Tongue | The English of it,Cows,moos,The Indian Tongue,"inferred; possible European loan (cf. English/Dutch moo, koe)"
+43,gthomas_dialogue_words,The Indian Tongue | The English of it,black,neskee,The Indian Tongue,inferred; printed 'neskec' in places
+44,gthomas_dialogue_words,The Indian Tongue | The English of it,red,marchkee,The Indian Tongue,inferred; printed 'marchkec' in places
+45,gthomas_dialogue_words,The Indian Tongue | The English of it,white,opeg,The Indian Tongue,inferred
+46,gthomas_dialogue_words,The Indian Tongue | The English of it,Sheep,megis,The Indian Tongue,inferred; 'mata namen megis' = I saw no Sheep
+47,gthomas_dialogue_words,The Indian Tongue | The English of it,Yes,Mogy,The Indian Tongue,sentence-level answer also recorded above
+48,gthomas_dialogue_words,The Indian Tongue | The English of it,Four,Neo,The Indian Tongue,also numeral list
+49,gthomas_dialogue_words,The Indian Tongue | The English of it,Two,nisha,The Indian Tongue,also numeral list
+50,gthomas_dialogue_words,The Indian Tongue | The English of it,To morrow,Halopa,The Indian Tongue,inferred; ambiguous segmentation of 'Halopa etka nisha kishquicka'
+51,gthomas_dialogue_words,The Indian Tongue | The English of it,or,etka,The Indian Tongue,"inferred; same word also appears in questions ('How old'), so polysemy or mis-segmentation possible"
+52,gthomas_dialogue_words,The Indian Tongue | The English of it,two days hence,nisha kishquicka,The Indian Tongue,inferred; 'kishquicka' = days? (cf. 'kishow' months)
+53,gthomas_dialogue_words,The Indian Tongue | The English of it,months,kishow,The Indian Tongue,inferred; possibly 'moon/month'
+54,gthomas_dialogue_words,The Indian Tongue | The English of it,old / years,aroosise,The Indian Tongue,inferred; variant 'aroosis'
+55,gthomas_dialogue_words,The Indian Tongue | The English of it,Fifty,Pelenacheenckan,The Indian Tongue,inferred; variant of numeral 'pelenchinchkan'
+56,gthomas_dialogue_words,The Indian Tongue | The English of it,and,og,The Indian Tongue,inferred; frequent connective
+57,gthomas_dialogue_words,The Indian Tongue | The English of it,in the Woods,tekany,The Indian Tongue,inferred; also printed 'tekeny'
+58,gthomas_dialogue_words,The Indian Tongue | The English of it,Hast thou / Did'st thou see,namen,The Indian Tongue,"inferred; 'kee namen' = Did'st thou see, 'nee namen' = I saw"
+59,gthomas_numerals,The Indian Counting | The English to it,One,Kooty,The Indian Counting,numerals printed in a single run; pairing by position
+60,gthomas_numerals,The Indian Counting | The English to it,Two,nisha,The Indian Counting,numerals printed in a single run; pairing by position
+61,gthomas_numerals,The Indian Counting | The English to it,Three,nacha,The Indian Counting,numerals printed in a single run; pairing by position
+62,gthomas_numerals,The Indian Counting | The English to it,Four,neo,The Indian Counting,numerals printed in a single run; pairing by position
+63,gthomas_numerals,The Indian Counting | The English to it,Five,pelenach,The Indian Counting,numerals printed in a single run; pairing by position
+64,gthomas_numerals,The Indian Counting | The English to it,Six,Kootash,The Indian Counting,"numerals printed in a single run; pairing by position; Six-Nine look built on One/Two (Kootash, nishash) - possible compound/loan structure"
+65,gthomas_numerals,The Indian Counting | The English to it,Seven,nishash,The Indian Counting,numerals printed in a single run; pairing by position
+66,gthomas_numerals,The Indian Counting | The English to it,Eight,choesh,The Indian Counting,numerals printed in a single run; pairing by position
+67,gthomas_numerals,The Indian Counting | The English to it,Nine,peskonk,The Indian Counting,numerals printed in a single run; pairing by position
+68,gthomas_numerals,The Indian Counting | The English to it,Ten,telen,The Indian Counting,numerals printed in a single run; pairing by position
+69,gthomas_numerals,The Indian Counting | The English to it,Twenty,Nishinchkan,The Indian Counting,"tens built from numerals + -inchkan; pairing by position; printed ""&c."" after Fifty"
+70,gthomas_numerals,The Indian Counting | The English to it,Thirty,nachinchkan,The Indian Counting,"tens built from numerals + -inchkan; pairing by position; printed ""&c."" after Fifty"
+71,gthomas_numerals,The Indian Counting | The English to it,Forty,neochinchkan,The Indian Counting,"tens built from numerals + -inchkan; pairing by position; printed ""&c."" after Fifty"
+72,gthomas_numerals,The Indian Counting | The English to it,Fifty,pelenchinchkan,The Indian Counting,"tens built from numerals + -inchkan; pairing by position; printed ""&c."" after Fifty"
+73,gthomas_indian_names,The Names of some of the Indians.,(personal name of an Indian),Anachkooting,,"personal name; no gloss printed; ""Lames"" may be a European-looking name"
+74,gthomas_indian_names,The Names of some of the Indians.,(personal name of an Indian),Bussabenating,,"personal name; no gloss printed; ""Lames"" may be a European-looking name"
+75,gthomas_indian_names,The Names of some of the Indians.,(personal name of an Indian),Okonycan,,"personal name; no gloss printed; ""Lames"" may be a European-looking name"
+76,gthomas_indian_names,The Names of some of the Indians.,(personal name of an Indian),Potasko,,"personal name; no gloss printed; ""Lames"" may be a European-looking name"
+77,gthomas_indian_names,The Names of some of the Indians.,(personal name of an Indian),Quindamen,,"personal name; no gloss printed; ""Lames"" may be a European-looking name"
+78,gthomas_indian_names,The Names of some of the Indians.,(personal name of an Indian),Lames,,"personal name; no gloss printed; ""Lames"" may be a European-looking name"
+79,gthomas_indian_names,The Names of some of the Indians.,(personal name of an Indian),Alpoongan,,"personal name; no gloss printed; ""Lames"" may be a European-looking name"
+80,gthomas_indian_names,The Names of some of the Indians.,(personal name of an Indian),Kohonk,,"personal name; no gloss printed; ""Lames"" may be a European-looking name"
+81,gthomas_indian_names,The Names of some of the Indians.,(personal name of an Indian),Hiton,,"personal name; no gloss printed; ""Lames"" may be a European-looking name"
+82,gthomas_indian_names,The Names of some of the Indians.,(personal name of an Indian),Temeny,,"personal name; no gloss printed; ""Lames"" may be a European-looking name"

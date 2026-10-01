@@ -1,0 +1,756 @@
+{
+ "n_entries": 56,
+ "n_mapped": 28,
+ "n_concepts": 27,
+ "affixes_removed": [],
+ "candidates": [
+  {
+   "doculect": "asjp:MON",
+   "name": "MON",
+   "source": "ASJP",
+   "glottocode": "monn1252",
+   "path": [
+    "Austroasiatic",
+    "Monic",
+    "Mon"
+   ],
+   "ldnd": 0.359,
+   "dsame": 0.231,
+   "n": 12,
+   "p": 0.0033,
+   "z": 5.65
+  },
+  {
+   "doculect": "lb:idssegmented-nyakur",
+   "name": "Nyakur",
+   "source": "Lexibank",
+   "glottocode": "nyah1250",
+   "path": [
+    "Austroasiatic",
+    "Monic",
+    "Nyahkur"
+   ],
+   "ldnd": 0.716,
+   "dsame": 0.479,
+   "n": 20,
+   "p": 0.0033,
+   "z": 5.37
+  },
+  {
+   "doculect": "lb:peirosaustroasiatic-Mon",
+   "name": "Mon",
+   "source": "Lexibank",
+   "glottocode": "monn1252",
+   "path": [
+    "Austroasiatic",
+    "Monic",
+    "Mon"
+   ],
+   "ldnd": 0.38,
+   "dsame": 0.245,
+   "n": 12,
+   "p": 0.0033,
+   "z": 5.26
+  },
+  {
+   "doculect": "lb:peirosaustroasiatic-Nyakur",
+   "name": "Nyakur",
+   "source": "Lexibank",
+   "glottocode": "nyah1250",
+   "path": [
+    "Austroasiatic",
+    "Monic",
+    "Nyahkur"
+   ],
+   "ldnd": 0.635,
+   "dsame": 0.438,
+   "n": 12,
+   "p": 0.0033,
+   "z": 5.15
+  },
+  {
+   "doculect": "asjp:NYAKUR",
+   "name": "NYAKUR",
+   "source": "ASJP",
+   "glottocode": "nyah1250",
+   "path": [
+    "Austroasiatic",
+    "Monic",
+    "Nyahkur"
+   ],
+   "ldnd": 0.665,
+   "dsame": 0.458,
+   "n": 12,
+   "p": 0.0033,
+   "z": 4.71
+  },
+  {
+   "doculect": "lb:peirosaustroasiatic-Halang",
+   "name": "Halang",
+   "source": "Lexibank",
+   "glottocode": "hala1252",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "North Bahnaric",
+    "Kayong-Jeh-Halang",
+    "Jeh-Halang",
+    "Halang"
+   ],
+   "ldnd": 0.715,
+   "dsame": 0.493,
+   "n": 12,
+   "p": 0.0033,
+   "z": 4.16
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-tampuan",
+   "name": "Tampuan",
+   "source": "Lexibank",
+   "glottocode": "tamp1251",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Tampuon-Bahnar",
+    "Tampuan"
+   ],
+   "ldnd": 0.676,
+   "dsame": 0.464,
+   "n": 11,
+   "p": 0.0033,
+   "z": 4.05
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-bunong",
+   "name": "Bunong",
+   "source": "Lexibank",
+   "glottocode": "cent1992",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "South Bahnaric",
+    "Mnong-Stieng-Chrau",
+    "Mnong",
+    "Southern-Central Mnong",
+    "Central Mnong"
+   ],
+   "ldnd": 0.714,
+   "dsame": 0.519,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.92
+  },
+  {
+   "doculect": "asjp:BAHNAR",
+   "name": "BAHNAR",
+   "source": "ASJP",
+   "glottocode": "bahn1262",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Tampuon-Bahnar",
+    "Bahnar"
+   ],
+   "ldnd": 0.694,
+   "dsame": 0.476,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.82
+  },
+  {
+   "doculect": "lb:peirosaustroasiatic-Oy",
+   "name": "Oy",
+   "source": "Lexibank",
+   "glottocode": "oyyy1238",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Nuclear West Bahnaric",
+    "Oy"
+   ],
+   "ldnd": 0.656,
+   "dsame": 0.437,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.73
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-bahnargolar",
+   "name": "BahnarGolar",
+   "source": "Lexibank",
+   "glottocode": "bahn1262",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Tampuon-Bahnar",
+    "Bahnar"
+   ],
+   "ldnd": 0.649,
+   "dsame": 0.442,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.62
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-stieng",
+   "name": "Stieng",
+   "source": "Lexibank",
+   "glottocode": "bulo1242",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "South Bahnaric",
+    "Mnong-Stieng-Chrau",
+    "Stieng",
+    "Bulo Stieng"
+   ],
+   "ldnd": 0.726,
+   "dsame": 0.501,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.62
+  },
+  {
+   "doculect": "asjp:HALANG",
+   "name": "HALANG",
+   "source": "ASJP",
+   "glottocode": "hala1252",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "North Bahnaric",
+    "Kayong-Jeh-Halang",
+    "Jeh-Halang",
+    "Halang"
+   ],
+   "ldnd": 0.723,
+   "dsame": 0.493,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.61
+  },
+  {
+   "doculect": "lb:dunnaslian-Batek_Deq_Terengganu",
+   "name": "Batek Deq Terengganu",
+   "source": "Lexibank",
+   "glottocode": "bate1262",
+   "path": [
+    "Austroasiatic",
+    "Aslian",
+    "Central-Northern Aslian",
+    "North Aslian",
+    "Maniq-Menraq-Batek",
+    "Menraq-Batek",
+    "Batekic",
+    "Batek"
+   ],
+   "ldnd": 0.731,
+   "dsame": 0.496,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.61
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-sapuan",
+   "name": "Sapuan",
+   "source": "Lexibank",
+   "glottocode": "sapu1248",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Nuclear West Bahnaric",
+    "Sapuan"
+   ],
+   "ldnd": 0.629,
+   "dsame": 0.414,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.6
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-kasseng",
+   "name": "Kasseng",
+   "source": "Lexibank",
+   "glottocode": "tali1257",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Triengic",
+    "Talieng"
+   ],
+   "ldnd": 0.708,
+   "dsame": 0.504,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.58
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-bahnarpleiku",
+   "name": "BahnarPleiku",
+   "source": "Lexibank",
+   "glottocode": "bahn1262",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Tampuon-Bahnar",
+    "Bahnar"
+   ],
+   "ldnd": 0.66,
+   "dsame": 0.442,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.56
+  },
+  {
+   "doculect": "lb:peirosaustroasiatic-MBunong",
+   "name": "M.Bunong",
+   "source": "Lexibank",
+   "glottocode": "maaa1253",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "South Bahnaric",
+    "Koho-Maa",
+    "Maa"
+   ],
+   "ldnd": 0.746,
+   "dsame": 0.542,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.56
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-halang",
+   "name": "Halang",
+   "source": "Lexibank",
+   "glottocode": "hala1252",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "North Bahnaric",
+    "Kayong-Jeh-Halang",
+    "Jeh-Halang",
+    "Halang"
+   ],
+   "ldnd": 0.698,
+   "dsame": 0.468,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.55
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-brao",
+   "name": "Brao",
+   "source": "Lexibank",
+   "glottocode": "lave1249",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Nuclear West Bahnaric",
+    "Brao"
+   ],
+   "ldnd": 0.67,
+   "dsame": 0.44,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.52
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-bahnarkontum",
+   "name": "BahnarKontum",
+   "source": "Lexibank",
+   "glottocode": "bahn1262",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Tampuon-Bahnar",
+    "Bahnar"
+   ],
+   "ldnd": 0.649,
+   "dsame": 0.442,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.46
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-cua",
+   "name": "Cua",
+   "source": "Lexibank",
+   "glottocode": "cuaa1241",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "Cua"
+   ],
+   "ldnd": 0.731,
+   "dsame": 0.482,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.46
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-jeh",
+   "name": "Jeh",
+   "source": "Lexibank",
+   "glottocode": "jehh1245",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "North Bahnaric",
+    "Kayong-Jeh-Halang",
+    "Jeh-Halang",
+    "Jeh"
+   ],
+   "ldnd": 0.74,
+   "dsame": 0.498,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.44
+  },
+  {
+   "doculect": "lb:peirosaustroasiatic-Jeh",
+   "name": "Jeh",
+   "source": "Lexibank",
+   "glottocode": "jehh1245",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "North Bahnaric",
+    "Kayong-Jeh-Halang",
+    "Jeh-Halang",
+    "Jeh"
+   ],
+   "ldnd": 0.743,
+   "dsame": 0.5,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.39
+  },
+  {
+   "doculect": "asjp:JEH",
+   "name": "JEH",
+   "source": "ASJP",
+   "glottocode": "jehh1245",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "North Bahnaric",
+    "Kayong-Jeh-Halang",
+    "Jeh-Halang",
+    "Jeh"
+   ],
+   "ldnd": 0.725,
+   "dsame": 0.483,
+   "n": 10,
+   "p": 0.0033,
+   "z": 3.36
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-alak",
+   "name": "Alak",
+   "source": "Lexibank",
+   "glottocode": "alak1253",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Alak"
+   ],
+   "ldnd": 0.677,
+   "dsame": 0.453,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.34
+  },
+  {
+   "doculect": "lb:sidwellvietic-ThavungPS",
+   "name": "Thavung Phon Soung",
+   "source": "Lexibank",
+   "glottocode": "aheu1239",
+   "path": [
+    "Austroasiatic",
+    "Vietic",
+    "Chutic",
+    "Thavung"
+   ],
+   "ldnd": 0.735,
+   "dsame": 0.5,
+   "n": 11,
+   "p": 0.0066,
+   "z": 3.32
+  },
+  {
+   "doculect": "lb:peirosaustroasiatic-Nhaheun",
+   "name": "Nhaheun",
+   "source": "Lexibank",
+   "glottocode": "nyah1249",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Nuclear West Bahnaric",
+    "Nyaheun"
+   ],
+   "ldnd": 0.727,
+   "dsame": 0.491,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.3
+  },
+  {
+   "doculect": "lb:dunnaslian-Batek_Deq_Koh",
+   "name": "Batek Deq Koh",
+   "source": "Lexibank",
+   "glottocode": "bate1262",
+   "path": [
+    "Austroasiatic",
+    "Aslian",
+    "Central-Northern Aslian",
+    "North Aslian",
+    "Maniq-Menraq-Batek",
+    "Menraq-Batek",
+    "Batekic",
+    "Batek"
+   ],
+   "ldnd": 0.731,
+   "dsame": 0.501,
+   "n": 12,
+   "p": 0.01,
+   "z": 3.28
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-cheng",
+   "name": "Cheng",
+   "source": "Lexibank",
+   "glottocode": "jeng1241",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Nuclear West Bahnaric",
+    "Oy",
+    "Jeng"
+   ],
+   "ldnd": 0.625,
+   "dsame": 0.426,
+   "n": 9,
+   "p": 0.0033,
+   "z": 3.26
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-jrulaven",
+   "name": "JruLaven",
+   "source": "Lexibank",
+   "glottocode": "lave1248",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Nuclear West Bahnaric",
+    "Loven-Suq",
+    "Laven"
+   ],
+   "ldnd": 0.672,
+   "dsame": 0.458,
+   "n": 10,
+   "p": 0.01,
+   "z": 3.17
+  },
+  {
+   "doculect": "lb:sidwellvietic-MaliengQB",
+   "name": "Malieng (QB)",
+   "source": "Lexibank",
+   "glottocode": "male1282",
+   "path": [
+    "Austroasiatic",
+    "Vietic",
+    "Chutic",
+    "East Chutic",
+    "Maleng"
+   ],
+   "ldnd": 0.74,
+   "dsame": 0.475,
+   "n": 11,
+   "p": 0.0033,
+   "z": 3.17
+  },
+  {
+   "doculect": "lb:peirosaustroasiatic-Mlabri",
+   "name": "Mlabri",
+   "source": "Lexibank",
+   "glottocode": "mlab1235",
+   "path": [
+    "Austroasiatic",
+    "Khmuic",
+    "Phay-Pram",
+    "Tinic",
+    "Mlabri"
+   ],
+   "ldnd": 0.715,
+   "dsame": 0.503,
+   "n": 12,
+   "p": 0.0033,
+   "z": 3.12
+  },
+  {
+   "doculect": "asjp:CHRAU",
+   "name": "CHRAU",
+   "source": "ASJP",
+   "glottocode": "chra1242",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "South Bahnaric",
+    "Mnong-Stieng-Chrau",
+    "Chrau"
+   ],
+   "ldnd": 0.716,
+   "dsame": 0.488,
+   "n": 8,
+   "p": 0.01,
+   "z": 3.09
+  },
+  {
+   "doculect": "lb:peirosaustroasiatic-LaoKatu",
+   "name": "Lao-Katu",
+   "source": "Lexibank",
+   "glottocode": "west2398",
+   "path": [
+    "Austroasiatic",
+    "Katuic",
+    "Katu",
+    "Nuclear Katu",
+    "Western Katu"
+   ],
+   "ldnd": 0.69,
+   "dsame": 0.452,
+   "n": 11,
+   "p": 0.0066,
+   "z": 3.04
+  },
+  {
+   "doculect": "lb:sidwellvietic-ThavungS",
+   "name": "Thavung",
+   "source": "Lexibank",
+   "glottocode": "aheu1239",
+   "path": [
+    "Austroasiatic",
+    "Vietic",
+    "Chutic",
+    "Thavung"
+   ],
+   "ldnd": 0.71,
+   "dsame": 0.462,
+   "n": 10,
+   "p": 0.0066,
+   "z": 2.93
+  },
+  {
+   "doculect": "lb:sidwellbahnaric-nyaheun",
+   "name": "Nyaheun",
+   "source": "Lexibank",
+   "glottocode": "nyah1249",
+   "path": [
+    "Austroasiatic",
+    "Bahnaric",
+    "West Bahnaric",
+    "Nuclear West Bahnaric",
+    "Nyaheun"
+   ],
+   "ldnd": 0.721,
+   "dsame": 0.488,
+   "n": 10,
+   "p": 0.0033,
+   "z": 2.92
+  },
+  {
+   "doculect": "lb:sidwellvietic-MaliengHT",
+   "name": "Malieng (HT)",
+   "source": "Lexibank",
+   "glottocode": "male1282",
+   "path": [
+    "Austroasiatic",
+    "Vietic",
+    "Chutic",
+    "East Chutic",
+    "Maleng"
+   ],
+   "ldnd": 0.744,
+   "dsame": 0.463,
+   "n": 11,
+   "p": 0.0166,
+   "z": 2.82
+  },
+  {
+   "doculect": "lb:sidwellvietic-Kri",
+   "name": "Kri (HT)",
+   "source": "Lexibank",
+   "glottocode": "khap1242",
+   "path": [
+    "Austroasiatic",
+    "Vietic",
+    "Chutic",
+    "East Chutic",
+    "Maleng",
+    "Kha Phong"
+   ],
+   "ldnd": 0.727,
+   "dsame": 0.436,
+   "n": 11,
+   "p": 0.0166,
+   "z": 2.77
+  },
+  {
+   "doculect": "lb:sidwellvietic-KriPhoong",
+   "name": "Kri Phoong",
+   "source": "Lexibank",
+   "glottocode": "khap1242",
+   "path": [
+    "Austroasiatic",
+    "Vietic",
+    "Chutic",
+    "East Chutic",
+    "Maleng",
+    "Kha Phong"
+   ],
+   "ldnd": 0.735,
+   "dsame": 0.451,
+   "n": 11,
+   "p": 0.0066,
+   "z": 2.77
+  }
+ ],
+ "hierarchy": [
+  [
+   "Austroasiatic",
+   1.0
+  ],
+  [
+   "Monic",
+   1.0
+  ],
+  [
+   "Nyahkur",
+   0.52
+  ]
+ ],
+ "status": "resolved",
+ "leading": {
+  "name": "MON",
+  "family": "Austroasiatic",
+  "z": 5.65
+ }
+}

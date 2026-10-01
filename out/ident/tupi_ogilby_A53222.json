@@ -1,0 +1,891 @@
+{
+ "n_entries": 262,
+ "n_mapped": 111,
+ "n_concepts": 105,
+ "affixes_removed": [],
+ "candidates": [
+  {
+   "doculect": "lb:tuled-Tupinamba",
+   "name": "Tupinambá",
+   "source": "Lexibank",
+   "glottocode": "tupi1273",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup III",
+    "Tupinambá"
+   ],
+   "ldnd": 0.609,
+   "dsame": 0.38,
+   "n": 51,
+   "p": 0.0033,
+   "z": 12.14
+  },
+  {
+   "doculect": "lb:gerarditupi-Tupi",
+   "name": "Tupí",
+   "source": "Lexibank",
+   "glottocode": "tupi1273",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup III",
+    "Tupinambá"
+   ],
+   "ldnd": 0.636,
+   "dsame": 0.402,
+   "n": 40,
+   "p": 0.0033,
+   "z": 9.56
+  },
+  {
+   "doculect": "lb:tuled-TupiAustral",
+   "name": "Tupí Austral",
+   "source": "Lexibank",
+   "glottocode": "tupi1274",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup III",
+    "Tupinambá",
+    "Lingua Geral Paulista"
+   ],
+   "ldnd": 0.581,
+   "dsame": 0.345,
+   "n": 34,
+   "p": 0.0033,
+   "z": 8.56
+  },
+  {
+   "doculect": "lb:gerarditupi-Guarayo",
+   "name": "Guarayo",
+   "source": "Lexibank",
+   "glottocode": "guar1292",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup II",
+    "Guarayu"
+   ],
+   "ldnd": 0.641,
+   "dsame": 0.391,
+   "n": 36,
+   "p": 0.0033,
+   "z": 8.25
+  },
+  {
+   "doculect": "lb:tuled-Guarayo",
+   "name": "Guarayo",
+   "source": "Lexibank",
+   "glottocode": "guar1292",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup II",
+    "Guarayu"
+   ],
+   "ldnd": 0.553,
+   "dsame": 0.348,
+   "n": 17,
+   "p": 0.0033,
+   "z": 7.71
+  },
+  {
+   "doculect": "asjp:PROTO_TUPI_GUARANI",
+   "name": "PROTO_TUPI_GUARANI",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "PROTO_TUPI_GUARANI"
+   ],
+   "ldnd": 0.421,
+   "dsame": 0.229,
+   "n": 14,
+   "p": 0.0033,
+   "z": 7.35
+  },
+  {
+   "doculect": "asjp:TENHARIM",
+   "name": "TENHARIM",
+   "source": "ASJP",
+   "glottocode": "tenh1241",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VI",
+    "Kawahiva",
+    "Nuclear Kawahiva",
+    "Central Kawahiva",
+    "Tenharim-Parintintin-Diahoi"
+   ],
+   "ldnd": 0.433,
+   "dsame": 0.256,
+   "n": 15,
+   "p": 0.0033,
+   "z": 7.29
+  },
+  {
+   "doculect": "lb:galuciotupi-Pg",
+   "name": "Paraguayan Guaraní",
+   "source": "Lexibank",
+   "glottocode": "para1311",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup I",
+    "Tupi-Guarani Subgroup I.A",
+    "Paraguay-Brazil Guarani",
+    "Paraguayan Guaraní"
+   ],
+   "ldnd": 0.602,
+   "dsame": 0.353,
+   "n": 26,
+   "p": 0.0033,
+   "z": 7.22
+  },
+  {
+   "doculect": "asjp:APIAKA",
+   "name": "APIAKA",
+   "source": "ASJP",
+   "glottocode": "apia1248",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VI",
+    "Kawahiva",
+    "Apiaká"
+   ],
+   "ldnd": 0.484,
+   "dsame": 0.289,
+   "n": 15,
+   "p": 0.0033,
+   "z": 6.92
+  },
+  {
+   "doculect": "asjp:AMONDAVA",
+   "name": "AMONDAVA",
+   "source": "ASJP",
+   "glottocode": "amun1246",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VI",
+    "Kawahiva",
+    "Nuclear Kawahiva",
+    "Central Kawahiva",
+    "Amondava-Uru-Eu-Wau-Wau",
+    "Amundava"
+   ],
+   "ldnd": 0.424,
+   "dsame": 0.246,
+   "n": 15,
+   "p": 0.0033,
+   "z": 6.76
+  },
+  {
+   "doculect": "asjp:GUARANI_ANTIGO",
+   "name": "GUARANI_ANTIGO",
+   "source": "ASJP",
+   "glottocode": null,
+   "path": [
+    "GUARANI_ANTIGO"
+   ],
+   "ldnd": 0.426,
+   "dsame": 0.24,
+   "n": 14,
+   "p": 0.0033,
+   "z": 6.73
+  },
+  {
+   "doculect": "asjp:TUPINAMBA",
+   "name": "TUPINAMBA",
+   "source": "ASJP",
+   "glottocode": "tupi1273",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup III",
+    "Tupinambá"
+   ],
+   "ldnd": 0.384,
+   "dsame": 0.225,
+   "n": 14,
+   "p": 0.0033,
+   "z": 6.57
+  },
+  {
+   "doculect": "asjp:NHENGATU",
+   "name": "NHENGATU",
+   "source": "ASJP",
+   "glottocode": "nhen1239",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup III",
+    "Nhengatu"
+   ],
+   "ldnd": 0.342,
+   "dsame": 0.198,
+   "n": 12,
+   "p": 0.0033,
+   "z": 6.55
+  },
+  {
+   "doculect": "asjp:MBYA",
+   "name": "MBYA",
+   "source": "ASJP",
+   "glottocode": "mbya1239",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup I",
+    "Tupi-Guarani Subgroup I.A",
+    "Mbyá Guaraní"
+   ],
+   "ldnd": 0.428,
+   "dsame": 0.243,
+   "n": 14,
+   "p": 0.0033,
+   "z": 6.53
+  },
+  {
+   "doculect": "asjp:URUEWAUWAU",
+   "name": "URUEWAUWAU",
+   "source": "ASJP",
+   "glottocode": "urue1240",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VI",
+    "Kawahiva",
+    "Nuclear Kawahiva",
+    "Central Kawahiva",
+    "Amondava-Uru-Eu-Wau-Wau",
+    "Uru-Eu-Wau-Wau"
+   ],
+   "ldnd": 0.424,
+   "dsame": 0.246,
+   "n": 15,
+   "p": 0.0033,
+   "z": 6.5
+  },
+  {
+   "doculect": "lb:gerarditupi-Apiaka",
+   "name": "Apiaká",
+   "source": "Lexibank",
+   "glottocode": "apia1248",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VI",
+    "Kawahiva",
+    "Apiaká"
+   ],
+   "ldnd": 0.6,
+   "dsame": 0.373,
+   "n": 22,
+   "p": 0.0033,
+   "z": 6.48
+  },
+  {
+   "doculect": "lb:tuled-Amanaye",
+   "name": "Amanaye",
+   "source": "Lexibank",
+   "glottocode": "aman1266",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup V",
+    "Arawetic",
+    "Amanayé"
+   ],
+   "ldnd": 0.599,
+   "dsame": 0.361,
+   "n": 23,
+   "p": 0.0033,
+   "z": 6.33
+  },
+  {
+   "doculect": "asjp:GUARAYU",
+   "name": "GUARAYU",
+   "source": "ASJP",
+   "glottocode": "guar1292",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup II",
+    "Guarayu"
+   ],
+   "ldnd": 0.478,
+   "dsame": 0.288,
+   "n": 12,
+   "p": 0.0033,
+   "z": 6.05
+  },
+  {
+   "doculect": "asjp:SIRIONO",
+   "name": "SIRIONO",
+   "source": "ASJP",
+   "glottocode": "siri1273",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup II",
+    "Warazu-Sirionoid",
+    "Sirionoid",
+    "Sirionó"
+   ],
+   "ldnd": 0.617,
+   "dsame": 0.365,
+   "n": 14,
+   "p": 0.0033,
+   "z": 6.02
+  },
+  {
+   "doculect": "asjp:GUAJAJARA",
+   "name": "GUAJAJARA",
+   "source": "ASJP",
+   "glottocode": "guaj1255",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup IV",
+    "Tupi-Guarani Subgroup IV.B",
+    "Tenetehara",
+    "Guajajára"
+   ],
+   "ldnd": 0.522,
+   "dsame": 0.303,
+   "n": 14,
+   "p": 0.0033,
+   "z": 5.96
+  },
+  {
+   "doculect": "asjp:GUARANI_KAIWA",
+   "name": "GUARANI_KAIWA",
+   "source": "ASJP",
+   "glottocode": "kaiw1246",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup I",
+    "Tupi-Guarani Subgroup I.A",
+    "Paraguay-Brazil Guarani",
+    "Kaiowa",
+    "Kaiwá"
+   ],
+   "ldnd": 0.454,
+   "dsame": 0.25,
+   "n": 13,
+   "p": 0.0033,
+   "z": 5.76
+  },
+  {
+   "doculect": "lb:tuled-AnambeEhrenreich",
+   "name": "Anambe Ehrenreich",
+   "source": "Lexibank",
+   "glottocode": "anam1251",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VIII",
+    "Guaja-Kaapor-Ava",
+    "Guaja-Aure-Aura",
+    "Guajá",
+    "Anambe of Ehrenreich"
+   ],
+   "ldnd": 0.644,
+   "dsame": 0.381,
+   "n": 16,
+   "p": 0.0033,
+   "z": 5.54
+  },
+  {
+   "doculect": "asjp:SURUI_DO_PARA",
+   "name": "SURUI_DO_PARA",
+   "source": "ASJP",
+   "glottocode": "suru1261",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup IV",
+    "Tupi-Guarani Subgroup IV.A",
+    "Suruí Do Pará"
+   ],
+   "ldnd": 0.537,
+   "dsame": 0.319,
+   "n": 14,
+   "p": 0.0033,
+   "z": 5.5
+  },
+  {
+   "doculect": "asjp:PARINTINTIN",
+   "name": "PARINTINTIN",
+   "source": "ASJP",
+   "glottocode": "tenh1241",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VI",
+    "Kawahiva",
+    "Nuclear Kawahiva",
+    "Central Kawahiva",
+    "Tenharim-Parintintin-Diahoi"
+   ],
+   "ldnd": 0.631,
+   "dsame": 0.394,
+   "n": 15,
+   "p": 0.0033,
+   "z": 5.47
+  },
+  {
+   "doculect": "asjp:TEMBE",
+   "name": "TEMBE",
+   "source": "ASJP",
+   "glottocode": "temb1276",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup IV",
+    "Tupi-Guarani Subgroup IV.B",
+    "Tenetehara"
+   ],
+   "ldnd": 0.52,
+   "dsame": 0.294,
+   "n": 13,
+   "p": 0.0033,
+   "z": 5.43
+  },
+  {
+   "doculect": "asjp:ACHE",
+   "name": "ACHE",
+   "source": "ASJP",
+   "glottocode": "ache1246",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup I",
+    "Aché"
+   ],
+   "ldnd": 0.615,
+   "dsame": 0.354,
+   "n": 15,
+   "p": 0.0033,
+   "z": 5.37
+  },
+  {
+   "doculect": "asjp:ASURINI_XINGU",
+   "name": "ASURINI_XINGU",
+   "source": "ASJP",
+   "glottocode": "xing1248",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup V",
+    "Xingú Asuriní"
+   ],
+   "ldnd": 0.617,
+   "dsame": 0.372,
+   "n": 14,
+   "p": 0.0033,
+   "z": 5.26
+  },
+  {
+   "doculect": "asjp:CHIRIGUANO",
+   "name": "CHIRIGUANO",
+   "source": "ASJP",
+   "glottocode": "east2555",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup I",
+    "Tupi-Guarani Subgroup I.B",
+    "Chiriguanic",
+    "Eastern Bolivian Guaraní"
+   ],
+   "ldnd": 0.581,
+   "dsame": 0.324,
+   "n": 14,
+   "p": 0.0033,
+   "z": 5.25
+  },
+  {
+   "doculect": "asjp:ASURINI",
+   "name": "ASURINI",
+   "source": "ASJP",
+   "glottocode": "toca1235",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup IV",
+    "Tupi-Guarani Subgroup IV.A",
+    "Tocantins Asurini"
+   ],
+   "ldnd": 0.587,
+   "dsame": 0.346,
+   "n": 13,
+   "p": 0.0033,
+   "z": 5.23
+  },
+  {
+   "doculect": "asjp:WIRAFED",
+   "name": "WIRAFED",
+   "source": "ASJP",
+   "glottocode": "wira1264",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VI",
+    "Kawahiva",
+    "Unclassified Kawahiva",
+    "Wiraféd"
+   ],
+   "ldnd": 0.604,
+   "dsame": 0.343,
+   "n": 14,
+   "p": 0.0033,
+   "z": 5.22
+  },
+  {
+   "doculect": "asjp:WAYAMPI",
+   "name": "WAYAMPI",
+   "source": "ASJP",
+   "glottocode": "waya1270",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VIII",
+    "Wayampi-Zoe-Emerillon",
+    "Wayampi"
+   ],
+   "ldnd": 0.524,
+   "dsame": 0.274,
+   "n": 14,
+   "p": 0.0033,
+   "z": 5.21
+  },
+  {
+   "doculect": "asjp:TAPIRAPE",
+   "name": "TAPIRAPE",
+   "source": "ASJP",
+   "glottocode": "tapi1254",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup IV",
+    "Tapirapé"
+   ],
+   "ldnd": 0.591,
+   "dsame": 0.354,
+   "n": 14,
+   "p": 0.0033,
+   "z": 5.2
+  },
+  {
+   "doculect": "asjp:ZOE",
+   "name": "ZOE",
+   "source": "ASJP",
+   "glottocode": "zoee1240",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VIII",
+    "Wayampi-Zoe-Emerillon",
+    "Zoe-Emerillon",
+    "Zo'é"
+   ],
+   "ldnd": 0.511,
+   "dsame": 0.299,
+   "n": 11,
+   "p": 0.0033,
+   "z": 5.19
+  },
+  {
+   "doculect": "asjp:AVA_CANOEIRO",
+   "name": "AVA_CANOEIRO",
+   "source": "ASJP",
+   "glottocode": "avac1239",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VIII",
+    "Guaja-Kaapor-Ava",
+    "Avá-Canoeiro"
+   ],
+   "ldnd": 0.515,
+   "dsame": 0.28,
+   "n": 13,
+   "p": 0.0033,
+   "z": 5.02
+  },
+  {
+   "doculect": "asjp:ARAWETE",
+   "name": "ARAWETE",
+   "source": "ASJP",
+   "glottocode": "araw1273",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup V",
+    "Arawetic",
+    "Araweté"
+   ],
+   "ldnd": 0.517,
+   "dsame": 0.278,
+   "n": 13,
+   "p": 0.0033,
+   "z": 4.99
+  },
+  {
+   "doculect": "asjp:AMANAYE",
+   "name": "AMANAYE",
+   "source": "ASJP",
+   "glottocode": "aman1266",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup V",
+    "Arawetic",
+    "Amanayé"
+   ],
+   "ldnd": 0.444,
+   "dsame": 0.24,
+   "n": 10,
+   "p": 0.0033,
+   "z": 4.96
+  },
+  {
+   "doculect": "asjp:KAYABI",
+   "name": "KAYABI",
+   "source": "ASJP",
+   "glottocode": "kaya1329",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VI",
+    "Kayabí"
+   ],
+   "ldnd": 0.6,
+   "dsame": 0.363,
+   "n": 13,
+   "p": 0.0033,
+   "z": 4.81
+  },
+  {
+   "doculect": "asjp:ANAMBE",
+   "name": "ANAMBE",
+   "source": "ASJP",
+   "glottocode": "anam1249",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup V",
+    "Arawetic",
+    "Anambé"
+   ],
+   "ldnd": 0.461,
+   "dsame": 0.251,
+   "n": 10,
+   "p": 0.0033,
+   "z": 4.57
+  },
+  {
+   "doculect": "asjp:PAUSERNA",
+   "name": "PAUSERNA",
+   "source": "ASJP",
+   "glottocode": "paus1244",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Southern Tupi-Guarani",
+    "Tupi-Guarani Subgroup II",
+    "Warazu-Sirionoid",
+    "Warázu"
+   ],
+   "ldnd": 0.637,
+   "dsame": 0.387,
+   "n": 13,
+   "p": 0.0033,
+   "z": 4.53
+  },
+  {
+   "doculect": "asjp:GUAJA",
+   "name": "GUAJA",
+   "source": "ASJP",
+   "glottocode": "guaj1256",
+   "path": [
+    "Tupian",
+    "Eastern Tupian",
+    "Maweti-Guarani",
+    "Aweti-Guarani",
+    "Tupi-Guarani",
+    "Tupi-Guarani Subgroup VIII",
+    "Guaja-Kaapor-Ava",
+    "Guaja-Aure-Aura",
+    "Guajá"
+   ],
+   "ldnd": 0.53,
+   "dsame": 0.283,
+   "n": 10,
+   "p": 0.0033,
+   "z": 4.23
+  }
+ ],
+ "hierarchy": [
+  [
+   "Tupian",
+   0.93
+  ],
+  [
+   "Eastern Tupian",
+   0.93
+  ],
+  [
+   "Maweti-Guarani",
+   0.93
+  ],
+  [
+   "Aweti-Guarani",
+   0.93
+  ],
+  [
+   "Tupi-Guarani",
+   0.93
+  ],
+  [
+   "Southern Tupi-Guarani",
+   0.53
+  ]
+ ],
+ "status": "resolved",
+ "leading": {
+  "name": "Tupinambá",
+  "family": "Tupian",
+  "z": 12.14
+ }
+}

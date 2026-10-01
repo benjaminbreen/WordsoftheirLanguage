@@ -1,0 +1,48 @@
+n,list_id,section_heading,gloss_as_printed,form_as_printed,form_language_label_as_printed,note
+1,ludolf_gallan,Gregory left me some words of the Gallan Language,Heaven,Semaj,Ethiopic,
+2,ludolf_gallan,Gregory left me some words of the Gallan Language,Heaven,Idem.,Amharic,"printed ""Idem."" = same as Ethiopic"
+3,ludolf_gallan,Gregory left me some words of the Gallan Language,Heaven,Kake,Gallan,
+4,ludolf_gallan,Gregory left me some words of the Gallan Language,Thunder,Mabereke,Ethiopic,
+5,ludolf_gallan,Gregory left me some words of the Gallan Language,Thunder,Idem.,Amharic,"printed ""Idem."" = same as Ethiopic"
+6,ludolf_gallan,Gregory left me some words of the Gallan Language,Thunder,Dagae,Gallan,
+7,ludolf_gallan,Gregory left me some words of the Gallan Language,Fire,Asat,Ethiopic,Gallan Jbije vs Hije in the phrase below; possible variant/transcription
+8,ludolf_gallan,Gregory left me some words of the Gallan Language,Fire,Idem.,Amharic,"Gallan Jbije vs Hije in the phrase below; possible variant/transcription; printed ""Idem."" = same as Ethiopic"
+9,ludolf_gallan,Gregory left me some words of the Gallan Language,Fire,Jbije,Gallan,Gallan Jbije vs Hije in the phrase below; possible variant/transcription
+10,ludolf_gallan,Gregory left me some words of the Gallan Language,bring Fire,Amatzea Asat,Ethiopic,"phrase; Gallan Hije fuje = fire + verb; verb word-order differs; printed ""Hije fuje"" with Hije for Jbije"
+11,ludolf_gallan,Gregory left me some words of the Gallan Language,bring Fire,Anetza Asat,Amharic,"phrase; Gallan Hije fuje = fire + verb; verb word-order differs; printed ""Hije fuje"" with Hije for Jbije; "
+12,ludolf_gallan,Gregory left me some words of the Gallan Language,bring Fire,Hije fuje,Gallan,"phrase; Gallan Hije fuje = fire + verb; verb word-order differs; printed ""Hije fuje"" with Hije for Jbije"
+13,ludolf_gallan,Gregory left me some words of the Gallan Language,Water,Maj,Ethiopic,
+14,ludolf_gallan,Gregory left me some words of the Gallan Language,Water,Wahha,Amharic,
+15,ludolf_gallan,Gregory left me some words of the Gallan Language,Water,Bisan,Gallan,
+16,ludolf_gallan,Gregory left me some words of the Gallan Language,A Horse,Firese,Ethiopic,
+17,ludolf_gallan,Gregory left me some words of the Gallan Language,A Horse,Idem.,Amharic,"printed ""Idem."" = same as Ethiopic"
+18,ludolf_gallan,Gregory left me some words of the Gallan Language,A Horse,Tarej,Gallan,
+19,ludolf_gallan,Gregory left me some words of the Gallan Language,A Dogg,Qalebe,Ethiopic,
+20,ludolf_gallan,Gregory left me some words of the Gallan Language,A Dogg,Wesha,Amharic,
+21,ludolf_gallan,Gregory left me some words of the Gallan Language,A Dogg,Sareti,Gallan,
+22,ludolf_gallan,Gregory left me some words of the Gallan Language,A Baboon,Hobaje,Ethiopic,Hobaje/Janedjero/Tledesha each differ
+23,ludolf_gallan,Gregory left me some words of the Gallan Language,A Baboon,Janedjero,Amharic,Hobaje/Janedjero/Tledesha each differ; 
+24,ludolf_gallan,Gregory left me some words of the Gallan Language,A Baboon,Tledesha,Gallan,Hobaje/Janedjero/Tledesha each differ
+25,ludolf_gallan,Gregory left me some words of the Gallan Language,Milk,Halibe,Ethiopic,
+26,ludolf_gallan,Gregory left me some words of the Gallan Language,Milk,Watote,Amharic,
+27,ludolf_gallan,Gregory left me some words of the Gallan Language,Milk,Anne,Gallan,
+28,ludolf_gallan,Gregory left me some words of the Gallan Language,A King,Negus,Ethiopic,Gallan Nekus looks like Ethiopic Negus (probable loan)
+29,ludolf_gallan,Gregory left me some words of the Gallan Language,A King,Idem.,Amharic,"Gallan Nekus looks like Ethiopic Negus (probable loan); printed ""Idem."" = same as Ethiopic"
+30,ludolf_gallan,Gregory left me some words of the Gallan Language,A King,Nekus,Gallan,Gallan Nekus looks like Ethiopic Negus (probable loan)
+31,ludolf_gallan,Gregory left me some words of the Gallan Language,A Woman,Quesate,Ethiopic,
+32,ludolf_gallan,Gregory left me some words of the Gallan Language,A Woman,Setotje,Amharic,
+33,ludolf_gallan,Gregory left me some words of the Gallan Language,A Woman,Fute,Gallan,
+34,ludolf_gallan,Gregory left me some words of the Gallan Language,My Brother,Ahuja,Ethiopic,possessive suffix -ja/-sha in forms
+35,ludolf_gallan,Gregory left me some words of the Gallan Language,My Brother,Wanedama,Amharic,possessive suffix -ja/-sha in forms; 
+36,ludolf_gallan,Gregory left me some words of the Gallan Language,My Brother,Abletsha,Gallan,possessive suffix -ja/-sha in forms
+37,ludolf_gallan,Gregory left me some words of the Gallan Language,My Sister,Ahuteja,Ethiopic,cf. My Brother; Gallan forms Abletsha/Ablete differ by ending only
+38,ludolf_gallan,Gregory left me some words of the Gallan Language,My Sister,Hate,Amharic,cf. My Brother; Gallan forms Abletsha/Ablete differ by ending only; 
+39,ludolf_gallan,Gregory left me some words of the Gallan Language,My Sister,Ablete,Gallan,cf. My Brother; Gallan forms Abletsha/Ablete differ by ending only
+40,ludolf_gallan,Gregory left me some words of the Gallan Language,Bread,Hubalte,Ethiopic,"Amharic column printed ""Jaba"" without full stop"
+41,ludolf_gallan,Gregory left me some words of the Gallan Language,Bread,Jaba,Amharic,"Amharic column printed ""Jaba"" without full stop; "
+42,ludolf_gallan,Gregory left me some words of the Gallan Language,Bread,Budeno,Gallan,"Amharic column printed ""Jaba"" without full stop"
+43,ludolf_lord,"Differences: words signifying Lord, or Dominus","Lord, or Dominus",Egzi-e,Ethiopic,five-column table in prose
+44,ludolf_lord,"Differences: words signifying Lord, or Dominus","Lord, or Dominus",Abet,Amharic,five-column table in prose
+45,ludolf_lord,"Differences: words signifying Lord, or Dominus","Lord, or Dominus",Hadari,Tigran,five-column table in prose
+46,ludolf_lord,"Differences: words signifying Lord, or Dominus","Lord, or Dominus",Ieg-ja,Dembean,five-column table in prose
+47,ludolf_lord,"Differences: words signifying Lord, or Dominus","Lord, or Dominus",Donza,Enarean,five-column table in prose
