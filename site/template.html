@@ -1,0 +1,370 @@
+<title>Wordes of Their Language</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a working catalogue. Masthead, tab bar, then one view at a time; detail pages split into a provenance column and an evidence column. */
+:root {
+  --paper: #f2f3f0;
+  --sheet: #fbfbf9;
+  --ink: #1b2230;
+  --ink-2: #4a5263;
+  --rule: #d5d8d2;
+  --verdigris: #2e6e66;
+  --verdigris-soft: #dbe9e5;
+  --amber: #9a6a12;
+  --amber-soft: #f3e7cc;
+  --rubric: #9b3b2f;
+  --rubric-soft: #f2dcd7;
+  --grey-soft: #e6e7e3;
+  --f-print: "IM Fell English", "Iowan Old Style", Georgia, serif;
+  --f-ui: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-data: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --s-0: 0.8125rem; --s-1: 0.9375rem; --s-2: 1.0625rem; --s-3: 1.375rem; --s-4: 2rem; --s-5: 2.75rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #14181f; --sheet: #1b2029; --ink: #e7e9ec; --ink-2: #a7afbd; --rule: #2f3644;
+    --verdigris: #6fb7ab; --verdigris-soft: #1f3632; --amber: #d6a94c; --amber-soft: #3a2f17;
+    --rubric: #e08a7c; --rubric-soft: #3d2420; --grey-soft: #262c37; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #14181f; --sheet: #1b2029; --ink: #e7e9ec; --ink-2: #a7afbd; --rule: #2f3644;
+  --verdigris: #6fb7ab; --verdigris-soft: #1f3632; --amber: #d6a94c; --amber-soft: #3a2f17;
+  --rubric: #e08a7c; --rubric-soft: #3d2420; --grey-soft: #262c37; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font-family: var(--f-ui); font-size: var(--s-1); line-height: 1.55; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-inline: 20px; padding-block: 0 64px; }
+a { color: var(--verdigris); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--verdigris); outline-offset: 2px; }
+h1, h2, h3 { text-wrap: balance; margin: 0; }
+.print { font-family: var(--f-print); }
+.eyebrow { font-size: var(--s-0); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); font-weight: 500; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* masthead */
+header.mast { padding-block: 40px 20px; display: grid; gap: 14px; }
+header.mast h1 { font-family: var(--f-print); font-weight: 400; font-size: var(--s-5); line-height: 1.05; letter-spacing: -0.01em; }
+header.mast h1 i { color: var(--verdigris); }
+header.mast p.lede { max-width: 68ch; margin: 0; font-size: var(--s-2); color: var(--ink-2); }
+.counts { display: flex; flex-wrap: wrap; gap: 8px 28px; margin-top: 6px; }
+.counts div { display: grid; }
+.counts b { font-family: var(--f-data); font-weight: 500; font-size: var(--s-3); }
+.counts span { font-size: var(--s-0); color: var(--ink-2); }
+
+/* tabs */
+nav.tabs { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--paper); border-bottom: 1px solid var(--rule); display: flex; gap: 2px; overflow-x: auto; margin-bottom: 28px; }
+nav.tabs a { padding: 12px 14px; text-decoration: none; color: var(--ink-2); font-weight: 500; border-bottom: 2px solid transparent; white-space: nowrap; }
+nav.tabs a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--verdigris); }
+
+/* chips */
+.chip { display: inline-flex; align-items: center; gap: 6px; font-size: var(--s-0); font-weight: 500; padding: 2px 9px; border-radius: 999px; white-space: nowrap; }
+.chip.ok { background: var(--verdigris-soft); color: var(--verdigris); }
+.chip.abst { background: var(--grey-soft); color: var(--ink-2); }
+.chip.warn { background: var(--amber-soft); color: var(--amber); }
+.chip.pseudo { background: var(--rubric-soft); color: var(--rubric); }
+
+/* findings */
+.findings { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 18px; }
+.finding { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 20px 22px; display: grid; gap: 10px; align-content: start; min-width: 0; }
+.finding.lead { grid-column: 1 / -1; border-left: 3px solid var(--rubric); }
+.finding h3 { font-size: var(--s-3); font-weight: 600; line-height: 1.25; }
+.finding p { margin: 0; max-width: 72ch; }
+.finding .meta { font-size: var(--s-0); color: var(--ink-2); }
+.pairs { display: grid; grid-template-columns: auto auto 1fr; gap: 3px 14px; font-size: var(--s-1); align-items: baseline; }
+.pairs .f { font-family: var(--f-print); font-size: var(--s-2); }
+.pairs .g { color: var(--ink-2); }
+.pairs .x { color: var(--rubric); font-size: var(--s-0); }
+.section-title { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 34px 0 14px; }
+.section-title h2 { font-size: var(--s-3); font-weight: 600; }
+
+/* tables */
+.tablebox { overflow-x: auto; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; }
+table { border-collapse: collapse; width: 100%; font-size: var(--s-0); }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { font-weight: 600; color: var(--ink-2); position: sticky; top: 0; background: var(--sheet); white-space: nowrap; }
+tbody tr:hover { background: var(--grey-soft); }
+td.form { font-family: var(--f-print); font-size: var(--s-1); white-space: nowrap; }
+td.title { min-width: 260px; }
+.filters { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
+.filters input[type=search] { flex: 1 1 260px; min-width: 0; padding: 8px 12px; border: 1px solid var(--rule); border-radius: 6px; background: var(--sheet); color: var(--ink); font: inherit; }
+.filters label { display: inline-flex; gap: 6px; align-items: center; font-size: var(--s-0); color: var(--ink-2); }
+.filters select { padding: 6px 8px; border: 1px solid var(--rule); border-radius: 6px; background: var(--sheet); color: var(--ink); font: inherit; font-size: var(--s-0); }
+
+/* vocab index */
+.vlist { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 12px; }
+.vcard { display: grid; gap: 6px; padding: 14px 16px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; text-decoration: none; color: inherit; min-width: 0; }
+.vcard:hover { border-color: var(--verdigris); }
+.vcard .h { font-family: var(--f-print); font-size: var(--s-2); line-height: 1.25; }
+.vcard .who { font-size: var(--s-0); color: var(--ink-2); }
+.vcard .res { font-size: var(--s-0); }
+
+/* detail */
+.detail { display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr); gap: 28px; }
+@media (max-width: 860px) { .detail { grid-template-columns: minmax(0, 1fr); } }
+.prov { display: grid; gap: 14px; align-content: start; }
+.prov dl { display: grid; grid-template-columns: max-content 1fr; gap: 6px 12px; margin: 0; font-size: var(--s-0); }
+.prov dt { color: var(--ink-2); }
+.prov dd { margin: 0; min-width: 0; }
+.heading-print { font-family: var(--f-print); font-size: var(--s-3); line-height: 1.25; }
+.crumbs { display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; font-size: var(--s-0); }
+.crumbs span.node { padding: 2px 8px; border-radius: 4px; background: var(--verdigris-soft); color: var(--verdigris); }
+.crumbs span.node.weak { background: var(--grey-soft); color: var(--ink-2); }
+.crumbs span.sep { color: var(--ink-2); }
+.panel { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 16px 18px; display: grid; gap: 12px; min-width: 0; }
+.panel h3 { font-size: var(--s-2); font-weight: 600; }
+.zbar { display: inline-block; height: 8px; border-radius: 2px; background: var(--verdigris); vertical-align: middle; }
+.zbar.below { background: var(--rule); }
+.backlink { display: inline-block; margin-bottom: 14px; font-size: var(--s-0); }
+
+/* method */
+.prose { max-width: 72ch; display: grid; gap: 14px; }
+.prose p { margin: 0; }
+.prose h3 { font-size: var(--s-2); font-weight: 600; margin-top: 10px; }
+code { font-family: var(--f-data); font-size: 0.9em; }
+.steps { display: grid; gap: 10px; counter-reset: s; padding: 0; margin: 0; list-style: none; }
+.steps li { counter-increment: s; display: grid; grid-template-columns: 28px 1fr; gap: 8px; }
+.steps li::before { content: counter(s); font-family: var(--f-data); color: var(--verdigris); }
+footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--rule); font-size: var(--s-0); color: var(--ink-2); display: grid; gap: 6px; }
+@media (max-width: 520px) { header.mast h1 { font-size: var(--s-4); } }
+@media (prefers-reduced-motion: no-preference) { .view { animation: fade .18s ease-out; } @keyframes fade { from { opacity: .6 } to { opacity: 1 } } }
+</style>
+
+<div class="wrap">
+  <header class="mast">
+    <div class="eyebrow">A census of vocabularies embedded in English printed books, 1473–1700</div>
+    <h1>Wordes of <i>Their</i> Language</h1>
+    <p class="lede">Travellers, missionaries and compilers printed thousands of words from languages they met, usually as a short list tucked inside a voyage account. This catalogue finds those lists in the 60,329 transcribed books of EEBO-TCP, keeps every form exactly as printed, and tests each list against modern lexical databases to ask which language it actually records, and where it was copied from.</p>
+    <div class="counts" id="counts"></div>
+  </header>
+  <nav class="tabs" aria-label="Sections">
+    <a href="#findings" data-tab="findings">Findings</a>
+    <a href="#vocabularies" data-tab="vocabularies">Vocabularies</a>
+    <a href="#census" data-tab="census">Census</a>
+    <a href="#method" data-tab="method">Method and benchmark</a>
+  </nav>
+  <main id="view" class="view"></main>
+  <footer>
+    <div>Texts: Text Creation Partnership (EEBO-TCP, CC0), via the Oxford Text Archive. Reference lexicons: ASJP v21 and Lexibank (CC-BY 4.0); classification: Glottolog. Forms are transcribed diplomatically from TCP; page images belong to ProQuest and are not shown.</div>
+    <div>Identifications are probabilistic and provisional. Many of these words belong to living communities and their ancestors; corrections are welcome.</div>
+  </footer>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script id="findings-data" type="application/json">__FINDINGS__</script>
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const F = JSON.parse(document.getElementById("findings-data").textContent);
+  const V = Object.fromEntries(D.vocabularies.map(v => [v.id, v]));
+  const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const tcpLink = id => `https://hdl.handle.net/20.500.14106/${id}`;
+  const view = document.getElementById("view");
+
+  // counts
+  const nonEuro = D.census.filter(c => c.non_european).length;
+  const pseudo = D.census.filter(c => c.pseudo).length;
+  const resolved = D.vocabularies.filter(v => v.ident.status === "resolved").length;
+  document.getElementById("counts").innerHTML = [
+    ["60,329", "books scanned"],
+    [nonEuro, "books with non-European vocabulary"],
+    [pseudo, "with invented or mock languages"],
+    [D.vocabularies.length, "lists extracted and tested"],
+    [resolved, "identified above the noise threshold"],
+  ].map(([b, s]) => `<div><b class="num">${b}</b><span>${s}</span></div>`).join("");
+
+  function statusChip(v) {
+    const i = v.ident;
+    if (i.status === "resolved") {
+      const last = i.hierarchy[i.hierarchy.length - 1];
+      return `<span class="chip ok">${esc(last ? last[0].replace(" [single witness]", "") : "resolved")}</span>`;
+    }
+    return `<span class="chip abst">Abstains${i.leading ? " · leading: " + esc(i.leading.family) : ""}</span>`;
+  }
+
+  // ---------- findings
+  function renderFindings() {
+    const cards = F.map((f, k) => `
+      <article class="finding${k === 0 ? " lead" : ""}">
+        <div class="eyebrow">${esc(f.kind)}</div>
+        <h3>${esc(f.title)}</h3>
+        <p>${f.body}</p>
+        ${f.pairs ? `<div class="pairs">${f.pairs.map(p => `<span class="f">${esc(p[0])}</span><span class="g">${esc(p[1])}</span><span class="x">${esc(p[2] || "")}</span>`).join("")}</div>` : ""}
+        <div class="meta">${f.meta}</div>
+      </article>`).join("");
+    view.innerHTML = `<div class="findings">${cards}</div>`;
+  }
+
+  // ---------- vocab index
+  function renderVocabIndex() {
+    const order = D.vocabularies.slice().sort((a, b) => (a.year || 0) - (b.year || 0));
+    view.innerHTML = `
+      <div class="section-title"><h2>Extracted vocabularies</h2><span class="eyebrow">${order.length} lists · sorted by printing date</span></div>
+      <div class="vlist">${order.map(v => `
+        <a class="vcard" href="#v-${v.id}">
+          <span class="eyebrow num">${esc(v.provenance.printed || v.year)}</span>
+          <span class="h">${esc((v.headings[0] || v.title || "").slice(0, 110))}</span>
+          <span class="who">${esc(v.provenance.collector)} · ${esc(v.provenance.place)}</span>
+          <span class="res">${statusChip(v)} <span class="num" style="color:var(--ink-2)">${v.entries.length} entries</span></span>
+        </a>`).join("")}</div>`;
+  }
+
+  // ---------- vocab detail
+  function renderVocab(id) {
+    const v = V[id];
+    if (!v) { view.innerHTML = `<p>No vocabulary with id ${esc(id)}.</p>`; return; }
+    const i = v.ident, p = v.provenance;
+    const crumbs = i.hierarchy.length
+      ? i.hierarchy.map(([n, s]) => `<span class="node${s < 0.6 || n.includes("single witness") ? " weak" : ""}">${esc(n.replace(" [single witness]", ""))} <span class="num">${s.toFixed(2)}</span></span>`).join('<span class="sep">›</span>')
+      : `<span class="node weak">No candidate clears the noise threshold</span>`;
+    const zmax = Math.max(12, ...i.candidates.map(c => c.z));
+    const cands = i.candidates.slice(0, 10).map(c => `
+      <tr><td>${esc(c.name)}</td><td>${esc(c.source)}</td><td>${esc(c.path.slice(0, 3).join(" › "))}</td>
+      <td class="num">${c.n}</td><td class="num">${c.ldnd.toFixed(3)}</td>
+      <td class="num"><span class="zbar${c.z < D.threshold ? " below" : ""}" style="width:${Math.max(2, 70 * c.z / zmax)}px"></span> ${c.z.toFixed(1)}</td></tr>`).join("");
+    const top = i.candidates[0];
+    const ev = top && top.evidence ? top.evidence.slice(0, 14).map(e => `
+      <tr><td>${esc(e.concept.toLowerCase())}</td><td class="form">${esc(e.form)}</td><td class="form">${esc(e.ref)}</td><td class="num">${e.dist.toFixed(2)}</td></tr>`).join("") : "";
+    view.innerHTML = `
+      <a class="backlink" href="#vocabularies">← All vocabularies</a>
+      <div class="detail">
+        <aside class="prov">
+          <div class="eyebrow">As printed</div>
+          <div class="heading-print">${esc(v.headings[0] || "(no heading printed)")}</div>
+          <dl>
+            <dt>Book</dt><dd>${esc((v.title || "").length > 150 ? v.title.slice(0, 150) + "…" : v.title)}</dd>
+            <dt>Author</dt><dd>${esc(v.author || "anonymous")}</dd>
+            <dt>Collector</dt><dd>${esc(p.collector)}</dd>
+            <dt>Place</dt><dd>${esc(p.place)}</dd>
+            <dt>Elicited</dt><dd class="num">${esc(p.elicited)}</dd>
+            <dt>Printed</dt><dd class="num">${esc(p.printed)}</dd>
+            <dt>Source label</dt><dd>${esc(v.labels.join("; ") || "none printed")}</dd>
+            <dt>Text</dt><dd><a href="${tcpLink(v.tcp_id)}" target="_blank" rel="noopener">EEBO-TCP ${esc(v.tcp_id)}</a></dd>
+            <dt>Entries</dt><dd class="num">${v.entries.length}</dd>
+          </dl>
+          ${v.excluded.length ? `<p style="margin:0;font-size:var(--s-0);color:var(--ink-2)">Leave-lineage-out: reference entries derived from this source's own tradition (${esc(v.excluded.join(", "))}) were removed before testing.</p>` : ""}
+          ${i.affixes.length ? `<p style="margin:0;font-size:var(--s-0);color:var(--ink-2)">The collector wrote a recurring ${i.affixes.map(a => `${a[0]} <i class="print">${esc(a[1])}</i>`).join(", ")} on many forms; it was set aside for comparison.</p>` : ""}
+        </aside>
+        <section style="display:grid;gap:18px;min-width:0">
+          <div class="panel">
+            <div style="display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:center">
+              <h3>Identification</h3>${statusChip(v)}
+            </div>
+            <div class="crumbs">${crumbs}</div>
+            <p style="margin:0;font-size:var(--s-0);color:var(--ink-2)">Compared on ${i.n_concepts} concepts with ASJP and Lexibank. Numbers on the path show the share of significant candidates under each node. A candidate counts only if its z-score beats the best score that shuffled nonsense lists reach (z ≥ ${D.threshold}).</p>
+            <div class="tablebox"><table>
+              <thead><tr><th>Closest reference wordlists</th><th>Database</th><th>Classification</th><th>Shared concepts</th><th>LDND</th><th>z</th></tr></thead>
+              <tbody>${cands}</tbody></table></div>
+          </div>
+          ${ev ? `<div class="panel"><h3>Evidence against ${esc(top.name)}</h3>
+            <div class="tablebox"><table><thead><tr><th>Concept</th><th>As printed</th><th>Reference form</th><th>Distance</th></tr></thead><tbody>${ev}</tbody></table></div></div>` : ""}
+          <div class="panel">
+            <div style="display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:center"><h3>Entries as printed</h3>
+            <input type="search" id="entry-filter" placeholder="Filter entries" aria-label="Filter entries" style="padding:6px 10px;border:1px solid var(--rule);border-radius:6px;background:var(--paper);color:var(--ink);font:inherit;font-size:var(--s-0)"></div>
+            <div class="tablebox" style="max-height:520px;overflow:auto"><table>
+              <thead><tr><th>#</th><th>Gloss as printed</th><th>Form as printed</th><th>Concept</th><th>Note</th></tr></thead>
+              <tbody id="entries"></tbody></table></div>
+          </div>
+        </section>
+      </div>`;
+    const tb = document.getElementById("entries");
+    const draw = q => {
+      q = (q || "").toLowerCase();
+      tb.innerHTML = v.entries.filter(e => !q || (e.gloss + " " + e.form + " " + e.note).toLowerCase().includes(q)).map(e =>
+        `<tr><td class="num">${e.n}</td><td>${esc(e.gloss)}</td><td class="form">${esc(e.form)}</td><td>${esc(e.concepts.join(", ").toLowerCase())}</td><td style="color:var(--ink-2)">${esc(e.note)}</td></tr>`).join("");
+    };
+    draw("");
+    document.getElementById("entry-filter").addEventListener("input", ev => draw(ev.target.value));
+  }
+
+  // ---------- census
+  let censusState = { q: "", scope: "noneuro", sort: "year" };
+  try { const s = JSON.parse(localStorage.getItem("wotl-census") || "null"); if (s) censusState = Object.assign(censusState, s); } catch (e) {}
+  function renderCensus() {
+    view.innerHTML = `
+      <div class="section-title"><h2>Census of books</h2><span class="eyebrow" id="census-count"></span></div>
+      <div class="filters">
+        <input type="search" id="cq" placeholder="Search titles, authors, labels, places, forms" aria-label="Search the census" value="${esc(censusState.q)}">
+        <label for="cscope">Show <select id="cscope">
+          <option value="noneuro">Non-European vocabulary</option><option value="pseudo">Invented or mock languages</option>
+          <option value="novel">Not in LEME's lexicon bibliography</option><option value="all">Everything flagged</option></select></label>
+        <label for="csort">Sort <select id="csort"><option value="year">Year</option><option value="forms">Forms seen</option><option value="interest">Reviewer interest</option></select></label>
+      </div>
+      <div class="tablebox" style="max-height:70vh;overflow:auto"><table>
+        <thead><tr><th>Year</th><th>Author</th><th>Book</th><th>Language label as printed</th><th>Sample (gloss → form)</th><th>Forms</th><th>Notes</th></tr></thead>
+        <tbody id="ctb"></tbody></table></div>`;
+    document.getElementById("cscope").value = censusState.scope;
+    document.getElementById("csort").value = censusState.sort;
+    const draw = () => {
+      const q = censusState.q.toLowerCase();
+      let rows = D.census.filter(c => censusState.scope === "all" ? true : censusState.scope === "pseudo" ? c.pseudo
+        : censusState.scope === "novel" ? (c.non_european && !c.in_leme) : (c.non_european && !c.pseudo));
+      if (q) rows = rows.filter(c => JSON.stringify([c.title, c.author, c.labels, c.places, c.regions, c.sample_pairs, c.why]).toLowerCase().includes(q));
+      rows.sort(censusState.sort === "forms" ? (a, b) => b.n_forms - a.n_forms : censusState.sort === "interest" ? (a, b) => b.max_interest - a.max_interest || b.n_forms - a.n_forms : (a, b) => (a.year || 0) - (b.year || 0));
+      document.getElementById("census-count").textContent = `${rows.length} books`;
+      const vByTcp = {}; D.vocabularies.forEach(v => (vByTcp[v.tcp_id] = vByTcp[v.tcp_id] || []).push(v));
+      document.getElementById("ctb").innerHTML = rows.map(c => `
+        <tr><td class="num">${esc(c.year)}</td><td>${esc((c.author || "anon.").split(",").slice(0, 2).join(","))}</td>
+        <td class="title"><a href="${tcpLink(c.tcp_id)}" target="_blank" rel="noopener">${esc(c.title.slice(0, 120))}</a>
+          ${(vByTcp[c.tcp_id] || []).map(v => ` <a class="chip ok" href="#v-${v.id}" style="text-decoration:none">list: ${esc(v.id)}</a>`).join("")}
+          ${c.pseudo ? ' <span class="chip pseudo">invented</span>' : ""}${!c.in_leme && c.non_european ? ' <span class="chip warn">not in LEME</span>' : ""}</td>
+        <td>${esc((c.labels || []).slice(0, 2).join("; "))}</td>
+        <td>${(c.sample_pairs || []).slice(0, 3).map(p => `${esc(p[0])} → <span class="print">${esc(p[1])}</span>`).join("<br>")}</td>
+        <td class="num">${c.n_forms}</td><td style="color:var(--ink-2);min-width:220px">${esc((c.why || [])[0] || "")}</td></tr>`).join("");
+      try { localStorage.setItem("wotl-census", JSON.stringify(censusState)); } catch (e) {}
+    };
+    draw();
+    document.getElementById("cq").addEventListener("input", e => { censusState.q = e.target.value; draw(); });
+    document.getElementById("cscope").addEventListener("change", e => { censusState.scope = e.target.value; draw(); });
+    document.getElementById("csort").addEventListener("change", e => { censusState.sort = e.target.value; draw(); });
+  }
+
+  // ---------- method
+  function renderMethod() {
+    const b = D.bench;
+    view.innerHTML = `
+      <div class="detail">
+        <div class="prose">
+          <h2 style="font-size:var(--s-3);font-weight:600">How the catalogue is built</h2>
+          <ol class="steps">
+            <li><span><b>Find.</b> Every token in EEBO-TCP is tagged as a common gloss word (water, head, knife, one…), a spelling that is rare across the whole corpus (including its Latin, French and Welsh books), or neither. A stretch of text where many distinct rare spellings sit next to many distinct glosses, or follow cues such as "which they call", is a candidate. The detector runs over 1.5 billion words in about a minute.</span></li>
+            <li><span><b>Triage.</b> Language-model reviewers read about 2,300 candidate windows under a fixed protocol: is this a vocabulary, what does the source call the language, which forms look like loans or mis-elicitations. They are told not to name the language.</span></li>
+            <li><span><b>Extract.</b> Lists are transcribed diplomatically into gloss / form / note rows. Spellings are never corrected.</span></li>
+            <li><span><b>Identify.</b> Printed glosses are mapped to Concepticon concepts. Forms and reference words are reduced to sound classes. Each list is scored against 17,041 wordlists (ASJP and Lexibank) by LDND, and the top 40 are tested by shuffling the list's meanings 300 times.</span></li>
+            <li><span><b>Calibrate.</b> The same pipeline is run on lists whose forms have been shuffled across glosses. Over 100 such runs the best z-score reached by noise was 4.78, so a list is "identified" only when a candidate reaches z ≥ ${D.threshold}. Otherwise the catalogue abstains and names the leading family.</span></li>
+            <li><span><b>Trace.</b> Books that share clusters of rare vocabulary spellings are linked, which recovers reprints, translations and undeclared copying.</span></li>
+          </ol>
+          <h3>Leave-lineage-out testing</h3>
+          <p>A historical list can look easy to identify if the reference database already contains the same list or a descendant of it. ASJP's Powhatan comes from Smith and Strachey; its "CARIB_1665" is Breton's dictionary. For each test list those reference entries are removed before scoring.</p>
+          <h3>What the catalogue does not do</h3>
+          <p>It does not read page images, so lists the TCP keyers marked as illegible or non-Latin script are invisible. Recall on the gold set (LEME's travel lexicons) is 31 of 35 books within the top 1,000 candidate texts; the misses are lists of a few words scattered through prose. Identification depends on reference coverage: where a language has few modern wordlists (Sinhala here), the system can be right about the family and wrong about the leaf.</p>
+        </div>
+        <div style="display:grid;gap:14px;align-content:start;min-width:0">
+          <div class="panel"><h3>Benchmark: blind identification of known lists</h3>
+            <div class="tablebox"><table><thead><tr><th>List</th><th>Excluded lineage</th><th>Result</th><th>Correct?</th></tr></thead>
+            <tbody>${b.map(r => `<tr><td>${esc(r.name)}</td><td>${esc(r.excl)}</td><td>${r.status === "resolved" ? `<span class="chip ok">${esc(r.result)}</span>` : `<span class="chip abst">abstains</span>`}</td><td>${esc(r.verdict)}</td></tr>`).join("")}</tbody></table></div>
+            <p style="margin:0;font-size:var(--s-0);color:var(--ink-2)">Expected answers come from the scholarly literature. No list was assigned to a wrong family above the threshold.</p>
+          </div>
+        </div>
+      </div>`;
+  }
+
+  // ---------- router
+  function route() {
+    const h = (location.hash || "#findings").slice(1);
+    const tab = h.startsWith("v-") ? "vocabularies" : (["findings", "vocabularies", "census", "method"].includes(h) ? h : "findings");
+    document.querySelectorAll("nav.tabs a").forEach(a => a.toggleAttribute("aria-current", a.dataset.tab === tab) || a.setAttribute("aria-current", a.dataset.tab === tab ? "page" : ""));
+    document.querySelectorAll("nav.tabs a").forEach(a => { if (a.dataset.tab === tab) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current"); });
+    if (h.startsWith("v-")) renderVocab(h.slice(2));
+    else if (tab === "vocabularies") renderVocabIndex();
+    else if (tab === "census") renderCensus();
+    else if (tab === "method") renderMethod();
+    else renderFindings();
+    view.classList.remove("view"); void view.offsetWidth; view.classList.add("view");
+  }
+  window.addEventListener("hashchange", () => { route(); window.scrollTo(0, 0); });
+  route();
+})();
+</script>
