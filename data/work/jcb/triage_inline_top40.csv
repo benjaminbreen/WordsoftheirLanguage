@@ -1,0 +1,41 @@
+rank,ia,title,date,real_frac,language,modern_id,kind,known,value,note
+1,iaiiiapartedelos01torq,Ia [-IIIa] parte de los Veynte y vn libros rituales y monarchia yndiana : con el,1615,0.4,Nahuatl (lengua),Classical Nahuatl,ethnographic/material terms,likely known,low,"Torquemada; tecontli, calpules real; rest names"
+2,iaiiiapartedelos02torq,Ia [-IIIa] parte de los Veynte y vn libros rituales y monarchia yndiana : con el,1615,0.4,Nahuatl,Classical Nahuatl,religious/material,likely known,low,"chalchihuitl, izquitl real (adjacent to hits)"
+3,historiagenerald25prvo,"Historia general de los viages, ó nueva coleccion de todas las relaciones de los",1763,0.3,Tupi (Indios),Tupi place names,place names,likely known,low,Brazil coast toponyms in Prevost
+4,orbeseraficonovo00jabo,"Orbe serafico novo brasilico, descoberto, estabelecido, e cultivado a influxos d",1761,0.3,lingua do Gentio,Tupi; Caeté ethnonym,place/ethnonyms,likely known,low,Nhiteroi etc.; Jaboatão
+5,relationsdediver00thve,"Relations de divers voyages curieux, qui n'ont point esté publiees; : ov qvi ont",1664,0.2,Tatar/Persian/Malay,various,mixed names,unsure,low,Thévenot compilation
+6,vidadovenerauelp00vasc,"Vida do venerauel padre Ioseph de Anchieta da Companhia de Iesu, taumaturgo do N",1672,0.2,Tupi,Tupi,person/place,likely known,low,"Anchieta Life; mostly names, many OCR misses"
+7,coronicadelasind00fern,Coronica delas Indias. La hystoria general de las Indias agora nueuamente impres,1547,0.1,Taino?,—,place names/Spanish,likely known,low,mostly Spanish 'que llaman' phrases
+8,lesvoyagesfameux00lebl_0,"Les voyages fameux du sieur Vincent Le Blanc Marseillois, qu'il a faits depuis l",1649,0.4,various Asian,unclear (Le Blanc fabulist),scattered,unsure,low,Le Blanc unreliable
+9,teatromexicanode01veta,"Teatro mexicano : descripcion breve de los sucessos exemplares, historicos, poli",1697,0.4,Nahuatl,Classical Nahuatl,plant names,likely known,medium-low,Vetancurt botanicals (Matlalquahuitl)
+10,historiagenerald07prvo,"Historia general de los viages, ó nueva coleccion de todas las relaciones de los",1763,0.6,Kikongo/Vili (Loango),Vili/Kikongo,"ethnographic,plants,religious",unsure,medium,"Prevost Loango: metamba, Sambian-Pongo (Nzambi Mpungu), quistillas (kixila)"
+11,historiagenerald00vega,"Historia general del Peru trata el descubrimiento del, y como lo ganaron los Esp",1617,0.4,Quechua,Quechua,material/place,likely known,low,Garcilaso
+12,historiagenerald16prvo,"Historia general de los viages, ó nueva coleccion de todas las relaciones de los",1763,0.2,Burmese/Hindi,various,place/person,likely known,low,India/Pegu
+13,historiachronolo02jern,"Historia chronologica da esclarecida ordem da SS. Trindade, redempção de cativos",1789,0.0,—,—,personal names,known,none,Portuguese names; false positives
+14,lahistoriagenera00fern,La historia general delas Indias,1535,0.6,Taino,Taino,"natural history, labor terms",likely known,high,"Oviedo 1535: iguana (yuana), pineapple varieties boniama, yaruma tree; Taino thinly attested"
+15,historiagenerald03prvo,"Historia general de los viages, ó nueva coleccion de todas las relaciones de los",1763,0.2,West African,Wolof/Mande?,scattered,unsure,low,mostly Spanish/places
+16,histoiregnralede16prvo_0,"Histoire générale des voyages, ou nouvelle collection de toutes les relations de",1746,0.2,index entries,—,index noise,—,none,Prevost French index
+17,recueildediversv00unse,"Recueil de divers voyages faits en Afrique et en l'Amerique, qui n'on t point es",1674,0.5,Carib/Portuguese Africa,"Island Carib (calipi), Portuguese/W African plants",natural history,unsure,medium,Recueil 1674
+18,dienievvevveerel00unkn,"Die nievve vveerelt der landtschappen ende eylanden, : die tot hier toe allen ou",1563,0.1,—,—,Old World place names,—,none,Dutch cosmography
+19,dewonderlijckeen00zrat,"De wonderlijcke ende warachtighe historie vant coninckrijck van Peru, : geleghen",1563,0.2,Taino/Quechua,Taino maiz; tribal names,ethnonyms,likely known,low,Zárate Dutch
+20,historiadelascos00gonz,"Historia de las cosas mas notables, ritos y costumbres, del gran reyno dela chin",1585,0.3,Chinese,Chinese (Fujian?),"measures, names",likely known,low,González de Mendoza
+21,historianaturaly00acos,"Historia natural y moral de las Indias, : en que se tratan las cosas notables de",1608,0.3,Quechua,Quechua,astral/religious,likely known,low,Acosta
+22,historianaturaly00acos_1,Historia natural y moral de las Indias. : En que se tratan las cosas notables de,1591,0.3,Quechua,Quechua,astral/religious,likely known,low,"Acosta: Chuchillay, Mollo"
+23,recueildediversv00unkn_0,"Recueil de divers voyages faits en Afrique et en l'Amerique, qui n'on t point es",1684,0.4,Carib/creole/Portuguese,Island Carib? creole,natural history,unsure,medium,picaninny; same text as row17
+24,elmaranonyamazon00rodr,"El Marañon, y Amazonas. : Historia de los descubrimientos, entradas, y reduccio",1684,0.4,Tupi/Amazonian,Tupi/Lingua geral + lowland groups,place/rivers,unsure,medium,Rodríguez; Paranamiri gloss; tribe names could be valuable
+25,recueildediversv00unkn,"Recueil de divers voyages faits en Afrique et en l'Amerique, qui n'on t point es",1674,0.4,as row17,as row17,natural history,unsure,medium,duplicate edition
+26,newcollectionofv02unse,"A new collection of voyages and travels, into several parts of the world, none o",1711,0.3,"Ethiopic/Amharic, Wolof",Amharic,ethnographic,unsure,low,Abyssinia material
+27,historiagenerald13prvo,"Historia general de los viages, ó nueva coleccion de todas las relaciones de los",1763,0.3,Malay/Moluccan,Malay/Ternate,ethnographic,unsure,low,Moluccas
+28,royalcommentarie00vega_0,"The royal commentaries of Peru, in two parts. : The first part. Treating of the ",1688,0.4,Quechua,Quechua,religious/astral,likely known,low,Garcilaso Eng
+29,relaamannaldas00guer,Relaçam annal das cousas que fezeram os padres da Companhia de Iesus nas partes ,1605,0.0,Japanese,Japanese,personal names,likely known,none,Japanese lords' names
+30,royalcommentarie00vega_1,"The royal commentaries of Peru, in two parts. : The first part. Treating of the ",1688,0.4,Quechua,Quechua,as row28,likely known,low,duplicate
+31,naturallmoralhis00acos,The naturall and moral historie of the East and West Indies. : intreating of the,1604,0.3,Quechua/Taino,Quechua,mixed,likely known,low,Acosta Eng; mostly English junk
+32,relationsdediver00thve_0,"Relations de divers voyages curieux, qui n'ont point esté publiees; : ov qvi ont",1664,0.2,Tatar,various,names,unsure,low,duplicate Thévenot
+33,gulielmipisonism00piso,Gulielmi Pisonis medici Amstelædamensis De Indiæ utriusque re naturali et medica,1658,0.2,Tupi (Brasilienses),Tupi,natural history,likely known,low,"Piso; hits are Latin words, Tupi adjacent"
+34,historiachronolo01jern,"Historia chronologica da esclarecida ordem da SS. Trindade, redempção de cativos",1789,0.0,—,—,Portuguese names,—,none,false positives
+35,relationsveritab00unkn,"Relations veritables et curieuses de l'isle de Madagascar, et du Bresil. : Auec ",1651,0.8,Malagasy (Madagascar),Malagasy (17th c.),material culture/ethnographic,unsure,medium,"Lambesy (lamba), Lallaits; early Malagasy, but Flacourt covers similar"
+36,historianaturaly00acos_2,"Historia natural y moral delas Indias, : en que se tratan las cosas notables del",1590,0.1,Quechua,—,Spanish noise,likely known,low,Acosta 1590
+37,historienaturael00acos_0,Historie naturael en morael van de Westersche Indien. : Waer inne ghehandelt wor,1624,0.0,—,—,Dutch noise,—,none,Acosta Dutch
+38,nouusorbisregion00hutt,"Nouus orbis regionum ac insularum ueteribus incognitarum,",1532,0.1,—,—,Latin noise,—,none,Novus orbis
+39,iaiiiapartedelos03torq,Ia [-IIIa] parte de los Veynte y vn libros rituales y monarchia yndiana : con el,1615,0.0,—,—,personal names,—,none,Torquemada vol3 Spanish names
+40,parteprimeradela00ciez,Parte primera dela chronica del Peru. : Que tracta la demarcacion de sus prouinc,1553,0.3,Cueva/Colombian (Cartagena area),extinct Colombian languages,"chief names, gold ornaments",possibly obscure,medium,Cieza; caricuri-like terms from extinct coastal languages

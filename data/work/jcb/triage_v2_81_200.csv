@@ -1,0 +1,95 @@
+rank_v2,ia,title,date,is_vocab,language,modern_id,n_entries_est,location,known,note
+81,descripcionbreve00rive_0,"Descripcion breve de la muy noble, y leal ciudad de Zacatecas. : Su situacion, q",1732,no,,,0,,,,prose/index/tables false positive
+82,artedelalenguame00moli,"Arte dela lengua mexicana y castellana,",1576,partial,lengua mexicana,Nahuatl (Classical),grammar w/ paradigm word lists,56-60,likely known,Molina Arte 1576 is a standard Nahuatl grammar,"Grammar (Arte), not a vocabulary; numeral lists etc. flagged"
+83,nouvellerelation03laba,Nouvelle relation de l'Afrique occidentale: : contenant une description exacte d,1728,no,,,0,,,,prose/index/tables false positive
+85,historischebesch00roch,Historische Beschreibung der Antillen Inseln in America gelegen : in sich begrei,1668,no,,,0,,,,prose/index/tables false positive
+87,cartasedificante16jesu,"Cartas edificantes, y curiosas, : escritas de las missiones estrangeras, por alg",1753,no,,,0,,,,prose/index/tables false positive
+88,hieronymicardani00card,"Hieronymi Cardani Mediolanensis, medici, De subtilitate libri XXI",1580,no,,,0,,,,prose/index/tables false positive
+90,decadesofnewewor00angh,"The decades of the Newe Worlde or West India, conteynyng the nauigations and con",1555,no,,,0,,,,prose/index/tables false positive
+91,lavrayeetentiere00lapo,"La vraye et entiere histoire des troubles et choses memorables, avenues tant en ",1572,no,,,0,,,,prose/index/tables false positive
+93,richardiblomeeng00rbap,"Richardi Blome Englisches America, : oder Kurtze doch deutliche Beschreibung all",1697,no,,,0,,,,prose/index/tables false positive
+95,nouusorbisregion00hutt_1,"Nouus orbis regionum ac insularum ueteribus incognitarum,",1532,no,,,0,,,,prose/index/tables false positive
+97,histoiredelameri03bacq_0,Histoire de l'Amerique Septentrionale. : Divisée en quatre tomes. Tome premier. ,1722,no,,,0,,,,prose/index/tables false positive
+98,navigatioacitine00lins,Navigatio ac itinerarium Iohannis Hugonis Linscotani in Orientalem sive Lusitano,1599,no,,,0,,,,prose/index/tables false positive
+99,novusorbisidestn00augu,"Novus orbis. id est, Navigationes primæ in Americam : quibus adjunximus Gasparis",1616,no,,,0,,,,prose/index/tables false positive
+100,lawsofjamaicapas00jama,"The laws of Jamaica, : pass'd by the governours, Council and Assembly, in that i",1716,no,,,0,,,,prose/index/tables false positive
+101,histoiredugrandr00gonz_0,"Histoire du grand royaume de la Chine, situé aux Indes Orientales, : diuisée en ",1589,no,,,0,,,,prose/index/tables false positive
+102,americapaintedto00gorg,America painted to the life. : The true history of the Spaniards proceedings in ,1659,no,,,0,,,,prose/index/tables false positive
+104,newcollectionofv01unse,"A new collection of voyages and travels, into several parts of the world, none o",1711,yes,"Tuskeruro, Pampticough, Woccon",Tuscarora; Pamlico (Carolina Algonquian); Woccon (Siouan),~150-200,484-486,likely known,"John Lawson Carolina vocabulary (1709), well studied esp. Woccon",Lawson New Voyage to Carolina reprinted in 1711 collection; OCR rough
+105,collecadosbr00pomb,"Collecçaõ dos breves pontificios, e leys regias, que faraõ expedidos, e publicad",1759,no,,,0,,,,prose/index/tables false positive
+106,historianaturaly00acos_2,"Historia natural y moral delas Indias, : en que se tratan las cosas notables del",1590,no,,,0,,,,prose/index/tables false positive
+110,voyagetoislandsm02sloa,"A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica, :",1707,no,,,0,,,,prose/index/tables false positive
+111,historiagenerald16prvo,"Historia general de los viages, ó nueva coleccion de todas las relaciones de los",1763,no,,,0,,,,prose/index/tables false positive
+112,cartasedificante12jesu,"Cartas edificantes, y curiosas, : escritas de las missiones estrangeras, por alg",1753,no,,,0,,,,prose/index/tables false positive
+113,voyagehistorique02ullo,Voyage historique de l'Amerique meridionale : fait par ordre du roi d'Espagne,1752,no,,,0,,,,prose/index/tables false positive
+115,historicalaccoun03unse,"An Historical account of all the voyages round the world, performed by English n",1773,yes,language of Otaheite,Tahitian,~60,135-140,likely known,"Cook/Hawkesworth Tahitian specimen, widely reprinted",Short glossary in voyages-round-the-world compilation (1773)
+116,epistolaeindicae00jest,"Epistolae Indicae de praeclaris, et stupendis rebus, : quas diuina bonitas in In",1566,no,,,0,,,,prose/index/tables false positive
+117,voyagedanslahaut00stjo,"Voyage, dans la haute Pensylvanie et dans l'état de New-York,",1801,no,,,0,,,,prose/index/tables false positive
+119,premierliuredess00bouc,Premier liure des serees,1608,no,,,0,,,,prose/index/tables false positive
+120,lecommentaireroy00vega,"Le commentaire royal, ov L'histoire des Yncas, roys dv Perv; contenant leur orig",1633,no,,,0,,,,prose/index/tables false positive
+122,noticiadelacalif02vene_0,"Noticia de la California, y de su conquista temporal, y espiritual hasta el tiem",1757,no,,,0,,,,prose/index/tables false positive
+125,narrativeoffivey01sted_0,"Narrative, of a five years' expedition, against the revolted Negroes of Surinam,",1796,no,,,0,,,,prose/index/tables false positive
+126,lavielesavanture01tyss,"La vie, les avantures, & le voyage de Groenland du révérend Père Cordelier Pierr",1720,no,,,0,,,,prose/index/tables false positive
+127,johannlorenzmosh00mosh_2,Johann Lorenz Mosheims Sitten-Lehre der Heiligen Schrift,1742,no,,,0,,,,prose/index/tables false positive
+128,tratadovnicoysin00roch,"Tratado vnico, y singular del origen de los indios occidentales del Piru, Mexico",1681,no,,,0,,,,prose/index/tables false positive
+130,cartasedificante14jesu,"Cartas edificantes, y curiosas, : escritas de las missiones estrangeras, por alg",1753,no,,,0,,,,prose/index/tables false positive
+131,historianaturaly00acos,"Historia natural y moral de las Indias, : en que se tratan las cosas notables de",1608,no,,,0,,,,prose/index/tables false positive
+132,elmaranonyamazon00rodr,"El Marañon, y Amazonas. : Historia de los descubrimientos, entradas, y reduccio",1684,no,,,0,,,,prose/index/tables false positive
+133,voyagedemarseill00unkn,"Voyage de Marseille a Lima, et dans les autres lieux des Indes Occidentales. : A",1720,no,,,0,,,,prose/index/tables false positive
+135,cartasedificante07jesu,"Cartas edificantes, y curiosas, : escritas de las missiones estrangeras, por alg",1753,no,,,0,,,,prose/index/tables false positive
+136,cartasedificante15jesu,"Cartas edificantes, y curiosas, : escritas de las missiones estrangeras, por alg",1753,no,,,0,,,,prose/index/tables false positive
+137,novusorbishocest00unse,"Novus orbis. Hoc est, Navigationes illustriores, admirandæ et celebriores, forti",1623,no,,,0,,,,prose/index/tables false positive
+138,newfoundvvorldeo00thev,"The new found vvorlde, or Antarctike, : wherein is contained wo[n]derful and str",1568,no,,,0,,,,prose/index/tables false positive
+139,nouveauvoyageaux05laba_1,"Nouveau voyage aux isles de l'Amerique, : contenant l'histoire naturelle de ces ",1722,no,,,0,,,,prose/index/tables false positive
+140,tableaudelasitua02pict,"Tableau de la situation actuelle des États-Unis d'Amérique, : d'après Jedidiah M",1795,no,,,0,,,,prose/index/tables false positive
+141,histoirenaturell00acos,"Histoire naturelle et morale des Indes, tant Orientales, qu'Occidentales. : où i",1617,no,,,0,,,,prose/index/tables false positive
+142,nouvellehistoire02dema,"Nouvelle histoire de l'Afrique françoise, : enrichie de cartes & d'observations",1767,no,,,0,,,,prose/index/tables false positive
+145,voyagedanslahaut00stjo_1,"Voyage, dans la haute Pensylvanie et dans l'état de New-York,",1801,no,,,0,,,,prose/index/tables false positive
+146,vocabularioenlen00juan,"Vocabulario en lengua çapoteca,",1578,yes,lengua çapoteca,Zapotec (Valley),thousands,13-~170 (whole book),likely known,"Juan de Cordova 1578 Vocabulario, a landmark of Zapotec lexicography",Full Spanish-Zapotec dictionary
+147,newevnbekanthela00unkn,Newe vnbekanthe Landte und ein newe Weldte in kurtz verganger Zeythe erfunden,1508,no,,,0,,,,prose/index/tables false positive
+148,voyagedanslestat03laro,"Voyage dans les États-Unis d'Amérique, : fait en 1795, 1796 et 1797.",1799,no,,,0,,,,prose/index/tables false positive
+149,nouvellerelation02laba,Nouvelle relation de l'Afrique occidentale: : contenant une description exacte d,1728,no,,,0,,,,prose/index/tables false positive
+150,accountoftwovoya00joss_1,An account of two voyages to New-England. : Wherein you have the setting out of ,1674,no,,,0,,,,prose/index/tables false positive
+151,museummuseorumod00vale,"Museum museorum, oder Vollständige Schau-Bühne aller Materialien und Specereÿen ",1704,no,,,0,,,,prose/index/tables false positive
+152,hispaniasivedere00laet_0,"Hispania, sive De regis Hispaniae regnis et opibus commentarius",1629,no,,,0,,,,prose/index/tables false positive
+153,historiagenerald13prvo,"Historia general de los viages, ó nueva coleccion de todas las relaciones de los",1763,no,,,0,,,,prose/index/tables false positive
+155,collectionabrged03unkn,Collection abrégée des voyages anciens et modernes autour du monde; : avec des e,1808,no,,,0,,,,prose/index/tables false positive
+156,noticiadelacalif03vene_0,"Noticia de la California, y de su conquista temporal, y espiritual hasta el tiem",1757,no,,,0,,,,prose/index/tables false positive
+157,nouusorbisregion00hutt_2,"Nouus orbis regionum ac insularum ueteribus incognitarum,",1532,no,,,0,,,,prose/index/tables false positive
+158,histoiregnralede15prvo_0,"Histoire générale des voyages, ou nouvelle collection de toutes les relations de",1746,no,,,0,,,,prose/index/tables false positive
+159,histoiregnralede09prvo_0,"Histoire générale des voyages, ou nouvelle collection de toutes les relations de",1746,no,,,0,,,,prose/index/tables false positive
+160,revpatrisfralpho00alon,Rev. Patris Fr. Alphonsi a Vera Cruce Hispani ordinis eremitarum S. Augustini. E,1599,no,,,0,,,,prose/index/tables false positive
+161,examendesrecherc02pern,"Examen des Recherches philosophiques sur l'Amérique et les Américains, et de la ",1771,no,,,0,,,,prose/index/tables false positive
+163,insignesmissione00xarq,Insignes missioneros de la Compañia de Jesus en la Provincia del Paraguay. : Es,1687,no,,,0,,,,prose/index/tables false positive
+164,virginiamoreespe00will,"Virginia: more especially the south part thereof, richly and truly valued: : viz",1650,no,,,0,,,,prose/index/tables false positive
+166,historicarelatio00oval_0,"Historica relatione del regno di Cile, : e delle missioni, e ministerij che eser",1646,no,,,0,,,,prose/index/tables false positive
+167,levoyageurphilos01vill_0,Le voyageur philosophe dans un pais inconnu aux habitans de la terre.,1761,no,,,0,,,,prose/index/tables false positive
+168,voyagedelaterrea00foig,Voyage de la terre australe par Mr. Sadeur. : Avec ses avantures dans la découve,1695,partial,langue australienne (fictional),invented language,"unknown, small",~90-94,likely known,Foigny 1676 utopia; its a priori language studied by utopia/conlang scholars,Fictional; not ethnographic; not inspected closely
+169,relationdelarivi00acua,Relation de la riviere des Amazones,1682,no,,,0,,,,prose/index/tables false positive
+170,descriptiongeogr00bell_0,Description geographique de la Guiane,1763,no,,,0,,,,prose/index/tables false positive
+171,voyagededcouvert04vanc,"Voyage de découvertes, a l'Océan Pacifique du Nord, et autour du monde, : entrep",1801,no,,,0,,,,prose/index/tables false positive
+172,miscellanies00volt,Miscellanies,1778,no,,,0,,,,prose/index/tables false positive
+174,voyagesetavantur00tyss_0,Voyages et avantures de Jaques Massé,1734,no,,,0,,,,prose/index/tables false positive
+175,collectionabrged01unkn,Collection abrégée des voyages anciens et modernes autour du monde; : avec des e,1808,no,,,0,,,,prose/index/tables false positive
+176,troisiemeliurede00bouc,Troisieme liure des serees,1608,no,,,0,,,,prose/index/tables false positive
+177,historiaorbister00becm,"Historia orbis terrarum, geographica et civilis, de variis negotiis : nostri pot",1692,no,,,0,,,,prose/index/tables false positive
+178,thesaurusexotico00happ,Thesaurus exoticorum. : Oder eine mit aussländischen Raritäten und Geschichten w,1688,no,,,0,,,,prose/index/tables false positive
+180,recueildesvoyage00renn_13,Recueil des voyages qui ont servi a l'etablissement et aux progrez de la Compagn,1725,no,,,0,,,,prose/index/tables false positive
+181,derwunderwrdigej00ross_0,"Der wunderwürdige Juden- und Heiden-Tempel, : darinn derselben Gottes- und Götze",1701,no,,,0,,,,prose/index/tables false positive
+182,relaamannaldas01guer,Relaçam annal das cousas que fezeram os padres da Companhia de Iesus nas partes ,1609,no,,,0,,,,prose/index/tables false positive
+183,senorpocosminist00pala,"Senor. : Pocos ministros han ido a la Nueua-España, ni buelto della mas obligado",1650,no,,,0,,,,prose/index/tables false positive
+185,historiagenerald20prvo,"Historia general de los viages, ó nueva coleccion de todas las relaciones de los",1763,no,,,0,,,,prose/index/tables false positive
+186,recueildesvoyage00renn_12,Recueil des voyages qui ont servi a l'etablissement et aux progrez de la Compagn,1725,no,,,0,,,,prose/index/tables false positive
+187,historiagenerald28prvo,"Historia general de los viages, ó nueva coleccion de todas las relaciones de los",1763,no,,,0,,,,prose/index/tables false positive
+188,voyagedesamuelhe00hear_0,"Voyage de Samuel Hearne, du Fort du Prince de Galles dans la baie de Hudson, à l",1799,no,,,0,,,,prose/index/tables false positive
+189,recueildobservat01lamb,"Recueil d'observations curieuses, : sur les moeurs, les coutumes, les usages, le",1749,no,,,0,,,,prose/index/tables false positive
+190,histoiredesindes00casa,"Histoire des Indes Occidentales. : Ou l'on reconnoit la bonté de ces païs, & de ",1642,no,,,0,,,,prose/index/tables false positive
+191,cartasdopantonio00viei,Cartas do P. Antonio Vieyra da Companhia de Jesu : tomo primeiro[-segundo]. .,1735,no,,,0,,,,prose/index/tables false positive
+192,lessingularitezd00thev,"Les singularitez de la France Antarctique, autrement nommée Amerique: & de plusi",1558,no,,,0,,,,prose/index/tables false positive
+194,relationdecequis00leje_7,Relation de ce qui s'est passé en la Nouuelle France en l'année 1639. Enuoyée au,1640,no,,,0,,,,prose/index/tables false positive
+195,ioannispetrimaff00maff_3,"Ioan[nis] Petri Maffeii, Bergomatis, e Societate Iesu, Historiarum Indicarum lib",1593,no,,,0,,,,prose/index/tables false positive
+196,voyagedefranoisp00pyra,"Voyage de François Pyrard, de Laual. : Contenant sa navigation aux Indes orienta",1619,yes,langue des Maldives,Dhivehi (Maldivian),~300-400,459-462,likely known,Pyrard Maldivian dictionary is well known to Dhivehi historians,Dictionaire de quelques mots de la langue des Maldives (1619 ed.)
+197,voyageauxlesdetn01ledr,"Voyage aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto Ri",1810,no,,,0,,,,prose/index/tables false positive
+198,cartasedificante11jesu,"Cartas edificantes, y curiosas, : escritas de las missiones estrangeras, por alg",1753,no,,,0,,,,prose/index/tables false positive
+199,mmoiressurlaloui00unse,"Mémoires sur la Louisiane et la Nouvelle-Orléans, : accompagnés d'une dissertati",1804,no,,,0,,,,prose/index/tables false positive
+200,vidayheroycasvir00fara,"Vida. Y heroycas virtudes del vble. padre Pedro de Velasco, provincial, que fué,",1753,no,,,0,,,,prose/index/tables false positive
