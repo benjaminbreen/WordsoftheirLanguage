@@ -1,0 +1,844 @@
+[
+ {
+  "list": "rosier",
+  "n_entries": 86,
+  "target": [
+   "ABNAKI_WESTERN",
+   "PASSAMAQUODDY_MALISEET_UnnamedInSource",
+   "ABNAKI_EASTERN"
+  ],
+  "target_source": "identified",
+  "target_family": "Algic",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "Words which I learned of the Sauages, in their Language.": {
+    "Arabic": 4,
+    "TARGET": 8,
+    "Tupi": 3,
+    "Persian": 4,
+    "Portuguese": 4,
+    "Malay": 3,
+    "Turkish": 5,
+    "Spanish": 15
+   }
+  }
+ },
+ {
+  "list": "wood",
+  "n_entries": 332,
+  "target": [
+   "WAMPANOAG_NATICK",
+   "ABNAKI_EASTERN",
+   "PASSAMAQUODDY_MALISEET_UnnamedInSource"
+  ],
+  "target_source": "identified",
+  "target_family": "Algic",
+  "affixes": [
+   [
+    "suffix",
+    "cke",
+    20
+   ]
+  ],
+  "body_affix": {
+   "body_with": 4,
+   "body_without": 28,
+   "other_with": 29,
+   "other_without": 270
+  },
+  "sections": {
+   "A": {
+    "TARGET": 1,
+    "Arabic": 1,
+    "Spanish": 1
+   },
+   "B": {
+    "Spanish": 1
+   },
+   "C": {
+    "Turkish": 3,
+    "Persian": 1,
+    "Malay": 1,
+    "Spanish": 1,
+    "Arabic": 1
+   },
+   "E": {
+    "Spanish": 1,
+    "Portuguese": 1
+   },
+   "G": {
+    "Portuguese": 2,
+    "TARGET": 1
+   },
+   "H": {
+    "Persian": 2
+   },
+   "I": {
+    "Persian": 1
+   },
+   "K": {
+    "TARGET": 1,
+    "Spanish": 1
+   },
+   "M": {
+    "TARGET": 4,
+    "Spanish": 3,
+    "Malay": 1,
+    "Arabic": 5,
+    "Turkish": 1,
+    "Portuguese": 3,
+    "Persian": 1
+   },
+   "N": {
+    "Arabic": 4,
+    "TARGET": 3,
+    "Malay": 3,
+    "Tupi": 1,
+    "Spanish": 4,
+    "Persian": 1,
+    "Portuguese": 1
+   },
+   "O": {
+    "Portuguese": 1,
+    "Spanish": 3,
+    "Tupi": 3
+   },
+   "P": {
+    "Tupi": 2,
+    "Spanish": 3,
+    "Portuguese": 1,
+    "Persian": 1
+   },
+   "S": {
+    "Portuguese": 2,
+    "Arabic": 3,
+    "Persian": 3,
+    "TARGET": 2,
+    "Spanish": 1,
+    "Turkish": 1,
+    "Malay": 1
+   },
+   "T": {
+    "TARGET": 1,
+    "Persian": 2,
+    "Turkish": 1,
+    "Arabic": 1,
+    "Malay": 1
+   },
+   "V": {
+    "TARGET": 1
+   },
+   "W": {
+    "Spanish": 3,
+    "Persian": 1,
+    "Portuguese": 2,
+    "TARGET": 1,
+    "Turkish": 1,
+    "Arabic": 2,
+    "Tupi": 1,
+    "Malay": 1
+   },
+   "Y": {
+    "Arabic": 1,
+    "Persian": 1
+   },
+   "The number of 20.": {
+    "TARGET": 2,
+    "Spanish": 3,
+    "Persian": 3,
+    "Arabic": 1,
+    "Turkish": 1,
+    "Malay": 1
+   },
+   "The Indians count their time by nights, and not by dayes, as followeth.": {
+    "Malay": 1,
+    "Turkish": 3,
+    "Arabic": 1,
+    "Persian": 5
+   }
+  }
+ },
+ {
+  "list": "williams",
+  "n_entries": 200,
+  "target": [
+   "WAMPANOAG_NATICK",
+   "MOHEGAN"
+  ],
+  "target_source": "assigned",
+  "target_family": "Algic",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "CHAP. I. Of Salutation.": {
+    "Spanish": 6,
+    "Persian": 1,
+    "TARGET": 1,
+    "Arabic": 1,
+    "Malay": 1
+   },
+   "CHAP. II. Of Eating and Entertainment.": {
+    "Spanish": 7,
+    "Persian": 3
+   }
+  }
+ },
+ {
+  "list": "smith_map",
+  "n_entries": 76,
+  "target": [
+   "POWHATAN_UnnamedInSource"
+  ],
+  "target_source": "assigned",
+  "target_family": "Algic",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "Because many doe desire to knowe the maner of their language, I haue inserted th": {
+    "Malay": 1,
+    "Tupi": 1,
+    "Portuguese": 2,
+    "Persian": 2,
+    "Spanish": 7,
+    "TARGET": 5,
+    "Arabic": 1
+   },
+   "Their numbers.": {
+    "TARGET": 2,
+    "Spanish": 2,
+    "Turkish": 3,
+    "Arabic": 1,
+    "Malay": 1
+   },
+   "They count no more but by tennes as followeth.": {
+    "Malay": 2,
+    "Spanish": 2,
+    "TARGET": 1,
+    "Arabic": 2,
+    "Persian": 1,
+    "Turkish": 1
+   }
+  }
+ },
+ {
+  "list": "cartier",
+  "n_entries": 111,
+  "target": [
+   "WYANDOT",
+   "WENDAT_HURON",
+   "MOHAWK",
+   "ONONDAGA"
+  ],
+  "target_source": "assigned",
+  "target_family": "Iroquoian",
+  "affixes": [
+   [
+    "prefix",
+    "ag",
+    13
+   ],
+   [
+    "suffix",
+    "scon",
+    12
+   ]
+  ],
+  "body_affix": {
+   "body_with": 15,
+   "body_without": 7,
+   "other_with": 8,
+   "other_without": 81
+  },
+  "sections": {
+   "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada": {
+    "TARGET": 2,
+    "Malay": 3,
+    "Persian": 1,
+    "Spanish": 1,
+    "Tupi": 1,
+    "Turkish": 1,
+    "Arabic": 1
+   },
+   "Here followe the names of the chiefest partes of man, and other wordes necessari": {
+    "Portuguese": 4,
+    "Spanish": 21,
+    "Malay": 5,
+    "Turkish": 8,
+    "TARGET": 4,
+    "Tupi": 5,
+    "Arabic": 6,
+    "Persian": 7
+   }
+  }
+ },
+ {
+  "list": "rochefort",
+  "n_entries": 566,
+  "target": [
+   "Garifuna",
+   "GARIFUNA",
+   "Piapoco"
+  ],
+  "target_source": "identified",
+  "target_family": "Arawakan",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "I. The PARTS of MAN'S Bodie.": {
+    "Portuguese": 7,
+    "TARGET": 16,
+    "Arabic": 2,
+    "Spanish": 7,
+    "Malay": 3,
+    "Turkish": 1,
+    "Persian": 3
+   },
+   "II. KINDRED and ALLYANCE.": {
+    "Spanish": 4,
+    "Turkish": 1,
+    "Portuguese": 3,
+    "Persian": 3,
+    "Arabic": 2
+   },
+   "III. CONDITIONS and QUALITIES.": {
+    "TARGET": 18,
+    "Portuguese": 4,
+    "Spanish": 10,
+    "Tupi": 2,
+    "Arabic": 4,
+    "Persian": 4,
+    "Turkish": 1
+   },
+   "IV. ACTIONS and PASSIONS.": {
+    "Persian": 10,
+    "Spanish": 10,
+    "Turkish": 2,
+    "Malay": 5,
+    "Portuguese": 1,
+    "TARGET": 2,
+    "Arabic": 3,
+    "Tupi": 4
+   },
+   "V. Things relating to HOUSE-KEEPING and TRADE.": {
+    "Spanish": 15,
+    "Portuguese": 4,
+    "Persian": 4,
+    "Turkish": 1,
+    "Arabic": 3,
+    "Malay": 2
+   },
+   "VI. ORNAMENTS and ARMES.": {
+    "Spanish": 7,
+    "Persian": 4,
+    "Turkish": 1,
+    "Tupi": 2
+   },
+   "VII. LIVING CREATURES.": {
+    "TARGET": 6,
+    "Portuguese": 2,
+    "Tupi": 3,
+    "Spanish": 11,
+    "Persian": 1,
+    "Arabic": 2
+   },
+   "VIII. TREES and PLANTS.": {
+    "Turkish": 1,
+    "Spanish": 3,
+    "Arabic": 1,
+    "Tupi": 2,
+    "Persian": 3,
+    "TARGET": 1,
+    "Portuguese": 1
+   },
+   "IX. THINGS ELEMENTARY and IN ANIMATE.": {
+    "Tupi": 2,
+    "TARGET": 11,
+    "Turkish": 5,
+    "Spanish": 7,
+    "Persian": 4,
+    "Arabic": 3,
+    "Portuguese": 1,
+    "Malay": 2
+   },
+   "X. Things relating to RELIGION.": {
+    "Spanish": 8,
+    "Persian": 2,
+    "TARGET": 2
+   }
+  }
+ },
+ {
+  "list": "scheffer",
+  "n_entries": 77,
+  "target": [
+   "Inari Sami",
+   "Northern Saami",
+   "Skolt Sami"
+  ],
+  "target_source": "identified",
+  "target_family": "Uralic",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "CHAP. XV. Of the Language of the Laplanders.": {
+    "TARGET": 62,
+    "Turkish": 3,
+    "Arabic": 2,
+    "Tupi": 1,
+    "Spanish": 2
+   }
+  }
+ },
+ {
+  "list": "knox",
+  "n_entries": 134,
+  "target": [
+   "Selice Romani",
+   "Hindi"
+  ],
+  "target_source": "identified",
+  "target_family": "Indo-European",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "First, I will give you some of their Nouns Plural.": {
+    "TARGET": 2,
+    "Tupi": 2,
+    "Turkish": 1
+   },
+   "But usually when they have occasion to speak of many they express themselves by ": {
+    "Turkish": 1
+   },
+   "Their Verbs they form after this manner:": {
+    "TARGET": 29,
+    "Turkish": 4,
+    "Tupi": 2,
+    "Arabic": 2,
+    "Malay": 3
+   },
+   "They number thus,": {
+    "Malay": 2
+   }
+  }
+ },
+ {
+  "list": "boothby",
+  "n_entries": 84,
+  "target": [
+   "Antaisaka",
+   "Zafisoro",
+   "Sakalava"
+  ],
+  "target_source": "identified",
+  "target_family": "Austronesian",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "(no heading; introduced in prose: \"perusing an old table booke I found some few ": {
+    "TARGET": 22,
+    "Tupi": 7,
+    "Spanish": 18,
+    "Arabic": 10,
+    "Turkish": 2,
+    "Persian": 8,
+    "Portuguese": 6
+   }
+  }
+ },
+ {
+  "list": "vanneck",
+  "n_entries": 299,
+  "target": [
+   "Indonesian",
+   "Bahasa Indonesia",
+   "Iban"
+  ],
+  "target_source": "identified",
+  "target_family": "Austronesian",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "Some words of the Malish speech, which language is vsed throughout the East Indi": {
+    "Spanish": 28,
+    "Turkish": 13,
+    "TARGET": 42,
+    "Arabic": 16,
+    "Persian": 12,
+    "Tupi": 4,
+    "Portuguese": 9
+   },
+   "Some Iauanish words.": {
+    "Tupi": 1,
+    "TARGET": 3,
+    "Spanish": 4,
+    "Arabic": 1,
+    "Persian": 2,
+    "Portuguese": 1
+   },
+   "Counting in the Molucas tongue.": {
+    "TARGET": 11,
+    "Arabic": 1,
+    "Spanish": 2
+   }
+  }
+ },
+ {
+  "list": "trinidad",
+  "n_entries": 68,
+  "target": [
+   "Lokono",
+   "Lokono"
+  ],
+  "target_source": "identified",
+  "target_family": "Arawakan",
+  "affixes": [
+   [
+    "prefix",
+    "da",
+    7
+   ]
+  ],
+  "body_affix": {
+   "body_with": 7,
+   "body_without": 6,
+   "other_with": 5,
+   "other_without": 53
+  },
+  "sections": {
+   "Here follow certaine wordes of the language of Trinidad which I obserued at my b": {
+    "Turkish": 3,
+    "Portuguese": 4,
+    "TARGET": 14,
+    "Malay": 5,
+    "Persian": 2,
+    "Spanish": 10,
+    "Arabic": 4
+   }
+  }
+ },
+ {
+  "list": "sami_burrough",
+  "n_entries": 95,
+  "target": [
+   "Kildin Sami",
+   "Skolt Sami",
+   "Northern Saami"
+  ],
+  "target_source": "identified",
+  "target_family": "Uralic",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "I obserued certaine wordes of their language, which I thought good to set downe ": {
+    "Portuguese": 2,
+    "TARGET": 40,
+    "Spanish": 1,
+    "Arabic": 3
+   },
+   "Their wordes of number are these as followeth.": {
+    "TARGET": 12
+   }
+  }
+ },
+ {
+  "list": "pegu",
+  "n_entries": 56,
+  "target": [
+   "MON",
+   "Nyakur",
+   "Mon"
+  ],
+  "target_source": "identified",
+  "target_family": "Austroasiatic",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "Certaine words of Pegu language.": {
+    "Spanish": 5,
+    "TARGET": 12,
+    "Portuguese": 1,
+    "Persian": 3,
+    "Tupi": 1,
+    "Turkish": 1,
+    "Malay": 1
+   }
+  }
+ },
+ {
+  "list": "greenland",
+  "n_entries": 108,
+  "target": [
+   "Kalaallisut",
+   "Greenlandic",
+   "North Alaskan Inupiatun"
+  ],
+  "target_source": "identified",
+  "target_family": "Eskimo-Aleut",
+  "affixes": [
+   [
+    "prefix",
+    "ka",
+    14
+   ]
+  ],
+  "body_affix": {
+   "body_with": 3,
+   "body_without": 13,
+   "other_with": 16,
+   "other_without": 77
+  },
+  "sections": {
+   "(prose intro: \"some of those which are most common in ordinary conversation\")": {
+    "TARGET": 46,
+    "Spanish": 10,
+    "Portuguese": 3,
+    "Arabic": 2,
+    "Malay": 5,
+    "Persian": 10,
+    "Tupi": 2,
+    "Turkish": 1
+   },
+   "(inline in prose after list)": {
+    "Portuguese": 1,
+    "Spanish": 1
+   }
+  }
+ },
+ {
+  "list": "gthomas",
+  "n_entries": 82,
+  "target": [
+   "UNAMI_UnnamedInSource",
+   "DELAWARE_MUNSEE",
+   "PIDGIN_DELAWARE"
+  ],
+  "target_source": "assigned",
+  "target_family": "Algic",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "The Indian Tongue | The English of it": {
+    "Turkish": 2,
+    "Spanish": 11,
+    "Tupi": 2,
+    "Portuguese": 2,
+    "Arabic": 1,
+    "Persian": 2,
+    "Malay": 1,
+    "TARGET": 1
+   },
+   "The Indian Counting | The English to it": {
+    "TARGET": 2,
+    "Malay": 3,
+    "Tupi": 1,
+    "Arabic": 3,
+    "Turkish": 1,
+    "Spanish": 4
+   }
+  }
+ },
+ {
+  "list": "chilesian",
+  "n_entries": 370,
+  "target": [
+   "Mapudungun",
+   "Mapudungun",
+   "Mapudungun"
+  ],
+  "target_source": "identified",
+  "target_family": "Araucanian",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "A View of the Chilesian Language": {
+    "TARGET": 135,
+    "Spanish": 18,
+    "Portuguese": 17,
+    "Turkish": 8,
+    "Persian": 13,
+    "Arabic": 12,
+    "Malay": 3,
+    "Tupi": 3
+   }
+  }
+ },
+ {
+  "list": "tupi_ogilby",
+  "n_entries": 262,
+  "target": [
+   "Tupinambá",
+   "Tupí",
+   "Tupí Austral"
+  ],
+  "target_source": "identified",
+  "target_family": "Tupian",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "Alphabet of nouns and adjectives: A.": {
+    "Turkish": 2,
+    "TARGET": 5,
+    "Spanish": 5,
+    "Portuguese": 1
+   },
+   "Alphabet of nouns and adjectives: B.": {
+    "Persian": 1
+   },
+   "Alphabet of nouns and adjectives: C.": {
+    "Malay": 1,
+    "Portuguese": 3,
+    "TARGET": 3,
+    "Spanish": 2,
+    "Persian": 2,
+    "Turkish": 2
+   },
+   "Alphabet of nouns and adjectives: E.": {
+    "TARGET": 1
+   },
+   "Alphabet of nouns and adjectives: G.": {
+    "TARGET": 2
+   },
+   "Alphabet of nouns and adjectives: I.": {
+    "TARGET": 9,
+    "Spanish": 5,
+    "Malay": 1,
+    "Portuguese": 1,
+    "Arabic": 2
+   },
+   "Alphabet of nouns and adjectives: M.": {
+    "Persian": 1,
+    "Spanish": 2,
+    "TARGET": 1,
+    "Turkish": 1
+   },
+   "Alphabet of nouns and adjectives: N.": {
+    "TARGET": 1
+   },
+   "Alphabet of nouns and adjectives: O.": {
+    "Spanish": 1
+   },
+   "Alphabet of nouns and adjectives: P.": {
+    "Spanish": 3,
+    "Persian": 1,
+    "TARGET": 10,
+    "Portuguese": 1
+   },
+   "Alphabet of nouns and adjectives: R.": {
+    "TARGET": 1
+   },
+   "Alphabet of nouns and adjectives: T.": {
+    "TARGET": 6,
+    "Portuguese": 2,
+    "Malay": 2,
+    "Arabic": 1,
+    "Spanish": 2,
+    "Persian": 2,
+    "Turkish": 1
+   },
+   "Alphabet of nouns and adjectives: U.": {
+    "Portuguese": 1
+   },
+   "Alphabet of nouns and adjectives: Y.": {
+    "Spanish": 1,
+    "Persian": 1
+   },
+   "The Words for Action: I.": {
+    "Arabic": 1
+   }
+  }
+ },
+ {
+  "list": "ludolf_gallan",
+  "n_entries": 14,
+  "target": [
+   "W_OROMO",
+   "EASTERN_OROMO_2",
+   "BORANA_OROMO"
+  ],
+  "target_source": "assigned",
+  "target_family": "Afro-Asiatic",
+  "affixes": [],
+  "body_affix": {
+   "body_with": 0,
+   "body_without": 0,
+   "other_with": 0,
+   "other_without": 0
+  },
+  "sections": {
+   "Gregory left me some words of the Gallan Language": {
+    "Turkish": 2,
+    "Tupi": 1,
+    "Portuguese": 1,
+    "TARGET": 3,
+    "Persian": 2,
+    "Spanish": 3
+   }
+  }
+ }
+]
