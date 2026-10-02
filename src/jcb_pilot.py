@@ -202,5 +202,116 @@ def scan():
     print(f"control recall: {len(hit)}/{len(ctrl)}; missed: {sorted(set(ctrl) - set(hit))}")
 
 
-if __name__ == "__main__":
+if __name__ == "__main__" and sys.argv[1] in ("list", "fetch", "scan"):
     {"list": list_items, "fetch": fetch, "scan": scan}[sys.argv[1]]()
+
+
+# ---- v2: book-level ranking and inline ("which they call X") mode ----
+
+# Naming cues, folded. The rare form is looked for in the few tokens after the cue.
+CUES = [[fold(w) for w in c.split()] for c in """
+they call|they called|is called|are called|in their language|in their tongue|which signifieth
+qu'ils appellent|qu ils appellent|qu'ils nomment|ils appellent|ils nomment|en leur langue|appellé|appelle
+que llaman|que llamã|llaman|llamado|llamada|en su lengua|en lengua|que dizen|que dicen
+que chamam|chamão|chamado|chamada|na sua lingua|em sua lingua|na lingua
+vocant|vocatur|appellant|appellatur|nuncupant|sua lingua|lingua sua|illorum lingua
+noemen|genaemt|ghenaemt|in haer tale|in hunne tale|in hunner sprach|nennen|genannt|in ihrer sprach
+""".replace("|", "\n").strip().splitlines()]
+
+
+def book_scores():
+    """Rank books by the strongest run of consecutive flagged chunks (tables are contiguous;
+    prose false positives are scattered), penalised by the share of the book that is flagged."""
+    import polars as pl
+    d = pl.read_csv(f"{W}/candidates.csv", infer_schema_length=0).with_columns(
+        pl.col("score").cast(int), pl.col("page").cast(int))
+    out = []
+    for (ia,), g in d.group_by("ia"):
+        g = g.sort("page")
+        pg, sc = g["page"].to_list(), g["score"].to_list()
+        best = cur = 0
+        for i, s in enumerate(sc):
+            cur = s + (cur if i and pg[i] == pg[i - 1] + 1 else 0)
+            best = max(best, cur)
+        nchunks = max(1, os.path.getsize(f"{TXT}/{ia}.txt") // 3000)
+        frac = len(pg) / nchunks
+        out.append(dict(ia=ia, run=best, max=max(sc), flagged=len(pg), frac=round(frac, 3),
+                        v2=round(best * max(sc) / (1 + 20 * frac), 1)))
+    return {r["ia"]: r for r in out}
+
+
+def wordlike_model(df):
+    """Character-trigram model of plausible word shapes, trained on forms transcribed for the site
+    (real historical spellings of non-European words) plus common corpus words. Returns a scorer
+    (mean log-prob per trigram) and a threshold at the 5th percentile of held-in site forms."""
+    import glob
+    import math
+    forms = []
+    for p in glob.glob("data/work/extract*/*.entries.csv"):
+        for r in csv.DictReader(open(p, encoding="utf-8")):
+            forms += [f for f in map(clean_token, TOKEN_RE.findall(r.get("form_as_printed") or "")) if f]
+    common = [t for t, c in df.most_common(20000)]
+    tri, bi = collections.Counter(), collections.Counter()
+    for w in forms * 3 + common:
+        w = f"^^{w}$"
+        for i in range(len(w) - 2):
+            tri[w[i:i + 3]] += 1
+            bi[w[i:i + 2]] += 1
+
+    def score(w):
+        w = f"^^{w}$"
+        return sum(math.log((tri[w[i:i + 3]] + 0.1) / (bi[w[i:i + 2]] + 3.0)) for i in range(len(w) - 2)) / (len(w) - 2)
+    ss = sorted(score(f) for f in forms)
+    return score, ss[len(ss) // 20]
+
+
+def inline():
+    """Count distinct rare forms that follow a naming cue preceded by a gloss word, per book
+    (e.g. "the water, which they call X"; "al agua llaman X")."""
+    items = {d["identifier"]: d for d in json.load(open(f"{W}/items.json"))}
+    texts = {ia: open(f"{TXT}/{ia}.txt", encoding="utf-8").read()
+             for ia in items if os.path.exists(f"{TXT}/{ia}.txt")}
+    toks = {ia: [clean_token(t) or "" for t in TOKEN_RE.findall(t)] for ia, t in texts.items()}
+    df = collections.Counter()
+    for ts in toks.values():
+        df.update(set(ts))
+    rare_max = max(2, len(texts) // 200)
+    score, thresh = wordlike_model(df)
+    print("wordlike threshold", round(thresh, 2))
+    rows = []
+    for ia, ts in toks.items():
+        forms = collections.Counter()
+        for i in range(len(ts)):
+            for c in CUES:
+                if ts[i:i + len(c)] == c and any(t in GLOSS for t in ts[max(0, i - 6):i]):
+                    for t in ts[i + len(c):i + len(c) + 4]:
+                        if t and t not in GLOSS and df[t] <= rare_max and score(t) >= thresh:
+                            forms[t] += 1
+                            break
+                    break
+        if len(forms) >= 3:
+            d = items[ia]
+            rows.append(dict(ia=ia, n_forms=len(forms), per_100k=round(1e5 * len(forms) / max(1, len(ts)), 1),
+                             control=d.get("control", False), date=str(d.get("date", ""))[:4],
+                             title=(d.get("title") or "")[:100],
+                             forms=" ".join(f for f, _ in forms.most_common(40))))
+    rows.sort(key=lambda r: -r["n_forms"])
+    with open(f"{W}/inline.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=list(rows[0]))
+        w.writeheader()
+        w.writerows(rows)
+    print(len(rows), "books with >=5 cued rare forms")
+
+
+def rank2():
+    import polars as pl
+    bs = pl.DataFrame(list(book_scores().values()))
+    b = pl.read_csv(f"{W}/books_ranked.csv", infer_schema_length=0).select(
+        "ia", pl.col("rank").cast(int).alias("rank_v1"), "control", "date", "language", "title", "chunks")
+    b = b.join(bs, on="ia").sort("v2", descending=True).with_row_index("rank_v2", 1)
+    b.write_csv(f"{W}/books_ranked_v2.csv")
+    print(b.filter(pl.col("control") == "true").select("ia", "rank_v1", "rank_v2"))
+
+
+if __name__ == "__main__" and sys.argv[1] in ("inline", "rank2"):
+    {"inline": inline, "rank2": rank2}[sys.argv[1]]()
