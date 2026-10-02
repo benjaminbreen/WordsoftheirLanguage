@@ -1,0 +1,6110 @@
+{
+ "schema": 1,
+ "id": "chile",
+ "wtl": "WTL-0008",
+ "heading": "A View of the Chilesian Language",
+ "headings": [
+  "A View of the Chilesian Language",
+  "CHAP. II. Chili."
+ ],
+ "language": {
+  "name": "Mapudungun",
+  "glottocode": "mapu1245",
+  "family": "Araucanian",
+  "path": [
+   "Araucanian"
+  ],
+  "labels": []
+ },
+ "region": "Caribbean & South America",
+ "book": {
+  "short": "America",
+  "title": "America : being the latest, and most accurate description of the new vvorld containing the original of the inhabitants, and the remarkable voyages thither, the conquest of the vast empires of Mexico and Peru and other large provinces and territories : with the several European plantations in those parts : also their cities, fortresses, towns, temples, mountains, and rivers : their habits, customs, manners, and religions, their plants, beasts, birds, and serpents : with an appendix containing, besides several other considerable additions, a brief survey of what hath been discover'd of the unknown south-land and the arctick region : collected from most authentick authors, augmented with later observations, and adorn'd with maps and sculptures / by John Ogilby ...",
+  "author": "John Ogilby",
+  "printed": 1671,
+  "imprint": "1671.",
+  "tcp": "A53222",
+  "cover": "ogilby"
+ },
+ "provenance": {
+  "collector": "Elias Herckmans's expedition",
+  "place": "Valdivia, Chile",
+  "heard": "1643"
+ },
+ "scan": {
+  "ia": "americabeinglate01mont",
+  "url": "https://archive.org/details/americabeinglate01mont",
+  "holder": "John Carter Brown Library",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 835,
+   "w": 3549,
+   "h": 5386,
+   "sm": "/scans/chile/0835-900.webp",
+   "lg": "/scans/chile/0835-1800.webp"
+  },
+  {
+   "leaf": 836,
+   "w": 3596,
+   "h": 5386,
+   "sm": "/scans/chile/0836-900.webp",
+   "lg": "/scans/chile/0836-1800.webp"
+  },
+  {
+   "leaf": 837,
+   "w": 3549,
+   "h": 5386,
+   "sm": "/scans/chile/0837-900.webp",
+   "lg": "/scans/chile/0837-1800.webp"
+  },
+  {
+   "leaf": 838,
+   "w": 3596,
+   "h": 5386,
+   "sm": "/scans/chile/0838-900.webp",
+   "lg": "/scans/chile/0838-1800.webp"
+  },
+  {
+   "leaf": 839,
+   "w": 3549,
+   "h": 5386,
+   "sm": "/scans/chile/0839-900.webp",
+   "lg": "/scans/chile/0839-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "TEpanto",
+   "gloss": "A Year.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "YEAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0556,
+    "y": 0.1361,
+    "w": 0.1224,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 2,
+   "form": "Tien",
+   "gloss": "A Moneth, or the Moon.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1066,
+    "y": 0.1441,
+    "w": 0.1984,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 3,
+   "form": "Toninco",
+   "gloss": "A Week.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WEEK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0511,
+    "y": 0.1611,
+    "w": 0.1511,
+    "h": 0.0147
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Spanish domingo; Febrés: 'Semana - idem' (Spanish word used); Mapudungun domingu 'week/Sunday'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 4,
+   "form": "Ante",
+   "gloss": "The Day, or Sun.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DAY",
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0519,
+    "y": 0.1775,
+    "w": 0.2072,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 5,
+   "form": "Paun",
+   "gloss": "The Night.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0511,
+    "y": 0.1951,
+    "w": 0.1573,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 6,
+   "form": "Tabuyo",
+   "gloss": "The Evening.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "EVENING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0514,
+    "y": 0.2122,
+    "w": 0.1931,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 7,
+   "form": "Eppoun",
+   "gloss": "The Morning.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MORNING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0511,
+    "y": 0.2289,
+    "w": 0.1982,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 8,
+   "form": "Rangiante",
+   "gloss": "Noon.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0505,
+    "y": 0.2458,
+    "w": 0.1528,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 9,
+   "form": "Eppoe",
+   "gloss": "The next Day after to Morrow.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.0497,
+    "y": 0.2604,
+    "w": 0.2553,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 10,
+   "form": "Vya",
+   "gloss": "Yesterday.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "YESTERDAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0508,
+    "y": 0.2957,
+    "w": 0.1385,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 11,
+   "form": "Putey",
+   "gloss": "The Day before Yesterday.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.05,
+    "y": 0.3119,
+    "w": 0.255,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 12,
+   "form": "Buchiante",
+   "gloss": "To Day.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0494,
+    "y": 0.3289,
+    "w": 0.1737,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 13,
+   "form": "Mintay",
+   "gloss": "Now.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0497,
+    "y": 0.346,
+    "w": 0.1235,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 14,
+   "form": "Weytiva",
+   "gloss": "At that time.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.0491,
+    "y": 0.3615,
+    "w": 0.1903,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 15,
+   "form": "Wantarulei",
+   "gloss": "In the Morning betimes.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.0491,
+    "y": 0.3782,
+    "w": 0.2559,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 16,
+   "form": "Biliante",
+   "gloss": "Always.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "ALWAYS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0502,
+    "y": 0.3963,
+    "w": 0.1509,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 17,
+   "form": "Chumel",
+   "gloss": "When.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WHEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0497,
+    "y": 0.413,
+    "w": 0.1314,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 18,
+   "form": "Chemchuem",
+   "gloss": "Also.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.05,
+    "y": 0.4295,
+    "w": 0.1472,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 19,
+   "form": "Hueno",
+   "gloss": "The Heavens.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0494,
+    "y": 0.4449,
+    "w": 0.1889,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 20,
+   "form": "Quereb",
+   "gloss": "The Air or Wind.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "AIR",
+    "WIND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0494,
+    "y": 0.4615,
+    "w": 0.2269,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 21,
+   "form": "Tomo",
+   "gloss": "The Clouds.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "CLOUD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0488,
+    "y": 0.4783,
+    "w": 0.1714,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 22,
+   "form": "Wangelen",
+   "gloss": "The Stars.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0494,
+    "y": 0.4951,
+    "w": 0.1745,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 23,
+   "form": "Pillan",
+   "gloss": "Thunder.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0494,
+    "y": 0.5133,
+    "w": 0.1489,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 24,
+   "form": "Gualio",
+   "gloss": "Lightning.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0494,
+    "y": 0.5299,
+    "w": 0.1613,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 25,
+   "form": "Puta que quereb",
+   "gloss": "A Storm.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "STORM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0488,
+    "y": 0.5448,
+    "w": 0.2275,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 26,
+   "form": "Maoni",
+   "gloss": "Rain.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0488,
+    "y": 0.5628,
+    "w": 0.1168,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 27,
+   "form": "Piren",
+   "gloss": "Snow.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0502,
+    "y": 0.5795,
+    "w": 0.117,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 28,
+   "form": "Veaquumao",
+   "gloss": "Dew.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DEW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0516,
+    "y": 0.5971,
+    "w": 0.1478,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 29,
+   "form": "Pillingei",
+   "gloss": "Ice.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0505,
+    "y": 0.6136,
+    "w": 0.1139,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 30,
+   "form": "Quetal",
+   "gloss": "Fire.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0514,
+    "y": 0.6304,
+    "w": 0.1083,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 31,
+   "form": "Ko",
+   "gloss": "Water.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0514,
+    "y": 0.646,
+    "w": 0.1475,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 32,
+   "form": "Tue",
+   "gloss": "The Earth.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0522,
+    "y": 0.6616,
+    "w": 0.1475,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 33,
+   "form": "Mappo",
+   "gloss": "The Land.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0525,
+    "y": 0.6803,
+    "w": 0.2525,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 34,
+   "form": "Pele",
+   "gloss": "Clay.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "CLAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0533,
+    "y": 0.6972,
+    "w": 0.2516,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 35,
+   "form": "Cura",
+   "gloss": "Stone.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0536,
+    "y": 0.7143,
+    "w": 0.11,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 36,
+   "form": "Maviel",
+   "gloss": "Wood.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0536,
+    "y": 0.7299,
+    "w": 0.2343,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 37,
+   "form": "Aluven",
+   "gloss": "Timber.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.0531,
+    "y": 0.7463,
+    "w": 0.2519,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 38,
+   "form": "Millia",
+   "gloss": "Gold.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GOLD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0542,
+    "y": 0.7633,
+    "w": 0.1114,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 39,
+   "form": "Lien",
+   "gloss": "Silver.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SILVER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0542,
+    "y": 0.7801,
+    "w": 0.1103,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 40,
+   "form": "Paila",
+   "gloss": "Brass.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BRASS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0542,
+    "y": 0.7967,
+    "w": 0.1083,
+    "h": 0.0147
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Brass/copper named after the Spanish copper pan; could also be ostension (vessel for metal).",
+    "compare": "Spanish paila 'copper basin, cauldron'",
+    "checked": true
+   }
+  },
+  {
+   "n": 41,
+   "form": "Titi",
+   "gloss": "Tin.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "TIN (METAL)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0545,
+    "y": 0.8132,
+    "w": 0.0869,
+    "h": 0.0147
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua titi 'lead/tin'; Mapudungun titi 'plomo, estaño'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 42,
+   "form": "Pavillue",
+   "gloss": "Iron.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0547,
+    "y": 0.8296,
+    "w": 0.1235,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 43,
+   "form": "Quatal-cura",
+   "gloss": "A Pebble-stone.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.0531,
+    "y": 0.8446,
+    "w": 0.2422,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 44,
+   "form": "Chadi",
+   "gloss": "Salt.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SALT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0536,
+    "y": 0.8632,
+    "w": 0.1024,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "Lyl",
+   "gloss": "A Rock.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "ROCK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0525,
+    "y": 0.8786,
+    "w": 0.1162,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 46,
+   "form": "Milla-mappen",
+   "gloss": "A Golden Vein.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.0519,
+    "y": 0.8946,
+    "w": 0.2529,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 47,
+   "form": "Aliquen",
+   "gloss": "A Tree.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4047,
+    "y": 0.1259,
+    "w": 0.1475,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 48,
+   "form": "Cahu",
+   "gloss": "Herbs.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HERB"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua q'achu 'grass, fodder' > Mapudungun kachu",
+    "compare": null,
+    "checked": true
+   },
+   "box": {
+    "page": 0,
+    "x": 0.4047,
+    "y": 0.1434,
+    "w": 0.1475,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 49,
+   "form": "Nebo",
+   "gloss": "Nuts.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NUT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4047,
+    "y": 0.1608,
+    "w": 0.1106,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 50,
+   "form": "Pino",
+   "gloss": "Grass.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GRASS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4047,
+    "y": 0.1771,
+    "w": 0.1052,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 51,
+   "form": "Cayron",
+   "gloss": "Hay.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4056,
+    "y": 0.1949,
+    "w": 0.1092,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 52,
+   "form": "Wento",
+   "gloss": "A Man.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4056,
+    "y": 0.2096,
+    "w": 0.1314,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 53,
+   "form": "Domo",
+   "gloss": "A Wife.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4056,
+    "y": 0.2278,
+    "w": 0.1382,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 54,
+   "form": "Quiduugen",
+   "gloss": "A Youth.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4056,
+    "y": 0.2428,
+    "w": 0.1768,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 55,
+   "form": "Yecho",
+   "gloss": "A Maiden",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4056,
+    "y": 0.2601,
+    "w": 0.1768,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 56,
+   "form": "Penien",
+   "gloss": "A Boy.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4047,
+    "y": 0.2774,
+    "w": 0.1297,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 57,
+   "form": "Domo-penien",
+   "gloss": "A Girl.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4047,
+    "y": 0.2929,
+    "w": 0.1748,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 58,
+   "form": "Chou",
+   "gloss": "A Father.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4047,
+    "y": 0.3098,
+    "w": 0.1345,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 59,
+   "form": "Nenque",
+   "gloss": "A Mother.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4047,
+    "y": 0.3264,
+    "w": 0.1678,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 60,
+   "form": "Cheche",
+   "gloss": "A Grandfather.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GRANDFATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4053,
+    "y": 0.3597,
+    "w": 0.2571,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 61,
+   "form": "Domo-cheche",
+   "gloss": "A Grandmother.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GRANDMOTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4053,
+    "y": 0.3597,
+    "w": 0.2571,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 62,
+   "form": "Wenco",
+   "gloss": "Mothers Brother.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4056,
+    "y": 0.3762,
+    "w": 0.2126,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 63,
+   "form": "Mama",
+   "gloss": "Mothers Sister.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4056,
+    "y": 0.393,
+    "w": 0.1909,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 64,
+   "form": "Pelchuchan",
+   "gloss": "A Stepfather.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "STEPFATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4053,
+    "y": 0.4113,
+    "w": 0.2148,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 65,
+   "form": "Caulla",
+   "gloss": "A Stepmother.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "STEPMOTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4058,
+    "y": 0.4282,
+    "w": 0.1897,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 66,
+   "form": "Botum",
+   "gloss": "A Son.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4058,
+    "y": 0.4441,
+    "w": 0.1244,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 67,
+   "form": "Neaque",
+   "gloss": "A Daughter.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4061,
+    "y": 0.4618,
+    "w": 0.1852,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 68,
+   "form": "Penu",
+   "gloss": "A Brother.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4061,
+    "y": 0.4777,
+    "w": 0.1509,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 69,
+   "form": "Lamoen",
+   "gloss": "A Sister.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4064,
+    "y": 0.4942,
+    "w": 0.1469,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 70,
+   "form": "Guempo",
+   "gloss": "A Father-in-law.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FATHER-IN-LAW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.407,
+    "y": 0.5108,
+    "w": 0.2236,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 71,
+   "form": "Vilca",
+   "gloss": "A Mother-in-law.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MOTHER-IN-LAW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4064,
+    "y": 0.5278,
+    "w": 0.2171,
+    "h": 0.0147,
+    "approx": true
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Febrés: villca = what a woman calls her husband's sister (sister-in-law)",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 72,
+   "form": "Choupa",
+   "gloss": "A Son-in-law.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SON-IN-LAW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4058,
+    "y": 0.5438,
+    "w": 0.194,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 73,
+   "form": "Weuro-pencho",
+   "gloss": "A Kinsman.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4067,
+    "y": 0.5598,
+    "w": 0.2196,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 74,
+   "form": "Buytha",
+   "gloss": "An old Man.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4075,
+    "y": 0.5764,
+    "w": 0.1844,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 75,
+   "form": "Cude",
+   "gloss": "An old Woman.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4075,
+    "y": 0.5931,
+    "w": 0.1928,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 76,
+   "form": "Cunewa",
+   "gloss": "An Hospital Child.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4078,
+    "y": 0.6107,
+    "w": 0.2368,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 77,
+   "form": "Peneinboe",
+   "gloss": "A Guardian.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4078,
+    "y": 0.6263,
+    "w": 0.1976,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 78,
+   "form": "Apo-curaca",
+   "gloss": "A Governor.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4081,
+    "y": 0.6432,
+    "w": 0.214,
+    "h": 0.0147
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua apu 'lord' + kuraka 'chief'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 79,
+   "form": "Curaca",
+   "gloss": "A Lord.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LORD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4084,
+    "y": 0.6599,
+    "w": 0.1393,
+    "h": 0.0147
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua kuraka 'chief'; Schuller: 'Curaca, Dominus, A Lord'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 80,
+   "form": "Apo",
+   "gloss": "A supream Commander.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4078,
+    "y": 0.6784,
+    "w": 0.252,
+    "h": 0.0147
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua apu 'great lord'; Schuller: 'Apo Generalissimus'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 81,
+   "form": "Nentoque",
+   "gloss": "A Ruler.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "RULER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4078,
+    "y": 0.6937,
+    "w": 0.1666,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 82,
+   "form": "Ulmen",
+   "gloss": "A Person of Quality.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4078,
+    "y": 0.7268,
+    "w": 0.192,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 83,
+   "form": "Pulmen",
+   "gloss": "A Gentleman.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4078,
+    "y": 0.7268,
+    "w": 0.192,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 84,
+   "form": "Machi",
+   "gloss": "A Chirurgeon.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4078,
+    "y": 0.7455,
+    "w": 0.1886,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 85,
+   "form": "Cona",
+   "gloss": "A Soldier.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SOLDIER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4081,
+    "y": 0.7602,
+    "w": 0.1416,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 86,
+   "form": "Retave-caman",
+   "gloss": "A Smith.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4075,
+    "y": 0.777,
+    "w": 0.2021,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 87,
+   "form": "Guito-wok",
+   "gloss": "A Weaver.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4081,
+    "y": 0.7938,
+    "w": 0.1878,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 88,
+   "form": "Challo-acaman",
+   "gloss": "A Fisher-man.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4078,
+    "y": 0.8102,
+    "w": 0.2447,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 89,
+   "form": "Nilla-caboe",
+   "gloss": "A Merchant.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MERCHANT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4075,
+    "y": 0.8271,
+    "w": 0.2131,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 90,
+   "form": "Turnitave",
+   "gloss": "A Dyer.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.407,
+    "y": 0.845,
+    "w": 0.1635,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 91,
+   "form": "Chumpiro-caman",
+   "gloss": "A Cap-maker.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4078,
+    "y": 0.8619,
+    "w": 0.2616,
+    "h": 0.0147,
+    "approx": true
+   }
+  },
+  {
+   "n": 92,
+   "form": "Tultunca-caman",
+   "gloss": "A Drummer.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 0,
+    "x": 0.4064,
+    "y": 0.8776,
+    "w": 0.2486,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 93,
+   "form": "Inchetaniweni",
+   "gloss": "A Servant.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SERVANT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4058,
+    "y": 0.8942,
+    "w": 0.2086,
+    "h": 0.0147
+   }
+  },
+  {
+   "n": 94,
+   "form": "Voerquin",
+   "gloss": "A Messenger.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2548,
+    "y": 0.078,
+    "w": 0.0501,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 95,
+   "form": "Langamcheboe",
+   "gloss": "A Murderer.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2556,
+    "y": 0.0935,
+    "w": 0.0493,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 96,
+   "form": "Chiquiboe",
+   "gloss": "A Thief.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "THIEF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2565,
+    "y": 0.1096,
+    "w": 0.0484,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 97,
+   "form": "Illuiboe",
+   "gloss": "A Beggar.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BEGGAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2559,
+    "y": 0.1271,
+    "w": 0.049,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 98,
+   "form": "Alvee",
+   "gloss": "The Devil.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DEVIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2568,
+    "y": 0.1428,
+    "w": 0.0482,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 99,
+   "form": "Ruca",
+   "gloss": "A House.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2562,
+    "y": 0.1593,
+    "w": 0.0487,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 100,
+   "form": "Ullin",
+   "gloss": "A Door.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DOOR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2554,
+    "y": 0.1763,
+    "w": 0.0496,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 101,
+   "form": "Chaquana",
+   "gloss": "A pair of Stairs.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2559,
+    "y": 0.1941,
+    "w": 0.049,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua chakana 'ladder, stair' (chaka 'bridge')",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 102,
+   "form": "Pylca",
+   "gloss": "A Wall.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WALL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2554,
+    "y": 0.2095,
+    "w": 0.0496,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua pirqa 'wall' > Mapudungun pirka 'pared'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 103,
+   "form": "Wana-ruca",
+   "gloss": "The Roof.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "ROOF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2556,
+    "y": 0.2269,
+    "w": 0.0493,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 104,
+   "form": "Pithe-ruca",
+   "gloss": "A Hut.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HUT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2545,
+    "y": 0.2431,
+    "w": 0.0504,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 105,
+   "form": "Colcura",
+   "gloss": "A Cupboard.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "CUPBOARD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2545,
+    "y": 0.2607,
+    "w": 0.0504,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 106,
+   "form": "Cawyto",
+   "gloss": "A Bedstead.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2543,
+    "y": 0.2763,
+    "w": 0.0507,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua kawitu 'wooden bed' > Mapudungun kawitu 'catre'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 107,
+   "form": "Depotuarica",
+   "gloss": "A Prison.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "PRISON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2531,
+    "y": 0.2933,
+    "w": 0.0518,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 108,
+   "form": "Weltelve",
+   "gloss": "A Gibbet.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2534,
+    "y": 0.3095,
+    "w": 0.0515,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 109,
+   "form": "Pengal",
+   "gloss": "A Grave.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GRAVE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2523,
+    "y": 0.3265,
+    "w": 0.0526,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 110,
+   "form": "Lonquen",
+   "gloss": "The Sea.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SEA"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2509,
+    "y": 0.3435,
+    "w": 0.054,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 111,
+   "form": "Leva",
+   "gloss": "The River.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2509,
+    "y": 0.3601,
+    "w": 0.054,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 112,
+   "form": "Buta-wampo",
+   "gloss": "A Ship.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2495,
+    "y": 0.3774,
+    "w": 0.0554,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua wampu 'boat, canoe'; futa 'big'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 113,
+   "form": "Aliwen",
+   "gloss": "A Mast.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MAST"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2495,
+    "y": 0.3931,
+    "w": 0.0554,
+    "h": 0.0132,
+    "approx": true
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Mapudungun aliwen 'tree' (Febrés alihuen; same list n47 Aliquen 'tree')",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 114,
+   "form": "Mou",
+   "gloss": "Ropes.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2495,
+    "y": 0.4116,
+    "w": 0.0554,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 115,
+   "form": "Dolio",
+   "gloss": "A Canoo.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.249,
+    "y": 0.4269,
+    "w": 0.056,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 116,
+   "form": "Wampo",
+   "gloss": "A Boat.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.249,
+    "y": 0.4436,
+    "w": 0.056,
+    "h": 0.0132,
+    "approx": true
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua wampu 'boat, raft' > Mapudungun wampu 'canoe'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 117,
+   "form": "Vela",
+   "gloss": "Sails.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SAIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2479,
+    "y": 0.459,
+    "w": 0.0571,
+    "h": 0.0132,
+    "approx": true
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Direct Spanish.",
+    "compare": "Spanish vela 'sail'",
+    "checked": true
+   }
+  },
+  {
+   "n": 118,
+   "form": "Wyta",
+   "gloss": "An Oar.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "OAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2481,
+    "y": 0.4771,
+    "w": 0.0568,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 119,
+   "form": "Tubquen",
+   "gloss": "Ashes.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "ASH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2473,
+    "y": 0.4943,
+    "w": 0.0576,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 120,
+   "form": "Cuju",
+   "gloss": "A dead Coal.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2473,
+    "y": 0.5107,
+    "w": 0.0587,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 121,
+   "form": "Ale",
+   "gloss": "The Flame.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FLAME"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2462,
+    "y": 0.527,
+    "w": 0.0587,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 122,
+   "form": "Aypel",
+   "gloss": "A burning Coal.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2459,
+    "y": 0.5444,
+    "w": 0.059,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 123,
+   "form": "Wietum",
+   "gloss": "Smoak.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2448,
+    "y": 0.5605,
+    "w": 0.0601,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 124,
+   "form": "Catila",
+   "gloss": "a Candle.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "CANDLE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2454,
+    "y": 0.5766,
+    "w": 0.0596,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 125,
+   "form": "Wyno",
+   "gloss": "A Knife.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2445,
+    "y": 0.5928,
+    "w": 0.0604,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 126,
+   "form": "Witi",
+   "gloss": "A Spoon.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SPOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2431,
+    "y": 0.6104,
+    "w": 0.0618,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 127,
+   "form": "Guidi",
+   "gloss": "A Pot.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "POT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2437,
+    "y": 0.6265,
+    "w": 0.0612,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 128,
+   "form": "Lepoboruwe",
+   "gloss": "A Tooth-picker.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2431,
+    "y": 0.6442,
+    "w": 0.0618,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 129,
+   "form": "Pavilla-lonco",
+   "gloss": "An Helmet.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HELMET"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2417,
+    "y": 0.6608,
+    "w": 0.0632,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 130,
+   "form": "Waiqui",
+   "gloss": "A Pike.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "PIKE (FISH)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2415,
+    "y": 0.6773,
+    "w": 0.0635,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 131,
+   "form": "Pylqui",
+   "gloss": "A Dart.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.242,
+    "y": 0.694,
+    "w": 0.0629,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 132,
+   "form": "Pulque-tuboi",
+   "gloss": "A Bowe.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2404,
+    "y": 0.7112,
+    "w": 0.0646,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 133,
+   "form": "Tultunca",
+   "gloss": "A Trumpet.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "TRUMPET"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.242,
+    "y": 0.7273,
+    "w": 0.0629,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 134,
+   "form": "Mecane",
+   "gloss": "An Iron Club.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2412,
+    "y": 0.7443,
+    "w": 0.0637,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 135,
+   "form": "Cachal",
+   "gloss": "An Awl.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "AWL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2401,
+    "y": 0.7603,
+    "w": 0.0648,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 136,
+   "form": "Wita",
+   "gloss": "A Spade.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SPADE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2398,
+    "y": 0.7767,
+    "w": 0.0651,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 137,
+   "form": "Juisue",
+   "gloss": "A Sieve.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SIEVE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.237,
+    "y": 0.7932,
+    "w": 0.0679,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 138,
+   "form": "Chilca",
+   "gloss": "A Letter.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LETTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2392,
+    "y": 0.8097,
+    "w": 0.0657,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua qillqa 'writing, letter' > Mapudungun chillka",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 139,
+   "form": "Charavilla",
+   "gloss": "A pair of Breeches.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2381,
+    "y": 0.8276,
+    "w": 0.0668,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Spanish zaragüelles 'breeches'; Febrés 'Calzones - charahuilla'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 140,
+   "form": "Icha",
+   "gloss": "A Womans Garment.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.2376,
+    "y": 0.8437,
+    "w": 0.0674,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 141,
+   "form": "Domo-ruida",
+   "gloss": "A Coat.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "COAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.239,
+    "y": 0.8606,
+    "w": 0.066,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 142,
+   "form": "Couchon",
+   "gloss": "A Bag.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BAG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2398,
+    "y": 0.8767,
+    "w": 0.0651,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 143,
+   "form": "Pino-chompiro",
+   "gloss": "A Straw Cap.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.239,
+    "y": 0.8955,
+    "w": 0.066,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Spanish sombrero > Mapudungun chumpiru; Febrés 'Sombrero - chumpiru'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 144,
+   "form": "Congi",
+   "gloss": "Food.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.606,
+    "y": 0.0815,
+    "w": 0.1049,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 145,
+   "form": "Cobque",
+   "gloss": "Bread.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6055,
+    "y": 0.0986,
+    "w": 0.1241,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 146,
+   "form": "Nul-cobque",
+   "gloss": "The Crumb.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.6049,
+    "y": 0.1143,
+    "w": 0.2112,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 147,
+   "form": "Liquangue",
+   "gloss": "Light.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LIGHT (COLOR)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6063,
+    "y": 0.1327,
+    "w": 0.1486,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 148,
+   "form": "Dumingei",
+   "gloss": "Darkness.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DARKNESS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.606,
+    "y": 0.1486,
+    "w": 0.1714,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 149,
+   "form": "Quemeiquen",
+   "gloss": "Dainties.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.6069,
+    "y": 0.1654,
+    "w": 0.182,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 150,
+   "form": "Medda",
+   "gloss": "Pap.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.606,
+    "y": 0.1821,
+    "w": 0.1072,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 151,
+   "form": "Core",
+   "gloss": "Broth.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.6066,
+    "y": 0.1978,
+    "w": 0.1044,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 152,
+   "form": "Ilon",
+   "gloss": "Flesh.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6058,
+    "y": 0.2144,
+    "w": 0.0991,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 153,
+   "form": "Cuichalon",
+   "gloss": "Mutton.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.6063,
+    "y": 0.2315,
+    "w": 0.157,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 154,
+   "form": "Wara-ilon",
+   "gloss": "Beef.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BEEF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.606,
+    "y": 0.2484,
+    "w": 0.133,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 155,
+   "form": "Chuchi-ilon",
+   "gloss": "Pork.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "PORK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.606,
+    "y": 0.2651,
+    "w": 0.1492,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Hybrid compound with native ilo 'meat'.",
+    "compare": "Mapudungun kuchi 'pig' < Spanish cochino/coche",
+    "checked": false
+   }
+  },
+  {
+   "n": 156,
+   "form": "Chuchi-chain",
+   "gloss": "A Gammon of Bacon.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.6052,
+    "y": 0.2819,
+    "w": 0.3016,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 157,
+   "form": "Chaditues-ilon",
+   "gloss": "Salt.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SALT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6046,
+    "y": 0.2986,
+    "w": 0.1622,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "Gloss printed 'Salt.' but form is 'salt meat' (duplicate of n=44 gloss).",
+    "compare": "Mapudungun chadi 'salt' + ilo 'meat' = salted meat",
+    "checked": true
+   }
+  },
+  {
+   "n": 158,
+   "form": "Caucan",
+   "gloss": "Roast-meat.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.6041,
+    "y": 0.3153,
+    "w": 0.1703,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua kankay 'to roast' > Mapudungun kankan 'roast'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 159,
+   "form": "Avaun",
+   "gloss": "Boyl'd-meat.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.6033,
+    "y": 0.3331,
+    "w": 0.1778,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 160,
+   "form": "Puytscha",
+   "gloss": "The Guts.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GUTS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6041,
+    "y": 0.3487,
+    "w": 0.1692,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 161,
+   "form": "Curam",
+   "gloss": "An Egg.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "EGG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6024,
+    "y": 0.3826,
+    "w": 0.2696,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 162,
+   "form": "Quecuram",
+   "gloss": "The Yolk of an Egg.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.6024,
+    "y": 0.3826,
+    "w": 0.2696,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 163,
+   "form": "Lycuram",
+   "gloss": "The White of an Egg.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.6019,
+    "y": 0.3997,
+    "w": 0.2712,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 164,
+   "form": "Iwyn",
+   "gloss": "Butter.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BUTTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6019,
+    "y": 0.4159,
+    "w": 0.1141,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 165,
+   "form": "Ylu",
+   "gloss": "Milk.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MILK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6019,
+    "y": 0.4321,
+    "w": 0.0935,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 166,
+   "form": "Puuloo",
+   "gloss": "Drink.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.601,
+    "y": 0.4496,
+    "w": 0.1272,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 167,
+   "form": "Vino",
+   "gloss": "Wine.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WINE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6005,
+    "y": 0.4663,
+    "w": 0.1075,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Direct Spanish.",
+    "compare": "Spanish vino 'wine'",
+    "checked": true
+   }
+  },
+  {
+   "n": 168,
+   "form": "Chiche",
+   "gloss": "Beer.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BEER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5991,
+    "y": 0.4835,
+    "w": 0.1088,
+    "h": 0.0132
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Colonial lingua-franca word for maize beer.",
+    "compare": "chicha (Spanish, of Caribbean/Panamanian origin); Mapudungun native term muday",
+    "checked": true
+   }
+  },
+  {
+   "n": 169,
+   "form": "Cutan",
+   "gloss": "Pain or Sickness.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "PAIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5985,
+    "y": 0.5002,
+    "w": 0.2045,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 170,
+   "form": "Aren-cutan",
+   "gloss": "A Feaver.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.5985,
+    "y": 0.5177,
+    "w": 0.1823,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 171,
+   "form": "Towongen",
+   "gloss": "The Head.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5982,
+    "y": 0.5333,
+    "w": 0.1864,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 172,
+   "form": "Cancocultano",
+   "gloss": "The Head-ache.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.598,
+    "y": 0.5494,
+    "w": 0.249,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 173,
+   "form": "Veno-aren",
+   "gloss": "Scabs.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.5963,
+    "y": 0.566,
+    "w": 0.1411,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 174,
+   "form": "Albungien",
+   "gloss": "A Wound.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WOUND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.596,
+    "y": 0.5827,
+    "w": 0.1848,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 175,
+   "form": "Molbuen",
+   "gloss": "Blood.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5949,
+    "y": 0.599,
+    "w": 0.1375,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 176,
+   "form": "Touma",
+   "gloss": "A blind Man.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.5952,
+    "y": 0.6158,
+    "w": 0.1873,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 177,
+   "form": "Cawinto",
+   "gloss": "A Meal.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MEAL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5944,
+    "y": 0.6324,
+    "w": 0.1442,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 178,
+   "form": "Colchou",
+   "gloss": "The Small-pox.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.5944,
+    "y": 0.6494,
+    "w": 0.2081,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 179,
+   "form": "Wocubu",
+   "gloss": "A wild Beast.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.593,
+    "y": 0.6666,
+    "w": 0.1942,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 180,
+   "form": "Pangy",
+   "gloss": "A Lyon.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LION"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5924,
+    "y": 0.6831,
+    "w": 0.1383,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 181,
+   "form": "Naguel",
+   "gloss": "A Tyger.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "TIGER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.591,
+    "y": 0.6998,
+    "w": 0.1553,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 182,
+   "form": "Cuchy",
+   "gloss": "A Swine.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.591,
+    "y": 0.7162,
+    "w": 0.1394,
+    "h": 0.0132,
+    "approx": true
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua khuchi 'pig'; Schuller 'Cuchy Sus A Swine'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 183,
+   "form": "Michun",
+   "gloss": "A Calf.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "CALF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5905,
+    "y": 0.7328,
+    "w": 0.1372,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 184,
+   "form": "Dewe",
+   "gloss": "A Mouse.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MOUSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5907,
+    "y": 0.7494,
+    "w": 0.1403,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 185,
+   "form": "Waren",
+   "gloss": "A Rat.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "RAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5899,
+    "y": 0.7663,
+    "w": 0.1214,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 186,
+   "form": "Twe-dewe",
+   "gloss": "A Mole.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MOLE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5888,
+    "y": 0.7832,
+    "w": 0.1636,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 187,
+   "form": "Tewa",
+   "gloss": "A Dog.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5888,
+    "y": 0.8001,
+    "w": 0.1233,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 188,
+   "form": "Pulpeo",
+   "gloss": "A Fox.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FOX"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5885,
+    "y": 0.8167,
+    "w": 0.1255,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 189,
+   "form": "Guetaltuange",
+   "gloss": "A Hare.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HARE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5891,
+    "y": 0.8335,
+    "w": 0.1784,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 190,
+   "form": "Noquen",
+   "gloss": "A She-bear.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.5877,
+    "y": 0.8499,
+    "w": 0.1742,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 191,
+   "form": "Lame",
+   "gloss": "A Sea-Dog.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.5868,
+    "y": 0.8672,
+    "w": 0.162,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 192,
+   "form": "Lemo-cuchi",
+   "gloss": "A wild Swine.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 1,
+    "x": 0.5885,
+    "y": 0.8841,
+    "w": 0.2187,
+    "h": 0.0132,
+    "approx": true
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua khuchi 'pig'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 193,
+   "form": "Chumam",
+   "gloss": "A Bear.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BEAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5893,
+    "y": 0.9002,
+    "w": 0.1456,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 194,
+   "form": "Puedo",
+   "gloss": "A Sea-Goat.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0439,
+    "y": 0.0821,
+    "w": 0.1737,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 195,
+   "form": "Quelen",
+   "gloss": "A Tail.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "TAIL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0439,
+    "y": 0.0984,
+    "w": 0.1329,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 196,
+   "form": "Chiliweki",
+   "gloss": "A Sheep.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SHEEP"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0442,
+    "y": 0.1162,
+    "w": 0.1616,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 197,
+   "form": "Zuneu",
+   "gloss": "a Bird.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0444,
+    "y": 0.1317,
+    "w": 0.1298,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 198,
+   "form": "Lyppe",
+   "gloss": "A Plume.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0447,
+    "y": 0.1484,
+    "w": 0.1447,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 199,
+   "form": "Mepoiinem",
+   "gloss": "A Wing.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WING"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.045,
+    "y": 0.1661,
+    "w": 0.1695,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 200,
+   "form": "Dani-inem",
+   "gloss": "A Nest.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NEST"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0456,
+    "y": 0.1829,
+    "w": 0.1658,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 201,
+   "form": "Achaival",
+   "gloss": "a Hen.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0453,
+    "y": 0.1977,
+    "w": 0.1382,
+    "h": 0.0152
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua Atawallpa > Mapudungun achawall 'hen'; Schuller 'Achawal gallina'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 202,
+   "form": "Alchahawal",
+   "gloss": "a Cock.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0433,
+    "y": 0.2142,
+    "w": 0.1737,
+    "h": 0.0152
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "alka 'male' + achawall (Quechua Atawallpa)",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 203,
+   "form": "Pylken",
+   "gloss": "A Duck.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DUCK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0456,
+    "y": 0.2313,
+    "w": 0.143,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 204,
+   "form": "Jeca",
+   "gloss": "A Raven.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "RAVEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0436,
+    "y": 0.2482,
+    "w": 0.1365,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 205,
+   "form": "Guereo",
+   "gloss": "A Magpye.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MAGPIE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0467,
+    "y": 0.2659,
+    "w": 0.1667,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 206,
+   "form": "Cogo",
+   "gloss": "A Cuckow.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0458,
+    "y": 0.2814,
+    "w": 0.1535,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 207,
+   "form": "Nullyn",
+   "gloss": "A Bee.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BEE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.045,
+    "y": 0.2979,
+    "w": 0.1281,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 208,
+   "form": "Pulli",
+   "gloss": "A Flye.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FLY (INSECT)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0458,
+    "y": 0.3159,
+    "w": 0.1233,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 209,
+   "form": "Vulgumusky",
+   "gloss": "The King of Bees.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0464,
+    "y": 0.3304,
+    "w": 0.2577,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 210,
+   "form": "Petar",
+   "gloss": "A Louse.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LOUSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0456,
+    "y": 0.3471,
+    "w": 0.1394,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 211,
+   "form": "Perem",
+   "gloss": "A Flea.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FLEA"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0458,
+    "y": 0.3647,
+    "w": 0.1309,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 212,
+   "form": "Piro",
+   "gloss": "A Worm.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WORM"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0461,
+    "y": 0.3814,
+    "w": 0.1354,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 213,
+   "form": "Vilo",
+   "gloss": "A Serpent.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0467,
+    "y": 0.3992,
+    "w": 0.1411,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 214,
+   "form": "Bylcum",
+   "gloss": "A Hedghog.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0467,
+    "y": 0.4167,
+    "w": 0.176,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 215,
+   "form": "Ponono",
+   "gloss": "A Toad.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "TOAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0464,
+    "y": 0.431,
+    "w": 0.147,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 216,
+   "form": "Challua",
+   "gloss": "A Fish.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.047,
+    "y": 0.4493,
+    "w": 0.1357,
+    "h": 0.0152,
+    "approx": true
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua challwa 'fish'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 217,
+   "form": "Cawel",
+   "gloss": "A Dolphin.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DOLPHIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0473,
+    "y": 0.4658,
+    "w": 0.1644,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 218,
+   "form": "Iene",
+   "gloss": "A Whale.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WHALE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0473,
+    "y": 0.4814,
+    "w": 0.1301,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 219,
+   "form": "Vouqui",
+   "gloss": "A Grigg.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0498,
+    "y": 0.4997,
+    "w": 0.1461,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 220,
+   "form": "Vilochalva",
+   "gloss": "An Eel.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0489,
+    "y": 0.5145,
+    "w": 0.1611,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 221,
+   "form": "Chadituel-chalva",
+   "gloss": "Salt-fish.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0504,
+    "y": 0.5314,
+    "w": 0.216,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 222,
+   "form": "Anquen-chalva",
+   "gloss": "Dry'd-fish.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0509,
+    "y": 0.5488,
+    "w": 0.2216,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 223,
+   "form": "Quinpilon",
+   "gloss": "Oysters.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "OYSTERS"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0506,
+    "y": 0.5657,
+    "w": 0.1585,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 224,
+   "form": "Chapes",
+   "gloss": "Mussles.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0515,
+    "y": 0.5821,
+    "w": 0.1419,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 225,
+   "form": "Coinow",
+   "gloss": "A Crab.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "CRAB"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.052,
+    "y": 0.5967,
+    "w": 0.1419,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 226,
+   "form": "Quichiquinchio",
+   "gloss": "a Falcon.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FALCON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0526,
+    "y": 0.6125,
+    "w": 0.2076,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 227,
+   "form": "Manco",
+   "gloss": "A Crane.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "CRANE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0532,
+    "y": 0.6301,
+    "w": 0.1506,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 228,
+   "form": "Choroi",
+   "gloss": "A Parrot.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "PARROT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.054,
+    "y": 0.6469,
+    "w": 0.1504,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 229,
+   "form": "Pilo",
+   "gloss": "Dead.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DEAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0543,
+    "y": 0.6654,
+    "w": 0.1044,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 230,
+   "form": "Hilca",
+   "gloss": "A one-ey'd Person.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0554,
+    "y": 0.6816,
+    "w": 0.2228,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 231,
+   "form": "Topilgen",
+   "gloss": "To squint.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0557,
+    "y": 0.6977,
+    "w": 0.1735,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 232,
+   "form": "Topil",
+   "gloss": "Lame.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LAME"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0563,
+    "y": 0.7157,
+    "w": 0.1148,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 233,
+   "form": "Poo",
+   "gloss": "A Bough.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0568,
+    "y": 0.7314,
+    "w": 0.1402,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 234,
+   "form": "Kempomamel",
+   "gloss": "Dry Wood.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0568,
+    "y": 0.7479,
+    "w": 0.2211,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 235,
+   "form": "Bopemamel",
+   "gloss": "Wither'd Wood.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0574,
+    "y": 0.7625,
+    "w": 0.2416,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 236,
+   "form": "Nobue",
+   "gloss": "An Acorn.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "ACORN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.058,
+    "y": 0.7801,
+    "w": 0.163,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 237,
+   "form": "Nido-iwas",
+   "gloss": "A Vineyard.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0577,
+    "y": 0.7978,
+    "w": 0.2129,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 238,
+   "form": "Nidu",
+   "gloss": "A Pole.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0582,
+    "y": 0.8138,
+    "w": 0.1256,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 239,
+   "form": "Vanguen",
+   "gloss": "Straw-berries.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0594,
+    "y": 0.8323,
+    "w": 0.2047,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 240,
+   "form": "Couchow",
+   "gloss": "Black-berries.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0597,
+    "y": 0.8478,
+    "w": 0.2019,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 241,
+   "form": "Litue",
+   "gloss": "Toad-stools.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0591,
+    "y": 0.8646,
+    "w": 0.1656,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 242,
+   "form": "Pilun-proque",
+   "gloss": "Plantain.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "PLANTAIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0591,
+    "y": 0.882,
+    "w": 0.1966,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 243,
+   "form": "Calicai",
+   "gloss": "Clover-grass.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.0605,
+    "y": 0.8979,
+    "w": 0.1828,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 244,
+   "form": "Curi",
+   "gloss": "Stinking Nettles.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.4006,
+    "y": 0.0808,
+    "w": 0.2014,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 245,
+   "form": "Pragyn",
+   "gloss": "Flowers.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FLOWER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3992,
+    "y": 0.0975,
+    "w": 0.1456,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 246,
+   "form": "Manen",
+   "gloss": "Seed.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SEED"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3995,
+    "y": 0.1135,
+    "w": 0.1129,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 247,
+   "form": "Methen",
+   "gloss": "Meal.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MEAL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3986,
+    "y": 0.1297,
+    "w": 0.1258,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 248,
+   "form": "Chiquelen",
+   "gloss": "To gather.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GATHER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3992,
+    "y": 0.1466,
+    "w": 0.1813,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 249,
+   "form": "Gueli-vanca",
+   "gloss": "Coral.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.3992,
+    "y": 0.1631,
+    "w": 0.1622,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 250,
+   "form": "Kispi",
+   "gloss": "Glass.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GLASS"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Andean term.",
+    "compare": "Quechua qispi 'crystal, glass'",
+    "checked": true
+   },
+   "box": {
+    "page": 2,
+    "x": 0.3992,
+    "y": 0.1792,
+    "w": 0.1622,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 251,
+   "form": "Cudi",
+   "gloss": "Milstone.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.3995,
+    "y": 0.1953,
+    "w": 0.1535,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 252,
+   "form": "Pel",
+   "gloss": "Mud or Dirt.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DIRT",
+    "MUD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3986,
+    "y": 0.2116,
+    "w": 0.1585,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 253,
+   "form": "Tassaquido",
+   "gloss": "A Treasure.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.3989,
+    "y": 0.2279,
+    "w": 0.2002,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 254,
+   "form": "Guengu",
+   "gloss": "A Marriage-Portion.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.3992,
+    "y": 0.2465,
+    "w": 0.2529,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 255,
+   "form": "Deren-culyn",
+   "gloss": "A Debt.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "DEBT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3989,
+    "y": 0.2616,
+    "w": 0.1802,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 256,
+   "form": "Culyn",
+   "gloss": "A Reward.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.3995,
+    "y": 0.2785,
+    "w": 0.1549,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 257,
+   "form": "Willawyn",
+   "gloss": "Single-money.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.4,
+    "y": 0.2962,
+    "w": 0.2064,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 258,
+   "form": "Guyn",
+   "gloss": "One.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4003,
+    "y": 0.3131,
+    "w": 0.1005,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 259,
+   "form": "Eppo",
+   "gloss": "Two.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4006,
+    "y": 0.33,
+    "w": 0.1039,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 260,
+   "form": "Quila",
+   "gloss": "Three.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4009,
+    "y": 0.3463,
+    "w": 0.1208,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 261,
+   "form": "Meli",
+   "gloss": "Four.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4009,
+    "y": 0.3631,
+    "w": 0.0991,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 262,
+   "form": "Quechu",
+   "gloss": "Five.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4,
+    "y": 0.3801,
+    "w": 0.1171,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 263,
+   "form": "Cuyn",
+   "gloss": "Six.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4009,
+    "y": 0.3967,
+    "w": 0.0881,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 264,
+   "form": "Regli",
+   "gloss": "Seven.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4012,
+    "y": 0.4136,
+    "w": 0.116,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 265,
+   "form": "Pura",
+   "gloss": "Eight.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4012,
+    "y": 0.4303,
+    "w": 0.1129,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 266,
+   "form": "Culla",
+   "gloss": "Nine.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.402,
+    "y": 0.4468,
+    "w": 0.1061,
+    "h": 0.0152,
+    "approx": true
+   },
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "Mapudungun ayllá 'nine' (Febrés); küla 'three'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 267,
+   "form": "Maripataco",
+   "gloss": "A hundred.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HUNDRED"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4023,
+    "y": 0.4612,
+    "w": 0.1974,
+    "h": 0.0152
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Quechua pachak 'hundred' > pataka; mari pataka = 10x100 = 1000",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 268,
+   "form": "Marama",
+   "gloss": "A thousand.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "THOUSAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4028,
+    "y": 0.4791,
+    "w": 0.1802,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 269,
+   "form": "Guiltui",
+   "gloss": "A Kernel.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.4034,
+    "y": 0.4956,
+    "w": 0.1568,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 270,
+   "form": "Tapel",
+   "gloss": "Leaves.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LEAF"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4031,
+    "y": 0.5139,
+    "w": 0.1247,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 271,
+   "form": "Nil",
+   "gloss": "The Bark.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BARK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4043,
+    "y": 0.5286,
+    "w": 0.1371,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 272,
+   "form": "Pelli",
+   "gloss": "The Smell.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SMELL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4048,
+    "y": 0.5447,
+    "w": 0.1492,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 273,
+   "form": "Oaliel",
+   "gloss": "The Body.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BODY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4059,
+    "y": 0.5623,
+    "w": 0.158,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 274,
+   "form": "Lai-calel",
+   "gloss": "A dead Corps.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.4071,
+    "y": 0.5786,
+    "w": 0.2045,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 275,
+   "form": "Ven",
+   "gloss": "Flesh.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4071,
+    "y": 0.5955,
+    "w": 0.2045,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 276,
+   "form": "Molvin",
+   "gloss": "Blood.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4088,
+    "y": 0.6124,
+    "w": 0.1315,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 277,
+   "form": "Boro",
+   "gloss": "A Leg.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.409,
+    "y": 0.6291,
+    "w": 0.1165,
+    "h": 0.0152
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Mapudungun foro 'bone, tooth' (Febrés 'Dientes - voro'); n300 Boru 'teeth'",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 278,
+   "form": "Telqui",
+   "gloss": "The Skin.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SKIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4088,
+    "y": 0.646,
+    "w": 0.1515,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 279,
+   "form": "Vel",
+   "gloss": "The Sinews.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.4099,
+    "y": 0.6612,
+    "w": 0.1523,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 280,
+   "form": "Ven-molvin",
+   "gloss": "A Vein.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "VEIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4102,
+    "y": 0.6779,
+    "w": 0.1692,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 281,
+   "form": "Congo",
+   "gloss": "The Head.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.411,
+    "y": 0.6941,
+    "w": 0.1557,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 282,
+   "form": "Tol",
+   "gloss": "The Forehead.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FOREHEAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4105,
+    "y": 0.711,
+    "w": 0.1678,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 283,
+   "form": "Lenglen",
+   "gloss": "The Scull.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.411,
+    "y": 0.7275,
+    "w": 0.1706,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 284,
+   "form": "Lonco",
+   "gloss": "The Hair.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4119,
+    "y": 0.7445,
+    "w": 0.1535,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 285,
+   "form": "Teren-lonco",
+   "gloss": "Grey.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GREY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4121,
+    "y": 0.7631,
+    "w": 0.152,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 286,
+   "form": "Lolo",
+   "gloss": "The Brain.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BRAIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4127,
+    "y": 0.7778,
+    "w": 0.1475,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 287,
+   "form": "Angen",
+   "gloss": "The Face.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.413,
+    "y": 0.7947,
+    "w": 0.1549,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 288,
+   "form": "Taun",
+   "gloss": "The Jaws.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "JAW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4133,
+    "y": 0.8122,
+    "w": 0.1487,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 289,
+   "form": "Ne",
+   "gloss": "The Eyes.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.413,
+    "y": 0.8292,
+    "w": 0.132,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 290,
+   "form": "Tacune",
+   "gloss": "The Members.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.4116,
+    "y": 0.8443,
+    "w": 0.2019,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 291,
+   "form": "Denen",
+   "gloss": "The Eye-brows.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 2,
+    "x": 0.4138,
+    "y": 0.8625,
+    "w": 0.2061,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 292,
+   "form": "Ju",
+   "gloss": "The Nose.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4124,
+    "y": 0.8778,
+    "w": 0.1318,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 293,
+   "form": "Peloju",
+   "gloss": "The Nostrils.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NOSTRIL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4147,
+    "y": 0.8941,
+    "w": 0.1819,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 294,
+   "form": "Merum",
+   "gloss": "Snot.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2601,
+    "y": 0.079,
+    "w": 0.0451,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 295,
+   "form": "Pilum",
+   "gloss": "The Ears.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2607,
+    "y": 0.0947,
+    "w": 0.0445,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 296,
+   "form": "Oun",
+   "gloss": "A Mouth.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2598,
+    "y": 0.1107,
+    "w": 0.0453,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 297,
+   "form": "Adem",
+   "gloss": "Sweat.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SWEAT (PERSPIRE)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2579,
+    "y": 0.1283,
+    "w": 0.0473,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 298,
+   "form": "Quewen",
+   "gloss": "The Tongue.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2585,
+    "y": 0.1448,
+    "w": 0.0467,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 299,
+   "form": "Melbue",
+   "gloss": "The Lips.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2571,
+    "y": 0.1609,
+    "w": 0.0481,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 300,
+   "form": "Boru",
+   "gloss": "The Teeth.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.256,
+    "y": 0.1774,
+    "w": 0.0492,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 301,
+   "form": "Ilga",
+   "gloss": "The Gums.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GUMS"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2548,
+    "y": 0.1942,
+    "w": 0.0503,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 302,
+   "form": "Bida-bida",
+   "gloss": "The Roof of the Mouth.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2548,
+    "y": 0.2111,
+    "w": 0.0503,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 303,
+   "form": "Cain",
+   "gloss": "Spittle.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2546,
+    "y": 0.2282,
+    "w": 0.0506,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 304,
+   "form": "Mewe",
+   "gloss": "The Throat.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "THROAT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.254,
+    "y": 0.2438,
+    "w": 0.0512,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 305,
+   "form": "Neen",
+   "gloss": "The Breath.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BREATH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2537,
+    "y": 0.2606,
+    "w": 0.0514,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 306,
+   "form": "Quette",
+   "gloss": "The Chin.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2523,
+    "y": 0.277,
+    "w": 0.0528,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 307,
+   "form": "Paion",
+   "gloss": "The Beard.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2515,
+    "y": 0.2937,
+    "w": 0.0537,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 308,
+   "form": "Pel",
+   "gloss": "The Neck.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2501,
+    "y": 0.3099,
+    "w": 0.0551,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 309,
+   "form": "Lipan",
+   "gloss": "The Shoulders.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SHOULDER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2493,
+    "y": 0.3276,
+    "w": 0.0559,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 310,
+   "form": "Puilpa",
+   "gloss": "An Arm.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2487,
+    "y": 0.344,
+    "w": 0.0565,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 311,
+   "form": "Cue",
+   "gloss": "A Hand.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2484,
+    "y": 0.36,
+    "w": 0.0567,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 312,
+   "form": "Mancue",
+   "gloss": "The Right-hand.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2468,
+    "y": 0.3775,
+    "w": 0.0584,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 313,
+   "form": "Melecoe",
+   "gloss": "The Left-hand.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2468,
+    "y": 0.3937,
+    "w": 0.0584,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 314,
+   "form": "Puley-cue",
+   "gloss": "The Palm of the Hand.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2457,
+    "y": 0.4114,
+    "w": 0.0595,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 315,
+   "form": "Changel-cue",
+   "gloss": "The Fingers.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2454,
+    "y": 0.4276,
+    "w": 0.0598,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 316,
+   "form": "Buta-changel",
+   "gloss": "The Thumb.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "THUMB"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2434,
+    "y": 0.4446,
+    "w": 0.0617,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 317,
+   "form": "Wili",
+   "gloss": "The Nails.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2434,
+    "y": 0.4605,
+    "w": 0.0617,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 318,
+   "form": "Zevo",
+   "gloss": "The Breast.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.242,
+    "y": 0.4773,
+    "w": 0.0631,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 319,
+   "form": "Moju",
+   "gloss": "The Nipples.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2415,
+    "y": 0.4945,
+    "w": 0.0637,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 320,
+   "form": "Pue",
+   "gloss": "The Belly.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2295,
+    "y": 0.5099,
+    "w": 0.0756,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 321,
+   "form": "Weddo",
+   "gloss": "The Navel.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NAVEL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2393,
+    "y": 0.5273,
+    "w": 0.0659,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 322,
+   "form": "Cadi",
+   "gloss": "The Ribs.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "RIB"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2398,
+    "y": 0.5436,
+    "w": 0.0654,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 323,
+   "form": "Buri",
+   "gloss": "The Back.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BACK"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2384,
+    "y": 0.5597,
+    "w": 0.0667,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 324,
+   "form": "Anca",
+   "gloss": "The Sides.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.237,
+    "y": 0.5766,
+    "w": 0.0681,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 325,
+   "form": "Quichio",
+   "gloss": "The Buttocks.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BUTTOCKS"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2373,
+    "y": 0.5932,
+    "w": 0.0679,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 326,
+   "form": "Penem",
+   "gloss": "A Man's Genital Parts.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2368,
+    "y": 0.6102,
+    "w": 0.0684,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 327,
+   "form": "Metu",
+   "gloss": "A Womans.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2345,
+    "y": 0.6265,
+    "w": 0.0706,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 328,
+   "form": "Chan",
+   "gloss": "The Thighs.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "THIGH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2357,
+    "y": 0.6434,
+    "w": 0.0695,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 329,
+   "form": "Lucu",
+   "gloss": "The Knees.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2343,
+    "y": 0.6599,
+    "w": 0.0709,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 330,
+   "form": "Metunthoy",
+   "gloss": "The Knee-Bone.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2343,
+    "y": 0.6772,
+    "w": 0.0709,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 331,
+   "form": "Hemum",
+   "gloss": "The Calves.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2337,
+    "y": 0.6935,
+    "w": 0.0715,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 332,
+   "form": "Kamon",
+   "gloss": "The Feet.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2331,
+    "y": 0.7099,
+    "w": 0.072,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 333,
+   "form": "Pinque",
+   "gloss": "The Heart.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2323,
+    "y": 0.7266,
+    "w": 0.0729,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 334,
+   "form": "Mocun",
+   "gloss": "The Lungs.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LUNG"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2323,
+    "y": 0.7432,
+    "w": 0.0729,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 335,
+   "form": "Que",
+   "gloss": "The Maw.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2326,
+    "y": 0.7596,
+    "w": 0.0726,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 336,
+   "form": "Curique",
+   "gloss": "The Liver.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "LIVER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2312,
+    "y": 0.7767,
+    "w": 0.074,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 337,
+   "form": "Vaca",
+   "gloss": "The Milt.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2309,
+    "y": 0.7924,
+    "w": 0.0742,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 338,
+   "form": "Quelche",
+   "gloss": "The Guts.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "GUTS"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2301,
+    "y": 0.8098,
+    "w": 0.0751,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 339,
+   "form": "Villin",
+   "gloss": "The Bladder.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BLADDER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2301,
+    "y": 0.8265,
+    "w": 0.0751,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 340,
+   "form": "Momay",
+   "gloss": "To Stink.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.2315,
+    "y": 0.8432,
+    "w": 0.0737,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 341,
+   "form": "Pelengsley",
+   "gloss": "A Spider.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "SPIDER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.2315,
+    "y": 0.8603,
+    "w": 0.0737,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 342,
+   "form": "Inche",
+   "gloss": "I.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "I"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6097,
+    "y": 0.0989,
+    "w": 0.0996,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 343,
+   "form": "Tubei",
+   "gloss": "He.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "HE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6097,
+    "y": 0.0989,
+    "w": 0.0996,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 344,
+   "form": "Eimi",
+   "gloss": "You.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "YOU"
+   ]
+  },
+  {
+   "n": 345,
+   "form": "Inchen",
+   "gloss": "We.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6097,
+    "y": 0.0989,
+    "w": 0.0996,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 346,
+   "form": "Tecengen-eimen",
+   "gloss": "You People.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.6094,
+    "y": 0.1175,
+    "w": 0.2353,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 347,
+   "form": "Liengen",
+   "gloss": "Those People.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.6086,
+    "y": 0.1357,
+    "w": 0.1953,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 348,
+   "form": "Emma",
+   "gloss": "So.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.6075,
+    "y": 0.149,
+    "w": 0.091,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 349,
+   "form": "Muh",
+   "gloss": "No.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NO"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6077,
+    "y": 0.1648,
+    "w": 0.0868,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 350,
+   "form": "Pichumei",
+   "gloss": "Hard by.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.6063,
+    "y": 0.1823,
+    "w": 0.1625,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 351,
+   "form": "Averlugei",
+   "gloss": "Far.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "FAR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6052,
+    "y": 0.1998,
+    "w": 0.1249,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 352,
+   "form": "Taymen",
+   "gloss": "Against.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.6052,
+    "y": 0.2161,
+    "w": 0.1433,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 353,
+   "form": "Woecun",
+   "gloss": "Without.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "WITHOUT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6049,
+    "y": 0.2327,
+    "w": 0.1477,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 354,
+   "form": "Compay",
+   "gloss": "Within.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.6047,
+    "y": 0.2494,
+    "w": 0.1391,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 355,
+   "form": "Pulon",
+   "gloss": "Below.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.6027,
+    "y": 0.2657,
+    "w": 0.1235,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 356,
+   "form": "Wono",
+   "gloss": "Above.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "ABOVE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6027,
+    "y": 0.2832,
+    "w": 0.1166,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 357,
+   "form": "Buri",
+   "gloss": "Behind.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BEHIND"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6016,
+    "y": 0.299,
+    "w": 0.121,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 358,
+   "form": "Junengen",
+   "gloss": "Before.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "BEFORE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6002,
+    "y": 0.3163,
+    "w": 0.1463,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 359,
+   "form": "Quelleb",
+   "gloss": "Near.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "NEAR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6008,
+    "y": 0.3328,
+    "w": 0.1216,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 360,
+   "form": "Munai",
+   "gloss": "Enough.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "ENOUGH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6005,
+    "y": 0.3517,
+    "w": 0.1377,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 361,
+   "form": "Alengei",
+   "gloss": "Too much.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.5991,
+    "y": 0.3667,
+    "w": 0.1722,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 362,
+   "form": "Munalai",
+   "gloss": "Too little.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.598,
+    "y": 0.3835,
+    "w": 0.1683,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 363,
+   "form": "Chemibla",
+   "gloss": "Wherefore.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.5958,
+    "y": 0.417,
+    "w": 0.1666,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 364,
+   "form": "Venibla",
+   "gloss": "Therefore.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.5958,
+    "y": 0.417,
+    "w": 0.1666,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 365,
+   "form": "Vei-mai",
+   "gloss": "Let it be so.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.5958,
+    "y": 0.4337,
+    "w": 0.1775,
+    "h": 0.0098,
+    "approx": true
+   }
+  },
+  {
+   "n": 366,
+   "form": "Wei",
+   "gloss": "These.",
+   "section": "A View of the Chilesian Language",
+   "concepts": [
+    "THESE (PLURAL OF THIS)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5947,
+    "y": 0.4503,
+    "w": 0.1035,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 367,
+   "form": "Temunei",
+   "gloss": "Fair.",
+   "section": "A View of the Chilesian Language",
+   "box": {
+    "page": 3,
+    "x": 0.5938,
+    "y": 0.4671,
+    "w": 0.1205,
+    "h": 0.0098
+   }
+  },
+  {
+   "n": 368,
+   "form": "Unni",
+   "gloss": "A fruit, 'by the Spaniards call'd Murtilla'",
+   "section": "CHAP. II. Chili."
+  },
+  {
+   "n": 369,
+   "form": "Murtilla",
+   "gloss": "Murtilla (Spanish name of Unni)",
+   "section": "CHAP. II. Chili.",
+   "note": {
+    "kind": "wrong_language",
+    "label": "Another language",
+    "text": "Spanish name, not Mapudungun (native: uñi, n=368).",
+    "compare": "Spanish murtilla 'Ugni molinae fruit'",
+    "checked": true
+   }
+  },
+  {
+   "n": 370,
+   "form": "Teca",
+   "gloss": "a grain, half a Yard high, not unlike Barley (meal for food and drink)",
+   "section": "CHAP. II. Chili.",
+   "box": {
+    "page": 4,
+    "x": 0.0484,
+    "y": 0.2837,
+    "w": 0.1642,
+    "h": 0.0144
+   }
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Araucanian",
+   "Mapudungun"
+  ],
+  "support": [
+   0.99,
+   0.99
+  ],
+  "concepts": 235,
+  "excluded": [],
+  "leading": {
+   "name": "Mapudungun",
+   "family": "Araucanian",
+   "z": 23.99
+  },
+  "candidates": [
+   {
+    "name": "Mapudungun",
+    "db": "Lexibank",
+    "family": "Araucanian",
+    "path": [
+     "Araucanian",
+     "Mapudungun"
+    ],
+    "z": 23.99,
+    "n": 172
+   },
+   {
+    "name": "Mapudungun",
+    "db": "Lexibank",
+    "family": "Araucanian",
+    "path": [
+     "Araucanian",
+     "Mapudungun"
+    ],
+    "z": 20.63,
+    "n": 171
+   },
+   {
+    "name": "Mapudungun",
+    "db": "Lexibank",
+    "family": "Araucanian",
+    "path": [
+     "Araucanian",
+     "Mapudungun"
+    ],
+    "z": 18.87,
+    "n": 86
+   },
+   {
+    "name": "Mapudungun",
+    "db": "Lexibank",
+    "family": "Araucanian",
+    "path": [
+     "Araucanian",
+     "Mapudungun"
+    ],
+    "z": 16.48,
+    "n": 70
+   },
+   {
+    "name": "MAPUDUNGUN",
+    "db": "ASJP",
+    "family": "Araucanian",
+    "path": [
+     "Araucanian",
+     "Mapudungun"
+    ],
+    "z": 16.0,
+    "n": 43
+   },
+   {
+    "name": "Mapudungun",
+    "db": "Lexibank",
+    "family": "Araucanian",
+    "path": [
+     "Araucanian",
+     "Mapudungun"
+    ],
+    "z": 13.57,
+    "n": 37
+   },
+   {
+    "name": "MAPUDUNGUN_3",
+    "db": "ASJP",
+    "family": "Araucanian",
+    "path": [
+     "Araucanian",
+     "Mapudungun"
+    ],
+    "z": 12.6,
+    "n": 26
+   },
+   {
+    "name": "MAPUDUNGUN_2",
+    "db": "ASJP",
+    "family": "Araucanian",
+    "path": [
+     "Araucanian",
+     "Mapudungun"
+    ],
+    "z": 12.07,
+    "n": 25
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "always",
+    "form": "Biliante",
+    "ref": "filʸ-an̯tɨ",
+    "d": 0.0
+   },
+   {
+    "concept": "back",
+    "form": "Buri",
+    "ref": "furi",
+    "d": 0.0
+   },
+   {
+    "concept": "blood",
+    "form": "Molbuen",
+    "ref": "molʸfɨɲ",
+    "d": 0.0
+   },
+   {
+    "concept": "brother",
+    "form": "Penu",
+    "ref": "peɲi",
+    "d": 0.0
+   },
+   {
+    "concept": "egg",
+    "form": "Curam",
+    "ref": "kuram",
+    "d": 0.0
+   },
+   {
+    "concept": "eight",
+    "form": "Pura",
+    "ref": "pura",
+    "d": 0.0
+   },
+   {
+    "concept": "eye",
+    "form": "Ne",
+    "ref": "ŋe",
+    "d": 0.0
+   },
+   {
+    "concept": "fly (insect)",
+    "form": "Pulli",
+    "ref": "pɨl̯ɨ",
+    "d": 0.0
+   },
+   {
+    "concept": "forehead",
+    "form": "Tol",
+    "ref": "t̯ol̯",
+    "d": 0.0
+   },
+   {
+    "concept": "four",
+    "form": "Meli",
+    "ref": "meli",
+    "d": 0.0
+   },
+   {
+    "concept": "gold",
+    "form": "Millia",
+    "ref": "milʸa",
+    "d": 0.0
+   },
+   {
+    "concept": "house",
+    "form": "Ruca",
+    "ref": "ruka",
+    "d": 0.0
+   }
+  ]
+ },
+ "stats": {
+  "entries": 370,
+  "notes": 33,
+  "located": 367
+ },
+ "partial": null,
+ "relation": null
+}

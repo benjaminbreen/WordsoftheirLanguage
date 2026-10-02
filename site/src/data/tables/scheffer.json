@@ -1,0 +1,1522 @@
+{
+ "schema": 1,
+ "id": "scheffer",
+ "wtl": "WTL-0010",
+ "heading": "CHAP. XV. Of the Language of the Laplanders.",
+ "headings": [
+  "CHAP. XV. Of the Language of the Laplanders."
+ ],
+ "language": {
+  "name": "Sami",
+  "glottocode": "saam1281",
+  "family": "Uralic",
+  "path": [
+   "Uralic"
+  ],
+  "labels": [
+   "Laplanders"
+  ]
+ },
+ "region": "Arctic & North",
+ "book": {
+  "short": "The History of Lapland",
+  "title": "The history of Lapland wherein are shewed the original, manners, habits, marriages, conjurations, &c. of that people / written by John Scheffer ...",
+  "author": "Johannes Scheffer",
+  "printed": 1674,
+  "imprint": "M.DC.LXXIV. [1674]",
+  "tcp": "A62332",
+  "cover": "scheffer"
+ },
+ "provenance": {
+  "collector": "Johannes Scheffer",
+  "place": "Lapland",
+  "heard": "compiled 1673"
+ },
+ "scan": {
+  "ia": "historyoflapland02sche",
+  "url": "https://archive.org/details/historyoflapland02sche",
+  "holder": "Getty Research Institute",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 93,
+   "w": 2184,
+   "h": 3716,
+   "sm": "/scans/scheffer/0093-900.webp",
+   "lg": "/scans/scheffer/0093-1800.webp"
+  },
+  {
+   "leaf": 94,
+   "w": 2184,
+   "h": 3716,
+   "sm": "/scans/scheffer/0094-900.webp",
+   "lg": "/scans/scheffer/0094-1800.webp"
+  },
+  {
+   "leaf": 95,
+   "w": 2184,
+   "h": 3716,
+   "sm": "/scans/scheffer/0095-900.webp",
+   "lg": "/scans/scheffer/0095-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Jubmar",
+   "gloss": "God",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1584,
+    "y": 0.3584,
+    "w": 0.4918,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 2,
+   "form": "Immel",
+   "gloss": "God",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1584,
+    "y": 0.3584,
+    "w": 0.4918,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 4,
+   "form": "Tolle",
+   "gloss": "Fire",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1588,
+    "y": 0.3753,
+    "w": 0.3371,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 6,
+   "form": "Paiwe",
+   "gloss": "Day",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1584,
+    "y": 0.3948,
+    "w": 0.3408,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 8,
+   "form": "Ii",
+   "gloss": "Night",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1588,
+    "y": 0.4124,
+    "w": 0.2927,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 10,
+   "form": "Jocki",
+   "gloss": "A River",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1584,
+    "y": 0.4294,
+    "w": 0.3357,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 12,
+   "form": "Jaur",
+   "gloss": "A Lake",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "LAKE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1588,
+    "y": 0.4469,
+    "w": 0.3243,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 14,
+   "form": "Jenga",
+   "gloss": "Ice",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4198,
+    "y": 0.469,
+    "w": 0.1045,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 16,
+   "form": "Warra",
+   "gloss": "a Hill",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1584,
+    "y": 0.4835,
+    "w": 0.3531,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 18,
+   "form": "Medz",
+   "gloss": "Wood",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1575,
+    "y": 0.4995,
+    "w": 0.3375,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 20,
+   "form": "Silmae",
+   "gloss": "the Eye",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1561,
+    "y": 0.5186,
+    "w": 0.343,
+    "h": 0.0169
+   },
+   "note": {
+    "kind": "wrong_language",
+    "label": "Another language",
+    "text": "Scheffer prints Finnish silmä for both columns (\"the same\"); the Sami word is čalbmi.",
+    "compare": "Finnish silmä \"eye\" vs Sami čalbmi (Scheffer's own list 3 gives Tzialme)",
+    "checked": false
+   }
+  },
+  {
+   "n": 22,
+   "form": "Niuna",
+   "gloss": "the Nose",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1565,
+    "y": 0.5341,
+    "w": 0.3472,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 24,
+   "form": "Ketawerth",
+   "gloss": "the Arm",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1552,
+    "y": 0.5525,
+    "w": 0.3952,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 26,
+   "form": "Kiaett",
+   "gloss": "the Hand",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1556,
+    "y": 0.5696,
+    "w": 0.3343,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 28,
+   "form": "Kaote",
+   "gloss": "the Foot",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1561,
+    "y": 0.5878,
+    "w": 0.2185,
+    "h": 0.0169,
+    "approx": true
+   },
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "Kaote is the word for hut/shed, repeated in the Foot slot.",
+    "compare": "Sami goahti \"hut, shed\" (= Kaote, row 36); Sami \"foot\" is juolgi (Scheffer list 3 Iwobge)",
+    "checked": false
+   }
+  },
+  {
+   "n": 30,
+   "form": "Iost",
+   "gloss": "Cheese",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "CHEESE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1561,
+    "y": 0.6049,
+    "w": 0.316,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 32,
+   "form": "Sappad",
+   "gloss": "Bootes",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "BOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3745,
+    "y": 0.6291,
+    "w": 0.4049,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 34,
+   "form": "Kamath",
+   "gloss": "a Show",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "SHOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1552,
+    "y": 0.6423,
+    "w": 0.3591,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 36,
+   "form": "Kaote",
+   "gloss": "a Shed",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "box": {
+    "page": 0,
+    "x": 0.1552,
+    "y": 0.6598,
+    "w": 0.3408,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 38,
+   "form": "Niaola",
+   "gloss": "an Arrow",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1552,
+    "y": 0.6755,
+    "w": 0.3545,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 40,
+   "form": "Tziaod",
+   "gloss": "Warr",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "WAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1547,
+    "y": 0.6935,
+    "w": 0.3577,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 42,
+   "form": "Konnagas",
+   "gloss": "King",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "KING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1547,
+    "y": 0.7126,
+    "w": 0.3852,
+    "h": 0.0169
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Established loan of the kingship word.",
+    "compare": "North Sami gonagas \"king\" < Finnish kuningas < Proto-Germanic *kuningaz",
+    "checked": false
+   }
+  },
+  {
+   "n": 44,
+   "form": "Atkia",
+   "gloss": "Father",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1556,
+    "y": 0.7285,
+    "w": 0.3495,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 46,
+   "form": "Am",
+   "gloss": "Mother",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1552,
+    "y": 0.7461,
+    "w": 0.3133,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 48,
+   "form": "Wellje",
+   "gloss": "Brother",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1561,
+    "y": 0.7638,
+    "w": 0.3481,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 50,
+   "form": "Morswi",
+   "gloss": "Wife",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1552,
+    "y": 0.7813,
+    "w": 0.3623,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 52,
+   "form": "Piednax",
+   "gloss": "Dog",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1533,
+    "y": 0.8006,
+    "w": 0.3687,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 54,
+   "form": "Natae",
+   "gloss": "a Ferret",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "box": {
+    "page": 0,
+    "x": 0.152,
+    "y": 0.8185,
+    "w": 0.3385,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 56,
+   "form": "Orre",
+   "gloss": "a Squirrill",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "box": {
+    "page": 0,
+    "x": 0.1529,
+    "y": 0.8362,
+    "w": 0.3307,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 58,
+   "form": "Lodo",
+   "gloss": "a Bird",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1533,
+    "y": 0.8535,
+    "w": 0.3375,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 60,
+   "form": "Qwaelie",
+   "gloss": "a Fish",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1547,
+    "y": 0.8713,
+    "w": 0.3636,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 62,
+   "form": "Losa",
+   "gloss": "a Salmon",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "SALMON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1547,
+    "y": 0.8893,
+    "w": 0.3412,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 64,
+   "form": "Quaosa",
+   "gloss": "a wild Pine tree",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "box": {
+    "page": 0,
+    "x": 0.1543,
+    "y": 0.9072,
+    "w": 0.3614,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 66,
+   "form": "Beiwe",
+   "gloss": "The Sun",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1877,
+    "y": 0.5719,
+    "w": 0.3073,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 68,
+   "form": "Albme",
+   "gloss": "Heaven",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1868,
+    "y": 0.589,
+    "w": 0.311,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 70,
+   "form": "Kietze",
+   "gloss": "Water",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1872,
+    "y": 0.6066,
+    "w": 0.3105,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 72,
+   "form": "Abbrae",
+   "gloss": "Rain",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1863,
+    "y": 0.6242,
+    "w": 0.3165,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 74,
+   "form": "Mota",
+   "gloss": "Snow",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1859,
+    "y": 0.6416,
+    "w": 0.3018,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 76,
+   "form": "Ulmugd",
+   "gloss": "a Man",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1868,
+    "y": 0.6611,
+    "w": 0.3288,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 78,
+   "form": "Albma",
+   "gloss": "Gent. Man",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "box": {
+    "page": 1,
+    "x": 0.1886,
+    "y": 0.6775,
+    "w": 0.3096,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 80,
+   "form": "Nissum",
+   "gloss": "Woman",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1881,
+    "y": 0.696,
+    "w": 0.3156,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 82,
+   "form": "Waopt",
+   "gloss": "Hair",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1886,
+    "y": 0.7132,
+    "w": 0.3206,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 84,
+   "form": "Nialbme",
+   "gloss": "the Mouth",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1877,
+    "y": 0.7315,
+    "w": 0.3353,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 86,
+   "form": "Kaig",
+   "gloss": "the Chin",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1877,
+    "y": 0.7491,
+    "w": 0.2922,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 88,
+   "form": "Waibmi",
+   "gloss": "the Heart",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1863,
+    "y": 0.767,
+    "w": 0.3339,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 90,
+   "form": "Ogge",
+   "gloss": "the Flesh",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1877,
+    "y": 0.7846,
+    "w": 0.2973,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 92,
+   "form": "Seibik",
+   "gloss": "a Wolf",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "WOLF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1868,
+    "y": 0.8041,
+    "w": 0.3119,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 94,
+   "form": "Muriel",
+   "gloss": "a Bear",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "BEAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1872,
+    "y": 0.8223,
+    "w": 0.3147,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 96,
+   "form": "Riemnes",
+   "gloss": "a Fox",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "FOX"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4157,
+    "y": 0.8376,
+    "w": 0.3055,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 99,
+   "form": "Jubmel",
+   "gloss": "God",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "GOD"
+   ]
+  },
+  {
+   "n": 101,
+   "form": "Beiwe",
+   "gloss": "the Sun",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.614,
+    "y": 0.4352,
+    "w": 0.0802,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 103,
+   "form": "Alm",
+   "gloss": "Heaven",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1652,
+    "y": 0.4515,
+    "w": 0.3174,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 105,
+   "form": "Tulla",
+   "gloss": "Fire",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.614,
+    "y": 0.4702,
+    "w": 0.0752,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 107,
+   "form": "Biaegga",
+   "gloss": "Air",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "AIR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1671,
+    "y": 0.4866,
+    "w": 0.3069,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 109,
+   "form": "Tziatz",
+   "gloss": "Water",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6149,
+    "y": 0.5054,
+    "w": 0.0894,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 111,
+   "form": "Jauur",
+   "gloss": "a Lake",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "LAKE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1657,
+    "y": 0.5232,
+    "w": 0.3201,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 113,
+   "form": "Jenga",
+   "gloss": "Ice",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6158,
+    "y": 0.5576,
+    "w": 0.1022,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 116,
+   "form": "Aennam",
+   "gloss": "the Earth",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6158,
+    "y": 0.5576,
+    "w": 0.1022,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 118,
+   "form": "Ware",
+   "gloss": "a Hill",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6158,
+    "y": 0.5757,
+    "w": 0.0798,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 120,
+   "form": "Aolmaitz",
+   "gloss": "a Man",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6172,
+    "y": 0.5926,
+    "w": 0.115,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 122,
+   "form": "Waopta",
+   "gloss": "Hair",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6163,
+    "y": 0.6121,
+    "w": 0.1068,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 124,
+   "form": "Tzialme",
+   "gloss": "the Eye",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6163,
+    "y": 0.6277,
+    "w": 0.1059,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 126,
+   "form": "Nierune",
+   "gloss": "the Nose",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6149,
+    "y": 0.6451,
+    "w": 0.1063,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 128,
+   "form": "Saemao",
+   "gloss": "a Beard",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1694,
+    "y": 0.6647,
+    "w": 0.3829,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 130,
+   "form": "Kiettawerdi",
+   "gloss": "an Arm",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6167,
+    "y": 0.6802,
+    "w": 0.1471,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 132,
+   "form": "Kietta",
+   "gloss": "a Hand",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5659,
+    "y": 0.7039,
+    "w": 0.1342,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 134,
+   "form": "Iwobge",
+   "gloss": "a Foot",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6163,
+    "y": 0.7175,
+    "w": 0.0953,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 136,
+   "form": "Waimao",
+   "gloss": "a Heart",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6163,
+    "y": 0.7343,
+    "w": 0.1109,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 138,
+   "form": "Taugh",
+   "gloss": "a Bow",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6167,
+    "y": 0.7518,
+    "w": 0.0857,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 140,
+   "form": "Niaela",
+   "gloss": "an Arrow",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6172,
+    "y": 0.7691,
+    "w": 0.0821,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 142,
+   "form": "Atziae",
+   "gloss": "Father",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6181,
+    "y": 0.7868,
+    "w": 0.0761,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 144,
+   "form": "Aennae",
+   "gloss": "Mother",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1703,
+    "y": 0.8048,
+    "w": 0.3082,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 146,
+   "form": "Wiaelae",
+   "gloss": "Brother",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1675,
+    "y": 0.8227,
+    "w": 0.3426,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 148,
+   "form": "Aobbe",
+   "gloss": "Sister",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6163,
+    "y": 0.8391,
+    "w": 0.0862,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 150,
+   "form": "Kurt",
+   "gloss": "a Wolf",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "WOLF"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6144,
+    "y": 0.8574,
+    "w": 0.0679,
+    "h": 0.0169
+   },
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "The Turkic word for wolf sits in the Laplander column, apparently swapped with the Tartar form.",
+    "compare": "Turkish kurt \"wolf\"; Tartar column has Sirma, Sami wolf words are gumpe/návdi/seibik (cf. Seibik row 92)",
+    "checked": false
+   }
+  },
+  {
+   "n": 152,
+   "form": "Kwoptza",
+   "gloss": "a Bear",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "BEAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6163,
+    "y": 0.8764,
+    "w": 0.1127,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 154,
+   "form": "Kwele",
+   "gloss": "a Fish",
+   "section": "CHAP. XV. Of the Language of the Laplanders.",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6163,
+    "y": 0.8917,
+    "w": 0.088,
+    "h": 0.0169
+   }
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Uralic",
+   "Saami",
+   "Western Saami"
+  ],
+  "support": [
+   1.0,
+   0.82,
+   0.46
+  ],
+  "concepts": 48,
+  "excluded": [],
+  "leading": {
+   "name": "Inari Sami",
+   "family": "Uralic",
+   "z": 15.67
+  },
+  "candidates": [
+   {
+    "name": "Inari Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Eastern Saami",
+     "Mainland Eastern Saami"
+    ],
+    "z": 15.67,
+    "n": 44
+   },
+   {
+    "name": "Northern Saami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Western Saami",
+     "Central Western Saami"
+    ],
+    "z": 13.75,
+    "n": 41
+   },
+   {
+    "name": "Skolt Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Eastern Saami",
+     "Mainland Eastern Saami"
+    ],
+    "z": 13.72,
+    "n": 44
+   },
+   {
+    "name": "Northern Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Western Saami",
+     "Central Western Saami"
+    ],
+    "z": 13.42,
+    "n": 44
+   },
+   {
+    "name": "Lule Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Western Saami",
+     "Central Western Saami"
+    ],
+    "z": 11.88,
+    "n": 44
+   },
+   {
+    "name": "Southern Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Western Saami",
+     "Southwestern Saami"
+    ],
+    "z": 11.45,
+    "n": 44
+   },
+   {
+    "name": "Kildin Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Eastern Saami",
+     "Peninsular Eastern Saami"
+    ],
+    "z": 10.79,
+    "n": 44
+   },
+   {
+    "name": "Estonian",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Finnic",
+     "Coastal Finnic",
+     "Neva"
+    ],
+    "z": 9.81,
+    "n": 41
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "arrow",
+    "form": "Niaela",
+    "ref": "ɲuolɐ",
+    "d": 0.0
+   },
+   {
+    "concept": "beard",
+    "form": "Saemao",
+    "ref": "si̯æmu",
+    "d": 0.0
+   },
+   {
+    "concept": "bird",
+    "form": "Lodo",
+    "ref": "lodːe",
+    "d": 0.0
+   },
+   {
+    "concept": "brother",
+    "form": "Wiaelae",
+    "ref": "viʎɐ",
+    "d": 0.0
+   },
+   {
+    "concept": "earth (soil)",
+    "form": "Aennam",
+    "ref": "eːnːɐm",
+    "d": 0.0
+   },
+   {
+    "concept": "fire",
+    "form": "Tolle",
+    "ref": "tulːɐ",
+    "d": 0.0
+   },
+   {
+    "concept": "fox",
+    "form": "Riemnes",
+    "ref": "riemɲis",
+    "d": 0.0
+   },
+   {
+    "concept": "hair",
+    "form": "Waopta",
+    "ref": "vuoptɐ",
+    "d": 0.0
+   },
+   {
+    "concept": "hand",
+    "form": "Kietta",
+    "ref": "kietɐ",
+    "d": 0.0
+   },
+   {
+    "concept": "heart",
+    "form": "Waimao",
+    "ref": "væimu",
+    "d": 0.0
+   },
+   {
+    "concept": "king",
+    "form": "Konnagas",
+    "ref": "kunɐɡɐs",
+    "d": 0.0
+   },
+   {
+    "concept": "mother",
+    "form": "Aennae",
+    "ref": "enːi",
+    "d": 0.0
+   }
+  ]
+ },
+ "stats": {
+  "entries": 77,
+  "notes": 4,
+  "located": 76
+ },
+ "partial": null,
+ "relation": null
+}

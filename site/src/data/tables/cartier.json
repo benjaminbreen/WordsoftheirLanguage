@@ -1,0 +1,1688 @@
+{
+ "schema": 1,
+ "id": "cartier",
+ "wtl": "WTL-0005",
+ "heading": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+ "headings": [
+  "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+  "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+ ],
+ "language": {
+  "name": "Laurentian",
+  "glottocode": "laur1250",
+  "family": "Iroquoian",
+  "path": [
+   "Iroquoian",
+   "Northern Iroquoian",
+   "Lake Iroquoian",
+   "Greater Iroquois"
+  ],
+  "labels": [
+   "Hochelaga and Canada"
+  ]
+ },
+ "region": "North America",
+ "book": {
+  "short": "A Shorte and Briefe Narration",
+  "title": "A shorte and briefe narration of the two nauigations and discoueries to the northweast partes called Newe Fraunce: first translated out of French into Italian, by that famous learned man Gio: Bapt: Ramutius, and now turned into English by Iohn Florio; worthy the reading of all venturers, trauellers, and discouerers",
+  "author": "Jacques Cartier, trans. John Florio",
+  "printed": 1580,
+  "imprint": "Anno Domini. 1580.",
+  "tcp": "A18057",
+  "cover": "cartier"
+ },
+ "provenance": {
+  "collector": "Jacques Cartier",
+  "place": "Stadacona and Hochelaga, St Lawrence",
+  "heard": "1535–36"
+ },
+ "scan": {
+  "ia": "shortebriefenarr00cart",
+  "url": "https://archive.org/details/shortebriefenarr00cart",
+  "holder": "John Carter Brown Library",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 93,
+   "w": 2757,
+   "h": 3989,
+   "sm": "/scans/cartier/0093-900.webp",
+   "lg": "/scans/cartier/0093-1800.webp"
+  },
+  {
+   "leaf": 94,
+   "w": 2816,
+   "h": 3989,
+   "sm": "/scans/cartier/0094-900.webp",
+   "lg": "/scans/cartier/0094-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Secada",
+   "gloss": "1",
+   "section": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+   "concepts": [
+    "ONE"
+   ]
+  },
+  {
+   "n": 2,
+   "form": "Indahir",
+   "gloss": "6",
+   "section": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+   "concepts": [
+    "SIX"
+   ]
+  },
+  {
+   "n": 3,
+   "form": "Tigneni",
+   "gloss": "2",
+   "section": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+   "concepts": [
+    "TWO"
+   ]
+  },
+  {
+   "n": 4,
+   "form": "Aiaga",
+   "gloss": "7",
+   "section": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+   "concepts": [
+    "SEVEN"
+   ]
+  },
+  {
+   "n": 5,
+   "form": "Hasche",
+   "gloss": "3",
+   "section": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+   "concepts": [
+    "THREE"
+   ]
+  },
+  {
+   "n": 6,
+   "form": "Addigue",
+   "gloss": "8",
+   "section": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+   "concepts": [
+    "EIGHT"
+   ]
+  },
+  {
+   "n": 7,
+   "form": "Hannaion",
+   "gloss": "4",
+   "section": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+   "concepts": [
+    "FOUR"
+   ]
+  },
+  {
+   "n": 8,
+   "form": "Madellon",
+   "gloss": "9",
+   "section": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+   "concepts": [
+    "NINE"
+   ]
+  },
+  {
+   "n": 9,
+   "form": "Ouiscon",
+   "gloss": "5",
+   "section": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+   "concepts": [
+    "FIVE"
+   ]
+  },
+  {
+   "n": 10,
+   "form": "Assem",
+   "gloss": "10",
+   "section": "Here foloweth the language of the Country, and Kingdomes of Hochelaga and Canada, of vs called Newe Fraunce: But firste the names of theyr Numbers.",
+   "concepts": [
+    "TEN"
+   ]
+  },
+  {
+   "n": 11,
+   "form": "aggonzi",
+   "gloss": "the Heade",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "HEAD"
+   ]
+  },
+  {
+   "n": 12,
+   "form": "hergueniascon",
+   "gloss": "the Browe",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "EYEBROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2384,
+    "y": 0.1552,
+    "w": 0.0691,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 13,
+   "form": "higata",
+   "gloss": "the Eyes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2384,
+    "y": 0.1861,
+    "w": 0.0691,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 14,
+   "form": "abontascon",
+   "gloss": "the Eares",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2406,
+    "y": 0.2171,
+    "w": 0.0669,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 15,
+   "form": "esahe",
+   "gloss": "the mouth",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0106,
+    "y": 0.2091,
+    "w": 0.1267,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 16,
+   "form": "esgongai",
+   "gloss": "the Teeth",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0211,
+    "y": 0.2517,
+    "w": 0.2864,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 17,
+   "form": "osnache",
+   "gloss": "the Tongue",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0023,
+    "y": 0.2734,
+    "w": 0.3052,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 18,
+   "form": "agonhon",
+   "gloss": "the Throate",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "THROAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0215,
+    "y": 0.2953,
+    "w": 0.286,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 19,
+   "form": "hebelim",
+   "gloss": "the Bearde",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0182,
+    "y": 0.3333,
+    "w": 0.2893,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 20,
+   "form": "hegouascon",
+   "gloss": "the Face",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0182,
+    "y": 0.3333,
+    "w": 0.2893,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 21,
+   "form": "aganiscon",
+   "gloss": "the heares",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0182,
+    "y": 0.3333,
+    "w": 0.2893,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 22,
+   "form": "atayascon",
+   "gloss": "the Armes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2718,
+    "y": 0.3771,
+    "w": 0.0357,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 23,
+   "form": "aissonne",
+   "gloss": "the Flanckes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.003,
+    "y": 0.4001,
+    "w": 0.3045,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 24,
+   "form": "aggruascon",
+   "gloss": "the Stomacke",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "STOMACH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0121,
+    "y": 0.421,
+    "w": 0.2954,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 25,
+   "form": "eschehendo",
+   "gloss": "the Bellie",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0128,
+    "y": 0.4422,
+    "w": 0.2947,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 26,
+   "form": "hetnegradascon",
+   "gloss": "the Thighes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "THIGH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0143,
+    "y": 0.4618,
+    "w": 0.2933,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 27,
+   "form": "agochinegodascon",
+   "gloss": "the Knees",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0143,
+    "y": 0.4812,
+    "w": 0.2933,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 28,
+   "form": "agouguenehonde",
+   "gloss": "the Legges",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0143,
+    "y": 0.4812,
+    "w": 0.2933,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 29,
+   "form": "onchidascon",
+   "gloss": "the Feete",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0237,
+    "y": 0.5268,
+    "w": 0.2838,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 30,
+   "form": "aignoascon",
+   "gloss": "the Handes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0208,
+    "y": 0.5457,
+    "w": 0.2867,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 31,
+   "form": "agenoga",
+   "gloss": "the Fingers",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0219,
+    "y": 0.5683,
+    "w": 0.2856,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 32,
+   "form": "agedascon",
+   "gloss": "the Nailes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "FINGERNAIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0219,
+    "y": 0.5875,
+    "w": 0.2856,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 33,
+   "form": "amoascon",
+   "gloss": "a Mans member",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.0226,
+    "y": 0.6092,
+    "w": 0.2849,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 34,
+   "form": "castaigne",
+   "gloss": "a Womans member",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.0226,
+    "y": 0.6092,
+    "w": 0.2849,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 35,
+   "form": "esgueny",
+   "gloss": "an Ele",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.023,
+    "y": 0.6539,
+    "w": 0.2845,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 36,
+   "form": "vndeguezi",
+   "gloss": "a Snaile",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "SNAIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2787,
+    "y": 0.6696,
+    "w": 0.0288,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 37,
+   "form": "heuleu•ime",
+   "gloss": "a Tortois",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.0219,
+    "y": 0.6959,
+    "w": 0.2856,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 38,
+   "form": "conda",
+   "gloss": "Wooddes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "FOREST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0222,
+    "y": 0.7137,
+    "w": 0.1202,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 39,
+   "form": "hoga",
+   "gloss": "leaues of Trees",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.0219,
+    "y": 0.7337,
+    "w": 0.2856,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 40,
+   "form": "cudragny",
+   "gloss": "God",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0219,
+    "y": 0.7561,
+    "w": 0.2856,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 41,
+   "form": "quazahoa quea",
+   "gloss": "giue me some drincke",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.0143,
+    "y": 0.7741,
+    "w": 0.2933,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 42,
+   "form": "quasa hoa quascaboa",
+   "gloss": "giue me to breakfast",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.0222,
+    "y": 0.7968,
+    "w": 0.2853,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 43,
+   "form": "quaza hoa quatfriā",
+   "gloss": "giue me my supper",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.0211,
+    "y": 0.8167,
+    "w": 0.2864,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 44,
+   "form": "casigno agnyda hoa",
+   "gloss": "let vs goe to bed",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.0023,
+    "y": 0.8409,
+    "w": 0.3052,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "aignag",
+   "gloss": "good morrow",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 46,
+   "form": "casigno candy",
+   "gloss": "let vs go to play",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.0023,
+    "y": 0.8409,
+    "w": 0.3052,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 47,
+   "form": "assigniquaddadia",
+   "gloss": "come & speak with me",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 48,
+   "form": "quagathoma",
+   "gloss": "looke vpon me",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 49,
+   "form": "aista",
+   "gloss": "Holde your peace",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.4408,
+    "y": 0.206,
+    "w": 0.3422,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 50,
+   "form": "casigno casnouy",
+   "gloss": "let vs go with the boate",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 51,
+   "form": "buazahca agoheda",
+   "gloss": "giue me a knife",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 52,
+   "form": "adogne",
+   "gloss": "a Hatchet",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "AXE"
+   ]
+  },
+  {
+   "n": 53,
+   "form": "ahenca",
+   "gloss": "a bowe",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4408,
+    "y": 0.206,
+    "w": 0.3422,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 54,
+   "form": "quahetan",
+   "gloss": "a darte",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 55,
+   "form": "quasign• donnascat",
+   "gloss": "let vs go a hunting",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 56,
+   "form": "aionnesta",
+   "gloss": "a Stagge",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 57,
+   "form": "asquenondo",
+   "gloss": "a Sheepe",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "SHEEP"
+   ]
+  },
+  {
+   "n": 58,
+   "form": "Sourhanda",
+   "gloss": "a Hare",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "HARE"
+   ]
+  },
+  {
+   "n": 59,
+   "form": "agayo",
+   "gloss": "a Dogge",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "DOG"
+   ]
+  },
+  {
+   "n": 60,
+   "form": "canada",
+   "gloss": "a Towne",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "VILLAGE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4408,
+    "y": 0.206,
+    "w": 0.3422,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 61,
+   "form": "agu•huni",
+   "gloss": "a Man",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "MAN"
+   ]
+  },
+  {
+   "n": 62,
+   "form": "agruaste",
+   "gloss": "a Woman",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "WOMAN"
+   ]
+  },
+  {
+   "n": 63,
+   "form": "addegesta",
+   "gloss": "a Boy",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4408,
+    "y": 0.206,
+    "w": 0.3422,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 64,
+   "form": "agniaquesta",
+   "gloss": "a Wench",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.4408,
+    "y": 0.206,
+    "w": 0.3422,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 65,
+   "form": "exiasta",
+   "gloss": "a Childe",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4408,
+    "y": 0.206,
+    "w": 0.4125,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 66,
+   "form": "cabata",
+   "gloss": "a Gowne",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.4452,
+    "y": 0.2473,
+    "w": 0.3237,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 67,
+   "form": "caioza",
+   "gloss": "a doublet",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.4459,
+    "y": 0.2695,
+    "w": 0.3378,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 68,
+   "form": "hemondoha",
+   "gloss": "Hosen",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.4495,
+    "y": 0.2881,
+    "w": 0.3338,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 69,
+   "form": "atha",
+   "gloss": "Shoes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.4495,
+    "y": 0.3174,
+    "w": 0.3338,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 70,
+   "form": "amgoua",
+   "gloss": "a Shirte",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "SHIRT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4495,
+    "y": 0.3468,
+    "w": 0.3338,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 71,
+   "form": "castrua",
+   "gloss": "a Cappe",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "CAP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4528,
+    "y": 0.3761,
+    "w": 0.3045,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 72,
+   "form": "osizi",
+   "gloss": "Corne",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "MAIZE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4528,
+    "y": 0.3761,
+    "w": 0.3045,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 73,
+   "form": "carraconny",
+   "gloss": "Breade",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6642,
+    "y": 0.4001,
+    "w": 0.1246,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 74,
+   "form": "ame",
+   "gloss": "Water",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6639,
+    "y": 0.4214,
+    "w": 0.2167,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 75,
+   "form": "quahouascō",
+   "gloss": "Flesh",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6639,
+    "y": 0.4445,
+    "w": 0.2167,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 76,
+   "form": "queion",
+   "gloss": "Paces.",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.6443,
+    "y": 0.4675,
+    "w": 0.1061,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 77,
+   "form": "honnesta",
+   "gloss": "Damsons",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.6639,
+    "y": 0.4827,
+    "w": 0.109,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 78,
+   "form": "absconda",
+   "gloss": "Figges",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 79,
+   "form": "ozoba",
+   "gloss": "Grapes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 80,
+   "form": "quahoya",
+   "gloss": "Nuttes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 81,
+   "form": "sahomgahea",
+   "gloss": "a Hen",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "HEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.464,
+    "y": 0.5662,
+    "w": 0.3237,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 82,
+   "form": "zisto",
+   "gloss": "a Lamprey",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.464,
+    "y": 0.5862,
+    "w": 0.3237,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 83,
+   "form": "ondacon",
+   "gloss": "a Salmon",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "SALMON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4756,
+    "y": 0.6063,
+    "w": 0.2769,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 84,
+   "form": "ainne honne",
+   "gloss": "a Whale",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "WHALE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4734,
+    "y": 0.6266,
+    "w": 0.3168,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 85,
+   "form": "sadeguenha",
+   "gloss": "a Goose",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "GOOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.456,
+    "y": 0.6476,
+    "w": 0.3317,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 86,
+   "form": "adde",
+   "gloss": "a Streete",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "STREET"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4604,
+    "y": 0.6681,
+    "w": 0.2613,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 87,
+   "form": "casconda",
+   "gloss": "Cucumber seede",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.4604,
+    "y": 0.6896,
+    "w": 0.3081,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 88,
+   "form": "achide",
+   "gloss": "to Morrow",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 0,
+    "x": 0.4375,
+    "y": 0.7111,
+    "w": 0.3081,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 89,
+   "form": "quenhia",
+   "gloss": "the Heauen",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.472,
+    "y": 0.7302,
+    "w": 0.2787,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 90,
+   "form": "damga",
+   "gloss": "the Earth",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.472,
+    "y": 0.752,
+    "w": 0.3273,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 91,
+   "form": "ysmay",
+   "gloss": "the Sunne",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "SUN"
+   ]
+  },
+  {
+   "n": 92,
+   "form": "assomaha",
+   "gloss": "the Moone",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6595,
+    "y": 0.7954,
+    "w": 0.1282,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 93,
+   "form": "stgnehohā",
+   "gloss": "the Starres",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6595,
+    "y": 0.8152,
+    "w": 0.1282,
+    "h": 0.0217,
+    "approx": true
+   }
+  },
+  {
+   "n": 94,
+   "form": "cohoa",
+   "gloss": "the Winde",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6573,
+    "y": 0.835,
+    "w": 0.0683,
+    "h": 0.0217
+   }
+  },
+  {
+   "n": 95,
+   "form": "agogasy",
+   "gloss": "the Sea",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "SEA"
+   ]
+  },
+  {
+   "n": 96,
+   "form": "co•a",
+   "gloss": "the waues of the Sea",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 97,
+   "form": "cahena",
+   "gloss": "an Ilande",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 1,
+    "x": 0.1392,
+    "y": 0.1702,
+    "w": 0.1651,
+    "h": 0.0105
+   }
+  },
+  {
+   "n": 98,
+   "form": "agacha",
+   "gloss": "an Hill",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.8335,
+    "y": 0.1877,
+    "w": 0.1495,
+    "h": 0.0105
+   }
+  },
+  {
+   "n": 99,
+   "form": "honnesca",
+   "gloss": "the Ise",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 1,
+    "x": 0.4403,
+    "y": 0.3634,
+    "w": 0.3058,
+    "h": 0.0105,
+    "approx": true
+   }
+  },
+  {
+   "n": 100,
+   "form": "cama",
+   "gloss": "Snowe",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "SNOW"
+   ]
+  },
+  {
+   "n": 101,
+   "form": "athau",
+   "gloss": "Colde",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "COLD"
+   ]
+  },
+  {
+   "n": 102,
+   "form": "odazani",
+   "gloss": "Hotte",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "HOT"
+   ]
+  },
+  {
+   "n": 103,
+   "form": "azista",
+   "gloss": "Fier",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen."
+  },
+  {
+   "n": 104,
+   "form": "quea",
+   "gloss": "Smoke",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "SMOKE (INHALE)"
+   ]
+  },
+  {
+   "n": 105,
+   "form": "canoca",
+   "gloss": "a House",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "HOUSE"
+   ]
+  },
+  {
+   "n": 106,
+   "form": "sah•",
+   "gloss": "Beanes",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "BEAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4403,
+    "y": 0.3634,
+    "w": 0.3058,
+    "h": 0.0105,
+    "approx": true
+   }
+  },
+  {
+   "n": 107,
+   "form": "adhotathny",
+   "gloss": "Cinamond",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "box": {
+    "page": 1,
+    "x": 0.6626,
+    "y": 0.3744,
+    "w": 0.3075,
+    "h": 0.0105
+   }
+  },
+  {
+   "n": 108,
+   "form": "addathy",
+   "gloss": "my Father",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4403,
+    "y": 0.3986,
+    "w": 0.3438,
+    "h": 0.0105,
+    "approx": true
+   }
+  },
+  {
+   "n": 109,
+   "form": "adanahe",
+   "gloss": "my Mother",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6392,
+    "y": 0.4148,
+    "w": 0.3324,
+    "h": 0.0105,
+    "approx": true
+   }
+  },
+  {
+   "n": 110,
+   "form": "addagrim",
+   "gloss": "my Brother",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6552,
+    "y": 0.4351,
+    "w": 0.3093,
+    "h": 0.0105
+   }
+  },
+  {
+   "n": 111,
+   "form": "adhoasseue",
+   "gloss": "my Sister",
+   "section": "Here followe the names of the chiefest partes of man, and other wordes necessarie to be knowen.",
+   "concepts": [
+    "SISTER"
+   ]
+  }
+ ],
+ "identification": {
+  "status": "abstain",
+  "path": [],
+  "support": [],
+  "concepts": 73,
+  "excluded": [
+   "laur1251"
+  ],
+  "leading": {
+   "name": "YABEN",
+   "family": "Nuclear Trans New Guinea",
+   "z": 4.67
+  },
+  "candidates": [
+   {
+    "name": "YABEN",
+    "db": "ASJP",
+    "family": "Nuclear Trans New Guinea",
+    "path": [
+     "Nuclear Trans New Guinea",
+     "Madang",
+     "Croisilles",
+     "Greater Northern Adelbert"
+    ],
+    "z": 4.67,
+    "n": 12
+   },
+   {
+    "name": "TETSERRET",
+    "db": "ASJP",
+    "family": "Afro-Asiatic",
+    "path": [
+     "Afro-Asiatic",
+     "Berber",
+     "Western Berber",
+     "Tetserret"
+    ],
+    "z": 3.78,
+    "n": 12
+   },
+   {
+    "name": "PROTO_NORTHERN_IROQUOIAN",
+    "db": "ASJP",
+    "family": "PROTO_NORTHERN_IROQUOIAN",
+    "path": [
+     "PROTO_NORTHERN_IROQUOIAN"
+    ],
+    "z": 3.56,
+    "n": 9
+   },
+   {
+    "name": "MALTESE_ARABIC",
+    "db": "ASJP",
+    "family": "Afro-Asiatic",
+    "path": [
+     "Afro-Asiatic",
+     "Semitic",
+     "West Semitic",
+     "Central Semitic"
+    ],
+    "z": 3.47,
+    "n": 12
+   },
+   {
+    "name": "WOMO",
+    "db": "ASJP",
+    "family": "Sko",
+    "path": [
+     "Sko",
+     "Skou-Serra-Piore",
+     "Serra Hills",
+     "Rawo-Main Serra"
+    ],
+    "z": 3.36,
+    "n": 12
+   },
+   {
+    "name": "NEHAN",
+    "db": "ASJP",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Eastern Malayo-Polynesian",
+     "Oceanic"
+    ],
+    "z": 3.34,
+    "n": 12
+   },
+   {
+    "name": "IAMALELE",
+    "db": "ASJP",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Eastern Malayo-Polynesian",
+     "Oceanic"
+    ],
+    "z": 3.26,
+    "n": 11
+   },
+   {
+    "name": "LIOUESSO_BOMITABA",
+    "db": "ASJP",
+    "family": "Atlantic-Congo",
+    "path": [
+     "Atlantic-Congo",
+     "Volta-Congo",
+     "Benue-Congo",
+     "Bantoid"
+    ],
+    "z": 3.23,
+    "n": 12
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "dog",
+    "form": "agayo",
+    "ref": "i7o",
+    "d": 0.0
+   },
+   {
+    "concept": "eye",
+    "form": "higata",
+    "ref": "magi5o",
+    "d": 0.33
+   },
+   {
+    "concept": "tongue",
+    "form": "osnache",
+    "ref": "awisa",
+    "d": 0.33
+   },
+   {
+    "concept": "hand",
+    "form": "aignoascon",
+    "ref": "t3zi",
+    "d": 0.5
+   },
+   {
+    "concept": "one",
+    "form": "Secada",
+    "ref": "gaw3d",
+    "d": 0.5
+   },
+   {
+    "concept": "sun",
+    "form": "ysmay",
+    "ref": "wayamu",
+    "d": 0.5
+   },
+   {
+    "concept": "two",
+    "form": "Tigneni",
+    "ref": "bulaja",
+    "d": 0.5
+   },
+   {
+    "concept": "water",
+    "form": "ame",
+    "ref": "y3gu",
+    "d": 0.5
+   },
+   {
+    "concept": "knee",
+    "form": "agochinegodascon",
+    "ref": "galama7ulu",
+    "d": 0.56
+   },
+   {
+    "concept": "ear",
+    "form": "abontascon",
+    "ref": "ir3silu",
+    "d": 0.57
+   },
+   {
+    "concept": "tooth",
+    "form": "esgongai",
+    "ref": "n3na",
+    "d": 0.57
+   },
+   {
+    "concept": "star",
+    "form": "stgnehohā",
+    "ref": "walij3ma",
+    "d": 0.88
+   }
+  ]
+ },
+ "stats": {
+  "entries": 111,
+  "notes": 0,
+  "located": 73
+ },
+ "partial": null,
+ "relation": null
+}

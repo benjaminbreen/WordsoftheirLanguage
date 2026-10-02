@@ -1,0 +1,4868 @@
+{
+ "schema": 1,
+ "id": "wood",
+ "wtl": "WTL-0002",
+ "heading": "Because many have desired to heare some of the Natives Language, I have here inserted a small Nomenclator",
+ "headings": [
+  "The number of 20.",
+  "The Indians count their time by nights, and not by dayes, as followeth.",
+  "How they call their Moneths.",
+  "The Names of Sagamores.",
+  "The names of the noted Habitations."
+ ],
+ "language": {
+  "name": "Massachusett",
+  "glottocode": "wamp1249",
+  "family": "Algic",
+  "path": [
+   "Algic",
+   "Algonquian-Blackfoot",
+   "Algonquian",
+   "Eastern Algonquian",
+   "Maritimes-Southern New England Algonquian",
+   "Southern New England Algonquian"
+  ],
+  "labels": []
+ },
+ "region": "North America",
+ "book": {
+  "short": "New Englands Prospect",
+  "title": "Nevv Englands prospect· A true, lively, and experimentall description of that part of America, commonly called Nevv England: discovering the state of that countrie, both as it stands to our new-come English planters; and to the old native inhabitants. Laying downe that which may both enrich the knowledge of the mind-travelling reader, or benefit the future voyager. By William Wood.",
+  "author": "William Wood",
+  "printed": 1634,
+  "imprint": "1634.",
+  "tcp": "A15685",
+  "cover": "wood"
+ },
+ "provenance": {
+  "collector": "William Wood",
+  "place": "Massachusetts Bay",
+  "heard": "c. 1629–33"
+ },
+ "scan": {
+  "ia": "newenglandsprosp01wood",
+  "url": "https://archive.org/details/newenglandsprosp01wood",
+  "holder": "John Carter Brown Library",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 115,
+   "w": 3541,
+   "h": 4735,
+   "sm": "/scans/wood/0115-900.webp",
+   "lg": "/scans/wood/0115-1800.webp"
+  },
+  {
+   "leaf": 116,
+   "w": 3541,
+   "h": 4735,
+   "sm": "/scans/wood/0116-900.webp",
+   "lg": "/scans/wood/0116-1800.webp"
+  },
+  {
+   "leaf": 117,
+   "w": 3541,
+   "h": 4735,
+   "sm": "/scans/wood/0117-900.webp",
+   "lg": "/scans/wood/0117-1800.webp"
+  },
+  {
+   "leaf": 118,
+   "w": 3541,
+   "h": 4735,
+   "sm": "/scans/wood/0118-900.webp",
+   "lg": "/scans/wood/0118-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Aberginian",
+   "gloss": "an Indian",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0387,
+    "y": 0.312,
+    "w": 0.2719,
+    "h": 0.0168
+   },
+   "note": {
+    "kind": "wrong_language",
+    "label": "Another language",
+    "text": "Not a Massachusett word but an English label for the people.",
+    "compare": "Wood's own ethnonym 'Aberginians'; Massachusett 'person/Indian' = wosketomp / ninnimissinnuwok",
+    "checked": false
+   }
+  },
+  {
+   "n": 2,
+   "form": "Abbamocho",
+   "gloss": "the divell",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0387,
+    "y": 0.3266,
+    "w": 0.2654,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 3,
+   "form": "Aunum",
+   "gloss": "a dogge",
+   "section": "",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0396,
+    "y": 0.3444,
+    "w": 0.2502,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 4,
+   "form": "Ausupp",
+   "gloss": "a Rackoone",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0396,
+    "y": 0.3618,
+    "w": 0.2798,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 5,
+   "form": "Au so hau naut hoc",
+   "gloss": "Lobstar",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0398,
+    "y": 0.3765,
+    "w": 0.2513,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 6,
+   "form": "Assawog",
+   "gloss": "will you play",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0384,
+    "y": 0.3937,
+    "w": 0.2934,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 7,
+   "form": "A saw upp",
+   "gloss": "to morrow",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0384,
+    "y": 0.411,
+    "w": 0.2792,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 8,
+   "form": "Ascosc•i",
+   "gloss": "greene",
+   "section": "",
+   "concepts": [
+    "GREEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0404,
+    "y": 0.4267,
+    "w": 0.2414,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 9,
+   "form": "Ausomma petuc quanocke",
+   "gloss": "give me some bread",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.041,
+    "y": 0.4413,
+    "w": 0.3644,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 10,
+   "form": "Appepes naw aug",
+   "gloss": "when I see it I will tell you my minde",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.041,
+    "y": 0.4581,
+    "w": 0.3644,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 11,
+   "form": "Anno ke ••gge",
+   "gloss": "a sieve",
+   "section": "",
+   "concepts": [
+    "SIEVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0415,
+    "y": 0.4916,
+    "w": 0.2383,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 12,
+   "form": "An nu ocke",
+   "gloss": "a bed",
+   "section": "",
+   "concepts": [
+    "BED"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0407,
+    "y": 0.5078,
+    "w": 0.231,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 13,
+   "form": "Autchu wompocke",
+   "gloss": "to day",
+   "section": "",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.041,
+    "y": 0.5243,
+    "w": 0.2386,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 14,
+   "form": "Appause",
+   "gloss": "the morne",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0424,
+    "y": 0.5417,
+    "w": 0.2696,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 15,
+   "form": "Ascom quom pauputchim",
+   "gloss": "thankes be given to God.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0418,
+    "y": 0.557,
+    "w": 0.3635,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 16,
+   "form": "Boquoquo",
+   "gloss": "the head",
+   "section": "",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.039,
+    "y": 0.6071,
+    "w": 0.2589,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 17,
+   "form": "Bisquant",
+   "gloss": "the shoulderbones",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0398,
+    "y": 0.6247,
+    "w": 0.3346,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 18,
+   "form": "Chesco kean",
+   "gloss": "you lye",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0435,
+    "y": 0.6573,
+    "w": 0.2431,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 19,
+   "form": "Commouton kean",
+   "gloss": "you steale",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0432,
+    "y": 0.6729,
+    "w": 0.2657,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 20,
+   "form": "Cram",
+   "gloss": "to kill",
+   "section": "",
+   "concepts": [
+    "KILL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.043,
+    "y": 0.6892,
+    "w": 0.2372,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 21,
+   "form": "Chicka chava",
+   "gloss": "osculari podicem",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0435,
+    "y": 0.7064,
+    "w": 0.3227,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 22,
+   "form": "Cowimm•",
+   "gloss": "sleepes",
+   "section": "",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0438,
+    "y": 0.7218,
+    "w": 0.2431,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 23,
+   "form": "Cocum",
+   "gloss": "the navell",
+   "section": "",
+   "concepts": [
+    "NAVEL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.043,
+    "y": 0.7388,
+    "w": 0.2679,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 24,
+   "form": "Cos",
+   "gloss": "the nailes",
+   "section": "",
+   "concepts": [
+    "FINGERNAIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.043,
+    "y": 0.7543,
+    "w": 0.2691,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 25,
+   "form": "Conomma",
+   "gloss": "a spoone",
+   "section": "",
+   "concepts": [
+    "SPOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0441,
+    "y": 0.7707,
+    "w": 0.2541,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 26,
+   "form": "Cossaquot",
+   "gloss": "bow and arrowes",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0415,
+    "y": 0.7879,
+    "w": 0.3298,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 27,
+   "form": "Cone",
+   "gloss": "the Sunne",
+   "section": "",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.041,
+    "y": 0.8043,
+    "w": 0.2722,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 28,
+   "form": "Cotattup",
+   "gloss": "I drinke to you",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0444,
+    "y": 0.8216,
+    "w": 0.3047,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 29,
+   "form": "Coetop",
+   "gloss": "will you drinke Tobaco",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0401,
+    "y": 0.8377,
+    "w": 0.3617,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 30,
+   "form": "Connucke sommona",
+   "gloss": "It is almost night",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0421,
+    "y": 0.8691,
+    "w": 0.3287,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 31,
+   "form": "Connu",
+   "gloss": "good night to you",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4104,
+    "y": 0.2939,
+    "w": 0.3309,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 32,
+   "form": "Cow•mpaum si•",
+   "gloss": "God morrow",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4095,
+    "y": 0.312,
+    "w": 0.2984,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 33,
+   "form": "Coepot",
+   "gloss": "ice",
+   "section": "",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4115,
+    "y": 0.3276,
+    "w": 0.2095,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 34,
+   "form": "Dottaguck",
+   "gloss": "the backe bone",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4095,
+    "y": 0.3612,
+    "w": 0.3106,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 35,
+   "form": "Docke taugh he necke",
+   "gloss": "what is your name",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4098,
+    "y": 0.3778,
+    "w": 0.345,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 36,
+   "form": "Et ch•ssucke",
+   "gloss": "a knife",
+   "section": "",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4095,
+    "y": 0.409,
+    "w": 0.247,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 37,
+   "form": "Eat chumnis",
+   "gloss": "Indian corne",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4095,
+    "y": 0.4242,
+    "w": 0.2984,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 38,
+   "form": "Eans causuacke",
+   "gloss": "4 fathomes",
+   "section": "",
+   "concepts": [
+    "FATHOM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4095,
+    "y": 0.4534,
+    "w": 0.2984,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 39,
+   "form": "Easu tomm•c quocke",
+   "gloss": "halfe a skin of Beaver",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4095,
+    "y": 0.4826,
+    "w": 0.2984,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 40,
+   "form": "Epimetsis",
+   "gloss": "much good may your meate doe you",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4095,
+    "y": 0.5118,
+    "w": 0.2984,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 41,
+   "form": "Gettoquaset",
+   "gloss": "the great toe",
+   "section": "",
+   "concepts": [
+    "TOE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4095,
+    "y": 0.541,
+    "w": 0.2903,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 42,
+   "form": "Genehuncke",
+   "gloss": "the fore finger",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5883,
+    "y": 0.5567,
+    "w": 0.1287,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 43,
+   "form": "Gettoquacke",
+   "gloss": "the knees",
+   "section": "",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4104,
+    "y": 0.5738,
+    "w": 0.2657,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 44,
+   "form": "Gettoquun",
+   "gloss": "the knuckles",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4115,
+    "y": 0.5903,
+    "w": 0.2903,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 45,
+   "form": "Gettoquan",
+   "gloss": "the thumb",
+   "section": "",
+   "concepts": [
+    "THUMB"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4098,
+    "y": 0.6069,
+    "w": 0.2747,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 46,
+   "form": "Gegnewaw og",
+   "gloss": "let me see",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4104,
+    "y": 0.6233,
+    "w": 0.2688,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 47,
+   "form": "Haha",
+   "gloss": "yes",
+   "section": "",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4109,
+    "y": 0.6536,
+    "w": 0.0536,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 48,
+   "form": "Hoc",
+   "gloss": "the body",
+   "section": "",
+   "concepts": [
+    "BODY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4115,
+    "y": 0.6705,
+    "w": 0.2586,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 49,
+   "form": "Hamucke",
+   "gloss": "almost",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4112,
+    "y": 0.6874,
+    "w": 0.2425,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 50,
+   "form": "Hub hub hub",
+   "gloss": "come come come",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4115,
+    "y": 0.7026,
+    "w": 0.3253,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 51,
+   "form": "Haddo quo du•na moquonash",
+   "gloss": "where did you buy that",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4123,
+    "y": 0.7214,
+    "w": 0.3575,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 52,
+   "form": "Haddogoe weage",
+   "gloss": "who lives here",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4115,
+    "y": 0.7538,
+    "w": 0.3047,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 53,
+   "form": "Isattonaneise",
+   "gloss": "the bread",
+   "section": "",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4112,
+    "y": 0.7886,
+    "w": 0.2631,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 54,
+   "form": "Icattop",
+   "gloss": "faint with hunger",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4123,
+    "y": 0.8059,
+    "w": 0.3292,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 55,
+   "form": "Icatto quam",
+   "gloss": "very sleepie",
+   "section": "",
+   "concepts": [
+    "SLEEPY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4123,
+    "y": 0.8205,
+    "w": 0.2821,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 56,
+   "form": "Kean",
+   "gloss": "I",
+   "section": "",
+   "concepts": [
+    "I"
+   ],
+   "note": {
+    "kind": "interactional",
+    "label": "Phrase taken for a word",
+    "text": "Speaker answered 'you' when collector pointed to himself.",
+    "compare": "Massachusett ken/keen 'you (sg.)', neen 'I'; Wood himself uses kean = 'you' in n=18,19,228",
+    "checked": false
+   },
+   "box": {
+    "page": 0,
+    "x": 0.4123,
+    "y": 0.8448,
+    "w": 0.3281,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 57,
+   "form": "Keisseanchacke",
+   "gloss": "backe of the hand",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4126,
+    "y": 0.8691,
+    "w": 0.3281,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 58,
+   "form": "Ksitt•",
+   "gloss": "it hurts me",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3931,
+    "y": 0.1124,
+    "w": 0.012,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 59,
+   "form": "Kawken•g wampompeage",
+   "gloss": "let me see money",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2124,
+    "y": 0.1303,
+    "w": 0.1927,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 60,
+   "form": "Kagmatche•",
+   "gloss": "will you eate meate",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2124,
+    "y": 0.1507,
+    "w": 0.1927,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 61,
+   "form": "Ketott•g",
+   "gloss": "a whet stone",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2124,
+    "y": 0.1711,
+    "w": 0.1927,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 62,
+   "form": "Kenie",
+   "gloss": "very sharpe",
+   "section": "",
+   "concepts": [
+    "SHARP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2124,
+    "y": 0.1916,
+    "w": 0.1927,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 63,
+   "form": "Ketto•a•ese",
+   "gloss": "lend me monie",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2138,
+    "y": 0.212,
+    "w": 0.1913,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 64,
+   "form": "Kekechoi",
+   "gloss": "much paine",
+   "section": ""
+  },
+  {
+   "n": 65,
+   "form": "Matchet",
+   "gloss": "It is nought",
+   "section": ""
+  },
+  {
+   "n": 66,
+   "form": "Mat•amoi",
+   "gloss": "to die",
+   "section": "",
+   "concepts": [
+    "DIE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2138,
+    "y": 0.212,
+    "w": 0.1913,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 67,
+   "form": "Mitchin",
+   "gloss": "meat",
+   "section": "",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2146,
+    "y": 0.3081,
+    "w": 0.0754,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 68,
+   "form": "Misquanium",
+   "gloss": "very angrie",
+   "section": "",
+   "concepts": [
+    "ANGRY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2141,
+    "y": 0.3263,
+    "w": 0.191,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 69,
+   "form": "Mauncheake",
+   "gloss": "be gonne",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2141,
+    "y": 0.3427,
+    "w": 0.191,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 70,
+   "form": "Matta",
+   "gloss": "no",
+   "section": "",
+   "concepts": [
+    "NO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2141,
+    "y": 0.3592,
+    "w": 0.191,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 71,
+   "form": "Meseig",
+   "gloss": "haire",
+   "section": "",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2169,
+    "y": 0.3756,
+    "w": 0.0692,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 72,
+   "form": "Mamanock",
+   "gloss": "the eye brees",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2169,
+    "y": 0.3912,
+    "w": 0.1017,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 73,
+   "form": "Matchanne",
+   "gloss": "the nose",
+   "section": "",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2166,
+    "y": 0.4068,
+    "w": 0.1017,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 74,
+   "form": "Mattone",
+   "gloss": "the lippes",
+   "section": "",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2169,
+    "y": 0.4241,
+    "w": 0.0779,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 75,
+   "form": "Mepeiteis",
+   "gloss": "the teeth",
+   "section": "",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2152,
+    "y": 0.4405,
+    "w": 0.0875,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 76,
+   "form": "Mattickeis",
+   "gloss": "the shoulders",
+   "section": "",
+   "concepts": [
+    "SHOULDER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2152,
+    "y": 0.4572,
+    "w": 0.1104,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 77,
+   "form": "Mettosowset",
+   "gloss": "the little toe",
+   "section": "",
+   "concepts": [
+    "TOE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2152,
+    "y": 0.4738,
+    "w": 0.1104,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 78,
+   "form": "Metosaunige",
+   "gloss": "the little finger",
+   "section": "",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2177,
+    "y": 0.4901,
+    "w": 0.1104,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 79,
+   "form": "Misqu•sh",
+   "gloss": "the veines",
+   "section": "",
+   "concepts": [
+    "VEIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2177,
+    "y": 0.5054,
+    "w": 0.1104,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 80,
+   "form": "Mohoc",
+   "gloss": "the wast",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2175,
+    "y": 0.5208,
+    "w": 0.0635,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 81,
+   "form": "Menisowhock",
+   "gloss": "the genitals",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2186,
+    "y": 0.5385,
+    "w": 0.1164,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 82,
+   "form": "Mocossa",
+   "gloss": "the black of the naile",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2177,
+    "y": 0.5542,
+    "w": 0.0774,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 83,
+   "form": "Matchanni",
+   "gloss": "very sicke",
+   "section": "",
+   "concepts": [
+    "SICK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2194,
+    "y": 0.5703,
+    "w": 0.0971,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 84,
+   "form": "Monacus",
+   "gloss": "bowes and arrowes",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2194,
+    "y": 0.5875,
+    "w": 0.0971,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 85,
+   "form": "Manehops",
+   "gloss": "sit downe",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.216,
+    "y": 0.6047,
+    "w": 0.0912,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 86,
+   "form": "Monakinne",
+   "gloss": "a coate",
+   "section": "",
+   "concepts": [
+    "COAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.218,
+    "y": 0.6206,
+    "w": 0.0986,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 87,
+   "form": "Mawcus sinnus",
+   "gloss": "a paire of shooes",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.218,
+    "y": 0.6373,
+    "w": 0.1862,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 88,
+   "form": "Matchemauquot",
+   "gloss": "it stinketh",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2189,
+    "y": 0.654,
+    "w": 0.1862,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 89,
+   "form": "Muskana",
+   "gloss": "a bone",
+   "section": "",
+   "concepts": [
+    "BONE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2189,
+    "y": 0.6695,
+    "w": 0.1862,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 90,
+   "form": "Menota",
+   "gloss": "a basket",
+   "section": "",
+   "concepts": [
+    "BASKET"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2206,
+    "y": 0.685,
+    "w": 0.0729,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 91,
+   "form": "Meatchis",
+   "gloss": "be merrie",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2206,
+    "y": 0.7026,
+    "w": 0.0898,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 92,
+   "form": "Mawpaw",
+   "gloss": "it snowes",
+   "section": "",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2214,
+    "y": 0.7202,
+    "w": 0.0898,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 93,
+   "form": "Mawnaucoi",
+   "gloss": "very strong",
+   "section": "",
+   "concepts": [
+    "STRONG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2214,
+    "y": 0.736,
+    "w": 0.0898,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 94,
+   "form": "Mutchecu",
+   "gloss": "a very poore man",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2203,
+    "y": 0.7519,
+    "w": 0.0878,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 95,
+   "form": "Monosketenog",
+   "gloss": "whats this",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2214,
+    "y": 0.7681,
+    "w": 0.1209,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 96,
+   "form": "Mouskett",
+   "gloss": "the breech",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2214,
+    "y": 0.7881,
+    "w": 0.1209,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 97,
+   "form": "Matchet wequon",
+   "gloss": "very blunt",
+   "section": "",
+   "concepts": [
+    "BLUNT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2214,
+    "y": 0.808,
+    "w": 0.1209,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 98,
+   "form": "Ma••a ka tau caushana",
+   "gloss": "will you not trade",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2214,
+    "y": 0.8279,
+    "w": 0.1209,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 99,
+   "form": "Mowhachei•",
+   "gloss": "Indian gold",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2248,
+    "y": 0.8479,
+    "w": 0.1124,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 100,
+   "form": "〈◊〉",
+   "gloss": "a boy",
+   "section": "",
+   "concepts": [
+    "BOY"
+   ],
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "Form lost/illegible in the transcription.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 101,
+   "form": "Nicke squaw",
+   "gloss": "a maide",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5877,
+    "y": 0.1122,
+    "w": 0.2528,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 102,
+   "form": "Nean",
+   "gloss": "you",
+   "section": "",
+   "concepts": [
+    "YOU"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5877,
+    "y": 0.1278,
+    "w": 0.2225,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "interactional",
+    "label": "Phrase taken for a word",
+    "text": "Mirror of n=56.",
+    "compare": "Massachusett neen 'I', ken 'you'",
+    "checked": false
+   }
+  },
+  {
+   "n": 103,
+   "form": "Nippe",
+   "gloss": "water",
+   "section": "",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5883,
+    "y": 0.1451,
+    "w": 0.2369,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 104,
+   "form": "Nasamp",
+   "gloss": "pottadge",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3957,
+    "y": 0.1616,
+    "w": 0.4521,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 105,
+   "form": "No•a",
+   "gloss": "sixe",
+   "section": "",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.586,
+    "y": 0.1767,
+    "w": 0.2191,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 106,
+   "form": "Nisquan",
+   "gloss": "the elbow",
+   "section": "",
+   "concepts": [
+    "ELBOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5866,
+    "y": 0.1945,
+    "w": 0.0791,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 107,
+   "form": "Noenaset",
+   "gloss": "the third toe",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5874,
+    "y": 0.2096,
+    "w": 0.2903,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 108,
+   "form": "Nahenan",
+   "gloss": "a blacke bird",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.588,
+    "y": 0.2409,
+    "w": 0.2883,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 109,
+   "form": "Naw naunidge",
+   "gloss": "the middle finger",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5885,
+    "y": 0.2576,
+    "w": 0.3304,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 110,
+   "form": "Napet",
+   "gloss": "the arme",
+   "section": "",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5888,
+    "y": 0.2757,
+    "w": 0.2635,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 111,
+   "form": "Nitchicke",
+   "gloss": "the hand",
+   "section": "",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5894,
+    "y": 0.2905,
+    "w": 0.2601,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 112,
+   "form": "Nottoquap",
+   "gloss": "the skinne",
+   "section": "",
+   "concepts": [
+    "SKIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5891,
+    "y": 0.3081,
+    "w": 0.0909,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 113,
+   "form": "Nogcu•",
+   "gloss": "the heart",
+   "section": "",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5891,
+    "y": 0.3236,
+    "w": 0.3098,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 114,
+   "form": "Nobpaw nocke",
+   "gloss": "the breast bone",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5897,
+    "y": 0.3391,
+    "w": 0.3098,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 115,
+   "form": "Nequaw",
+   "gloss": "the thighes",
+   "section": "",
+   "concepts": [
+    "THIGH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5874,
+    "y": 0.3566,
+    "w": 0.2807,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 116,
+   "form": "Netop",
+   "gloss": "a friend",
+   "section": "",
+   "concepts": [
+    "FRIEND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.588,
+    "y": 0.3727,
+    "w": 0.0618,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Vocative 'my friend'.",
+    "compare": "Narragansett/Massachusett netop 'my friend' (n- + -etop)",
+    "checked": false
+   }
+  },
+  {
+   "n": 117,
+   "form": "Nenmia",
+   "gloss": "give me",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.588,
+    "y": 0.387,
+    "w": 0.2544,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 118,
+   "form": "Noeicantop",
+   "gloss": "how doe you",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5877,
+    "y": 0.4048,
+    "w": 0.2926,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 119,
+   "form": "N•whaw nissis",
+   "gloss": "farewell",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5866,
+    "y": 0.4201,
+    "w": 0.259,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 120,
+   "form": "Noei pauketan",
+   "gloss": "by and by kill",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5871,
+    "y": 0.4377,
+    "w": 0.2968,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 121,
+   "form": "Nenelah ha",
+   "gloss": "Ile fight with you",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5874,
+    "y": 0.4523,
+    "w": 0.3276,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 122,
+   "form": "Noei comquocke",
+   "gloss": "a codfish",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5874,
+    "y": 0.47,
+    "w": 0.259,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 123,
+   "form": "Nepaupe",
+   "gloss": "stand by",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5874,
+    "y": 0.487,
+    "w": 0.2578,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 124,
+   "form": "No ot•ut",
+   "gloss": "a great journie",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.588,
+    "y": 0.5021,
+    "w": 0.3078,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 125,
+   "form": "Necautauh han",
+   "gloss": "no such matter",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5883,
+    "y": 0.5165,
+    "w": 0.3081,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 126,
+   "form": "Noewamma",
+   "gloss": "he laugheth",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5883,
+    "y": 0.534,
+    "w": 0.2875,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 127,
+   "form": "Noeshow",
+   "gloss": "a father",
+   "section": "",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3968,
+    "y": 0.5509,
+    "w": 0.4439,
+    "h": 0.0163,
+    "approx": true
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Kin term with 1sg possessor.",
+    "compare": "Massachusett noohs 'my father' (n- + -ohs)",
+    "checked": false
+   }
+  },
+  {
+   "n": 128,
+   "form": "Nitka",
+   "gloss": "a mother",
+   "section": "",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5883,
+    "y": 0.568,
+    "w": 0.2643,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 129,
+   "form": "Netchaw",
+   "gloss": "a brother",
+   "section": "",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3973,
+    "y": 0.5842,
+    "w": 0.4569,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 130,
+   "form": "Not•nquous",
+   "gloss": "a kinseman",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.588,
+    "y": 0.6012,
+    "w": 0.2813,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 131,
+   "form": "Nenomous",
+   "gloss": "a kinswoman",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5885,
+    "y": 0.6161,
+    "w": 0.2988,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 132,
+   "form": "Nau maeu nais",
+   "gloss": "my sonne",
+   "section": "",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5897,
+    "y": 0.6316,
+    "w": 0.2663,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 133,
+   "form": "Taunais",
+   "gloss": "my daughter",
+   "section": "",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5897,
+    "y": 0.6484,
+    "w": 0.2934,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 134,
+   "form": "No einshom",
+   "gloss": "give me corne",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5899,
+    "y": 0.6652,
+    "w": 0.301,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 135,
+   "form": "Nemnis",
+   "gloss": "take it",
+   "section": "",
+   "concepts": [
+    "TAKE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5902,
+    "y": 0.6811,
+    "w": 0.2386,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 136,
+   "form": "Nenimma nequitta ta auchu",
+   "gloss": "give me a span of any thing.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5905,
+    "y": 0.6975,
+    "w": 0.3604,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 137,
+   "form": "Ne•• nis ca su acke",
+   "gloss": "2 fathome",
+   "section": "",
+   "concepts": [
+    "FATHOM"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5905,
+    "y": 0.7274,
+    "w": 0.2694,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 138,
+   "form": "Notanumoi",
+   "gloss": "a little strong",
+   "section": "",
+   "concepts": [
+    "STRONG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5914,
+    "y": 0.7457,
+    "w": 0.2945,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 139,
+   "form": "Negac•wgh-hi",
+   "gloss": "lend me",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5916,
+    "y": 0.7623,
+    "w": 0.2528,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 140,
+   "form": "N•b•ks quam",
+   "gloss": "adiew",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5916,
+    "y": 0.7793,
+    "w": 0.2528,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 141,
+   "form": "N•• wi•yan",
+   "gloss": "come in",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5908,
+    "y": 0.7963,
+    "w": 0.2511,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 142,
+   "form": "Nau• seam",
+   "gloss": "much wearie",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5908,
+    "y": 0.8129,
+    "w": 0.2909,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 143,
+   "form": "Noe wammaw •use",
+   "gloss": "I love you",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5914,
+    "y": 0.8287,
+    "w": 0.2674,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 144,
+   "form": "Net noe whaw missu.",
+   "gloss": "a man of a middle stature",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3999,
+    "y": 0.8468,
+    "w": 0.551,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 145,
+   "form": "Ottucke",
+   "gloss": "a Deere",
+   "section": "",
+   "concepts": [
+    "DEER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0607,
+    "y": 0.112,
+    "w": 0.2533,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 146,
+   "form": "Occone",
+   "gloss": "a Deere skinne",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0618,
+    "y": 0.1271,
+    "w": 0.3104,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 147,
+   "form": "Oquan",
+   "gloss": "the heele",
+   "section": "",
+   "concepts": [
+    "HEEL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0652,
+    "y": 0.1456,
+    "w": 0.2573,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 148,
+   "form": "Ottump",
+   "gloss": "a bow",
+   "section": "",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0621,
+    "y": 0.161,
+    "w": 0.2415,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 149,
+   "form": "Ottommaocke",
+   "gloss": "Tobacco",
+   "section": "",
+   "concepts": [
+    "TOBACCO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0624,
+    "y": 0.1761,
+    "w": 0.2629,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 150,
+   "form": "Ottannapeake",
+   "gloss": "the chinne",
+   "section": "",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0641,
+    "y": 0.1931,
+    "w": 0.2748,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 151,
+   "form": "Occot••ke",
+   "gloss": "the throate",
+   "section": "",
+   "concepts": [
+    "THROAT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.063,
+    "y": 0.2094,
+    "w": 0.2785,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 152,
+   "form": "Occasu",
+   "gloss": "halfe a quarter",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0633,
+    "y": 0.2264,
+    "w": 0.305,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 153,
+   "form": "Vnquagh saw au",
+   "gloss": "you are cunning",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0655,
+    "y": 0.2409,
+    "w": 0.3171,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 154,
+   "form": "Ontoquos",
+   "gloss": "a Wolfe",
+   "section": "",
+   "concepts": [
+    "WOLF"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0661,
+    "y": 0.2591,
+    "w": 0.2542,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 155,
+   "form": "Pow-wow",
+   "gloss": "a conjurer or wizard",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0672,
+    "y": 0.2911,
+    "w": 0.3379,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 156,
+   "form": "Petta sinna",
+   "gloss": "give me a pipe of Tobaco",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0678,
+    "y": 0.308,
+    "w": 0.3373,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 157,
+   "form": "Peoke",
+   "gloss": "Colts-foote",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0562,
+    "y": 0.3399,
+    "w": 0.3304,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 158,
+   "form": "Pappouse",
+   "gloss": "a child",
+   "section": "",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0661,
+    "y": 0.3562,
+    "w": 0.2423,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 159,
+   "form": "Petucquanocke",
+   "gloss": "bread",
+   "section": "",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0664,
+    "y": 0.3722,
+    "w": 0.2344,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 160,
+   "form": "Picke",
+   "gloss": "a pipe",
+   "section": "",
+   "concepts": [
+    "TOBACCO PIPE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.2454,
+    "y": 0.3891,
+    "w": 0.0582,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 161,
+   "form": "Ponesanto",
+   "gloss": "make a fire",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0681,
+    "y": 0.4056,
+    "w": 0.2725,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 162,
+   "form": "Papowne",
+   "gloss": "winter",
+   "section": "",
+   "concepts": [
+    "WINTER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0683,
+    "y": 0.422,
+    "w": 0.2432,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 163,
+   "form": "Pequas",
+   "gloss": "a Foxe",
+   "section": "",
+   "concepts": [
+    "FOX"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0692,
+    "y": 0.4385,
+    "w": 0.2432,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 164,
+   "form": "Pausochis",
+   "gloss": "a little journie",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0618,
+    "y": 0.4541,
+    "w": 0.3098,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 165,
+   "form": "Peamissin",
+   "gloss": "a little",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0695,
+    "y": 0.4709,
+    "w": 0.2395,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 166,
+   "form": "Peacumshis",
+   "gloss": "worke hard",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0692,
+    "y": 0.4874,
+    "w": 0.2818,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 167,
+   "form": "Pokitta",
+   "gloss": "smoake",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.2463,
+    "y": 0.5008,
+    "w": 0.0686,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 168,
+   "form": "Petogge",
+   "gloss": "a bagge",
+   "section": "",
+   "concepts": [
+    "BAG"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.07,
+    "y": 0.5205,
+    "w": 0.2496,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 169,
+   "form": "Paucasu",
+   "gloss": "a quarter",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0703,
+    "y": 0.5368,
+    "w": 0.2638,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 170,
+   "form": "Pausawniscosu",
+   "gloss": "halfe a fathome",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0714,
+    "y": 0.5524,
+    "w": 0.3163,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 171,
+   "form": "Peunct•umocke",
+   "gloss": "much pray",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0717,
+    "y": 0.5674,
+    "w": 0.2759,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 172,
+   "form": "Pesissu",
+   "gloss": "a little man",
+   "section": "",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0717,
+    "y": 0.5857,
+    "w": 0.2847,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 173,
+   "form": "Pau••••ssoi",
+   "gloss": "the sunne is rising",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.2522,
+    "y": 0.5989,
+    "w": 0.1529,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 174,
+   "form": "Poucksha•",
+   "gloss": "it is broken",
+   "section": "",
+   "concepts": [
+    "BROKEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0723,
+    "y": 0.6177,
+    "w": 0.2773,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 175,
+   "form": "Poebugketaas",
+   "gloss": "you burne",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0723,
+    "y": 0.6347,
+    "w": 0.2717,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 176,
+   "form": "Poussis",
+   "gloss": "a big bellied woman",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0717,
+    "y": 0.6501,
+    "w": 0.3334,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 177,
+   "form": "Quequas nummos",
+   "gloss": "what cheare",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0737,
+    "y": 0.6832,
+    "w": 0.2875,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 178,
+   "form": "Quequas nim",
+   "gloss": "it is almost day",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.2525,
+    "y": 0.6969,
+    "w": 0.1279,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 179,
+   "form": "Quog quosh",
+   "gloss": "make haste",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.072,
+    "y": 0.7151,
+    "w": 0.277,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 180,
+   "form": "Quenobpuuncke",
+   "gloss": "a stoole",
+   "section": "",
+   "concepts": [
+    "STOOL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0743,
+    "y": 0.7322,
+    "w": 0.2463,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 181,
+   "form": "Quenops",
+   "gloss": "be quiet",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.072,
+    "y": 0.7488,
+    "w": 0.2547,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 182,
+   "form": "Sagamore",
+   "gloss": "a king",
+   "section": "",
+   "concepts": [
+    "KING"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0737,
+    "y": 0.7987,
+    "w": 0.2389,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Sagamore is the northern (Abenaki) form, spread to English via the coastal trade; the local form is sachem.",
+    "compare": "Eastern Abenaki sakəma, Mi'kmaq saqamaw 'chief'; Massachusett cognate is sachem/sontim (n=183)",
+    "checked": false
+   }
+  },
+  {
+   "n": 183,
+   "form": "Sachem",
+   "gloss": "idem",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0746,
+    "y": 0.8124,
+    "w": 0.2299,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 184,
+   "form": "Sannup",
+   "gloss": "a man",
+   "section": "",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0751,
+    "y": 0.8309,
+    "w": 0.2384,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 185,
+   "form": "Squaw",
+   "gloss": "a woman",
+   "section": "",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.076,
+    "y": 0.8472,
+    "w": 0.2612,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 186,
+   "form": "Squitta",
+   "gloss": "a fire sparke",
+   "section": ""
+  },
+  {
+   "n": 187,
+   "form": "S•ggig",
+   "gloss": "a Basse",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.6086,
+    "y": 0.0899,
+    "w": 0.0661,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 188,
+   "form": "Seasicke",
+   "gloss": "a rattle snake",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4287,
+    "y": 0.1082,
+    "w": 0.2957,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 189,
+   "form": "Shannucke",
+   "gloss": "a Squerill",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4332,
+    "y": 0.1256,
+    "w": 0.2626,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 190,
+   "form": "Skesicos",
+   "gloss": "the eyes",
+   "section": "",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4307,
+    "y": 0.1412,
+    "w": 0.2528,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 191,
+   "form": "Sickeubecke",
+   "gloss": "the necke",
+   "section": "",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4315,
+    "y": 0.1578,
+    "w": 0.2638,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 192,
+   "form": "Supskinge",
+   "gloss": "the wrist bones",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.431,
+    "y": 0.1744,
+    "w": 0.3095,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 193,
+   "form": "Socottocanus",
+   "gloss": "the breast bone",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4321,
+    "y": 0.1893,
+    "w": 0.3157,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 194,
+   "form": "Squehincke",
+   "gloss": "blood",
+   "section": "",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4326,
+    "y": 0.2066,
+    "w": 0.2372,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 195,
+   "form": "Siccaw quant",
+   "gloss": "the hammes",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4338,
+    "y": 0.2245,
+    "w": 0.118,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 196,
+   "form": "Sis sau causke",
+   "gloss": "the shinnes",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4346,
+    "y": 0.2396,
+    "w": 0.2796,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 197,
+   "form": "Su•piske",
+   "gloss": "ancle bones",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4307,
+    "y": 0.2557,
+    "w": 0.2861,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 198,
+   "form": "Seat",
+   "gloss": "the foote",
+   "section": "",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4332,
+    "y": 0.2712,
+    "w": 0.2626,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 199,
+   "form": "Seaseap",
+   "gloss": "a ducke",
+   "section": "",
+   "concepts": [
+    "DUCK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6125,
+    "y": 0.285,
+    "w": 0.072,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 200,
+   "form": "Suckis suacke",
+   "gloss": "a Clam",
+   "section": ""
+  },
+  {
+   "n": 201,
+   "form": "Sequan",
+   "gloss": "the summer",
+   "section": "",
+   "concepts": [
+    "SUMMER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4363,
+    "y": 0.322,
+    "w": 0.2841,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 202,
+   "form": "Sockepup",
+   "gloss": "he will bite",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4358,
+    "y": 0.3379,
+    "w": 0.2742,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 203,
+   "form": "Sis",
+   "gloss": "come out",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4355,
+    "y": 0.3525,
+    "w": 0.2657,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 204,
+   "form": "Squi",
+   "gloss": "red",
+   "section": "",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4363,
+    "y": 0.3704,
+    "w": 0.2141,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 205,
+   "form": "Swanscaw suacko",
+   "gloss": "3 fathomes",
+   "section": "",
+   "concepts": [
+    "FATHOM"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.436,
+    "y": 0.386,
+    "w": 0.2847,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 206,
+   "form": "Sawawampeago",
+   "gloss": "very weake",
+   "section": "",
+   "concepts": [
+    "WEAK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.438,
+    "y": 0.4038,
+    "w": 0.2796,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 207,
+   "form": "Succomme",
+   "gloss": "I will eate you",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4358,
+    "y": 0.4185,
+    "w": 0.3087,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 208,
+   "form": "Sasketupe",
+   "gloss": "a great man",
+   "section": "",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4372,
+    "y": 0.435,
+    "w": 0.2926,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 209,
+   "form": "Taubut nean he•",
+   "gloss": "Thankes heartily",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4383,
+    "y": 0.4666,
+    "w": 0.329,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 210,
+   "form": "Tantacum",
+   "gloss": "beate him",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4391,
+    "y": 0.4846,
+    "w": 0.2663,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 211,
+   "form": "Tap in",
+   "gloss": "goe in",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4386,
+    "y": 0.5015,
+    "w": 0.2386,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 212,
+   "form": "Titta",
+   "gloss": "I cannot tell",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.438,
+    "y": 0.5166,
+    "w": 0.2929,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 213,
+   "form": "Tahanyah",
+   "gloss": "what newes",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.438,
+    "y": 0.5335,
+    "w": 0.2855,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 214,
+   "form": "Tonagus",
+   "gloss": "the eares",
+   "section": "",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4386,
+    "y": 0.5504,
+    "w": 0.264,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 215,
+   "form": "Tannicke",
+   "gloss": "a cranie",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.44,
+    "y": 0.5663,
+    "w": 0.2547,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 216,
+   "form": "Thaw",
+   "gloss": "the calfe of the leg",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.44,
+    "y": 0.5804,
+    "w": 0.342,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 217,
+   "form": "Tahascat",
+   "gloss": "the sole of the foote",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.6207,
+    "y": 0.5953,
+    "w": 0.1697,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 218,
+   "form": "Tasseche quonu•ck",
+   "gloss": "the insteppe",
+   "section": "",
+   "concepts": [
+    "INSTEP"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4414,
+    "y": 0.6138,
+    "w": 0.2852,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 219,
+   "form": "Tonokete naum",
+   "gloss": "whither goe you",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4428,
+    "y": 0.6315,
+    "w": 0.3234,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 220,
+   "form": "Tannissin may",
+   "gloss": "which is the way",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.6207,
+    "y": 0.6448,
+    "w": 0.1485,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 221,
+   "form": "Tunketappin",
+   "gloss": "where live you",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4422,
+    "y": 0.6638,
+    "w": 0.3126,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 222,
+   "form": "Tonocco wam",
+   "gloss": "where have you bin",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4414,
+    "y": 0.6795,
+    "w": 0.3482,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 223,
+   "form": "Tasis",
+   "gloss": "a paire of stockings",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4411,
+    "y": 0.6965,
+    "w": 0.3476,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 224,
+   "form": "Tockucke",
+   "gloss": "a hatchet",
+   "section": "",
+   "concepts": [
+    "AXE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4411,
+    "y": 0.7128,
+    "w": 0.2711,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 225,
+   "form": "Towwow",
+   "gloss": "a sister",
+   "section": "",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.442,
+    "y": 0.728,
+    "w": 0.2426,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 226,
+   "form": "Tom maushew",
+   "gloss": "a husband",
+   "section": "",
+   "concepts": [
+    "HUSBAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4422,
+    "y": 0.7456,
+    "w": 0.2691,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 227,
+   "form": "Tookesin",
+   "gloss": "enough sleepe",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4414,
+    "y": 0.7617,
+    "w": 0.2979,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 228,
+   "form": "Titto kean l•atoquam",
+   "gloss": "doe you nod and sleepe",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4422,
+    "y": 0.7767,
+    "w": 0.3615,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 229,
+   "form": "Tau kequam",
+   "gloss": "very heavie",
+   "section": "",
+   "concepts": [
+    "HEAVY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4434,
+    "y": 0.8095,
+    "w": 0.279,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 230,
+   "form": "Tauh coi",
+   "gloss": "it is very cold",
+   "section": "",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4434,
+    "y": 0.8246,
+    "w": 0.2979,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 231,
+   "form": "Vkepemanous",
+   "gloss": "the breast 〈◊〉",
+   "section": "",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4437,
+    "y": 0.8569,
+    "w": 0.3118,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 232,
+   "form": "Vnkesheto",
+   "gloss": "will you trucke",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.3698,
+    "y": 0.0907,
+    "w": 0.0355,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 233,
+   "form": "Wampompeage",
+   "gloss": "Indian money",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.1941,
+    "y": 0.1296,
+    "w": 0.2111,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 234,
+   "form": "Winnet",
+   "gloss": "very good",
+   "section": "",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1862,
+    "y": 0.1448,
+    "w": 0.219,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 235,
+   "form": "Web",
+   "gloss": "a wife",
+   "section": "",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.191,
+    "y": 0.1603,
+    "w": 0.2142,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 236,
+   "form": "Wigwam",
+   "gloss": "a house",
+   "section": "",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1927,
+    "y": 0.179,
+    "w": 0.0873,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 237,
+   "form": "Waw•••t",
+   "gloss": "enough",
+   "section": "",
+   "concepts": [
+    "ENOUGH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.193,
+    "y": 0.1939,
+    "w": 0.2123,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 238,
+   "form": "Whenan",
+   "gloss": "the tongue",
+   "section": "",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1927,
+    "y": 0.2096,
+    "w": 0.2125,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 239,
+   "form": "Whanksis",
+   "gloss": "a Foxe",
+   "section": "",
+   "concepts": [
+    "FOX"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3726,
+    "y": 0.2232,
+    "w": 0.0326,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 240,
+   "form": "Wawpatucke",
+   "gloss": "a Goose",
+   "section": "",
+   "concepts": [
+    "GOOSE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.193,
+    "y": 0.2441,
+    "w": 0.2123,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 241,
+   "form": "Wawpiske",
+   "gloss": "the bellie",
+   "section": "",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1921,
+    "y": 0.2603,
+    "w": 0.2131,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 242,
+   "form": "Whoe nuncke",
+   "gloss": "a ditch",
+   "section": "",
+   "concepts": [
+    "DITCH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1921,
+    "y": 0.2765,
+    "w": 0.2131,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 243,
+   "form": "Wappinne",
+   "gloss": "the wind",
+   "section": "",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1916,
+    "y": 0.2933,
+    "w": 0.2137,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 244,
+   "form": "Wawtom",
+   "gloss": "understand you",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.1913,
+    "y": 0.3081,
+    "w": 0.214,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 245,
+   "form": "Wompey",
+   "gloss": "white",
+   "section": "",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1905,
+    "y": 0.3273,
+    "w": 0.0707,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 246,
+   "form": "Wa aoy",
+   "gloss": "the sunne is downe",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.1919,
+    "y": 0.3428,
+    "w": 0.0715,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 247,
+   "form": "Wa•coh",
+   "gloss": "the day breakes",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.1921,
+    "y": 0.3571,
+    "w": 0.2131,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 248,
+   "form": "Wekemawquot",
+   "gloss": "it smells sweete",
+   "section": ""
+  },
+  {
+   "n": 249,
+   "form": "Weneikin•e",
+   "gloss": "it is very handsome",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.7395,
+    "y": 0.09,
+    "w": 0.1723,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 250,
+   "form": "Whissu hochuck",
+   "gloss": "the kettle boyleth",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.5629,
+    "y": 0.1054,
+    "w": 0.3356,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 251,
+   "form": "Waawnew",
+   "gloss": "you have lost your way",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.7445,
+    "y": 0.1239,
+    "w": 0.185,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 252,
+   "form": "Woenaunta",
+   "gloss": "it is a warme summer",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.5641,
+    "y": 0.1542,
+    "w": 0.3644,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 253,
+   "form": "Wompoca",
+   "gloss": "to morrow",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.5635,
+    "y": 0.172,
+    "w": 0.2864,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 254,
+   "form": "Wawmauseu",
+   "gloss": "an honest man",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.5669,
+    "y": 0.1876,
+    "w": 0.3099,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 255,
+   "form": "Weneicu",
+   "gloss": "a rich man",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.5663,
+    "y": 0.2021,
+    "w": 0.2751,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 256,
+   "form": "Weitagcone",
+   "gloss": "a cleere day",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.5677,
+    "y": 0.2205,
+    "w": 0.2839,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 257,
+   "form": "Wawnauco",
+   "gloss": "yesterday",
+   "section": "",
+   "concepts": [
+    "YESTERDAY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5539,
+    "y": 0.2353,
+    "w": 0.2796,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 258,
+   "form": "yeips",
+   "gloss": "sit downe",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.5646,
+    "y": 0.3053,
+    "w": 0.2706,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 259,
+   "form": "yaus",
+   "gloss": "the sides",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.5632,
+    "y": 0.3228,
+    "w": 0.2596,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 260,
+   "form": "yaugh",
+   "gloss": "there",
+   "section": "",
+   "concepts": [
+    "THERE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.7468,
+    "y": 0.3356,
+    "w": 0.0526,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 261,
+   "form": "yough yough",
+   "gloss": "now",
+   "section": "",
+   "concepts": [
+    "NOW"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5632,
+    "y": 0.3553,
+    "w": 0.2297,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 262,
+   "form": "yoakes",
+   "gloss": "lice",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.5644,
+    "y": 0.3714,
+    "w": 0.2198,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 263,
+   "form": "A quit",
+   "gloss": "1",
+   "section": "The number of 20.",
+   "concepts": [
+    "ONE"
+   ]
+  },
+  {
+   "n": 264,
+   "form": "Nees",
+   "gloss": "2",
+   "section": "The number of 20.",
+   "concepts": [
+    "TWO"
+   ]
+  },
+  {
+   "n": 265,
+   "form": "Nis",
+   "gloss": "3",
+   "section": "The number of 20.",
+   "concepts": [
+    "THREE"
+   ]
+  },
+  {
+   "n": 266,
+   "form": "Yoaw",
+   "gloss": "4",
+   "section": "The number of 20.",
+   "concepts": [
+    "FOUR"
+   ]
+  },
+  {
+   "n": 267,
+   "form": "Abbona",
+   "gloss": "5",
+   "section": "The number of 20.",
+   "concepts": [
+    "FIVE"
+   ]
+  },
+  {
+   "n": 268,
+   "form": "Ocqinta",
+   "gloss": "6",
+   "section": "The number of 20.",
+   "concepts": [
+    "SIX"
+   ]
+  },
+  {
+   "n": 269,
+   "form": "Enotta",
+   "gloss": "7",
+   "section": "The number of 20.",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.69,
+    "y": 0.4435,
+    "w": 0.1605,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 270,
+   "form": "Sonaske",
+   "gloss": "8",
+   "section": "The number of 20.",
+   "concepts": [
+    "EIGHT"
+   ]
+  },
+  {
+   "n": 271,
+   "form": "Assaquoquin",
+   "gloss": "9",
+   "section": "The number of 20.",
+   "concepts": [
+    "NINE"
+   ]
+  },
+  {
+   "n": 272,
+   "form": "Piocke",
+   "gloss": "10",
+   "section": "The number of 20.",
+   "concepts": [
+    "TEN"
+   ]
+  },
+  {
+   "n": 273,
+   "form": "Appon•a qiut",
+   "gloss": "11",
+   "section": "The number of 20."
+  },
+  {
+   "n": 274,
+   "form": "Apponees",
+   "gloss": "12",
+   "section": "The number of 20."
+  },
+  {
+   "n": 275,
+   "form": "Apponis",
+   "gloss": "13",
+   "section": "The number of 20."
+  },
+  {
+   "n": 276,
+   "form": "Appoyoaw",
+   "gloss": "14",
+   "section": "The number of 20."
+  },
+  {
+   "n": 277,
+   "form": "Apponabonna",
+   "gloss": "15",
+   "section": "The number of 20."
+  },
+  {
+   "n": 278,
+   "form": "Apponaquinta",
+   "gloss": "16",
+   "section": "The number of 20."
+  },
+  {
+   "n": 279,
+   "form": "Apponenotta",
+   "gloss": "17",
+   "section": "The number of 20.",
+   "box": {
+    "page": 3,
+    "x": 0.69,
+    "y": 0.4435,
+    "w": 0.1605,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 280,
+   "form": "Apponsonaske",
+   "gloss": "18",
+   "section": "The number of 20.",
+   "box": {
+    "page": 3,
+    "x": 0.6858,
+    "y": 0.4603,
+    "w": 0.1715,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 281,
+   "form": "Apponasquoquin",
+   "gloss": "19",
+   "section": "The number of 20."
+  },
+  {
+   "n": 282,
+   "form": "Neeniss•hicke",
+   "gloss": "20",
+   "section": "The number of 20.",
+   "concepts": [
+    "TWENTY"
+   ]
+  },
+  {
+   "n": 283,
+   "form": "Sawup",
+   "gloss": "1 sleepes",
+   "section": "The Indians count their time by nights, and not by dayes, as followeth.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4624,
+    "y": 0.564,
+    "w": 0.4624,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 284,
+   "form": "Isoqu••ocquock",
+   "gloss": "2 sleepes",
+   "section": "The Indians count their time by nights, and not by dayes, as followeth.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4624,
+    "y": 0.564,
+    "w": 0.4624,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 285,
+   "form": "Sucqunnocquocke",
+   "gloss": "3 sleepes",
+   "section": "The Indians count their time by nights, and not by dayes, as followeth.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4624,
+    "y": 0.564,
+    "w": 0.4624,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 286,
+   "form": "Yoawqunnocquock",
+   "gloss": "4 sleepes",
+   "section": "The Indians count their time by nights, and not by dayes, as followeth.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4624,
+    "y": 0.564,
+    "w": 0.4624,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 287,
+   "form": "Abonetta ta sucqunnocquock",
+   "gloss": "5 sleepes",
+   "section": "The Indians count their time by nights, and not by dayes, as followeth.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4624,
+    "y": 0.564,
+    "w": 0.4624,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 288,
+   "form": "Nequitta ta sucqunnocquock",
+   "gloss": "6 sleepes",
+   "section": "The Indians count their time by nights, and not by dayes, as followeth.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4624,
+    "y": 0.564,
+    "w": 0.4624,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 289,
+   "form": "Enotta ta sucqunnocquock",
+   "gloss": "7 sleepes",
+   "section": "The Indians count their time by nights, and not by dayes, as followeth.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4624,
+    "y": 0.564,
+    "w": 0.4624,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 290,
+   "form": "Soesicta sucqunnocquock",
+   "gloss": "8 sleepes",
+   "section": "The Indians count their time by nights, and not by dayes, as followeth.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4624,
+    "y": 0.564,
+    "w": 0.4624,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 291,
+   "form": "Pausa quoquin sucqunnocquock",
+   "gloss": "9 sleepes",
+   "section": "The Indians count their time by nights, and not by dayes, as followeth.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4562,
+    "y": 0.613,
+    "w": 0.47,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 292,
+   "form": "Pawquo qunnocquock",
+   "gloss": "10 sleepes",
+   "section": "The Indians count their time by nights, and not by dayes, as followeth.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.459,
+    "y": 0.6297,
+    "w": 0.4666,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 293,
+   "form": "A quit-appause",
+   "gloss": "1 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4418,
+    "y": 0.696,
+    "w": 0.4841,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 294,
+   "form": "Neec-appause",
+   "gloss": "2 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 295,
+   "form": "Ni•-appause",
+   "gloss": "3 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 296,
+   "form": "Yoaw appause",
+   "gloss": "4 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 297,
+   "form": "Abonna appause",
+   "gloss": "5 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 298,
+   "form": "Nequit appause",
+   "gloss": "6 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 299,
+   "form": "E•otta appause",
+   "gloss": "7 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 300,
+   "form": "Sonaske appause",
+   "gloss": "8 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 301,
+   "form": "Assaquoquin appause",
+   "gloss": "9 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 302,
+   "form": "Piocke appause",
+   "gloss": "10 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 303,
+   "form": "App•na quit appause",
+   "gloss": "11 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 304,
+   "form": "App•••ce• appause",
+   "gloss": "12 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 305,
+   "form": "Apponnis appause",
+   "gloss": "13 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 306,
+   "form": "Apponyouw appause",
+   "gloss": "14 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 307,
+   "form": "Nap nappona appause",
+   "gloss": "15 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 308,
+   "form": "Nap napocquint appause",
+   "gloss": "16 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 309,
+   "form": "Nap nap enotta appause",
+   "gloss": "17 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.7123,
+    "w": 0.4869,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 310,
+   "form": "Napsoe sicke appause",
+   "gloss": "18 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.728,
+    "w": 0.4881,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 311,
+   "form": "Nappawsoquoquin appause",
+   "gloss": "16 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4418,
+    "y": 0.7441,
+    "w": 0.4855,
+    "h": 0.0168
+   },
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "Gloss printed '16' for 19.",
+    "compare": "form = nap + paskoogun 'nine' -> 19 (between 18 and 20)",
+    "checked": false
+   }
+  },
+  {
+   "n": 312,
+   "form": "Neesnischicke appause",
+   "gloss": "20 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4393,
+    "y": 0.7602,
+    "w": 0.4872,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 313,
+   "form": "Neesnischicke appon a quit appause",
+   "gloss": "21 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4376,
+    "y": 0.7771,
+    "w": 0.3774,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 314,
+   "form": "Neesnischicke apponees appause",
+   "gloss": "22 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4376,
+    "y": 0.8109,
+    "w": 0.3508,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 315,
+   "form": "Neesnischick apponis appause",
+   "gloss": "23 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4376,
+    "y": 0.8109,
+    "w": 0.3508,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 316,
+   "form": "Neesnischick appo yoaw appause",
+   "gloss": "24 moneths",
+   "section": "How they call their Moneths.",
+   "box": {
+    "page": 3,
+    "x": 0.4271,
+    "y": 0.8599,
+    "w": 0.3655,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 317,
+   "form": "Woenohaquahham",
+   "gloss": "Anglice King Iohn",
+   "section": "The Names of Sagamores."
+  },
+  {
+   "n": 318,
+   "form": "Montowompate",
+   "gloss": "Anglice King Iames",
+   "section": "The Names of Sagamores."
+  },
+  {
+   "n": 319,
+   "form": "Mausquonomend",
+   "gloss": "Igowam Sagamore",
+   "section": "The Names of Sagamores."
+  },
+  {
+   "n": 320,
+   "form": "Chickkatawbut",
+   "gloss": "Naponset Sagamore",
+   "section": "The Names of Sagamores."
+  },
+  {
+   "n": 321,
+   "form": "Caroni••es",
+   "gloss": "Narraganset Sagamore",
+   "section": "The Names of Sagamores."
+  },
+  {
+   "n": 322,
+   "form": "Osomeagen",
+   "gloss": "Sagamore of the Pequants",
+   "section": "The Names of Sagamores."
+  },
+  {
+   "n": 323,
+   "form": "Kekut",
+   "gloss": "Petchutacut Sagamore",
+   "section": "The Names of Sagamores."
+  },
+  {
+   "n": 324,
+   "form": "Nassawwho•an",
+   "gloss": "Two Sagamoes of Nipust.",
+   "section": "The Names of Sagamores."
+  },
+  {
+   "n": 325,
+   "form": "Woesemagen",
+   "gloss": "Two Sagamoes of Nipust.",
+   "section": "The Names of Sagamores."
+  },
+  {
+   "n": 326,
+   "form": "Pissacannua",
+   "gloss": "A Sagamore and most noted Nigromancer.",
+   "section": "The Names of Sagamores."
+  },
+  {
+   "n": 327,
+   "form": "Nahumkeake",
+   "gloss": "Salem",
+   "section": "The names of the noted Habitations."
+  },
+  {
+   "n": 328,
+   "form": "Mishaumut",
+   "gloss": "Charles towne",
+   "section": "The names of the noted Habitations."
+  },
+  {
+   "n": 329,
+   "form": "Massachusets",
+   "gloss": "Boston",
+   "section": "The names of the noted Habitations."
+  },
+  {
+   "n": 330,
+   "form": "Pigsgusset",
+   "gloss": "Water tow",
+   "section": "The names of the noted Habitations."
+  },
+  {
+   "n": 331,
+   "form": "Matampan",
+   "gloss": "Dorchester",
+   "section": "The names of the noted Habitations."
+  },
+  {
+   "n": 332,
+   "form": "Pawtuxet",
+   "gloss": "Plymouth",
+   "section": "The names of the noted Habitations."
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Algic",
+   "Algonquian-Blackfoot",
+   "Algonquian",
+   "Eastern Algonquian",
+   "Maritimes-Southern New England Algonquian"
+  ],
+  "support": [
+   1.0,
+   1.0,
+   1.0,
+   0.63,
+   0.49
+  ],
+  "concepts": 114,
+  "excluded": [],
+  "leading": {
+   "name": "WAMPANOAG_NATICK",
+   "family": "Algic",
+   "z": 7.35
+  },
+  "candidates": [
+   {
+    "name": "WAMPANOAG_NATICK",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Algonquian"
+    ],
+    "z": 7.35,
+    "n": 18
+   },
+   {
+    "name": "ABNAKI_EASTERN",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Algonquian"
+    ],
+    "z": 5.97,
+    "n": 15
+   },
+   {
+    "name": "PASSAMAQUODDY_MALISEET_UnnamedInSource",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Algonquian"
+    ],
+    "z": 5.9,
+    "n": 15
+   },
+   {
+    "name": "NANTICOKE",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Algonquian"
+    ],
+    "z": 5.83,
+    "n": 16
+   },
+   {
+    "name": "ABNAKI_WESTERN",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Algonquian"
+    ],
+    "z": 5.78,
+    "n": 18
+   },
+   {
+    "name": "OJIBWA_EASTERN",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Great Lakes Algonquian"
+    ],
+    "z": 5.53,
+    "n": 18
+   },
+   {
+    "name": "NISHNAABEMWIN",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Great Lakes Algonquian"
+    ],
+    "z": 5.46,
+    "n": 18
+   },
+   {
+    "name": "MENOMINEE",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Menominee"
+    ],
+    "z": 5.34,
+    "n": 15
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "dog",
+    "form": "Aunum",
+    "ref": "anum",
+    "d": 0.0
+   },
+   {
+    "concept": "two",
+    "form": "Nees",
+    "ref": "nes",
+    "d": 0.0
+   },
+   {
+    "concept": "water",
+    "form": "Nippe",
+    "ref": "nippe",
+    "d": 0.0
+   },
+   {
+    "concept": "skin",
+    "form": "Nottoquap",
+    "ref": "mattakw~ab",
+    "d": 0.12
+   },
+   {
+    "concept": "bone",
+    "form": "Muskana",
+    "ref": "muskon",
+    "d": 0.14
+   },
+   {
+    "concept": "nose",
+    "form": "Matchanne",
+    "ref": "muCan",
+    "d": 0.17
+   },
+   {
+    "concept": "tongue",
+    "form": "Whenan",
+    "ref": "menan",
+    "d": 0.2
+   },
+   {
+    "concept": "tooth",
+    "form": "Mepeiteis",
+    "ref": "mepit",
+    "d": 0.29
+   },
+   {
+    "concept": "hand",
+    "form": "Nitchicke",
+    "ref": "m\"nuCeg",
+    "d": 0.33
+   },
+   {
+    "concept": "i",
+    "form": "Kean",
+    "ref": "nen",
+    "d": 0.33
+   },
+   {
+    "concept": "blood",
+    "form": "Squehincke",
+    "ref": "muskw~eheonk",
+    "d": 0.38
+   },
+   {
+    "concept": "one",
+    "form": "A quit",
+    "ref": "nekw~t",
+    "d": 0.4
+   }
+  ]
+ },
+ "stats": {
+  "entries": 332,
+  "notes": 8,
+  "located": 293
+ },
+ "partial": null,
+ "relation": null
+}

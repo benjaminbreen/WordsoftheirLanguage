@@ -1,0 +1,71 @@
+---
+import Base from "../layouts/Base.astro";
+import { tables, cover } from "../lib/data";
+
+const fams = new Map<string, Map<string, typeof tables>>();
+for (const t of tables) {
+  const f = t.language.family || "Other";
+  if (!fams.has(f)) fams.set(f, new Map());
+  const m = fams.get(f)!;
+  if (!m.has(t.language.name)) m.set(t.language.name, []);
+  m.get(t.language.name)!.push(t);
+}
+const families = [...fams.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+---
+<Base title="Languages" nav="languages" description="The languages recorded in the printed vocabularies, grouped by family (Glottolog).">
+  <section class="wrap l-head">
+    <h1>Languages</h1>
+    <p class="muted">{new Set(tables.map((t) => t.language.name)).size} languages in {families.length} families, as classified in Glottolog. The names are modern; each table also keeps the name its source used.</p>
+    <nav class="chips" aria-label="Families">{families.map(([f]) => <a class="chip" href={`#fam-${f.replace(/[^A-Za-z0-9]+/g, "-")}`}>{f}</a>)}</nav>
+  </section>
+  <div class="wrap fams">
+    {families.map(([f, langs]) => (
+      <section class="fam" id={`fam-${f.replace(/[^A-Za-z0-9]+/g, "-")}`} aria-labelledby={`h-${f.replace(/[^A-Za-z0-9]+/g, "-")}`}>
+        <h2 id={`h-${f.replace(/[^A-Za-z0-9]+/g, "-")}`}>{f}</h2>
+        <div class="langs">
+          {[...langs.entries()].map(([name, ts]) => (
+            <div class="lang" id={ts[0].language.glottocode || ts[0].id}>
+              <div class="lang-name">
+                <h3>{name}</h3>
+                {ts[0].language.path.length > 1 && <p class="faint path">{ts[0].language.path.slice(1, 4).join(" › ")}</p>}
+                {ts[0].language.glottocode && <a class="mono faint gc" href={`https://glottolog.org/resource/languoid/id/${ts[0].language.glottocode}`} target="_blank" rel="noopener">{ts[0].language.glottocode}</a>}
+              </div>
+              <ul class="lang-tables">
+                {ts.map((t) => (
+                  <li><a href={`/t/${t.id}`}>
+                    <img src={cover(t, 360)} alt="" width="48" height="64" loading="lazy" />
+                    <span><span class="print ttl">{t.book.short}</span><span class="mono faint meta">{t.provenance.collector.replace(/ \(copied\)/, "")} · {t.book.printed} · {t.stats.entries} entries</span>
+                    {t.language.labels.length > 0 && <span class="faint called">Called in the source: {t.language.labels.join("; ")}</span>}</span>
+                  </a></li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .l-head { display: grid; gap: 14px; padding-block: 44px 28px; }
+  .l-head h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); letter-spacing: -0.02em; }
+  .l-head p { max-width: 64ch; font-size: var(--s-2); }
+  .fams { display: grid; gap: 44px; }
+  .fam { display: grid; gap: 14px; scroll-margin-top: 80px; }
+  .fam h2 { font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-3); font-weight: 500; padding-bottom: 8px; border-bottom: 1px solid var(--ink); }
+  .langs { display: grid; gap: 0; }
+  .lang { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 24px; padding: 16px 0; border-bottom: 1px solid var(--rule); scroll-margin-top: 80px; }
+  .lang-name { display: grid; gap: 4px; align-content: start; }
+  .lang h3 { font-size: 18px; }
+  .path { font-size: 13px; }
+  .gc { font-size: 11.5px; }
+  .lang-tables { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  .lang-tables a { display: flex; gap: 14px; align-items: center; }
+  .lang-tables img { width: 48px; height: 64px; object-fit: cover; object-position: top; border-radius: 2px; box-shadow: var(--shadow); }
+  .lang-tables span { display: grid; gap: 2px; }
+  .ttl { font-size: 17px; font-style: italic; }
+  .meta { font-size: 11.5px; }
+  .called { font-size: 12.5px; }
+  @media (max-width: 760px) { .lang { grid-template-columns: 1fr; gap: 10px; } }
+</style>

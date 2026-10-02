@@ -1,0 +1,2971 @@
+{
+ "schema": 1,
+ "id": "williams",
+ "wtl": "WTL-0003",
+ "heading": "CHAP. I. Of Salutation.",
+ "headings": [
+  "CHAP. I. Of Salutation.",
+  "CHAP. II. Of Eating and Entertainment."
+ ],
+ "language": {
+  "name": "Narragansett",
+  "glottocode": "narr1280",
+  "family": "Algic",
+  "path": [
+   "Algic",
+   "Algonquian-Blackfoot",
+   "Algonquian",
+   "Eastern Algonquian",
+   "Maritimes-Southern New England Algonquian",
+   "Southern New England Algonquian",
+   "Western Southern New England Algonquian",
+   "Mohegan-Montauk-Narragansett"
+  ],
+  "labels": [
+   "Narroganset Dialect"
+  ]
+ },
+ "region": "North America",
+ "book": {
+  "short": "A Key into the Language of America",
+  "title": "A key into the language of America, or, An help to the language of the natives in that part of America called New-England together with briefe observations of the customes, manners and worships, &c. of the aforesaid natives, in peace and warre, in life and death : on all which are added spirituall observations, generall and particular, by the authour ... / by Roger Williams ...",
+  "author": "Roger Williams",
+  "printed": 1643,
+  "imprint": "1643.",
+  "tcp": "A66450",
+  "cover": "williams"
+ },
+ "provenance": {
+  "collector": "Roger Williams",
+  "place": "Narragansett Bay",
+  "heard": "1630s"
+ },
+ "scan": {
+  "ia": "keyintolanguageo02will",
+  "url": "https://archive.org/details/keyintolanguageo02will",
+  "holder": "John Carter Brown Library",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 20,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0020-900.webp",
+   "lg": "/scans/williams/0020-1800.webp"
+  },
+  {
+   "leaf": 21,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0021-900.webp",
+   "lg": "/scans/williams/0021-1800.webp"
+  },
+  {
+   "leaf": 22,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0022-900.webp",
+   "lg": "/scans/williams/0022-1800.webp"
+  },
+  {
+   "leaf": 23,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0023-900.webp",
+   "lg": "/scans/williams/0023-1800.webp"
+  },
+  {
+   "leaf": 24,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0024-900.webp",
+   "lg": "/scans/williams/0024-1800.webp"
+  },
+  {
+   "leaf": 25,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0025-900.webp",
+   "lg": "/scans/williams/0025-1800.webp"
+  },
+  {
+   "leaf": 26,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0026-900.webp",
+   "lg": "/scans/williams/0026-1800.webp"
+  },
+  {
+   "leaf": 27,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0027-900.webp",
+   "lg": "/scans/williams/0027-1800.webp"
+  },
+  {
+   "leaf": 28,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0028-900.webp",
+   "lg": "/scans/williams/0028-1800.webp"
+  },
+  {
+   "leaf": 29,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0029-900.webp",
+   "lg": "/scans/williams/0029-1800.webp"
+  },
+  {
+   "leaf": 30,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0030-900.webp",
+   "lg": "/scans/williams/0030-1800.webp"
+  },
+  {
+   "leaf": 31,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0031-900.webp",
+   "lg": "/scans/williams/0031-1800.webp"
+  },
+  {
+   "leaf": 32,
+   "w": 2383,
+   "h": 3893,
+   "sm": "/scans/williams/0032-900.webp",
+   "lg": "/scans/williams/0032-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Netompaüog",
+   "gloss": "Friends.",
+   "section": "CHAP. I. Of Salutation.",
+   "concepts": [
+    "FRIEND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2483,
+    "y": 0.1811,
+    "w": 0.5172,
+    "h": 0.0245
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "The plural of netop carries 'my' (n-), not shown in the gloss 'Friends'.",
+    "compare": "Narragansett netop 'friend' (lit. 'my friend', Williams) ; ne- 'my' + -tomp- + -aüog plural",
+    "checked": false
+   }
+  },
+  {
+   "n": 2,
+   "form": "Neèn, Keèn, Ewò,",
+   "gloss": "I, you, he.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.2483,
+    "y": 0.2301,
+    "w": 0.5864,
+    "h": 0.0245,
+    "approx": true
+   }
+  },
+  {
+   "n": 3,
+   "form": "Keén ka neen",
+   "gloss": "You and I.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.2483,
+    "y": 0.2791,
+    "w": 0.5864,
+    "h": 0.0245,
+    "approx": true
+   }
+  },
+  {
+   "n": 4,
+   "form": "Asco wequássin",
+   "gloss": "Good morrow.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.2504,
+    "y": 0.3281,
+    "w": 0.5864,
+    "h": 0.0245,
+    "approx": true
+   }
+  },
+  {
+   "n": 5,
+   "form": "Asco wequassunnúmmis",
+   "gloss": "Good morrow.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.2504,
+    "y": 0.3281,
+    "w": 0.5864,
+    "h": 0.0245,
+    "approx": true
+   }
+  },
+  {
+   "n": 6,
+   "form": "Askuttaaquompsin?",
+   "gloss": "Hou doe you?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.25,
+    "y": 0.3812,
+    "w": 0.5902,
+    "h": 0.0245
+   }
+  },
+  {
+   "n": 7,
+   "form": "Asnpaumpmaûntam",
+   "gloss": "I am very well.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.2517,
+    "y": 0.3974,
+    "w": 0.6095,
+    "h": 0.0245
+   }
+  },
+  {
+   "n": 8,
+   "form": "Taubot paump maúntaman",
+   "gloss": "I am glad you are well.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.25,
+    "y": 0.4304,
+    "w": 0.6405,
+    "h": 0.0245
+   }
+  },
+  {
+   "n": 9,
+   "form": "Cowaúnckamish",
+   "gloss": "My service to you",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.2517,
+    "y": 0.4769,
+    "w": 0.6817,
+    "h": 0.0245
+   }
+  },
+  {
+   "n": 10,
+   "form": "Cowaúnckamish & Cuckquénamish",
+   "gloss": "I pray your favour.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.2517,
+    "y": 0.6119,
+    "w": 0.6817,
+    "h": 0.0245,
+    "approx": true
+   }
+  },
+  {
+   "n": 11,
+   "form": "Cowaúnkamuck",
+   "gloss": "He salutes you.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.2509,
+    "y": 0.7468,
+    "w": 0.6078,
+    "h": 0.0245
+   }
+  },
+  {
+   "n": 12,
+   "form": "A spaumpmáuntam sachim",
+   "gloss": "How doth the Prince",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 0,
+    "x": 0.253,
+    "y": 0.7755,
+    "w": 0.7115,
+    "h": 0.0245
+   }
+  },
+  {
+   "n": 13,
+   "form": "Aspaumpmáuntam Committamus?",
+   "gloss": "How doth your Wife?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.0923,
+    "y": 0.1482,
+    "w": 0.6651,
+    "h": 0.0253,
+    "approx": true
+   }
+  },
+  {
+   "n": 14,
+   "form": "Aspaumpmaúntamwock cummuckiaûg?",
+   "gloss": "How doth your children?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.099,
+    "y": 0.1966,
+    "w": 0.6886,
+    "h": 0.0253,
+    "approx": true
+   }
+  },
+  {
+   "n": 15,
+   "form": "Konkeeteâug",
+   "gloss": "They are well.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.052,
+    "y": 0.2477,
+    "w": 0.5984,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 16,
+   "form": "Táu bot ne paump maunthéttit",
+   "gloss": "I am glad they are well.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.0818,
+    "y": 0.2942,
+    "w": 0.7008,
+    "h": 0.0253,
+    "approx": true
+   }
+  },
+  {
+   "n": 17,
+   "form": "Túnna Cowâum",
+   "gloss": "Whence come you.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.0525,
+    "y": 0.3191,
+    "w": 0.2908,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 18,
+   "form": "Tuckôteshana",
+   "gloss": "Whence come you.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.0512,
+    "y": 0.3431,
+    "w": 0.6408,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 19,
+   "form": "Yò nowaûm",
+   "gloss": "I came that way.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.0504,
+    "y": 0.3679,
+    "w": 0.6311,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 20,
+   "form": "Náwwatuck nôteshem",
+   "gloss": "I came from farre.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.0483,
+    "y": 0.3949,
+    "w": 0.3374,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 21,
+   "form": "Mattaâsu nóteshem",
+   "gloss": "I came from hard by.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.0478,
+    "y": 0.4419,
+    "w": 0.6861,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 22,
+   "form": "Wêtu",
+   "gloss": "An House.",
+   "section": "CHAP. I. Of Salutation.",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0457,
+    "y": 0.4926,
+    "w": 0.3034,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 23,
+   "form": "Wetuômuck nōte shem",
+   "gloss": "I came from the house.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.4217,
+    "y": 0.5052,
+    "w": 0.3282,
+    "h": 0.0253,
+    "approx": true
+   }
+  },
+  {
+   "n": 24,
+   "form": "Acâwmuck notéshem",
+   "gloss": "I came over the water.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.0449,
+    "y": 0.5391,
+    "w": 0.7054,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 25,
+   "form": "Otàn",
+   "gloss": "A Towne.",
+   "section": "CHAP. I. Of Salutation.",
+   "concepts": [
+    "VILLAGE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0441,
+    "y": 0.5895,
+    "w": 0.7285,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 26,
+   "form": "•…tânick notéshem",
+   "gloss": "I came from the Towne.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 1,
+    "x": 0.0441,
+    "y": 0.5895,
+    "w": 0.7285,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 27,
+   "form": "Tunnock kuttòme",
+   "gloss": "Whither goe you?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2281,
+    "y": 0.3017,
+    "w": 0.6411,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 28,
+   "form": "Wékick nittóme",
+   "gloss": "To the house.",
+   "section": "CHAP. I. Of Salutation.",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.2134,
+    "y": 0.3278,
+    "w": 0.5895,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 29,
+   "form": "Nékick",
+   "gloss": "To my house.",
+   "section": "CHAP. I. Of Salutation.",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.2269,
+    "y": 0.3501,
+    "w": 0.135,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 30,
+   "form": "Kékick",
+   "gloss": "To your house.",
+   "section": "CHAP. I. Of Salutation.",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.2281,
+    "y": 0.3747,
+    "w": 0.1317,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 31,
+   "form": "Tuckowekin",
+   "gloss": "Where dwell you?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2281,
+    "y": 0.3998,
+    "w": 0.6348,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 32,
+   "form": "Tuckutt•…in",
+   "gloss": "Where keep you?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2281,
+    "y": 0.4248,
+    "w": 0.6235,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 33,
+   "form": "Matnowetuómeno",
+   "gloss": "I have no house.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2285,
+    "y": 0.4493,
+    "w": 0.6185,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 34,
+   "form": "Tou wuttîin?",
+   "gloss": "Where lives he?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2243,
+    "y": 0.6504,
+    "w": 0.6231,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 35,
+   "form": "Awânick ûchick",
+   "gloss": "Who are these?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2231,
+    "y": 0.6746,
+    "w": 0.6076,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 36,
+   "form": "Awaùn ewò?",
+   "gloss": "Who is that?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2235,
+    "y": 0.6987,
+    "w": 0.5786,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 37,
+   "form": "Túnna úmwock?",
+   "gloss": "Whence come they?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2222,
+    "y": 0.7227,
+    "w": 0.2945,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 38,
+   "form": "Tunna Wutshaûock",
+   "gloss": "Whence come they?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2227,
+    "y": 0.748,
+    "w": 0.3407,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 39,
+   "form": "Yo nowêkin",
+   "gloss": "I dwell here.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2243,
+    "y": 0.7722,
+    "w": 0.5719,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 40,
+   "form": "Yo ntîin",
+   "gloss": "I live here.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 2,
+    "x": 0.2227,
+    "y": 0.797,
+    "w": 0.5526,
+    "h": 0.0252
+   }
+  },
+  {
+   "n": 41,
+   "form": "Eîu",
+   "gloss": "Is it so?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 3,
+    "x": 0.0666,
+    "y": 0.1539,
+    "w": 0.5206,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 42,
+   "form": "Nnîu?",
+   "gloss": "Is it so?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 3,
+    "x": 0.0666,
+    "y": 0.1539,
+    "w": 0.5206,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 43,
+   "form": "Nùx",
+   "gloss": "Yea.",
+   "section": "CHAP. I. Of Salutation.",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.0666,
+    "y": 0.1868,
+    "w": 0.5206,
+    "h": 0.0253,
+    "approx": true
+   }
+  },
+  {
+   "n": 44,
+   "form": "Mat nippompitámmen",
+   "gloss": "I have heard nothing.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 3,
+    "x": 0.0666,
+    "y": 0.2197,
+    "w": 0.5206,
+    "h": 0.0253,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "Wésuonck",
+   "gloss": "A name.",
+   "section": "CHAP. I. Of Salutation.",
+   "concepts": [
+    "NAME"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.0603,
+    "y": 0.2526,
+    "w": 0.5122,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 46,
+   "form": "Tocketussawêitch",
+   "gloss": "What is your name?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 3,
+    "x": 0.0599,
+    "y": 0.2798,
+    "w": 0.6734,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 47,
+   "form": "Taantússawese?",
+   "gloss": "Doe you aske my name?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 3,
+    "x": 0.059,
+    "y": 0.3011,
+    "w": 0.7132,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 48,
+   "form": "Ntússawese",
+   "gloss": "I am called, &c.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 3,
+    "x": 0.0586,
+    "y": 0.3239,
+    "w": 0.3947,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 49,
+   "form": "Matnowesuonckane",
+   "gloss": "I have no name.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 3,
+    "x": 0.0578,
+    "y": 0.3492,
+    "w": 0.6167,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 50,
+   "form": "Now ánnehick nowésuonck",
+   "gloss": "I have forgot my Name.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 3,
+    "x": 0.0477,
+    "y": 0.7603,
+    "w": 0.5768,
+    "h": 0.0253
+   }
+  },
+  {
+   "n": 51,
+   "form": "Tahéna",
+   "gloss": "What is his name?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.1984,
+    "y": 0.2119,
+    "w": 0.1453,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 52,
+   "form": "Tahossowêtam",
+   "gloss": "What is the name of it",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.2005,
+    "y": 0.2355,
+    "w": 0.7395,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 53,
+   "form": "Tahéttamen",
+   "gloss": "What call you this?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.1997,
+    "y": 0.2611,
+    "w": 0.6736,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 54,
+   "form": "Teaqua",
+   "gloss": "What is this?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.185,
+    "y": 0.2908,
+    "w": 0.1595,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 55,
+   "form": "Yò néepoush",
+   "gloss": "Stay or stand here.",
+   "section": "CHAP. I. Of Salutation.",
+   "concepts": [
+    "HERE",
+    "STAND"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5791,
+    "y": 0.3102,
+    "w": 0.2762,
+    "h": 0.0246,
+    "approx": true
+   }
+  },
+  {
+   "n": 56,
+   "form": "Mattapsh",
+   "gloss": "Sit down.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.1833,
+    "y": 0.3374,
+    "w": 0.1902,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 57,
+   "form": "Noonshem",
+   "gloss": "I cannot.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.1833,
+    "y": 0.3628,
+    "w": 0.2149,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 58,
+   "form": "Non ânum",
+   "gloss": "I cannot.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.1838,
+    "y": 0.3871,
+    "w": 0.2128,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 59,
+   "form": "Tawhitch kuppee yaúmen",
+   "gloss": "What come you for?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.1833,
+    "y": 0.4084,
+    "w": 0.3232,
+    "h": 0.0246,
+    "approx": true
+   }
+  },
+  {
+   "n": 60,
+   "form": "Téaqua kunnaūnta men",
+   "gloss": "What doe you fetch?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.1833,
+    "y": 0.4598,
+    "w": 0.6295,
+    "h": 0.0246,
+    "approx": true
+   }
+  },
+  {
+   "n": 61,
+   "form": "Chenock cuppeeyâu mis?",
+   "gloss": "When came you?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.2039,
+    "y": 0.5112,
+    "w": 0.6295,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 62,
+   "form": "Maish-kitummâyi",
+   "gloss": "Iust even now.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.201,
+    "y": 0.5564,
+    "w": 0.5981,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 63,
+   "form": "Kitummâyi nippeéam",
+   "gloss": "I came just now.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.1984,
+    "y": 0.5819,
+    "w": 0.3635,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 64,
+   "form": "Yò Committamus?",
+   "gloss": "Is this your Wife?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.2018,
+    "y": 0.6291,
+    "w": 0.6442,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 65,
+   "form": "Yo cuppáppoos",
+   "gloss": "Is this your Child?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.2052,
+    "y": 0.6559,
+    "w": 0.2728,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 66,
+   "form": "Yô cummuckquachucks",
+   "gloss": "Is this your Son?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.2052,
+    "y": 0.6918,
+    "w": 0.2728,
+    "h": 0.0246,
+    "approx": true
+   }
+  },
+  {
+   "n": 67,
+   "form": "Yò cuttaûnis",
+   "gloss": "Is this your Daughter?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.2018,
+    "y": 0.7276,
+    "w": 0.2288,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 68,
+   "form": "Wunnêtu",
+   "gloss": "It is a fine Child.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.1993,
+    "y": 0.7538,
+    "w": 0.1793,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 69,
+   "form": "Tawhich neepouweéye an",
+   "gloss": "Why stand you?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.201,
+    "y": 0.7801,
+    "w": 0.6132,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 70,
+   "form": "Pucqúatchick?",
+   "gloss": "Without do•…s.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 4,
+    "x": 0.2018,
+    "y": 0.8272,
+    "w": 0.5977,
+    "h": 0.0246
+   }
+  },
+  {
+   "n": 71,
+   "form": "Tawhitch mat pe titeayean?",
+   "gloss": "Why come you not in?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0.0029,
+    "y": 0.1445,
+    "w": 0.3491,
+    "h": 0.0255,
+    "approx": true
+   }
+  },
+  {
+   "n": 72,
+   "form": "Awássish",
+   "gloss": "Warme you.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0.3735,
+    "y": 0.365,
+    "w": 0.188,
+    "h": 0.0255,
+    "approx": true
+   }
+  },
+  {
+   "n": 73,
+   "form": "Máttapsh yóteg",
+   "gloss": "Sit by the fire.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0.0008,
+    "y": 0.3899,
+    "w": 0.5909,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 74,
+   "form": "Tocketúnnawem",
+   "gloss": "What say you?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0.0004,
+    "y": 0.4111,
+    "w": 0.5942,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 75,
+   "form": "Keén nétop?",
+   "gloss": "Is it you friend.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0,
+    "y": 0.4368,
+    "w": 0.6081,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 76,
+   "form": "Peeyàush nétop",
+   "gloss": "Come hither friend.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0,
+    "y": 0.4645,
+    "w": 0.6697,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 77,
+   "form": "Pétitees",
+   "gloss": "Come in.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0,
+    "y": 0.4858,
+    "w": 0.1481,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 78,
+   "form": "Kunnúnni",
+   "gloss": "Have you seene me?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0,
+    "y": 0.5102,
+    "w": 0.6786,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 79,
+   "form": "Kunnúnnous",
+   "gloss": "I have seen you.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0,
+    "y": 0.5357,
+    "w": 0.6194,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 80,
+   "form": "Taubot mequaun namêan",
+   "gloss": "I thank you for your kind remembrance.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0,
+    "y": 0.5602,
+    "w": 0.6991,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 81,
+   "form": "Taûbotneanawáyean",
+   "gloss": "I thank you.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0,
+    "y": 0.6093,
+    "w": 0.5581,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 82,
+   "form": "Taûbotne aunanamêan",
+   "gloss": "I thank you for your love.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 5,
+    "x": 0,
+    "y": 0.6338,
+    "w": 0.6979,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 83,
+   "form": "Cowàmmaunsh",
+   "gloss": "I love you.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2499,
+    "y": 0.219,
+    "w": 0.5379,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 84,
+   "form": "Cowammaûnuck",
+   "gloss": "He loves you.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2491,
+    "y": 0.2435,
+    "w": 0.5782,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 85,
+   "form": "Cowámmaus",
+   "gloss": "You are loving.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2491,
+    "y": 0.2678,
+    "w": 0.6071,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 86,
+   "form": "Cowâutam?",
+   "gloss": "Vnderstand you?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2474,
+    "y": 0.2928,
+    "w": 0.6264,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 87,
+   "form": "Nowaûtam",
+   "gloss": "I understand.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2474,
+    "y": 0.2928,
+    "w": 0.6264,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 88,
+   "form": "Cowâwtam tawhitche nippeeyaûmen",
+   "gloss": "Doe you know why I come.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2495,
+    "y": 0.3432,
+    "w": 0.6701,
+    "h": 0.0248,
+    "approx": true
+   }
+  },
+  {
+   "n": 89,
+   "form": "Cowannantam",
+   "gloss": "Have you forgotten?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2436,
+    "y": 0.3889,
+    "w": 0.6831,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 90,
+   "form": "Awanagusàntowosh",
+   "gloss": "Speake English.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2432,
+    "y": 0.4171,
+    "w": 0.6155,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 91,
+   "form": "Een•…ntowash",
+   "gloss": "Speake Indian.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.242,
+    "y": 0.4403,
+    "w": 0.6004,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 92,
+   "form": "Cut•…hanshishaùmo",
+   "gloss": "How many were you in Company?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.242,
+    "y": 0.4763,
+    "w": 0.6088,
+    "h": 0.0248,
+    "approx": true
+   }
+  },
+  {
+   "n": 93,
+   "form": "Kúnnishishem?",
+   "gloss": "Are you alone?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2407,
+    "y": 0.5123,
+    "w": 0.6088,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 94,
+   "form": "Nnishishem",
+   "gloss": "I am alone.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2411,
+    "y": 0.5352,
+    "w": 0.5522,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 95,
+   "form": "Naneeshâumo",
+   "gloss": "There be 2. of us.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.239,
+    "y": 0.56,
+    "w": 0.6361,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 96,
+   "form": "Nanshwi•…hâwmen",
+   "gloss": "We are 4.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2382,
+    "y": 0.5848,
+    "w": 0.3113,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 97,
+   "form": "Npiuckshâwmen",
+   "gloss": "We are 10.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2386,
+    "y": 0.6113,
+    "w": 0.5467,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 98,
+   "form": "Neesneechecktashaûmen",
+   "gloss": "We are 20. &c.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2386,
+    "y": 0.6484,
+    "w": 0.6088,
+    "h": 0.0248,
+    "approx": true
+   }
+  },
+  {
+   "n": 99,
+   "form": "Nquitpausuckowashâwmen",
+   "gloss": "We are an 100.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2344,
+    "y": 0.6856,
+    "w": 0.6088,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 100,
+   "form": "Comishoonhómmis",
+   "gloss": "Did you come by boate?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2348,
+    "y": 0.7307,
+    "w": 0.7301,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 101,
+   "form": "Kuttiakewushaùmis",
+   "gloss": "Came you by land?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2319,
+    "y": 0.7558,
+    "w": 0.6562,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 102,
+   "form": "Mesh nomishoon hómmin",
+   "gloss": "I came by boat.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 6,
+    "x": 0.2319,
+    "y": 0.779,
+    "w": 0.6029,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 103,
+   "form": "Meshntiauké wushem",
+   "gloss": "I came by land.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.1472,
+    "w": 0.6071,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 104,
+   "form": "Nippenowàntawem",
+   "gloss": "I am of another language",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.1772,
+    "w": 0.7326,
+    "h": 0.0254,
+    "approx": true
+   }
+  },
+  {
+   "n": 105,
+   "form": "Penowantowawhettûock",
+   "gloss": "They are of a divers language.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.1991,
+    "w": 0.689,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 106,
+   "form": "Mat nowawtau hetté mina",
+   "gloss": "We understand not each other.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.2432,
+    "w": 0.7255,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 107,
+   "form": "Nummaúchenèm?",
+   "gloss": "I am sicke.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.2928,
+    "w": 0.3251,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 108,
+   "form": "Cummaúchenem?",
+   "gloss": "Are you sicke?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.3173,
+    "w": 0.5887,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 109,
+   "form": "Tashúckqunne cum mauchenaùmis",
+   "gloss": "How long have you been sicke?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.3443,
+    "w": 0.7267,
+    "h": 0.0254,
+    "approx": true
+   }
+  },
+  {
+   "n": 110,
+   "form": "Nummauchêmin",
+   "gloss": "I will be going.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.3911,
+    "w": 0.3453,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 111,
+   "form": "Ntannetéimmin",
+   "gloss": "I will be going.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.4159,
+    "w": 0.2874,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 112,
+   "form": "Saûop Cummauchêmin",
+   "gloss": "You shall goe to morrow.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.4425,
+    "w": 0.7234,
+    "h": 0.0254,
+    "approx": true
+   }
+  },
+  {
+   "n": 113,
+   "form": "Maúchish",
+   "gloss": "Be going.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.4891,
+    "w": 0.519,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 114,
+   "form": "ànakish",
+   "gloss": "Be going.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.4891,
+    "w": 0.519,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 115,
+   "form": "Kuttannáwshesh",
+   "gloss": "Depart.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.513,
+    "w": 0.5022,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 116,
+   "form": "Mauchéi",
+   "gloss": "He is gone.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.5373,
+    "w": 0.5555,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 117,
+   "form": "anittui",
+   "gloss": "He is gone.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.5373,
+    "w": 0.5555,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 118,
+   "form": "Kautanaûshant",
+   "gloss": "He being gone.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.5617,
+    "w": 0.6004,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 119,
+   "form": "Mauchéhettit",
+   "gloss": "When they are gone.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.588,
+    "w": 0.2802,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 120,
+   "form": "Kautanawshawhettit",
+   "gloss": "When they are gone.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.604,
+    "w": 0.66,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 121,
+   "form": "Kukkowêtous",
+   "gloss": "I will lodge with you.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.6346,
+    "w": 0.6739,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 122,
+   "form": "Yò Cówish",
+   "gloss": "Do, lodge here.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.659,
+    "w": 0.5996,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 123,
+   "form": "Hawúnshech",
+   "gloss": "Farewell.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.685,
+    "w": 0.524,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 124,
+   "form": "Chénock wonck cup peeyeâumen?",
+   "gloss": "When will you be here againe?",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.709,
+    "w": 0.6827,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 125,
+   "form": "Nétop tattà",
+   "gloss": "My friend I can not tell.",
+   "section": "CHAP. I. Of Salutation.",
+   "box": {
+    "page": 7,
+    "x": 0,
+    "y": 0.761,
+    "w": 0.2064,
+    "h": 0.0254
+   }
+  },
+  {
+   "n": 126,
+   "form": "AScúmetesimmis?",
+   "gloss": "Have you not yet eaten",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 8,
+    "x": 0.2539,
+    "y": 0.6589,
+    "w": 0.7331,
+    "h": 0.0241
+   }
+  },
+  {
+   "n": 127,
+   "form": "Matta niccattuppúmmin",
+   "gloss": "I a•… not hungry.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 8,
+    "x": 0.3336,
+    "y": 0.6825,
+    "w": 0.5439,
+    "h": 0.0241
+   }
+  },
+  {
+   "n": 128,
+   "form": "Niccawkatone",
+   "gloss": "I am thirstie.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 8,
+    "x": 0.2509,
+    "y": 0.7292,
+    "w": 0.5829,
+    "h": 0.0241
+   }
+  },
+  {
+   "n": 129,
+   "form": "Mannippéno?",
+   "gloss": "Have you no water?",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 8,
+    "x": 0.2505,
+    "y": 0.7575,
+    "w": 0.6735,
+    "h": 0.0241
+   }
+  },
+  {
+   "n": 130,
+   "form": "Nip.",
+   "gloss": "Give me some water.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 8,
+    "x": 0.2501,
+    "y": 0.7808,
+    "w": 0.6815,
+    "h": 0.0241
+   }
+  },
+  {
+   "n": 131,
+   "form": "nipéwese",
+   "gloss": "Give me some water.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 8,
+    "x": 0.2501,
+    "y": 0.7808,
+    "w": 0.6815,
+    "h": 0.0241
+   }
+  },
+  {
+   "n": 132,
+   "form": "N•…mitch, commete•…immin",
+   "gloss": "Stay, you must eat first.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 8,
+    "x": 0.2476,
+    "y": 0.8052,
+    "w": 0.7079,
+    "h": 0.0241
+   }
+  },
+  {
+   "n": 133,
+   "form": "Téaquacumméich",
+   "gloss": "What will you eat?",
+   "section": "CHAP. II. Of Eating and Entertainment."
+  },
+  {
+   "n": 134,
+   "form": "Nókehick.",
+   "gloss": "Parch'd meal",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 9,
+    "x": 0,
+    "y": 0.1754,
+    "w": 0.6892,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 135,
+   "form": "Aupúmmineanash.",
+   "gloss": "The parch'd corne.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 9,
+    "x": 0,
+    "y": 0.55,
+    "w": 0.6049,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 136,
+   "form": "Aupúminea-naw•…aùmp.",
+   "gloss": "The parc'd meale boild with water at their houses, which is the wholesomest diet they have.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 9,
+    "x": 0,
+    "y": 0.6113,
+    "w": 0.6049,
+    "h": 0.0255,
+    "approx": true
+   }
+  },
+  {
+   "n": 137,
+   "form": "Msickquatash.",
+   "gloss": "Boild corne whole.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 9,
+    "x": 0,
+    "y": 0.6725,
+    "w": 0.1936,
+    "h": 0.0255
+   }
+  },
+  {
+   "n": 138,
+   "form": "Manusqussêdash.",
+   "gloss": "Beanes.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "BEAN"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0,
+    "y": 0.6957,
+    "w": 0.4525,
+    "h": 0.0255,
+    "approx": true
+   }
+  },
+  {
+   "n": 139,
+   "form": "Nasàump.",
+   "gloss": "A kind of meale pottage, unpartch'd.",
+   "section": "CHAP. II. Of Eating and Entertainment."
+  },
+  {
+   "n": 140,
+   "form": "Puttuckqunnēge.",
+   "gloss": "A Cake.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "CAKE"
+   ],
+   "box": {
+    "page": 10,
+    "x": 0.3085,
+    "y": 0.2189,
+    "w": 0.2957,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 141,
+   "form": "Puttuckqunnêgunash puttuckqui.",
+   "gloss": "Cakes or loves round.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "ROUND"
+   ],
+   "box": {
+    "page": 10,
+    "x": 0.3085,
+    "y": 0.2548,
+    "w": 0.7036,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 142,
+   "form": "Teâgun kuttie maûnch?",
+   "gloss": "What shall I dresse f•…r you?",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.3068,
+    "y": 0.2907,
+    "w": 0.7036,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 143,
+   "form": "Assámme.",
+   "gloss": "Give me to eate.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.3031,
+    "y": 0.338,
+    "w": 0.6272,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 144,
+   "form": "Ncàttup.",
+   "gloss": "I am hungrie,",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.3031,
+    "y": 0.365,
+    "w": 0.1685,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 145,
+   "form": "Wúnna ncáttup.",
+   "gloss": "I am very hungry.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.301,
+    "y": 0.3946,
+    "w": 0.6511,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 146,
+   "form": "Nippaskanaûn tum.",
+   "gloss": "I am almost starved.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.3001,
+    "y": 0.4178,
+    "w": 0.7052,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 147,
+   "form": "Pautous notatàm.",
+   "gloss": "Give me drinke.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.3018,
+    "y": 0.4411,
+    "w": 0.618,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 148,
+   "form": "Sókenish.",
+   "gloss": "Powre forth.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.2972,
+    "y": 0.4606,
+    "w": 0.1698,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 149,
+   "form": "Cosaûme sokenúm mis.",
+   "gloss": "You have powred out too much.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.2997,
+    "y": 0.4878,
+    "w": 0.7099,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 150,
+   "form": "Wuttàttash.",
+   "gloss": "Drinke.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 10,
+    "x": 0.2976,
+    "y": 0.5353,
+    "w": 0.2113,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 151,
+   "form": "Nquitchetàmmin.",
+   "gloss": "Let me taste.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.2959,
+    "y": 0.561,
+    "w": 0.5831,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 152,
+   "form": "Quitchetash.",
+   "gloss": "Taste.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "TASTE"
+   ],
+   "box": {
+    "page": 10,
+    "x": 0.2955,
+    "y": 0.5854,
+    "w": 0.2239,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 153,
+   "form": "Sa•…nqui nip?",
+   "gloss": "Is the water coo",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.293,
+    "y": 0.612,
+    "w": 0.6494,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 154,
+   "form": "Saun kopaûgot.",
+   "gloss": "Coole water.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.2917,
+    "y": 0.6338,
+    "w": 0.5605,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 155,
+   "form": "Chowhêsu.",
+   "gloss": "It is warme,",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "WARM"
+   ],
+   "box": {
+    "page": 10,
+    "x": 0.293,
+    "y": 0.6575,
+    "w": 0.5756,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 156,
+   "form": "Aquie wutt •…ttash.",
+   "gloss": "Doe not drinke.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.2905,
+    "y": 0.6833,
+    "w": 0.6125,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 157,
+   "form": "Aquie waúmatous.",
+   "gloss": "Doe not drinke all.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.2896,
+    "y": 0.7083,
+    "w": 0.6545,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 158,
+   "form": "Nec•…wni mèich teàqua.",
+   "gloss": "First eat something:",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.288,
+    "y": 0.733,
+    "w": 0.6889,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 159,
+   "form": "Tawhitch mat me chóan.",
+   "gloss": "Why eat you not?",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 10,
+    "x": 0.2884,
+    "y": 0.7846,
+    "w": 0.6314,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 160,
+   "form": "Wussaume kusópita.",
+   "gloss": "It is too hot.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.1358,
+    "w": 0.5257,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 161,
+   "form": "Teâguun numméitch",
+   "gloss": "What shall I eate?",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.1578,
+    "w": 0.6013,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 162,
+   "form": "Mateàg keesitauano?",
+   "gloss": "Is there nothing ready boyld?",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.1839,
+    "w": 0.6881,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 163,
+   "form": "Ma teag mécho ewò.",
+   "gloss": "He eats nothing.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.2332,
+    "w": 0.5794,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 164,
+   "form": "Cotchikésu assamme.",
+   "gloss": "Cut me a piece.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.2575,
+    "w": 0.7003,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 165,
+   "form": "Cotchekúnnemi wee yoùs.",
+   "gloss": "Cut me some meat.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.2811,
+    "w": 0.613,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 166,
+   "form": "Metesittuck.",
+   "gloss": "Let us goe eate.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.3303,
+    "w": 0.5648,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 167,
+   "form": "Pautiinnea méchimucks.",
+   "gloss": "Bring hither some victualls.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.3555,
+    "w": 0.689,
+    "h": 0.0251,
+    "approx": true
+   }
+  },
+  {
+   "n": 168,
+   "form": "Numwautous.",
+   "gloss": "Fill the dish.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.4067,
+    "w": 0.5157,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 169,
+   "form": "Mihtukmécha kick.",
+   "gloss": "Tree-eaters.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.4281,
+    "w": 0.6877,
+    "h": 0.0251,
+    "approx": true
+   }
+  },
+  {
+   "n": 170,
+   "form": "Mauchepweéean.",
+   "gloss": "After I have eaten.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.6975,
+    "w": 0.618,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 171,
+   "form": "Maúchepwucks.",
+   "gloss": "After meales.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.7218,
+    "w": 0.5341,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 172,
+   "form": "Maúchepwut.",
+   "gloss": "When he hath eaten.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.7468,
+    "w": 0.6273,
+    "h": 0.0251
+   }
+  },
+  {
+   "n": 173,
+   "form": "Paúshaqua maúchepwut.",
+   "gloss": "After dinner.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 11,
+    "x": 0,
+    "y": 0.7745,
+    "w": 0.5324,
+    "h": 0.0251,
+    "approx": true
+   }
+  },
+  {
+   "n": 174,
+   "form": "Wàyyeyant maúchepwut.",
+   "gloss": "After supper.",
+   "section": "CHAP. II. Of Eating and Entertainment."
+  },
+  {
+   "n": 175,
+   "form": "Nquittmaûntash.",
+   "gloss": "Smell.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "SMELL"
+   ],
+   "box": {
+    "page": 12,
+    "x": 0.3105,
+    "y": 0.1772,
+    "w": 0.4897,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 176,
+   "form": "Weetimóquat.",
+   "gloss": "It smells sweet.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.3101,
+    "y": 0.2024,
+    "w": 0.6106,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 177,
+   "form": "Machemóqut.",
+   "gloss": "It stinks.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.3068,
+    "y": 0.227,
+    "w": 0.5279,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 178,
+   "form": "Weékan.",
+   "gloss": "It is sweet.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "SWEET"
+   ],
+   "box": {
+    "page": 12,
+    "x": 0.3072,
+    "y": 0.2553,
+    "w": 0.5506,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 179,
+   "form": "Mach•…ppoquat.",
+   "gloss": "It is sowre.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.3072,
+    "y": 0.2768,
+    "w": 0.5518,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 180,
+   "form": "Auwusse weékan.",
+   "gloss": "It is sweeter.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.3089,
+    "y": 0.2984,
+    "w": 0.5749,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 181,
+   "form": "Askùn.",
+   "gloss": "It is raw.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "RAW"
+   ],
+   "box": {
+    "page": 12,
+    "x": 0.3118,
+    "y": 0.323,
+    "w": 0.1305,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 182,
+   "form": "Noónat.",
+   "gloss": "Not enough.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.3051,
+    "y": 0.3487,
+    "w": 0.1595,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 183,
+   "form": "Wusàume w•…kissu.",
+   "gloss": "Too much either boyled or rosted.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.3038,
+    "y": 0.3734,
+    "w": 0.7058,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 184,
+   "form": "Waûmet Taûbi.",
+   "gloss": "It is enough.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "ENOUGH"
+   ],
+   "box": {
+    "page": 12,
+    "x": 0.3026,
+    "y": 0.42,
+    "w": 0.5732,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 185,
+   "form": "Wuttattumutta.",
+   "gloss": "Let us drinke.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.3,
+    "y": 0.4475,
+    "w": 0.5955,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 186,
+   "form": "Neesneechàhettit taúbi.",
+   "gloss": "Eenough for twentie men.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.2988,
+    "y": 0.4701,
+    "w": 0.7109,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 187,
+   "form": "Mattacuckquàw.",
+   "gloss": "A Cooke.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "COOK (PERSON)"
+   ],
+   "box": {
+    "page": 12,
+    "x": 0.2992,
+    "y": 0.5211,
+    "w": 0.5275,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 188,
+   "form": "Mattacúcquass.",
+   "gloss": "Cooke or dresse.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "COOK (PERSON)",
+    "DRESS"
+   ],
+   "box": {
+    "page": 12,
+    "x": 0.2992,
+    "y": 0.5211,
+    "w": 0.5275,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 189,
+   "form": "Matcuttassamiin?",
+   "gloss": "Will you not give me to eate?",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.2984,
+    "y": 0.5687,
+    "w": 0.7012,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 190,
+   "form": "Keen méitch.",
+   "gloss": "I pray eate.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.2979,
+    "y": 0.617,
+    "w": 0.5904,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 191,
+   "form": "Squuttame.",
+   "gloss": "Give me your pipe.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "box": {
+    "page": 12,
+    "x": 0.2896,
+    "y": 0.8145,
+    "w": 0.718,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 192,
+   "form": "Petasinna, or, Wuttàmmasin.",
+   "gloss": "Give mee some",
+   "section": "CHAP. II. Of Eating and Entertainment."
+  },
+  {
+   "n": 193,
+   "form": "Tabacco. Ncattaûntum, or, Ncàttiteam.",
+   "gloss": "I long for that.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "'Tabacco.' is the last word of the previous gloss, not part of the Narragansett form.",
+    "compare": "Williams: 'Give mee some Tabacco' / 'Ncattaûntum, I long for that'",
+    "checked": false
+   }
+  },
+  {
+   "n": 194,
+   "form": "Màuchinaash nowépiteass.",
+   "gloss": "My teeth are naught.",
+   "section": "CHAP. II. Of Eating and Entertainment."
+  },
+  {
+   "n": 195,
+   "form": "Nummashackqune aûmen.",
+   "gloss": "Wee are in a dearth.",
+   "section": "CHAP. II. Of Eating and Entertainment."
+  },
+  {
+   "n": 196,
+   "form": "Mashackquineâug.",
+   "gloss": "We have no food.",
+   "section": "CHAP. II. Of Eating and Entertainment."
+  },
+  {
+   "n": 197,
+   "form": "Aúcuck.",
+   "gloss": "A Kettle.",
+   "section": "CHAP. II. Of Eating and Entertainment.",
+   "concepts": [
+    "POT"
+   ]
+  },
+  {
+   "n": 198,
+   "form": "Mishquockuk.",
+   "gloss": "A red Copper Kettle.",
+   "section": "CHAP. II. Of Eating and Entertainment."
+  },
+  {
+   "n": 199,
+   "form": "Nétopkuttàssammish.",
+   "gloss": "Friend, I have brought you this.",
+   "section": "CHAP. II. Of Eating and Entertainment."
+  },
+  {
+   "n": 200,
+   "form": "Quàmphash quamphomiinea.",
+   "gloss": "Take up for me out of the pot.",
+   "section": "CHAP. II. Of Eating and Entertainment."
+  }
+ ],
+ "identification": {
+  "status": "abstain",
+  "path": [],
+  "support": [],
+  "concepts": 20,
+  "excluded": [
+   "narr1280"
+  ],
+  "leading": {
+   "name": "Lakkia",
+   "family": "Tai-Kadai",
+   "z": 3.46
+  },
+  "candidates": [
+   {
+    "name": "Lakkia",
+    "db": "Lexibank",
+    "family": "Tai-Kadai",
+    "path": [
+     "Tai-Kadai",
+     "Kam-Tai",
+     "Lakkia-Biao",
+     "Lakkia"
+    ],
+    "z": 3.46,
+    "n": 14
+   },
+   {
+    "name": "Sausi",
+    "db": "Lexibank",
+    "family": "Nuclear Trans New Guinea",
+    "path": [
+     "Nuclear Trans New Guinea",
+     "Madang",
+     "Rai Coast",
+     "Evapia"
+    ],
+    "z": 3.33,
+    "n": 8
+   },
+   {
+    "name": "Kannada",
+    "db": "Lexibank",
+    "family": "Dravidian",
+    "path": [
+     "Dravidian",
+     "South Dravidian",
+     "South Dravidian I",
+     "Tamil-Kannada"
+    ],
+    "z": 3.04,
+    "n": 13
+   },
+   {
+    "name": "Pawaia",
+    "db": "Lexibank",
+    "family": "Pawaia",
+    "path": [
+     "Pawaia"
+    ],
+    "z": 2.98,
+    "n": 8
+   },
+   {
+    "name": "Wichí",
+    "db": "Lexibank",
+    "family": "Mataguayan",
+    "path": [
+     "Mataguayan",
+     "Mataguayo II",
+     "Wichi",
+     "Güisnay"
+    ],
+    "z": 2.91,
+    "n": 14
+   },
+   {
+    "name": "Páez",
+    "db": "Lexibank",
+    "family": "Páez",
+    "path": [
+     "Páez"
+    ],
+    "z": 2.89,
+    "n": 14
+   },
+   {
+    "name": "Siroi",
+    "db": "Lexibank",
+    "family": "Nuclear Trans New Guinea",
+    "path": [
+     "Nuclear Trans New Guinea",
+     "Madang",
+     "Rai Coast",
+     "Kabenau"
+    ],
+    "z": 2.79,
+    "n": 8
+   },
+   {
+    "name": "Tacana",
+    "db": "Lexibank",
+    "family": "Pano-Tacanan",
+    "path": [
+     "Pano-Tacanan",
+     "Tacanan",
+     "Takanik-Chamik",
+     "Takanik"
+    ],
+    "z": 2.76,
+    "n": 14
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "sweet",
+    "form": "Weékan",
+    "ref": "khwa:n.¹",
+    "d": 0.4
+   },
+   {
+    "concept": "raw",
+    "form": "Askùn",
+    "ref": "lak.⁷_sɛ:ŋ.¹",
+    "d": 0.5
+   },
+   {
+    "concept": "village",
+    "form": "Otàn",
+    "ref": "ba:n.³",
+    "d": 0.5
+   },
+   {
+    "concept": "yes",
+    "form": "Nùx",
+    "ref": "tuk.⁸",
+    "d": 0.5
+   },
+   {
+    "concept": "drink",
+    "form": "Wuttàttash",
+    "ref": "tuə:t.⁷",
+    "d": 0.57
+   },
+   {
+    "concept": "stand",
+    "form": "Yò néepoush",
+    "ref": "ju:n.¹",
+    "d": 0.57
+   },
+   {
+    "concept": "dress",
+    "form": "Mattacúcquass",
+    "ref": "na:ŋ.⁴_ai.²_kjã:u.³",
+    "d": 0.6
+   },
+   {
+    "concept": "friend",
+    "form": "Netompaüog",
+    "ref": "toŋ.⁴_pa:ŋ.⁶",
+    "d": 0.6
+   },
+   {
+    "concept": "house",
+    "form": "Kékick",
+    "ref": "lie:k.⁸",
+    "d": 0.6
+   },
+   {
+    "concept": "enough",
+    "form": "Waûmet Taûbi",
+    "ref": "cok.⁷_to.⁶",
+    "d": 0.62
+   },
+   {
+    "concept": "name",
+    "form": "Wésuonck",
+    "ref": "ja:n.¹",
+    "d": 0.67
+   },
+   {
+    "concept": "warm",
+    "form": "Chowhêsu",
+    "ref": "wo:m.⁵",
+    "d": 0.67
+   }
+  ]
+ },
+ "stats": {
+  "entries": 200,
+  "notes": 2,
+  "located": 188
+ },
+ "partial": "Chapters I–II only (the first 200 entries); the rest of the Key is still to be transcribed.",
+ "relation": null
+}

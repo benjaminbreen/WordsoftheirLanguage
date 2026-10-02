@@ -1,0 +1,130 @@
+---
+import Base from "../layouts/Base.astro";
+import { totals } from "../lib/data";
+const tries = ["water", "sun", "knife", "tobacco", "god", "father", "what"];
+---
+<Base title="Search" nav="search" description="Search every word and meaning across the printed vocabularies, with early-modern spelling folded.">
+  <section class="wrap s-head">
+    <h1>Search every table</h1>
+    <form class="s-form" role="search" data-form>
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <input name="q" type="search" placeholder="A word as printed, or a meaning" aria-label="Search" autocomplete="off" data-q data-local-search />
+    </form>
+    <div class="s-opts">
+      <div class="seg" role="group" aria-label="Search in">
+        <button type="button" data-in="all" aria-pressed="true">Words and meanings</button>
+        <button type="button" data-in="form" aria-pressed="false">Words as printed</button>
+        <button type="button" data-in="gloss" aria-pressed="false">Meanings</button>
+      </div>
+      <p class="faint hint">Spelling is folded the early-modern way: <span class="print">u/v</span>, <span class="print">i/j/y</span> and <span class="print">ſ/s</span> match each other.</p>
+    </div>
+  </section>
+  <section class="wrap">
+    <p class="s-summary" data-summary aria-live="polite"></p>
+    <div class="s-empty" data-empty>
+      <p class="muted">{totals.entries.toLocaleString("en")} entries in {totals.tables} tables. Try:</p>
+      <div class="chips">{tries.map((w) => <a class="chip" href={`/search?q=${w}`}>{w}</a>)}</div>
+    </div>
+    <ol class="results" data-results></ol>
+    <button class="more btn" type="button" data-more hidden>Show more</button>
+  </section>
+</Base>
+
+<style>
+  .s-head { display: grid; gap: 16px; padding-block: 44px 20px; }
+  .s-head h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); letter-spacing: -0.02em; }
+  .s-form { display: flex; align-items: center; gap: 12px; max-width: 760px; padding: 12px 16px; border: 1px solid var(--rule); border-radius: 12px; background: var(--surface); color: var(--ink-3); box-shadow: var(--shadow); }
+  .s-form:focus-within { border-color: var(--accent); }
+  .s-form input { border: 0; outline: none; background: transparent; width: 100%; font: inherit; font-size: 20px; color: var(--ink); }
+  .s-opts { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; }
+  .hint { font-size: 13px; }
+  .s-summary { font-size: 15px; color: var(--ink-2); padding: 8px 0 18px; }
+  .s-empty { display: grid; gap: 12px; padding-top: 4px; }
+  .results { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 12px; }
+  .results :global(a) { display: grid; gap: 6px; padding: 12px 14px 14px; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--surface); height: 100%; }
+  .results :global(a:hover) { border-color: var(--accent); color: inherit; }
+  :global(.r-crop) { display: block; height: 30px; overflow: hidden; border-radius: 4px; background: var(--rule-2); }
+  :global(.r-crop span) { display: block; height: 100%; background-repeat: no-repeat; }
+  :global(.r-form) { font-size: 23px; line-height: 1.1; overflow-wrap: anywhere; }
+  :global(.r-gloss) { font-size: 14.5px; color: var(--ink-2); }
+  :global(.r-meta) { display: flex; justify-content: space-between; gap: 10px; font-size: 12px; color: var(--ink-3); }
+  :global(mark) { background: var(--accent-soft); color: inherit; border-radius: 2px; padding: 0 1px; }
+  .more { margin: 24px auto 0; display: block; }
+  .btn { padding: 9px 16px; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--surface); cursor: pointer; }
+</style>
+
+<script>
+  type Row = [number, number, string, string, string, string, string, 0 | [number, number, number, number, number], number];
+  type Idx = { tables: { id: string; lang: string; book: string; year: number; pages: [string, number, number][] }[]; rows: Row[] };
+  const fold = (s: string) => (s || "").toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/ſ/g, "s").replace(/vv/g, "w").replace(/v/g, "u").replace(/j/g, "i").replace(/y/g, "i").replace(/ck/g, "k").replace(/ph/g, "f").replace(/[^a-z0-9 ]/g, "");
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]!));
+  const qin = document.querySelector<HTMLInputElement>("[data-q]")!;
+  const out = document.querySelector<HTMLOListElement>("[data-results]")!;
+  const sum = document.querySelector<HTMLElement>("[data-summary]")!;
+  const empty = document.querySelector<HTMLElement>("[data-empty]")!;
+  const more = document.querySelector<HTMLButtonElement>("[data-more]")!;
+  let idx: Idx | null = null, where = "all", shown = 0, hits: { r: Row; s: number }[] = [];
+  const PAGE = 60;
+
+  async function load() { if (!idx) idx = await (await fetch("/data/index.json")).json(); return idx!; }
+  function score(r: Row, q: string, words: string[]) {
+    const ff = r[4], gf = r[5], cs = r[6];
+    let s = 0;
+    if (where !== "gloss") {
+      if (ff === q) s = Math.max(s, 100);
+      else if (ff.split(" ").some((w) => w === q)) s = Math.max(s, 90);
+      else if (ff.startsWith(q)) s = Math.max(s, 80);
+      else if (q.length >= 3 && ff.includes(q)) s = Math.max(s, 55);
+    }
+    if (where !== "form") {
+      const gw = gf.split(" ");
+      if (cs.split("|").includes(q)) s = Math.max(s, 95);
+      if (words.every((w) => gw.includes(w) || gw.includes(w + "s") || gw.includes(w + "e") || gw.includes(w + "es"))) s = Math.max(s, 85);
+      else if (q.length >= 3 && gf.includes(q)) s = Math.max(s, 50);
+    }
+    return s;
+  }
+  function crop(t: Idx["tables"][0], b: Row[7]) {
+    if (!b) return "";
+    const [pi, x0, y0, w0, h0] = b; const [src, W, H] = t.pages[pi];
+    const pad = 0.004, x = Math.max(0, x0 - pad), y = Math.max(0, y0 - 0.003), w = Math.min(1 - x, w0 + 2 * pad), h = Math.min(1 - y, h0 + 0.006);
+    const px = w >= 1 ? 0 : (x / (1 - w)) * 100, py = h >= 1 ? 0 : (y / (1 - h)) * 100;
+    return `<span class="r-crop"><span style="background-image:url(${src});background-size:${(100 / w).toFixed(3)}% auto;background-position:${px.toFixed(3)}% ${py.toFixed(3)}%;aspect-ratio:${((w * W) / (h * H)).toFixed(3)}" role="img" aria-label="Printed line"></span></span>`;
+  }
+  const hl = (s: string, q: string) => { const f = fold(s); const i = f.indexOf(q); return i < 0 || !q ? esc(s) : esc(s.slice(0, i)) + "<mark>" + esc(s.slice(i, i + q.length)) + "</mark>" + esc(s.slice(i + q.length)); };
+  function render(q: string) {
+    const T = idx!.tables;
+    const slice = hits.slice(shown, shown + PAGE);
+    out.insertAdjacentHTML("beforeend", slice.map(({ r }) => {
+      const t = T[r[0]];
+      return `<li><a href="/t/${t.id}#${r[1]}">${crop(t, r[7])}<span class="print r-form">${hl(r[2], where === "gloss" ? "" : q)}</span><span class="r-gloss">${hl(r[3], where === "form" ? "" : q)}</span><span class="r-meta"><span>${esc(t.lang)}</span><span class="mono">${t.year}</span></span></a></li>`;
+    }).join(""));
+    shown += slice.length;
+    more.hidden = shown >= hits.length;
+  }
+  async function run(push = true) {
+    const raw = qin.value.trim(), q = fold(raw);
+    if (push) { const u = new URL(location.href); raw ? u.searchParams.set("q", raw) : u.searchParams.delete("q"); history.replaceState(null, "", u); }
+    out.innerHTML = ""; shown = 0;
+    if (!q) { sum.textContent = ""; empty.hidden = false; more.hidden = true; return; }
+    empty.hidden = true;
+    const I = await load();
+    const words = q.split(" ").filter(Boolean);
+    hits = I.rows.map((r) => ({ r, s: score(r, q, words) })).filter((h) => h.s > 0)
+      .sort((a, b) => b.s - a.s || I.tables[a.r[0]].year - I.tables[b.r[0]].year);
+    const nt = new Set(hits.map((h) => h.r[0])).size;
+    sum.textContent = hits.length ? `${hits.length} ${hits.length === 1 ? "entry" : "entries"} in ${nt} ${nt === 1 ? "table" : "tables"} for “${raw}”` : `Nothing found for “${raw}”. Try another spelling, or search meanings.`;
+    render(q);
+  }
+  let timer: number | undefined;
+  qin.addEventListener("input", () => { clearTimeout(timer); timer = window.setTimeout(() => run(), 140); });
+  document.querySelector("[data-form]")!.addEventListener("submit", (e) => { e.preventDefault(); run(); });
+  more.addEventListener("click", () => render(fold(qin.value.trim())));
+  document.querySelectorAll<HTMLButtonElement>("[data-in]").forEach((b) => b.addEventListener("click", () => {
+    where = b.dataset.in!; document.querySelectorAll("[data-in]").forEach((x) => x.setAttribute("aria-pressed", String(x === b))); run(false);
+  }));
+  const q0 = new URL(location.href).searchParams.get("q");
+  if (q0) { qin.value = q0; run(false); } else qin.focus();
+  const header = document.getElementById("site-search") as HTMLInputElement | null;
+  if (header && q0) header.value = q0;
+</script>

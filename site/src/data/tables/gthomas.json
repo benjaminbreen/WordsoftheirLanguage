@@ -1,0 +1,1170 @@
+{
+ "schema": 1,
+ "id": "gthomas",
+ "wtl": "WTL-0019",
+ "heading": "The Indian Tongue",
+ "headings": [
+  "The Indian Tongue",
+  "The Indian Counting",
+  "The Names of some of the Indians."
+ ],
+ "language": {
+  "name": "Pidgin Delaware",
+  "glottocode": "pidg1246",
+  "family": "Pidgin",
+  "path": [
+   "Pidgin",
+   "Delaware-based pidgin"
+  ],
+  "labels": [
+   "The Indian Counting",
+   "The Indian Tongue"
+  ]
+ },
+ "region": "North America",
+ "book": {
+  "short": "An Historical and Geographical Account of Pensilvania",
+  "title": "An historical and geographical account of the province and country of Pensilvania, and of the West-New-Jersey in America ... with a map of both countries / by Gabriel Thomas ...",
+  "author": "Gabriel Thomas",
+  "printed": 1698,
+  "imprint": "1698.",
+  "tcp": "A64548",
+  "cover": "gthomas"
+ },
+ "provenance": {
+  "collector": "Gabriel Thomas",
+  "place": "Pennsylvania and West New Jersey",
+  "heard": "1680s–90s"
+ },
+ "scan": {
+  "ia": "historicalgeogra01thom",
+  "url": "https://archive.org/details/historicalgeogra01thom",
+  "holder": "John Carter Brown Library",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 59,
+   "w": 2664,
+   "h": 4292,
+   "sm": "/scans/gthomas/0059-900.webp",
+   "lg": "/scans/gthomas/0059-1800.webp"
+  },
+  {
+   "leaf": 60,
+   "w": 2664,
+   "h": 4292,
+   "sm": "/scans/gthomas/0060-900.webp",
+   "lg": "/scans/gthomas/0060-1800.webp"
+  },
+  {
+   "leaf": 61,
+   "w": 2664,
+   "h": 4292,
+   "sm": "/scans/gthomas/0061-900.webp",
+   "lg": "/scans/gthomas/0061-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Hitah takoman?",
+   "gloss": "Friend, from whence com'st?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 2,
+   "form": "Andogowa nee weekin.",
+   "gloss": "Yonder. [Quest. Where yonder?] [Answ.] My House.",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 3,
+   "form": "Tony andogowa kee weekin?",
+   "gloss": "Where is thy House?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 4,
+   "form": "Arwaymouse.",
+   "gloss": "Arwaymouse, which is the Name of an Indian Town.",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 5,
+   "form": "Keco kee hatah kee weekin?",
+   "gloss": "What hast got in thy House?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 6,
+   "form": "Nee hatah huska wees youse og huska chetena chase og huska orit chekenip.",
+   "gloss": "I have very fat Venison, and good strong Skins, with very good Turkeys.",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 7,
+   "form": "Chingo kee beto nee chase og youse etka chekenip.",
+   "gloss": "When wilt thou bring me Skins and Venison, with Turkeys?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 8,
+   "form": "Halopa etka nisha kishquicka.",
+   "gloss": "To morrow, or two days hence.",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 9,
+   "form": "Keco kee hata kee weekin?",
+   "gloss": "What hast got in thy House?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 10,
+   "form": "Nee hata orit poonk og huska horit haloons etka neskee og marchkee ochqueon.",
+   "gloss": "I have very fat Venison, and good strong Skins, with very good Turkeys.",
+   "section": "The Indian Tongue | The English of it",
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "Indian text differs from row 6 (powder, bullets, black and red ...), yet the English repeats row 6 verbatim.",
+    "compare": "Unami pùnk \"powder\", alunsh \"arrow, bullet\"; Pidgin neskee \"black\", marchkee \"red\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 11,
+   "form": "(O huskia orit.)",
+   "gloss": "(Very well.)",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "WELL"
+   ]
+  },
+  {
+   "n": 12,
+   "form": "Kee namen neskec kabay og marchkec moos etka opeg megis?",
+   "gloss": "Did'st thou see black Horses and red Cows, with white Sheep?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 13,
+   "form": "Mata namen megis nee namen neskec kabay undogwa tekany.",
+   "gloss": "I saw no Sheep: I did see black Horses yonder in the Woods?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 14,
+   "form": "Kee namen marchkec moos undogwa tekeny?",
+   "gloss": "Did'st see red Cows yonder in the Woods?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 15,
+   "form": "Mogy.",
+   "gloss": "Yes.",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0247,
+    "y": 0.3125,
+    "w": 0.4595,
+    "h": 0.0252,
+    "approx": true
+   }
+  },
+  {
+   "n": 16,
+   "form": "Kee squa og enychan hatah?",
+   "gloss": "Hast thou a Wife and Children?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 17,
+   "form": "Mogy.",
+   "gloss": "Yes.",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0247,
+    "y": 0.3125,
+    "w": 0.4595,
+    "h": 0.0252,
+    "approx": true
+   }
+  },
+  {
+   "n": 18,
+   "form": "Kacha hatah?",
+   "gloss": "How many hast?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 19,
+   "form": "Neo.",
+   "gloss": "Four.",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "FOUR"
+   ]
+  },
+  {
+   "n": 20,
+   "form": "Benoingtid etka squatid?",
+   "gloss": "Boys or Girls?",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "BOY",
+    "GIRL"
+   ]
+  },
+  {
+   "n": 21,
+   "form": "Nisha benointid og nisha squatid.",
+   "gloss": "Two Boys and two Girls.",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 22,
+   "form": "Tongtid enychan hatah?",
+   "gloss": "Hast got a young Child?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 23,
+   "form": "Mogy.",
+   "gloss": "Yes.",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0247,
+    "y": 0.3125,
+    "w": 0.4595,
+    "h": 0.0252,
+    "approx": true
+   }
+  },
+  {
+   "n": 24,
+   "form": "Etka aroosise?",
+   "gloss": "How old?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 25,
+   "form": "Neo kishow.",
+   "gloss": "Four months.",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 26,
+   "form": "Etka aroosise kee?",
+   "gloss": "How old art thou?",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 27,
+   "form": "Pelenacheenckan katingan aroosis.",
+   "gloss": "Fifty years old.",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 28,
+   "form": "Andogowa",
+   "gloss": "Yonder",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 29,
+   "form": "weekin",
+   "gloss": "House",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0247,
+    "y": 0.3125,
+    "w": 0.4595,
+    "h": 0.0252,
+    "approx": true
+   }
+  },
+  {
+   "n": 30,
+   "form": "nee",
+   "gloss": "My",
+   "section": "The Indian Tongue | The English of it",
+   "box": {
+    "page": 0,
+    "x": 0.0292,
+    "y": 0.4878,
+    "w": 0.455,
+    "h": 0.0252,
+    "approx": true
+   }
+  },
+  {
+   "n": 31,
+   "form": "kee",
+   "gloss": "Thy",
+   "section": "The Indian Tongue | The English of it",
+   "box": {
+    "page": 0,
+    "x": 0.1354,
+    "y": 0.5379,
+    "w": 0.3487,
+    "h": 0.0252,
+    "approx": true
+   }
+  },
+  {
+   "n": 32,
+   "form": "hatah",
+   "gloss": "hast got / have",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 33,
+   "form": "youse",
+   "gloss": "Venison",
+   "section": "The Indian Tongue | The English of it",
+   "box": {
+    "page": 0,
+    "x": 0.0389,
+    "y": 0.7132,
+    "w": 0.4452,
+    "h": 0.0252,
+    "approx": true
+   }
+  },
+  {
+   "n": 34,
+   "form": "chase",
+   "gloss": "Skins",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "SKIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4611,
+    "y": 0.1583,
+    "w": 0.0239,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 35,
+   "form": "huska wees",
+   "gloss": "very fat",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "FAT (OILY)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4611,
+    "y": 0.2761,
+    "w": 0.0818,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 36,
+   "form": "chekenip",
+   "gloss": "Turkeys",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "TURKEY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4611,
+    "y": 0.3939,
+    "w": 0.0818,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 37,
+   "form": "squa",
+   "gloss": "Wife",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4033,
+    "y": 0.5117,
+    "w": 0.0818,
+    "h": 0.0258,
+    "approx": true
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "New England Algonquian word spread by English traders, not Unami.",
+    "compare": "Massachusett squa \"woman\"; Unami òxkwëw \"woman\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 38,
+   "form": "enychan",
+   "gloss": "Children",
+   "section": "The Indian Tongue | The English of it",
+   "box": {
+    "page": 1,
+    "x": 0.4033,
+    "y": 0.5247,
+    "w": 0.0874,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 39,
+   "form": "benoingtid",
+   "gloss": "Boys",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4033,
+    "y": 0.5377,
+    "w": 0.0874,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 40,
+   "form": "squatid",
+   "gloss": "Girls",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4033,
+    "y": 0.5507,
+    "w": 0.0874,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 41,
+   "form": "kabay",
+   "gloss": "Horses",
+   "section": "The Indian Tongue | The English of it",
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "European horse word, established in Delaware.",
+    "compare": "Spanish caballo \"horse\"; Unami/Munsee kaápay \"horse\"",
+    "checked": false
+   },
+   "box": {
+    "page": 1,
+    "x": 0.4033,
+    "y": 0.5637,
+    "w": 0.0874,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 42,
+   "form": "moos",
+   "gloss": "Cows",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "COW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4033,
+    "y": 0.5767,
+    "w": 0.0874,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 43,
+   "form": "neskee",
+   "gloss": "black",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3976,
+    "y": 0.5897,
+    "w": 0.0874,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 44,
+   "form": "marchkee",
+   "gloss": "red",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3976,
+    "y": 0.5943,
+    "w": 0.0881,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "opeg",
+   "gloss": "white",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3976,
+    "y": 0.5989,
+    "w": 0.0881,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 46,
+   "form": "megis",
+   "gloss": "Sheep",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "SHEEP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3976,
+    "y": 0.6035,
+    "w": 0.0881,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 47,
+   "form": "Mogy",
+   "gloss": "Yes",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3976,
+    "y": 0.6081,
+    "w": 0.0881,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 48,
+   "form": "Neo",
+   "gloss": "Four",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3969,
+    "y": 0.6127,
+    "w": 0.0881,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 49,
+   "form": "nisha",
+   "gloss": "Two",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5159,
+    "y": 0.3124,
+    "w": 0.4529,
+    "h": 0.0258,
+    "approx": true
+   }
+  },
+  {
+   "n": 50,
+   "form": "Halopa",
+   "gloss": "To morrow",
+   "section": "The Indian Tongue | The English of it"
+  },
+  {
+   "n": 51,
+   "form": "etka",
+   "gloss": "or",
+   "section": "The Indian Tongue | The English of it",
+   "box": {
+    "page": 2,
+    "x": 0.026,
+    "y": 0.2082,
+    "w": 0.4587,
+    "h": 0.0266,
+    "approx": true
+   }
+  },
+  {
+   "n": 52,
+   "form": "nisha kishquicka",
+   "gloss": "two days hence",
+   "section": "The Indian Tongue | The English of it",
+   "box": {
+    "page": 2,
+    "x": 0.026,
+    "y": 0.2585,
+    "w": 0.4587,
+    "h": 0.0266,
+    "approx": true
+   }
+  },
+  {
+   "n": 53,
+   "form": "kishow",
+   "gloss": "months",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "MONTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.026,
+    "y": 0.3088,
+    "w": 0.4587,
+    "h": 0.0266,
+    "approx": true
+   }
+  },
+  {
+   "n": 54,
+   "form": "aroosise",
+   "gloss": "old / years",
+   "section": "The Indian Tongue | The English of it",
+   "box": {
+    "page": 2,
+    "x": 0.026,
+    "y": 0.3592,
+    "w": 0.4587,
+    "h": 0.0266,
+    "approx": true
+   }
+  },
+  {
+   "n": 55,
+   "form": "Pelenacheenckan",
+   "gloss": "Fifty",
+   "section": "The Indian Tongue | The English of it",
+   "concepts": [
+    "FIFTY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.026,
+    "y": 0.4095,
+    "w": 0.4587,
+    "h": 0.0266,
+    "approx": true
+   }
+  },
+  {
+   "n": 56,
+   "form": "og",
+   "gloss": "and",
+   "section": "The Indian Tongue | The English of it",
+   "box": {
+    "page": 2,
+    "x": 0.0339,
+    "y": 0.4598,
+    "w": 0.4508,
+    "h": 0.0266
+   }
+  },
+  {
+   "n": 57,
+   "form": "tekany",
+   "gloss": "in the Woods",
+   "section": "The Indian Tongue | The English of it",
+   "box": {
+    "page": 2,
+    "x": 0.0339,
+    "y": 0.477,
+    "w": 0.4508,
+    "h": 0.0266,
+    "approx": true
+   }
+  },
+  {
+   "n": 58,
+   "form": "namen",
+   "gloss": "Hast thou / Did'st thou see",
+   "section": "The Indian Tongue | The English of it",
+   "box": {
+    "page": 2,
+    "x": 0.0339,
+    "y": 0.4941,
+    "w": 0.4508,
+    "h": 0.0266,
+    "approx": true
+   }
+  },
+  {
+   "n": 59,
+   "form": "Kooty",
+   "gloss": "One",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0376,
+    "y": 0.5113,
+    "w": 0.4471,
+    "h": 0.0266,
+    "approx": true
+   }
+  },
+  {
+   "n": 60,
+   "form": "nisha",
+   "gloss": "Two",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "TWO"
+   ]
+  },
+  {
+   "n": 61,
+   "form": "nacha",
+   "gloss": "Three",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "THREE"
+   ]
+  },
+  {
+   "n": 62,
+   "form": "neo",
+   "gloss": "Four",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0376,
+    "y": 0.5113,
+    "w": 0.4471,
+    "h": 0.0266,
+    "approx": true
+   }
+  },
+  {
+   "n": 63,
+   "form": "pelenach",
+   "gloss": "Five",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "FIVE"
+   ]
+  },
+  {
+   "n": 64,
+   "form": "Kootash",
+   "gloss": "Six",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "SIX"
+   ]
+  },
+  {
+   "n": 65,
+   "form": "nishash",
+   "gloss": "Seven",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "SEVEN"
+   ]
+  },
+  {
+   "n": 66,
+   "form": "choesh",
+   "gloss": "Eight",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "EIGHT"
+   ]
+  },
+  {
+   "n": 67,
+   "form": "peskonk",
+   "gloss": "Nine",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "NINE"
+   ]
+  },
+  {
+   "n": 68,
+   "form": "telen",
+   "gloss": "Ten",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0376,
+    "y": 0.5113,
+    "w": 0.4471,
+    "h": 0.0266,
+    "approx": true
+   }
+  },
+  {
+   "n": 69,
+   "form": "Nishinchkan",
+   "gloss": "Twenty",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "TWENTY"
+   ]
+  },
+  {
+   "n": 70,
+   "form": "nachinchkan",
+   "gloss": "Thirty",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "THIRTY"
+   ]
+  },
+  {
+   "n": 71,
+   "form": "neochinchkan",
+   "gloss": "Forty",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "FORTY"
+   ]
+  },
+  {
+   "n": 72,
+   "form": "pelenchinchkan",
+   "gloss": "Fifty",
+   "section": "The Indian Counting | The English to it",
+   "concepts": [
+    "FIFTY"
+   ]
+  },
+  {
+   "n": 73,
+   "form": "Anachkooting",
+   "gloss": "(personal name of an Indian)",
+   "section": "The Names of some of the Indians."
+  },
+  {
+   "n": 74,
+   "form": "Bussabenating",
+   "gloss": "(personal name of an Indian)",
+   "section": "The Names of some of the Indians."
+  },
+  {
+   "n": 75,
+   "form": "Okonycan",
+   "gloss": "(personal name of an Indian)",
+   "section": "The Names of some of the Indians."
+  },
+  {
+   "n": 76,
+   "form": "Potasko",
+   "gloss": "(personal name of an Indian)",
+   "section": "The Names of some of the Indians."
+  },
+  {
+   "n": 77,
+   "form": "Quindamen",
+   "gloss": "(personal name of an Indian)",
+   "section": "The Names of some of the Indians."
+  },
+  {
+   "n": 78,
+   "form": "Lames",
+   "gloss": "(personal name of an Indian)",
+   "section": "The Names of some of the Indians."
+  },
+  {
+   "n": 79,
+   "form": "Alpoongan",
+   "gloss": "(personal name of an Indian)",
+   "section": "The Names of some of the Indians."
+  },
+  {
+   "n": 80,
+   "form": "Kohonk",
+   "gloss": "(personal name of an Indian)",
+   "section": "The Names of some of the Indians."
+  },
+  {
+   "n": 81,
+   "form": "Hiton",
+   "gloss": "(personal name of an Indian)",
+   "section": "The Names of some of the Indians."
+  },
+  {
+   "n": 82,
+   "form": "Temeny",
+   "gloss": "(personal name of an Indian)",
+   "section": "The Names of some of the Indians."
+  }
+ ],
+ "identification": {
+  "status": "abstain",
+  "path": [],
+  "support": [],
+  "concepts": 29,
+  "excluded": [
+   "unam1242",
+   "muns1251",
+   "pidg1246"
+  ],
+  "leading": {
+   "name": "Ḗafen",
+   "family": "Atlantic-Congo",
+   "z": 4.28
+  },
+  "candidates": [
+   {
+    "name": "Ḗafen",
+    "db": "Lexibank",
+    "family": "Atlantic-Congo",
+    "path": [
+     "Atlantic-Congo",
+     "Volta-Congo",
+     "Benue-Congo",
+     "Bantoid"
+    ],
+    "z": 4.28,
+    "n": 18
+   },
+   {
+    "name": "Tawaroga",
+    "db": "Lexibank",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Eastern Malayo-Polynesian",
+     "Oceanic"
+    ],
+    "z": 3.68,
+    "n": 10
+   },
+   {
+    "name": "Sam (Wongbe Dialect)",
+    "db": "Lexibank",
+    "family": "Nuclear Trans New Guinea",
+    "path": [
+     "Nuclear Trans New Guinea",
+     "Madang",
+     "Rai Coast",
+     "Mindjim"
+    ],
+    "z": 3.53,
+    "n": 10
+   },
+   {
+    "name": "T-Urmetan 3",
+    "db": "Lexibank",
+    "family": "Indo-European",
+    "path": [
+     "Indo-European",
+     "Classical Indo-European",
+     "Indo-Iranian",
+     "Iranian-Nuristani"
+    ],
+    "z": 3.52,
+    "n": 10
+   },
+   {
+    "name": "Saipan Carolinian",
+    "db": "Lexibank",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Eastern Malayo-Polynesian",
+     "Oceanic"
+    ],
+    "z": 3.42,
+    "n": 8
+   },
+   {
+    "name": "B21_Seki",
+    "db": "Lexibank",
+    "family": "Atlantic-Congo",
+    "path": [
+     "Atlantic-Congo",
+     "Volta-Congo",
+     "Benue-Congo",
+     "Bantoid"
+    ],
+    "z": 3.35,
+    "n": 8
+   },
+   {
+    "name": "Sam (Buan Dialect)",
+    "db": "Lexibank",
+    "family": "Nuclear Trans New Guinea",
+    "path": [
+     "Nuclear Trans New Guinea",
+     "Madang",
+     "Rai Coast",
+     "Mindjim"
+    ],
+    "z": 3.31,
+    "n": 10
+   },
+   {
+    "name": "D32_Bira",
+    "db": "Lexibank",
+    "family": "Atlantic-Congo",
+    "path": [
+     "Atlantic-Congo",
+     "Volta-Congo",
+     "Benue-Congo",
+     "Bantoid"
+    ],
+    "z": 3.28,
+    "n": 8
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "one",
+    "form": "Kooty",
+    "ref": "dṣẹ́t",
+    "d": 0.0
+   },
+   {
+    "concept": "boy",
+    "form": "benoingtid",
+    "ref": "mọ̄níndun·",
+    "d": 0.33
+   },
+   {
+    "concept": "four",
+    "form": "Neo",
+    "ref": "éni",
+    "d": 0.33
+   },
+   {
+    "concept": "white",
+    "form": "opeg",
+    "ref": "ḗ bāre",
+    "d": 0.4
+   },
+   {
+    "concept": "five",
+    "form": "pelenach",
+    "ref": "élọ̄n",
+    "d": 0.43
+   },
+   {
+    "concept": "seven",
+    "form": "nishash",
+    "ref": "éniṛésa",
+    "d": 0.43
+   },
+   {
+    "concept": "cow",
+    "form": "moos",
+    "ref": "ḿfon·",
+    "d": 0.5
+   },
+   {
+    "concept": "skin",
+    "form": "chase",
+    "ref": "bī́dṣi",
+    "d": 0.5
+   },
+   {
+    "concept": "three",
+    "form": "nacha",
+    "ref": "ésā",
+    "d": 0.5
+   },
+   {
+    "concept": "two",
+    "form": "nisha",
+    "ref": "éwē",
+    "d": 0.5
+   },
+   {
+    "concept": "six",
+    "form": "Kootash",
+    "ref": "ésaṛésa",
+    "d": 0.57
+   },
+   {
+    "concept": "house",
+    "form": "weekin",
+    "ref": "ndṣú",
+    "d": 0.6
+   }
+  ]
+ },
+ "stats": {
+  "entries": 82,
+  "notes": 3,
+  "located": 34
+ },
+ "partial": null,
+ "relation": null
+}

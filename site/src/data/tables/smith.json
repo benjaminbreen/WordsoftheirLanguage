@@ -1,0 +1,1374 @@
+{
+ "schema": 1,
+ "id": "smith",
+ "wtl": "WTL-0004",
+ "heading": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+ "headings": [
+  "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+  "Their numbers.",
+  "They count no more but by tennes as followeth."
+ ],
+ "language": {
+  "name": "Powhatan",
+  "glottocode": "powh1243",
+  "family": "Algic",
+  "path": [
+   "Algic",
+   "Algonquian-Blackfoot",
+   "Algonquian",
+   "Eastern Algonquian"
+  ],
+  "labels": []
+ },
+ "region": "North America",
+ "book": {
+  "short": "A Map of Virginia",
+  "title": "A map of Virginia VVith a description of the countrey, the commodities, people, government and religion. VVritten by Captaine Smith, sometimes governour of the countrey. Whereunto is annexed the proceedings of those colonies, since their first departure from England, with the discourses, orations, and relations of the salvages, and the accidents that befell them in all their iournies and discoveries. Taken faithfully as they were written out of the writings of Doctor Russell. Tho. Studley. Anas Todkill. Ieffra Abot. Richard Wiefin. Will. Phettiplace. Nathaniel Povvell. Richard Pots. And the relations of divers other diligent observers there present then, and now many of them in England. By VV.S.",
+  "author": "John Smith",
+  "printed": 1612,
+  "imprint": "1612.",
+  "tcp": "A12466",
+  "cover": "smith"
+ },
+ "provenance": {
+  "collector": "John Smith",
+  "place": "Chesapeake, Virginia",
+  "heard": "1607–09"
+ },
+ "scan": {
+  "ia": "mapofvirginiavvi00smit",
+  "url": "https://archive.org/details/mapofvirginiavvi00smit",
+  "holder": "John Carter Brown Library",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 13,
+   "w": 3358,
+   "h": 4467,
+   "sm": "/scans/smith/0013-900.webp",
+   "lg": "/scans/smith/0013-1800.webp"
+  },
+  {
+   "leaf": 14,
+   "w": 3358,
+   "h": 4467,
+   "sm": "/scans/smith/0014-900.webp",
+   "lg": "/scans/smith/0014-1800.webp"
+  },
+  {
+   "leaf": 15,
+   "w": 3358,
+   "h": 4467,
+   "sm": "/scans/smith/0015-900.webp",
+   "lg": "/scans/smith/0015-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Ka ka torawincs yowo",
+   "gloss": "What call you this.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0381,
+    "y": 0.1647,
+    "w": 0.4748,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 2,
+   "form": "Nemarough",
+   "gloss": "a man.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0345,
+    "y": 0.1888,
+    "w": 0.2294,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 3,
+   "form": "Crenepo",
+   "gloss": "a woman.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0357,
+    "y": 0.2157,
+    "w": 0.2288,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 4,
+   "form": "Marowanchesso",
+   "gloss": "a boy.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0369,
+    "y": 0.2376,
+    "w": 0.258,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 5,
+   "form": "Yehawkans",
+   "gloss": "Houses.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0333,
+    "y": 0.26,
+    "w": 0.2336,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 6,
+   "form": "Matchcores",
+   "gloss": "Skins, or garments.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "SKIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0345,
+    "y": 0.2876,
+    "w": 0.37,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 7,
+   "form": "Mockasins",
+   "gloss": "Shooes.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0333,
+    "y": 0.3122,
+    "w": 0.2342,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 8,
+   "form": "Tussan",
+   "gloss": "Beds.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "BED"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0333,
+    "y": 0.3361,
+    "w": 0.1627,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 9,
+   "form": "Pokatawer",
+   "gloss": "Fire.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0315,
+    "y": 0.3581,
+    "w": 0.1901,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 10,
+   "form": "Attawp",
+   "gloss": "Abowe.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0345,
+    "y": 0.3849,
+    "w": 0.2193,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 11,
+   "form": "Attonce",
+   "gloss": "Arrowes.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0321,
+    "y": 0.4091,
+    "w": 0.2199,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 12,
+   "form": "Monacookes",
+   "gloss": "Swords.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "SWORD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0351,
+    "y": 0.4322,
+    "w": 0.2497,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 13,
+   "form": "Aumoughhowgh",
+   "gloss": "A Target.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0309,
+    "y": 0.4586,
+    "w": 0.3283,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 14,
+   "form": "Pawcussacks",
+   "gloss": "Gunnes.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0321,
+    "y": 0.4834,
+    "w": 0.2509,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 15,
+   "form": "Tomahacks",
+   "gloss": "Axes.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0315,
+    "y": 0.5056,
+    "w": 0.2116,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 16,
+   "form": "Tockahacks",
+   "gloss": "Pickaxes.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0303,
+    "y": 0.5302,
+    "w": 0.2592,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 17,
+   "form": "Pamesacks",
+   "gloss": "Kniues.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0297,
+    "y": 0.5573,
+    "w": 0.2223,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 18,
+   "form": "Accowprets",
+   "gloss": "Sheares.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "SHEAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0303,
+    "y": 0.581,
+    "w": 0.2437,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 19,
+   "form": "Pawpecones",
+   "gloss": "Pipes.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0297,
+    "y": 0.6068,
+    "w": 0.2199,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 20,
+   "form": "Mattassin",
+   "gloss": "Copper.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "COPPER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0291,
+    "y": 0.6305,
+    "w": 0.2324,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 21,
+   "form": "Vssawassin",
+   "gloss": "Iron, Brasse, Silver, or any white mettal.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0279,
+    "y": 0.6549,
+    "w": 0.585,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 22,
+   "form": "Musses",
+   "gloss": "Woods.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "FOREST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0297,
+    "y": 0.6813,
+    "w": 0.2038,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 23,
+   "form": "Attasskuss",
+   "gloss": "Leaues, weeds, or grasse.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "GRASS",
+    "LEAF",
+    "WEED"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0297,
+    "y": 0.7056,
+    "w": 0.2038,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 24,
+   "form": "Chepsin",
+   "gloss": "Land.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "LAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0285,
+    "y": 0.7299,
+    "w": 0.1722,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 25,
+   "form": "Shacquohocan",
+   "gloss": "A stone.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0297,
+    "y": 0.7534,
+    "w": 0.2765,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 26,
+   "form": "Wepenter",
+   "gloss": "a cookold.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 0,
+    "x": 0.0285,
+    "y": 0.7818,
+    "w": 0.1273,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 27,
+   "form": "Suckahanna",
+   "gloss": "Water.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0279,
+    "y": 0.8009,
+    "w": 0.2413,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 28,
+   "form": "Noughmass",
+   "gloss": "Fish.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0291,
+    "y": 0.8291,
+    "w": 0.2092,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 29,
+   "form": "〈◊〉",
+   "gloss": "Surgion.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words."
+  },
+  {
+   "n": 30,
+   "form": "We ghsha•ghes",
+   "gloss": "Flesh.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3388,
+    "y": 0.1181,
+    "w": 0.2461,
+    "h": 0.0248,
+    "approx": true
+   }
+  },
+  {
+   "n": 31,
+   "form": "Sawwehone",
+   "gloss": "Bloud.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3382,
+    "y": 0.14,
+    "w": 0.2288,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 32,
+   "form": "Netoppew",
+   "gloss": "Friends.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "concepts": [
+    "FRIEND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3376,
+    "y": 0.1673,
+    "w": 0.2306,
+    "h": 0.0248
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "\"Friends\" given as \"my friend\".",
+    "compare": "Massachusett netop \"my friend\"; Algonquian n- 1sg",
+    "checked": false
+   }
+  },
+  {
+   "n": 33,
+   "form": "Marrapough",
+   "gloss": "Enimies.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 1,
+    "x": 0.337,
+    "y": 0.1917,
+    "w": 0.2693,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 34,
+   "form": "Maskapow",
+   "gloss": "The wo rst of the enimies.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 1,
+    "x": 0.3382,
+    "y": 0.2112,
+    "w": 0.4409,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 35,
+   "form": "Mawchick chammay",
+   "gloss": "The best of friends.",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 1,
+    "x": 0.3388,
+    "y": 0.2356,
+    "w": 0.4647,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 36,
+   "form": "Casacunnakack, peya quagh acquintan v••asantasough",
+   "gloss": "In how many daies will there come hether any more English ships?",
+   "section": "Because many doe desire to knowe the maner of their language, I haue inserted these few words.",
+   "box": {
+    "page": 1,
+    "x": 0.3382,
+    "y": 0.2645,
+    "w": 0.5886,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 37,
+   "form": "Necut",
+   "gloss": "1",
+   "section": "Their numbers.",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.34,
+    "y": 0.3623,
+    "w": 0.1133,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 38,
+   "form": "Ningh",
+   "gloss": "2",
+   "section": "Their numbers.",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.34,
+    "y": 0.387,
+    "w": 0.1157,
+    "h": 0.0248,
+    "approx": true
+   }
+  },
+  {
+   "n": 39,
+   "form": "Nuss",
+   "gloss": "3",
+   "section": "Their numbers.",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.34,
+    "y": 0.4117,
+    "w": 0.1157,
+    "h": 0.0248,
+    "approx": true
+   }
+  },
+  {
+   "n": 40,
+   "form": "Yowgh",
+   "gloss": "4",
+   "section": "Their numbers.",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3424,
+    "y": 0.4364,
+    "w": 0.1157,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 41,
+   "form": "Paranske",
+   "gloss": "5",
+   "section": "Their numbers.",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.343,
+    "y": 0.4595,
+    "w": 0.1437,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 42,
+   "form": "Comotinch",
+   "gloss": "6",
+   "section": "Their numbers.",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3418,
+    "y": 0.4821,
+    "w": 0.1615,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 43,
+   "form": "Toppawoss",
+   "gloss": "7",
+   "section": "Their numbers.",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.343,
+    "y": 0.513,
+    "w": 0.1556,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 44,
+   "form": "Nusswash",
+   "gloss": "8",
+   "section": "Their numbers.",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.343,
+    "y": 0.5358,
+    "w": 0.1657,
+    "h": 0.0248,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "Kekatawgh",
+   "gloss": "9",
+   "section": "Their numbers.",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3418,
+    "y": 0.5587,
+    "w": 0.1657,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 46,
+   "form": "Kaskeke",
+   "gloss": "",
+   "section": "Their numbers.",
+   "box": {
+    "page": 1,
+    "x": 0.3424,
+    "y": 0.5813,
+    "w": 0.1079,
+    "h": 0.0248
+   },
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "No gloss printed; position and form indicate 10.",
+    "compare": "Strachey kaskeke \"ten\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 47,
+   "form": "Case",
+   "gloss": "how many.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 1,
+    "x": 0.3424,
+    "y": 0.633,
+    "w": 0.208,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 48,
+   "form": "Ninghsapooeksku",
+   "gloss": "20",
+   "section": "They count no more but by tennes as followeth.",
+   "concepts": [
+    "TWENTY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3436,
+    "y": 0.6569,
+    "w": 0.261,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 49,
+   "form": "Nussapooeksku",
+   "gloss": "30",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 1,
+    "x": 0.343,
+    "y": 0.6822,
+    "w": 0.2139,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 50,
+   "form": "Yowghapooeksku",
+   "gloss": "40",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 1,
+    "x": 0.3406,
+    "y": 0.7069,
+    "w": 0.2312,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 51,
+   "form": "Parankestassapooeksku",
+   "gloss": "50",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 1,
+    "x": 0.3406,
+    "y": 0.729,
+    "w": 0.2902,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 52,
+   "form": "Comatinchtassapooeksku",
+   "gloss": "60",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 1,
+    "x": 0.3376,
+    "y": 0.7536,
+    "w": 0.3122,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 53,
+   "form": "Nussswashtassapooeksku",
+   "gloss": "80",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 1,
+    "x": 0.34,
+    "y": 0.7839,
+    "w": 0.3515,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 54,
+   "form": "Toppawousstassapooeksku",
+   "gloss": "70",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 1,
+    "x": 0.3412,
+    "y": 0.8038,
+    "w": 0.311,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 55,
+   "form": "Kekataughtassapooeksku",
+   "gloss": "90",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 1,
+    "x": 0.3412,
+    "y": 0.8268,
+    "w": 0.3158,
+    "h": 0.0248
+   }
+  },
+  {
+   "n": 56,
+   "form": "Necuttoughtysinough",
+   "gloss": "100",
+   "section": "They count no more but by tennes as followeth.",
+   "concepts": [
+    "HUNDRED"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0382,
+    "y": 0.0945,
+    "w": 0.2993,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 57,
+   "form": "Necuttwevnquaough",
+   "gloss": "1000",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.037,
+    "y": 0.1177,
+    "w": 0.325,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 58,
+   "form": "Rawcosowghs",
+   "gloss": "Daies.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0376,
+    "y": 0.1408,
+    "w": 0.2386,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 59,
+   "form": "Keskowghes",
+   "gloss": "Sunnes.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0359,
+    "y": 0.165,
+    "w": 0.241,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 60,
+   "form": "Toppquough",
+   "gloss": "Nights.",
+   "section": "They count no more but by tennes as followeth.",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0353,
+    "y": 0.1905,
+    "w": 0.2511,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 61,
+   "form": "Nepawweshowghs",
+   "gloss": "Moones,",
+   "section": "They count no more but by tennes as followeth.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0335,
+    "y": 0.2145,
+    "w": 0.3238,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 62,
+   "form": "Pawpaxsoughes",
+   "gloss": "Yeares.",
+   "section": "They count no more but by tennes as followeth.",
+   "concepts": [
+    "YEAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0353,
+    "y": 0.2391,
+    "w": 0.2821,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 63,
+   "form": "Pummahumps",
+   "gloss": "Starres.",
+   "section": "They count no more but by tennes as followeth.",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0341,
+    "y": 0.2639,
+    "w": 0.2696,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 64,
+   "form": "Osies",
+   "gloss": "Heavens.",
+   "section": "They count no more but by tennes as followeth.",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0341,
+    "y": 0.2877,
+    "w": 0.1844,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 65,
+   "form": "Okes",
+   "gloss": "Gods.",
+   "section": "They count no more but by tennes as followeth.",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0335,
+    "y": 0.3094,
+    "w": 0.1481,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 66,
+   "form": "Quiyoughcosucks",
+   "gloss": "Pettie Gods, and their affinities.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0317,
+    "y": 0.3353,
+    "w": 0.5668,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 67,
+   "form": "Righcomoughes",
+   "gloss": "Deaths.",
+   "section": "They count no more but by tennes as followeth.",
+   "concepts": [
+    "DEATH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0317,
+    "y": 0.3611,
+    "w": 0.2761,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 68,
+   "form": "Kekughes",
+   "gloss": "Liues.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0293,
+    "y": 0.3857,
+    "w": 0.1921,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 69,
+   "form": "Mowchick woyawgh tawgh noeragh kaquere mecher",
+   "gloss": "I am verie hungrie? what shall I eate?",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0299,
+    "y": 0.4323,
+    "w": 0.4262,
+    "h": 0.0244,
+    "approx": true
+   }
+  },
+  {
+   "n": 70,
+   "form": "Tawnor nehiegh Powhatan",
+   "gloss": "where dwels Powwahtan.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0287,
+    "y": 0.4576,
+    "w": 0.621,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 71,
+   "form": "Mache, nehiegh yowrowgh, orapaks",
+   "gloss": "Now he dwels a great way hence at orapaks.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0275,
+    "y": 0.4842,
+    "w": 0.6174,
+    "h": 0.0244,
+    "approx": true
+   }
+  },
+  {
+   "n": 72,
+   "form": "Vttapitchewayne anpechitchs nehawper werowacomoco",
+   "gloss": "You lie, he staide ever at werowocomoco.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0263,
+    "y": 0.5339,
+    "w": 0.6204,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 73,
+   "form": "Kator nehiegh mattagh neer vttapitchewayne",
+   "gloss": "Truely he is there I doe not lie.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0263,
+    "y": 0.5827,
+    "w": 0.6186,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 74,
+   "form": "Spaughtynere keragh werowance mawmarinough kekaten wawgh peyaquaugh",
+   "gloss": "Run you then to the king mawmarynough and bid him come hither.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0263,
+    "y": 0.645,
+    "w": 0.621,
+    "h": 0.0244,
+    "approx": true
+   }
+  },
+  {
+   "n": 75,
+   "form": "Vtteke, epeya weyack wighwhip",
+   "gloss": "Get you gone, and come againe quickly.",
+   "section": "They count no more but by tennes as followeth.",
+   "box": {
+    "page": 2,
+    "x": 0.0216,
+    "y": 0.7072,
+    "w": 0.621,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 76,
+   "form": "Kekaten pokahontas patiaquagh niugh tanks manotyens neer mowchick rawrenock audowgh",
+   "gloss": "Bid Pokahontas bring hither two little Baskets, & I wil giue her white beads to make her a chaine.",
+   "section": "They count no more but by tennes as followeth."
+  }
+ ],
+ "identification": {
+  "status": "abstain",
+  "path": [],
+  "support": [],
+  "concepts": 40,
+  "excluded": [
+   "powh1243"
+  ],
+  "leading": {
+   "name": "NANTICOKE",
+   "family": "Algic",
+   "z": 4.14
+  },
+  "candidates": [
+   {
+    "name": "NANTICOKE",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Algonquian"
+    ],
+    "z": 4.14,
+    "n": 10
+   },
+   {
+    "name": "YUE_YULIN",
+    "db": "ASJP",
+    "family": "Sino-Tibetan",
+    "path": [
+     "Sino-Tibetan",
+     "Sinitic",
+     "Classical-Middle-Modern Sinitic",
+     "Middle-Modern Sinitic"
+    ],
+    "z": 3.6,
+    "n": 12
+   },
+   {
+    "name": "KASKASKIA_ILLINOIS",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Great Lakes Algonquian"
+    ],
+    "z": 3.46,
+    "n": 11
+   },
+   {
+    "name": "MENOMINEE",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Menominee"
+    ],
+    "z": 3.43,
+    "n": 8
+   },
+   {
+    "name": "RABHA",
+    "db": "ASJP",
+    "family": "Sino-Tibetan",
+    "path": [
+     "Sino-Tibetan",
+     "Brahmaputran",
+     "Bodo-Garo",
+     "Kochic"
+    ],
+    "z": 3.28,
+    "n": 9
+   },
+   {
+    "name": "SAOCH",
+    "db": "ASJP",
+    "family": "Austroasiatic",
+    "path": [
+     "Austroasiatic",
+     "Pearic",
+     "Western Pearic",
+     "Southern Chong"
+    ],
+    "z": 3.28,
+    "n": 11
+   },
+   {
+    "name": "Kubeo",
+    "db": "Lexibank",
+    "family": "Tucanoan",
+    "path": [
+     "Tucanoan",
+     "Eastern Tucanoan",
+     "Western Eastern Tucanoan",
+     "Cubeo-Desano"
+    ],
+    "z": 3.23,
+    "n": 9
+   },
+   {
+    "name": "FOX",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Great Lakes Algonquian"
+    ],
+    "z": 3.18,
+    "n": 11
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "night",
+    "form": "Toppquough",
+    "ref": "tupkwo",
+    "d": 0.14
+   },
+   {
+    "concept": "fish",
+    "form": "Noughmass",
+    "ref": "namis",
+    "d": 0.17
+   },
+   {
+    "concept": "one",
+    "form": "Necut",
+    "ref": "nukwit",
+    "d": 0.17
+   },
+   {
+    "concept": "blood",
+    "form": "Sawwehone",
+    "ref": "pukuCke",
+    "d": 0.5
+   },
+   {
+    "concept": "stone",
+    "form": "Shacquohocan",
+    "ref": "kawskup",
+    "d": 0.5
+   },
+   {
+    "concept": "two",
+    "form": "Ningh",
+    "ref": "naiz",
+    "d": 0.5
+   },
+   {
+    "concept": "star",
+    "form": "Pummahumps",
+    "ref": "pumolasukwe",
+    "d": 0.55
+   },
+   {
+    "concept": "skin",
+    "form": "Matchcores",
+    "ref": "nowasium",
+    "d": 0.57
+   },
+   {
+    "concept": "fire",
+    "form": "Pokatawer",
+    "ref": "tande",
+    "d": 0.67
+   },
+   {
+    "concept": "water",
+    "form": "Suckahanna",
+    "ref": "nipi",
+    "d": 0.67
+   }
+  ]
+ },
+ "stats": {
+  "entries": 76,
+  "notes": 2,
+  "located": 74
+ },
+ "partial": null,
+ "relation": null
+}

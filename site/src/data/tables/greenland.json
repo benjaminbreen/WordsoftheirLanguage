@@ -1,0 +1,1719 @@
+{
+ "schema": 1,
+ "id": "greenland",
+ "wtl": "WTL-0012",
+ "heading": null,
+ "headings": [],
+ "language": {
+  "name": "Kalaallisut (Greenlandic)",
+  "glottocode": "kala1399",
+  "family": "Eskimo-Aleut",
+  "path": [
+   "Eskimo-Aleut",
+   "Eskimo",
+   "Inuit",
+   "Greenlandic Inuit"
+  ],
+  "labels": [
+   "Groenlanders",
+   "Groenlanders (their language)"
+  ]
+ },
+ "region": "Arctic & North",
+ "book": {
+  "short": "The Voyages and Travells of the Ambassadors",
+  "title": "The voyages and travells of the ambassadors sent by Frederick, Duke of Holstein, to the Great Duke of Muscovy and the King of Persia begun in the year M.DC.XXXIII. and finish'd in M.DC.XXXIX : containing a compleat history of Muscovy, Tartary, Persia, and other adjacent countries : with several publick transactions reaching near the present times : in VII. books. Whereto are added the Travels of John Albert de Mandelslo (a gentleman belonging to the embassy) from Persia into the East-Indies ... in III. books ... / written originally by Adam Olearius, secretary to the embassy ; faithfully rendered into English, by John Davies.",
+  "author": "Adam Olearius, trans. John Davies",
+  "printed": 1669,
+  "imprint": "1669.",
+  "tcp": "A53322",
+  "cover": "olearius"
+ },
+ "provenance": {
+  "collector": "Adam Olearius",
+  "place": "Greenlanders brought to Denmark",
+  "heard": "1654–56"
+ },
+ "scan": {
+  "ia": "voyagestravellso00olea",
+  "url": "https://archive.org/details/voyagestravellso00olea",
+  "holder": "Brandeis University Libraries",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 89,
+   "w": 2325,
+   "h": 4023,
+   "sm": "/scans/greenland/0089-900.webp",
+   "lg": "/scans/greenland/0089-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Keiling",
+   "gloss": "Heaven",
+   "section": "",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0286,
+    "y": 0.4435,
+    "w": 0.1558,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 2,
+   "form": "Vbleisin",
+   "gloss": "a Star",
+   "section": "",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0303,
+    "y": 0.4572,
+    "w": 0.1549,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 3,
+   "form": "Agakwugoo",
+   "gloss": "yesterday",
+   "section": "",
+   "concepts": [
+    "YESTERDAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0286,
+    "y": 0.4712,
+    "w": 0.2095,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 4,
+   "form": "Petting",
+   "gloss": "a Man",
+   "section": "",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0298,
+    "y": 0.4833,
+    "w": 0.1476,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 5,
+   "form": "Kajoictuinas",
+   "gloss": "young",
+   "section": "",
+   "concepts": [
+    "YOUNG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.029,
+    "y": 0.4996,
+    "w": 0.2044,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 6,
+   "form": "Ekiken",
+   "gloss": "deformed",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0281,
+    "y": 0.5115,
+    "w": 0.1721,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 7,
+   "form": "Niakau",
+   "gloss": "the head",
+   "section": "",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0273,
+    "y": 0.5274,
+    "w": 0.1803,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 8,
+   "form": "Siuta",
+   "gloss": "an ear",
+   "section": "",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0273,
+    "y": 0.5411,
+    "w": 0.1338,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 9,
+   "form": "Vkang",
+   "gloss": "the tongue",
+   "section": "",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0277,
+    "y": 0.5554,
+    "w": 0.1923,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 10,
+   "form": "Tikagga",
+   "gloss": "a finger",
+   "section": "",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0277,
+    "y": 0.5695,
+    "w": 0.176,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 11,
+   "form": "Nasekka",
+   "gloss": "the belly",
+   "section": "",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0277,
+    "y": 0.5828,
+    "w": 0.1928,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 12,
+   "form": "Ennowan",
+   "gloss": "a Wast-coat",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0286,
+    "y": 0.596,
+    "w": 0.2268,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 13,
+   "form": "Kaksua",
+   "gloss": "an arrow",
+   "section": "",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.029,
+    "y": 0.6108,
+    "w": 0.1833,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 14,
+   "form": "Kalipsi",
+   "gloss": "a pot",
+   "section": "",
+   "concepts": [
+    "POT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.029,
+    "y": 0.6257,
+    "w": 0.1429,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 15,
+   "form": "Vglessin",
+   "gloss": "a bird",
+   "section": "",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0286,
+    "y": 0.6391,
+    "w": 0.1601,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 16,
+   "form": "Kalulisen",
+   "gloss": "dry'd Haberdine",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0298,
+    "y": 0.6526,
+    "w": 0.2633,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 17,
+   "form": "Towak",
+   "gloss": "the Fish that hath the Horn called the Unicorn's horn",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0294,
+    "y": 0.6657,
+    "w": 0.276,
+    "h": 0.0139
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Kalaallisut tuugaaq \"tusk\"; tuugaalik \"narwhal\"",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 18,
+   "form": "Touwaksen",
+   "gloss": "the Horn it self",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.029,
+    "y": 0.6933,
+    "w": 0.2685,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 19,
+   "form": "Kapissiling",
+   "gloss": "a Salmon",
+   "section": "",
+   "concepts": [
+    "SALMON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0307,
+    "y": 0.7092,
+    "w": 0.2083,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 20,
+   "form": "Pauting",
+   "gloss": "an Oar",
+   "section": "",
+   "concepts": [
+    "OAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0311,
+    "y": 0.721,
+    "w": 0.1683,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 21,
+   "form": "Vgaggan",
+   "gloss": "a stone",
+   "section": "",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.032,
+    "y": 0.7374,
+    "w": 0.1743,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 22,
+   "form": "Kaming",
+   "gloss": "a Boot",
+   "section": "",
+   "concepts": [
+    "BOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0324,
+    "y": 0.751,
+    "w": 0.1674,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 23,
+   "form": "Pisickse",
+   "gloss": "a Bow",
+   "section": "",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.032,
+    "y": 0.7629,
+    "w": 0.1575,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 24,
+   "form": "Iugeling",
+   "gloss": "a Knife",
+   "section": "",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0316,
+    "y": 0.7781,
+    "w": 0.1799,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 25,
+   "form": "Kejuta",
+   "gloss": "a Spoon",
+   "section": "",
+   "concepts": [
+    "SPOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0316,
+    "y": 0.7921,
+    "w": 0.173,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 26,
+   "form": "Emeisa",
+   "gloss": "a Cup",
+   "section": "",
+   "concepts": [
+    "CUP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0333,
+    "y": 0.8066,
+    "w": 0.1554,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 27,
+   "form": "Tukto",
+   "gloss": "flesh",
+   "section": "",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0316,
+    "y": 0.8197,
+    "w": 0.127,
+    "h": 0.0139
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Kalaallisut tuttu \"reindeer\"; meat = neqi",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 28,
+   "form": "Kack sluton",
+   "gloss": "a Drake",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0324,
+    "y": 0.8343,
+    "w": 0.2044,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 29,
+   "form": "Kalulia",
+   "gloss": "Haberdine",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0337,
+    "y": 0.8468,
+    "w": 0.1885,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 30,
+   "form": "Nau",
+   "gloss": "a Boat",
+   "section": "",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0823,
+    "y": 0.8611,
+    "w": 0.0861,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 31,
+   "form": "Iglun",
+   "gloss": "a house",
+   "section": "",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0346,
+    "y": 0.8762,
+    "w": 0.1463,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 32,
+   "form": "Iliout, or Ilioun",
+   "gloss": "the Sun",
+   "section": "",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0346,
+    "y": 0.8887,
+    "w": 0.2452,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 33,
+   "form": "Aningang",
+   "gloss": "the Moon",
+   "section": "",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0354,
+    "y": 0.9044,
+    "w": 0.2117,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 34,
+   "form": "Vblau",
+   "gloss": "day",
+   "section": "",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0359,
+    "y": 0.9178,
+    "w": 0.1214,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 35,
+   "form": "Vnuwoa",
+   "gloss": "night",
+   "section": "",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0367,
+    "y": 0.932,
+    "w": 0.1511,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 36,
+   "form": "Itaguptan",
+   "gloss": "to morrow",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4565,
+    "y": 0.4435,
+    "w": 0.2173,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 37,
+   "form": "Kona",
+   "gloss": "a Woman",
+   "section": "",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4544,
+    "y": 0.4558,
+    "w": 0.1708,
+    "h": 0.0139
+   },
+   "note": {
+    "kind": "wrong_language",
+    "label": "Another language",
+    "text": "Old Norse kona \"woman\"; Kalaallisut arnaq \"woman\"",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 38,
+   "form": "Pannien",
+   "gloss": "a Child",
+   "section": "",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4539,
+    "y": 0.469,
+    "w": 0.1794,
+    "h": 0.0139
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Kalaallisut panik \"daughter\"",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 39,
+   "form": "Kannoctuina",
+   "gloss": "old",
+   "section": "",
+   "concepts": [
+    "OLD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4501,
+    "y": 0.4833,
+    "w": 0.1747,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 40,
+   "form": "Pinallu",
+   "gloss": "fair",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4505,
+    "y": 0.4972,
+    "w": 0.1369,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 41,
+   "form": "Vbia",
+   "gloss": "Father",
+   "section": "",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4505,
+    "y": 0.5111,
+    "w": 0.1403,
+    "h": 0.0139
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Kalaallisut ui \"husband\", uia \"her husband\"; father = ataata",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 42,
+   "form": "Nulia",
+   "gloss": "Mother",
+   "section": "",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4514,
+    "y": 0.5253,
+    "w": 0.1618,
+    "h": 0.0139
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Kalaallisut nuliaq \"wife\", nulia \"his wife\"; mother = anaana",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 43,
+   "form": "Isiken",
+   "gloss": "an eye",
+   "section": "",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4526,
+    "y": 0.5422,
+    "w": 0.1425,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 44,
+   "form": "Keinga",
+   "gloss": "the Nose",
+   "section": "",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4548,
+    "y": 0.5551,
+    "w": 0.1794,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 45,
+   "form": "Kanexua",
+   "gloss": "the mouth",
+   "section": "",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4535,
+    "y": 0.5684,
+    "w": 0.2061,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 46,
+   "form": "Kiguting",
+   "gloss": "a Tooth",
+   "section": "",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4526,
+    "y": 0.5836,
+    "w": 0.1855,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 47,
+   "form": "Vimixuin",
+   "gloss": "the beard",
+   "section": "",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4514,
+    "y": 0.5955,
+    "w": 0.2044,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 48,
+   "form": "Akseita",
+   "gloss": "the hand",
+   "section": "",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4509,
+    "y": 0.6094,
+    "w": 0.1825,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 49,
+   "form": "Kablan",
+   "gloss": "the thumb",
+   "section": "",
+   "concepts": [
+    "THUMB"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4501,
+    "y": 0.6231,
+    "w": 0.1936,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 50,
+   "form": "Kuggie",
+   "gloss": "a nail",
+   "section": "",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4544,
+    "y": 0.6391,
+    "w": 0.1502,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 51,
+   "form": "Kana",
+   "gloss": "a leg",
+   "section": "",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4526,
+    "y": 0.6524,
+    "w": 0.1274,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 52,
+   "form": "Sikadin",
+   "gloss": "a foot",
+   "section": "",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4518,
+    "y": 0.6651,
+    "w": 0.1549,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 53,
+   "form": "Neizin",
+   "gloss": "a doublet",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4509,
+    "y": 0.6788,
+    "w": 0.1837,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 54,
+   "form": "Naglein",
+   "gloss": "breeches",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4526,
+    "y": 0.6944,
+    "w": 0.1889,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 55,
+   "form": "Karlein",
+   "gloss": "stockins",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4518,
+    "y": 0.707,
+    "w": 0.1782,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 56,
+   "form": "Suwigming",
+   "gloss": "Iron",
+   "section": "",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4526,
+    "y": 0.7224,
+    "w": 0.1786,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 57,
+   "form": "Mingakisin",
+   "gloss": "fish",
+   "section": "",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4518,
+    "y": 0.7358,
+    "w": 0.1665,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 58,
+   "form": "Kajakka",
+   "gloss": "a little Boat",
+   "section": "",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4518,
+    "y": 0.7489,
+    "w": 0.2156,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 59,
+   "form": "Keisuin",
+   "gloss": "Wood",
+   "section": "",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4539,
+    "y": 0.7642,
+    "w": 0.1631,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 60,
+   "form": "Ipsaw",
+   "gloss": "the Earth",
+   "section": "",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4608,
+    "y": 0.7782,
+    "w": 0.1678,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 61,
+   "form": "Ipgin",
+   "gloss": "grass",
+   "section": "",
+   "concepts": [
+    "GRASS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4531,
+    "y": 0.7923,
+    "w": 0.1265,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 62,
+   "form": "Nidlong",
+   "gloss": "Ice",
+   "section": "",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4548,
+    "y": 0.8046,
+    "w": 0.1412,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 63,
+   "form": "Apon",
+   "gloss": "Snow",
+   "section": "",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4557,
+    "y": 0.8197,
+    "w": 0.148,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 64,
+   "form": "Siruksua",
+   "gloss": "rain",
+   "section": "",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4531,
+    "y": 0.833,
+    "w": 0.148,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 65,
+   "form": "Ime",
+   "gloss": "water",
+   "section": "",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4526,
+    "y": 0.8474,
+    "w": 0.1154,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 66,
+   "form": "Imak",
+   "gloss": "the Sea",
+   "section": "",
+   "concepts": [
+    "SEA"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4544,
+    "y": 0.859,
+    "w": 0.1407,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 67,
+   "form": "Igne",
+   "gloss": "fire",
+   "section": "",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4552,
+    "y": 0.8744,
+    "w": 0.1063,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 68,
+   "form": "Igga",
+   "gloss": "smoak",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4526,
+    "y": 0.889,
+    "w": 0.1201,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 69,
+   "form": "Kisakaun",
+   "gloss": "hot",
+   "section": "",
+   "concepts": [
+    "HOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4531,
+    "y": 0.9025,
+    "w": 0.1463,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 70,
+   "form": "Kaigenakaun",
+   "gloss": "cold",
+   "section": "",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4548,
+    "y": 0.9158,
+    "w": 0.1855,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 71,
+   "form": "Vanga",
+   "gloss": "I",
+   "section": "",
+   "concepts": [
+    "I"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4548,
+    "y": 0.9301,
+    "w": 0.099,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 72,
+   "form": "Akagoo",
+   "gloss": "to day",
+   "section": "",
+   "concepts": [
+    "DAY"
+   ]
+  },
+  {
+   "n": 73,
+   "form": "Ab",
+   "gloss": "yes",
+   "section": "",
+   "concepts": [
+    "YES"
+   ]
+  },
+  {
+   "n": 74,
+   "form": "Nagga",
+   "gloss": "no",
+   "section": "",
+   "concepts": [
+    "NO"
+   ]
+  },
+  {
+   "n": 75,
+   "form": "Pissiak",
+   "gloss": "a Dog",
+   "section": "",
+   "concepts": [
+    "DOG"
+   ]
+  },
+  {
+   "n": 76,
+   "form": "Amiga",
+   "gloss": "the skin",
+   "section": "",
+   "concepts": [
+    "SKIN"
+   ],
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "\"my skin\" given for \"the skin\".",
+    "compare": "Kalaallisut amiga \"my skin\" (amik + -ga)",
+    "checked": true
+   }
+  },
+  {
+   "n": 77,
+   "form": "Mekkone",
+   "gloss": "a Needle",
+   "section": "",
+   "concepts": [
+    "NEEDLE (CLASSIFIER)"
+   ]
+  },
+  {
+   "n": 78,
+   "form": "Mikkakaun",
+   "gloss": "little",
+   "section": ""
+  },
+  {
+   "n": 79,
+   "form": "Angewo",
+   "gloss": "great",
+   "section": ""
+  },
+  {
+   "n": 80,
+   "form": "Sua",
+   "gloss": "what wouldst?",
+   "section": ""
+  },
+  {
+   "n": 81,
+   "form": "Magluna",
+   "gloss": "two",
+   "section": "",
+   "concepts": [
+    "TWO"
+   ]
+  },
+  {
+   "n": 82,
+   "form": "Sassema",
+   "gloss": "four",
+   "section": "",
+   "concepts": [
+    "FOUR"
+   ]
+  },
+  {
+   "n": 83,
+   "form": "Akbukmen",
+   "gloss": "six",
+   "section": "",
+   "concepts": [
+    "SIX"
+   ]
+  },
+  {
+   "n": 84,
+   "form": "Pingenguen",
+   "gloss": "eight",
+   "section": "",
+   "concepts": [
+    "EIGHT"
+   ]
+  },
+  {
+   "n": 85,
+   "form": "Tellimen",
+   "gloss": "ten",
+   "section": "",
+   "concepts": [
+    "TEN"
+   ]
+  },
+  {
+   "n": 86,
+   "form": "Agnessui",
+   "gloss": "high",
+   "section": "",
+   "concepts": [
+    "HIGH"
+   ]
+  },
+  {
+   "n": 87,
+   "form": "Eipa",
+   "gloss": "low",
+   "section": "",
+   "concepts": [
+    "LOW"
+   ]
+  },
+  {
+   "n": 88,
+   "form": "Kachain",
+   "gloss": "hungry",
+   "section": ""
+  },
+  {
+   "n": 89,
+   "form": "Ibling",
+   "gloss": "thou",
+   "section": "",
+   "concepts": [
+    "THOU"
+   ]
+  },
+  {
+   "n": 90,
+   "form": "Kasilakaun",
+   "gloss": "full",
+   "section": "",
+   "concepts": [
+    "FULL"
+   ]
+  },
+  {
+   "n": 91,
+   "form": "Kepsiun",
+   "gloss": "to eat",
+   "section": "",
+   "concepts": [
+    "EAT"
+   ]
+  },
+  {
+   "n": 92,
+   "form": "Iemektaun",
+   "gloss": "to drink",
+   "section": "",
+   "concepts": [
+    "DRINK"
+   ]
+  },
+  {
+   "n": 93,
+   "form": "Keigerson",
+   "gloss": "to weep",
+   "section": ""
+  },
+  {
+   "n": 94,
+   "form": "Iglakton",
+   "gloss": "to laugh",
+   "section": "",
+   "concepts": [
+    "LAUGH"
+   ]
+  },
+  {
+   "n": 95,
+   "form": "Aliasukton",
+   "gloss": "to be troubled",
+   "section": ""
+  },
+  {
+   "n": 96,
+   "form": "Tabatton",
+   "gloss": "to be glad",
+   "section": ""
+  },
+  {
+   "n": 97,
+   "form": "Ieptone",
+   "gloss": "bring",
+   "section": "",
+   "concepts": [
+    "BRING"
+   ]
+  },
+  {
+   "n": 98,
+   "form": "Nikatin",
+   "gloss": "go thy wayes",
+   "section": ""
+  },
+  {
+   "n": 99,
+   "form": "Kia mecle",
+   "gloss": "which signifies",
+   "section": ""
+  },
+  {
+   "n": 100,
+   "form": "Suna",
+   "gloss": "what is't",
+   "section": ""
+  },
+  {
+   "n": 101,
+   "form": "Tansi",
+   "gloss": "one",
+   "section": "",
+   "concepts": [
+    "ONE"
+   ]
+  },
+  {
+   "n": 102,
+   "form": "Pingegua",
+   "gloss": "three",
+   "section": "",
+   "concepts": [
+    "THREE"
+   ]
+  },
+  {
+   "n": 103,
+   "form": "Tellima",
+   "gloss": "five",
+   "section": "",
+   "concepts": [
+    "FIVE"
+   ]
+  },
+  {
+   "n": 104,
+   "form": "Arleng",
+   "gloss": "seven",
+   "section": "",
+   "concepts": [
+    "SEVEN"
+   ]
+  },
+  {
+   "n": 105,
+   "form": "Sissemen",
+   "gloss": "nine",
+   "section": "",
+   "concepts": [
+    "NINE"
+   ]
+  },
+  {
+   "n": 106,
+   "form": "Karlusa",
+   "gloss": "hook",
+   "section": "",
+   "concepts": [
+    "HOOK"
+   ]
+  },
+  {
+   "n": 107,
+   "form": "Inguin",
+   "gloss": "those of their Countrey",
+   "section": ""
+  },
+  {
+   "n": 108,
+   "form": "Kablunassouin",
+   "gloss": "strangers",
+   "section": "",
+   "concepts": [
+    "STRANGER"
+   ]
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Eskimo-Aleut",
+   "Eskimo",
+   "Inuit",
+   "Greenlandic Inuit",
+   "Kalaallisut"
+  ],
+  "support": [
+   1.0,
+   1.0,
+   0.88,
+   0.68,
+   0.68
+  ],
+  "concepts": 82,
+  "excluded": [],
+  "leading": {
+   "name": "Kalaallisut",
+   "family": "Eskimo-Aleut",
+   "z": 8.33
+  },
+  "candidates": [
+   {
+    "name": "Kalaallisut",
+    "db": "Lexibank",
+    "family": "Eskimo-Aleut",
+    "path": [
+     "Eskimo-Aleut",
+     "Eskimo",
+     "Inuit",
+     "Greenlandic Inuit"
+    ],
+    "z": 8.33,
+    "n": 68
+   },
+   {
+    "name": "Greenlandic",
+    "db": "Lexibank",
+    "family": "Eskimo-Aleut",
+    "path": [
+     "Eskimo-Aleut",
+     "Eskimo",
+     "Inuit",
+     "Greenlandic Inuit"
+    ],
+    "z": 6.3,
+    "n": 24
+   },
+   {
+    "name": "North Alaskan Inupiatun",
+    "db": "Lexibank",
+    "family": "Eskimo-Aleut",
+    "path": [
+     "Eskimo-Aleut",
+     "Eskimo",
+     "Inuit",
+     "Alaskan Inupiaq"
+    ],
+    "z": 5.96,
+    "n": 50
+   },
+   {
+    "name": "Central Siberian Yupik",
+    "db": "Lexibank",
+    "family": "Eskimo-Aleut",
+    "path": [
+     "Eskimo-Aleut",
+     "Eskimo",
+     "Yupik",
+     "Central Siberian Yupik"
+    ],
+    "z": 5.75,
+    "n": 62
+   },
+   {
+    "name": "KALAALLISUT",
+    "db": "ASJP",
+    "family": "Eskimo-Aleut",
+    "path": [
+     "Eskimo-Aleut",
+     "Eskimo",
+     "Inuit",
+     "Greenlandic Inuit"
+    ],
+    "z": 5.39,
+    "n": 31
+   },
+   {
+    "name": "WEST_GREENLANDIC",
+    "db": "ASJP",
+    "family": "Eskimo-Aleut",
+    "path": [
+     "Eskimo-Aleut",
+     "Eskimo",
+     "Inuit",
+     "Greenlandic Inuit"
+    ],
+    "z": 5.25,
+    "n": 21
+   },
+   {
+    "name": "INUKTITUT_EASTERN_CANADIAN",
+    "db": "ASJP",
+    "family": "Eskimo-Aleut",
+    "path": [
+     "Eskimo-Aleut",
+     "Eskimo",
+     "Inuit",
+     "Eastern Canadian Inuktitut"
+    ],
+    "z": 5.0,
+    "n": 20
+   },
+   {
+    "name": "YUPIK_NAUKAN",
+    "db": "ASJP",
+    "family": "Eskimo-Aleut",
+    "path": [
+     "Eskimo-Aleut",
+     "Eskimo",
+     "Yupik",
+     "Naukan Yupik"
+    ],
+    "z": 4.2,
+    "n": 17
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "sea",
+    "form": "Imak",
+    "ref": "imaq",
+    "d": 0.0
+   },
+   {
+    "concept": "five",
+    "form": "Tellima",
+    "ref": "taɬːimat",
+    "d": 0.14
+   },
+   {
+    "concept": "four",
+    "form": "Sassema",
+    "ref": "sisamat",
+    "d": 0.14
+   },
+   {
+    "concept": "sky",
+    "form": "Keiling",
+    "ref": "qilak",
+    "d": 0.17
+   },
+   {
+    "concept": "head",
+    "form": "Niakau",
+    "ref": "niaqɔq",
+    "d": 0.2
+   },
+   {
+    "concept": "wood",
+    "form": "Keisuin",
+    "ref": "qisuk",
+    "d": 0.2
+   },
+   {
+    "concept": "iron",
+    "form": "Suwigming",
+    "ref": "saviminɛq",
+    "d": 0.22
+   },
+   {
+    "concept": "ear",
+    "form": "Siuta",
+    "ref": "siut",
+    "d": 0.25
+   },
+   {
+    "concept": "snow",
+    "form": "Apon",
+    "ref": "aput",
+    "d": 0.25
+   },
+   {
+    "concept": "water",
+    "form": "Ime",
+    "ref": "imɛq",
+    "d": 0.25
+   },
+   {
+    "concept": "rain (raining)",
+    "form": "Siruksua",
+    "ref": "siaɬːɛʁpɔq",
+    "d": 0.38
+   },
+   {
+    "concept": "tooth",
+    "form": "Kiguting",
+    "ref": "kiɣut",
+    "d": 0.38
+   }
+  ]
+ },
+ "stats": {
+  "entries": 108,
+  "notes": 7,
+  "located": 71
+ },
+ "partial": null,
+ "relation": null
+}

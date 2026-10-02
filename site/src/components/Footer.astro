@@ -1,0 +1,70 @@
+---
+import { conceptIndex } from "../lib/data";
+
+// The centrepiece: the word for "water" as printed in every table that records it, set as a ring.
+const water = (conceptIndex["WATER"] || []).slice().sort((a, b) => a.year - b.year);
+const ring = water.map((w) => w.form.replace(/[.,;:]+$/, "")).join("  ·  ") + "  ·  ";
+const R = 168, C = 2 * Math.PI * R;
+---
+<footer class="site-footer">
+  <div class="wrap foot">
+    <figure class="seal" aria-labelledby="seal-cap">
+      <div class="seal-art">
+        <svg viewBox="0 0 400 400" aria-hidden="true">
+          <defs><path id="ring" d={`M 200 200 m -${R} 0 a ${R} ${R} 0 1 1 ${2 * R} 0 a ${R} ${R} 0 1 1 -${2 * R} 0`} /></defs>
+          <circle cx="200" cy="200" r="192" class="seal-rule" />
+          <circle cx="200" cy="200" r="145" class="seal-rule thin" />
+          <g class="seal-spin">
+            <text class="seal-text"><textPath href="#ring" textLength={C.toFixed(1)} lengthAdjust="spacing">{ring}</textPath></text>
+          </g>
+        </svg>
+        <div class="seal-core">
+          <span class="seal-big print">Wordes</span>
+          <span class="seal-small">of their Language</span>
+        </div>
+      </div>
+      <figcaption id="seal-cap">Water, as printed in {water.length} of the tables, {water[0]?.year}–{water[water.length - 1]?.year}.</figcaption>
+    </figure>
+
+    <div class="made">
+      <span>Made by</span>
+      <a class="made-name" href="https://benjaminpbreen.com" rel="author">Benjamin Breen</a>
+      <a class="made-badge" href="https://resobscura.substack.com" aria-label="Res Obscura" title="Res Obscura">
+        <img src="/res-obscura.webp" alt="" width="28" height="28" />
+      </a>
+    </div>
+
+    <nav class="foot-nav" aria-label="Footer">
+      <a href="/">Tables</a><a href="/languages">Languages</a><a href="/search">Search</a><a href="/about">About</a><a href="/about#corrections">Corrections</a>
+    </nav>
+
+    <p class="fine">Transcriptions from the Text Creation Partnership (EEBO-TCP, CC0). Page images from public-domain scans on the Internet Archive, most from the John Carter Brown Library. Comparison data from ASJP and Lexibank; classification from Glottolog. Many of these words belong to living communities and their ancestors; identifications and notes are provisional.</p>
+  </div>
+</footer>
+
+<style>
+  .site-footer { margin-top: 112px; background: var(--bg-2); border-top: 1px solid var(--rule); }
+  .foot { display: grid; justify-items: center; gap: 26px; padding-block: 64px 48px; text-align: center; }
+  .seal { margin: 0; display: grid; justify-items: center; gap: 14px; }
+  .seal-art { position: relative; width: min(340px, 82vw); aspect-ratio: 1; }
+  .seal-art svg { width: 100%; height: 100%; overflow: visible; }
+  .seal-rule { fill: none; stroke: var(--ink); stroke-width: 1.5; }
+  .seal-rule.thin { stroke-width: 0.75; stroke: var(--ink-3); }
+  .seal-text { font-family: var(--f-print); font-size: 21px; fill: var(--ink); }
+  .seal-spin { transform-origin: 200px 200px; animation: seal 140s linear infinite; }
+  .seal:hover .seal-spin { animation-play-state: paused; }
+  @keyframes seal { to { transform: rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce) { .seal-spin { animation: none; } }
+  .seal-core { position: absolute; inset: 0; display: grid; place-content: center; gap: 2px; }
+  .seal-big { font-size: clamp(3rem, 12vw, 4.6rem); line-height: 0.9; font-style: italic; letter-spacing: -0.01em; color: var(--ink); }
+  .seal-small { font-size: 12px; font-weight: 600; letter-spacing: 0.22em; text-transform: uppercase; color: var(--ink); }
+  .seal figcaption { font-size: 13px; color: var(--ink-3); }
+  .made { display: inline-flex; align-items: center; gap: 8px; font-size: 15px; color: var(--ink-2); }
+  .made-name { color: var(--ink); font-weight: 600; text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 4px; }
+  .made-name:hover { text-decoration-color: var(--accent); }
+  .made-badge { display: inline-grid; border-radius: 50%; box-shadow: 0 0 0 1px var(--rule), 0 2px 6px rgba(0, 0, 0, 0.12); transition: transform 0.2s ease; }
+  .made-badge:hover { transform: rotate(-8deg) scale(1.08); }
+  .made-badge img { width: 28px; height: 28px; border-radius: 50%; }
+  .foot-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 22px; font-size: 14px; color: var(--ink-2); }
+  .fine { max-width: 76ch; font-size: 12.5px; line-height: 1.6; color: var(--ink-3); }
+</style>

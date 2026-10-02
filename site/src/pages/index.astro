@@ -1,0 +1,253 @@
+---
+import Base from "../layouts/Base.astro";
+import { tables, totals, REGIONS, cover, cropStyle, conceptIndex, conceptLabel, byId } from "../lib/data";
+
+const heardYear = (s: string) => { const m = s.match(/(1[4-8]\d\d)/); return m ? +m[1] : null; };
+const X = (y: number) => ((y - 1500) / 200) * 100;
+
+// Feature strip: the words recorded in the most tables, each shown as printed.
+const FEATURED = ["WATER", "FIRE", "SUN", "MOON", "HAND", "DOG", "HEAD", "EYE"]
+  .filter((c) => (conceptIndex[c] || []).length >= 6).slice(0, 6);
+const strips = FEATURED.map((c) => ({
+  c, label: conceptLabel(c),
+  items: conceptIndex[c].map((o) => {
+    const t = byId[o.table];
+    const e = t.entries.find((x) => x.n === o.n)!;
+    const b = e.box && !e.box.approx ? e.box : null;
+    return { ...o, href: `/t/${t.id}#${e.n}`, crop: b ? cropStyle(t.pages[b.page], b, 0.004, 0.003) : null };
+  }).sort((a, b) => a.year - b.year),
+}));
+const regionCount = (r: string) => tables.filter((t) => t.region === r).length;
+---
+<Base nav="tables">
+  <section class="wrap intro">
+    <div class="intro-text">
+      <h1>Word lists from the first age of print</h1>
+      <p>Travellers, missionaries and merchants printed the words of the languages they met, usually as a short table tucked into a voyage account. Each table here appears as it was printed, beside a careful transcription, so the forms can be read, searched and compared.</p>
+    </div>
+    <dl class="mono stats">
+      <div><dt>Tables</dt><dd>{totals.tables}</dd></div>
+      <div><dt>Languages</dt><dd>{totals.languages}</dd></div>
+      <div><dt>Entries</dt><dd>{totals.entries.toLocaleString("en")}</dd></div>
+      <div><dt>Printed</dt><dd>{totals.first}–{totals.last}</dd></div>
+    </dl>
+  </section>
+
+  <section class="wrap strip" aria-labelledby="strip-title">
+    <div class="strip-head">
+      <h2 id="strip-title">One word, every table</h2>
+      <div class="chips" role="group" aria-label="Choose a word">
+        {strips.map((s, i) => <button class="chip accent" type="button" data-concept={s.c} aria-pressed={i === 0 ? "true" : "false"}>{s.label}</button>)}
+      </div>
+      <a class="strip-all" href={`/search?q=${strips[0].label}`} data-strip-all>All “<span data-strip-label>{strips[0].label}</span>” entries →</a>
+    </div>
+    {strips.map((s, i) => (
+      <ol class="strip-row" data-strip={s.c} hidden={i !== 0} aria-label={`The word for ${s.label}`}>
+        {s.items.map((w) => (
+          <li>
+            <a href={w.href} class="word">
+              <span class="crop-wrap">{w.crop ? <span class="crop" style={w.crop} role="img" aria-label={`Printed: ${w.form}`}></span> : <span class="crop crop-empty mono" aria-hidden="true">not located on page</span>}</span>
+              <span class="print form">{w.form}</span>
+              <span class="lang">{w.lang}</span>
+              <span class="mono faint year">{w.year}</span>
+            </a>
+          </li>
+        ))}
+      </ol>
+    ))}
+  </section>
+
+  <section class="wrap controls" aria-label="Browse the tables">
+    <div class="chips" role="group" aria-label="Filter by region">
+      <button class="chip" type="button" data-region="all" aria-pressed="true">All <span class="mono">{tables.length}</span></button>
+      {REGIONS.map((r) => <button class="chip" type="button" data-region={r} aria-pressed="false">{r} <span class="mono">{regionCount(r)}</span></button>)}
+    </div>
+    <div class="seg" role="group" aria-label="View">
+      <button type="button" data-view="books" aria-pressed="true">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="7" height="9"/><rect x="14" y="3" width="7" height="9"/><rect x="3" y="15" width="7" height="6"/><rect x="14" y="15" width="7" height="6"/></svg>Books</button>
+      <button type="button" data-view="list" aria-pressed="false">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>List</button>
+    </div>
+  </section>
+
+  <section class="wrap books" data-panel="books" aria-label="Tables as books">
+    {tables.map((t, i) => (
+      <a class="book" href={`/t/${t.id}`} data-region={t.region}>
+        <span class="cover">
+          <img src={cover(t, 360)} srcset={`${cover(t, 360)} 360w, ${cover(t, 720)} 720w`} sizes="(max-width: 600px) 45vw, 220px"
+               alt={`Title page of ${t.book.short}`} loading={i < 10 ? "eager" : "lazy"} decoding="async" width="360" height="480" />
+          {t.relation && <span class="badge">Copied from {t.relation.table === "vanneck" ? "van Neck" : t.relation.table}</span>}
+          {t.partial && !t.relation && <span class="badge soft">{t.id === "ludolf" ? "Later edition scan" : "Partial"}</span>}
+        </span>
+        <span class="book-lang">{t.language.name}</span>
+        <span class="print book-title">{t.book.short}</span>
+        <span class="mono faint book-meta">{t.provenance.collector.replace(/ \(copied\)/, "")} · {t.book.printed} · {t.stats.entries.toLocaleString("en")} entries</span>
+      </a>
+    ))}
+  </section>
+
+  <section class="wrap list" data-panel="list" hidden aria-label="Tables as a list">
+    <div class="list-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th scope="col"><button type="button" data-sort="printed">Printed <span aria-hidden="true">↑</span></button></th>
+            <th scope="col"><button type="button" data-sort="lang">Language <span aria-hidden="true"></span></button></th>
+            <th scope="col">Book</th>
+            <th scope="col">Collector</th>
+            <th scope="col" class="num"><button type="button" data-sort="entries">Entries <span aria-hidden="true"></span></button></th>
+            <th scope="col" class="tl-head"><button type="button" data-sort="gap">Heard → printed <span aria-hidden="true"></span></button></th>
+          </tr>
+        </thead>
+        <tbody>
+          {tables.map((t) => {
+            const h = heardYear(t.provenance.heard);
+            const gap = h ? t.book.printed - h : 0;
+            return (
+              <tr data-region={t.region} data-printed={t.book.printed} data-lang={t.language.name} data-entries={t.stats.entries} data-gap={gap}>
+                <td class="mono">{t.book.printed}</td>
+                <td><a href={`/t/${t.id}`} class="row-link">{t.language.name}</a></td>
+                <td class="print book-cell">{t.book.short}</td>
+                <td class="muted">{t.provenance.collector}</td>
+                <td class="mono num">{t.stats.entries.toLocaleString("en")}</td>
+                <td class="tl">
+                  {h ? (
+                    <span class="timeline" title={`Heard ${t.provenance.heard}, printed ${t.book.printed}`}>
+                      <span class="tl-line" style={`left:${X(h)}%;width:${Math.max(0.6, X(t.book.printed) - X(h))}%`} data-copied={t.relation ? "1" : undefined}></span>
+                      <span class="tl-dot open" style={`left:${X(h)}%`}></span>
+                      <span class="tl-dot" style={`left:${X(t.book.printed)}%`}></span>
+                      <span class="sr-only">Heard {t.provenance.heard}, printed {t.book.printed}</span>
+                    </span>
+                  ) : <span class="faint">—</span>}
+                </td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+    <div class="tl-axis mono faint" aria-hidden="true"><span>1500</span><span>1600</span><span>1700</span></div>
+  </section>
+</Base>
+
+<style>
+  .intro { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 56px; align-items: end; padding-block: 64px 44px; }
+  .intro h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); line-height: 1.02; letter-spacing: -0.03em; max-width: 14ch; }
+  .intro-text { display: grid; gap: 18px; }
+  .intro-text p { font-size: var(--s-2); line-height: 1.6; color: var(--ink-2); max-width: 60ch; }
+  .stats { margin: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px 24px; font-size: 12px; color: var(--ink-3); }
+  .stats div { display: grid; gap: 2px; }
+  .stats dd { margin: 0; font-size: 26px; color: var(--ink); }
+  @media (max-width: 860px) { .intro { grid-template-columns: 1fr; gap: 28px; padding-block: 36px 28px; } .stats { grid-template-columns: repeat(4, minmax(0, 1fr)); } .stats dd { font-size: 20px; } }
+  @media (max-width: 480px) { .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+  .strip { border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding-block: 22px 24px; display: grid; gap: 16px; }
+  .strip-head { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+  .strip-head h2 { font-size: var(--s-1); }
+  .strip-all { margin-left: auto; font-size: 13px; color: var(--accent); }
+  .strip-row { list-style: none; margin: 0; padding: 0 0 6px; display: flex; gap: 10px; overflow-x: auto; scroll-snap-type: x proximity; scrollbar-width: thin; }
+  .strip-row li { flex: none; scroll-snap-align: start; }
+  .word { display: grid; gap: 4px; width: 200px; padding: 10px 12px 12px; background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius); transition: border-color .15s, transform .15s; }
+  .word:hover { border-color: var(--accent); color: inherit; transform: translateY(-1px); }
+  .crop-wrap { display: block; height: 32px; overflow: hidden; border-radius: 4px; background: var(--rule-2); }
+  .word .crop { display: block; height: 100%; width: auto; max-width: none; border-radius: 0; }
+  .word .crop-empty { width: 100%; display: grid; place-items: center; font-size: 10.5px; color: var(--ink-3); background: transparent; border: 1px dashed var(--rule); border-radius: 4px; }
+  .word .form { font-size: 23px; line-height: 1.1; margin-top: 4px; }
+  .word .lang { font-size: 12.5px; color: var(--ink-2); }
+  .word .year { font-size: 11px; }
+
+  .controls { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; padding-block: 32px 8px; }
+
+  .books { display: grid; grid-template-columns: repeat(auto-fill, minmax(196px, 1fr)); gap: 44px 28px; padding-block: 24px 0; }
+  .book { display: grid; gap: 6px; align-content: start; min-width: 0; }
+  .book[hidden] { display: none; }
+  .cover { position: relative; aspect-ratio: 3 / 4; background: var(--rule-2); border-radius: 3px; overflow: hidden; box-shadow: var(--shadow); margin-bottom: 8px; transition: transform .2s ease, box-shadow .2s ease; }
+  .cover img { width: 100%; height: 100%; object-fit: cover; object-position: top; }
+  .book:hover .cover { transform: translateY(-3px); box-shadow: 0 2px 4px rgba(22,24,26,.08), 0 18px 36px rgba(22,24,26,.14); }
+  .book:hover { color: inherit; }
+  .badge { position: absolute; left: 8px; top: 8px; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: rgba(22, 24, 26, 0.84); color: #fff; }
+  .badge.soft { background: rgba(255, 255, 255, 0.9); color: #16181a; }
+  .book-lang { font-weight: 600; font-size: 15px; }
+  .book-title { font-size: 16px; line-height: 1.25; color: var(--ink-2); font-style: italic; }
+  .book-meta { font-size: 11.5px; }
+  @media (max-width: 520px) { .books { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px 16px; } .book-title { font-size: 15px; } }
+
+  .list { padding-block: 20px 0; }
+  .list-scroll { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; min-width: 860px; }
+  th { text-align: left; font-weight: 400; font-size: 12px; color: var(--ink-3); padding: 0 12px 10px 0; border-bottom: 1px solid var(--ink); }
+  th button { border: 0; background: none; padding: 0; color: inherit; cursor: pointer; font-size: 12px; }
+  th button:hover { color: var(--ink); }
+  td { padding: 11px 12px 11px 0; border-bottom: 1px solid var(--rule); vertical-align: middle; }
+  tr[hidden] { display: none; }
+  tbody tr { cursor: pointer; }
+  tbody tr:hover td { background: var(--rule-2); }
+  .num { text-align: right; }
+  .row-link { font-weight: 500; }
+  .book-cell { font-style: italic; font-size: 16px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 330px; }
+  .tl, .tl-head { width: 220px; }
+  .timeline { position: relative; display: block; height: 14px; }
+  .timeline::before { content: ""; position: absolute; left: 0; right: 0; top: 6px; height: 1px; background: var(--rule); }
+  .tl-line { position: absolute; top: 6px; height: 2px; background: var(--accent); }
+  .tl-line[data-copied] { background: var(--ink-3); }
+  .tl-dot { position: absolute; top: 2px; width: 9px; height: 9px; margin-left: -4.5px; border-radius: 50%; background: var(--accent); }
+  .tl-dot.open { background: var(--bg); border: 2px solid var(--accent); }
+  .tl-axis { display: flex; justify-content: space-between; width: 220px; margin-left: auto; font-size: 11px; padding-top: 8px; }
+</style>
+
+<script>
+  const $ = <T extends Element>(s: string, r: ParentNode = document) => Array.from(r.querySelectorAll<T>(s));
+  const press = (els: Element[], on: Element) => els.forEach((b) => b.setAttribute("aria-pressed", String(b === on)));
+
+  // one word, every table
+  const cbtns = $<HTMLButtonElement>("[data-concept]");
+  cbtns.forEach((b) => b.addEventListener("click", () => {
+    press(cbtns, b);
+    $<HTMLElement>("[data-strip]").forEach((r) => (r.hidden = r.dataset.strip !== b.dataset.concept));
+    const label = b.textContent?.trim() || "";
+    const all = document.querySelector<HTMLAnchorElement>("[data-strip-all]");
+    if (all) { all.href = `/search?q=${encodeURIComponent(label)}`; all.querySelector("[data-strip-label]")!.textContent = label; }
+  }));
+
+  // region filter applies to both views
+  const rbtns = $<HTMLButtonElement>("[data-region]").filter((b) => b.tagName === "BUTTON");
+  rbtns.forEach((b) => b.addEventListener("click", () => {
+    press(rbtns, b);
+    const r = b.dataset.region;
+    $<HTMLElement>(".book, tbody tr").forEach((el) => (el.hidden = r !== "all" && el.dataset.region !== r));
+  }));
+
+  // view toggle, remembered per visitor and reflected in the URL
+  const vbtns = $<HTMLButtonElement>("[data-view]");
+  const setView = (v: string, push = true) => {
+    vbtns.forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.view === v)));
+    $<HTMLElement>("[data-panel]").forEach((p) => (p.hidden = p.dataset.panel !== v));
+    try { localStorage.setItem("wotl-view", v); } catch (e) {}
+    if (push) { const u = new URL(location.href); v === "books" ? u.searchParams.delete("view") : u.searchParams.set("view", v); history.replaceState(null, "", u); }
+  };
+  vbtns.forEach((b) => b.addEventListener("click", () => setView(b.dataset.view!)));
+  let initial = new URL(location.href).searchParams.get("view");
+  if (!initial) { try { initial = localStorage.getItem("wotl-view"); } catch (e) {} }
+  if (initial === "list") setView("list", false);
+
+  // sortable list
+  const tbody = document.querySelector("tbody")!;
+  let sortKey = "printed", dir = 1;
+  $<HTMLButtonElement>("[data-sort]").forEach((b) => b.addEventListener("click", () => {
+    const k = b.dataset.sort!;
+    dir = k === sortKey ? -dir : (k === "entries" || k === "gap" ? -1 : 1);
+    sortKey = k;
+    const rows = $<HTMLTableRowElement>("tr", tbody);
+    rows.sort((a, z) => {
+      const A = a.dataset[k]!, Z = z.dataset[k]!;
+      const r = isNaN(+A) ? A.localeCompare(Z) : +A - +Z;
+      return r * dir;
+    }).forEach((r) => tbody.appendChild(r));
+    $<HTMLButtonElement>("[data-sort]").forEach((x) => (x.querySelector("span")!.textContent = x === b ? (dir > 0 ? "↑" : "↓") : ""));
+  }));
+  tbody.addEventListener("click", (e) => {
+    if ((e.target as HTMLElement).closest("a")) return;
+    const a = (e.target as HTMLElement).closest("tr")?.querySelector("a");
+    if (a) location.href = a.href;
+  });
+</script>

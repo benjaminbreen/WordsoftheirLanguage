@@ -1,0 +1,39 @@
+---
+import Base from "../layouts/Base.astro";
+import { totals } from "../lib/data";
+import { REPO_URL } from "../config";
+---
+<Base title="About" nav="about" description="What this catalogue is, how the tables are found, transcribed, placed on their pages and identified, and how to use and cite it.">
+  <article class="wrap about">
+    <h1>About</h1>
+    <div class="prose">
+      <p>Early modern travellers, missionaries, traders and compilers printed the words of the languages they met, often as a short table at the end of a chapter: <span class="print">Words which I learned of the Sauages</span>, <span class="print">a small Nomenclator</span>, <span class="print">certaine wordes of the language of Trinidad</span>. Some of these tables are among the earliest records of their languages; some record languages that are no longer spoken. They are scattered through thousands of books and easy to miss.</p>
+      <p>This catalogue gathers them. Each table is shown as it was printed, page by page, beside a transcription that keeps the original spelling. It currently holds {totals.tables} tables in {totals.languages} languages, {totals.entries.toLocaleString("en")} entries in all, printed between {totals.first} and {totals.last}.</p>
+
+      <h2>How tables are found</h2>
+      <p>The starting corpus is the Text Creation Partnership's transcriptions of Early English Books Online: about 60,000 books printed in English before 1700. A detector looks for stretches of text where many words that are rare everywhere else in the corpus sit next to everyday English glosses such as <i>water</i>, <i>head</i> or <i>knife</i>, or follow phrases such as “which they call”. Candidates are then read and the tables transcribed.</p>
+
+      <h2>How they are placed on the page</h2>
+      <p>Each book is matched to a public-domain scan on the Internet Archive, most often the John Carter Brown Library's copy. The pages holding the table are located from the scan's own text recognition, and each transcribed entry is aligned to its printed line. Where a line could not be matched but its neighbours were, its position is estimated and marked as such.</p>
+
+      <h2>How the languages are identified</h2>
+      <p>The language is first recorded as the source names it. A separate step compares the printed words, without the book's title or label, against 17,041 modern wordlists from ASJP and Lexibank, using only the meanings both share. A result is shown only when it beats the best score reached by deliberately scrambled lists; otherwise the catalogue says it cannot tell. Reference lists that descend from the same historical source are removed before the comparison, so a list cannot simply match itself.</p>
+
+      <h2>About the notes</h2>
+      <p>Some entries carry a short note: a loanword (a Spanish <i>aguja</i> “needle” in a Caribbean list), a word that means something nearby (Lokono <i>wiwa</i> “star” given for “heaven”), a phrase taken for a word, or a slip in printing or translation. These notes are drafts, written to a fixed protocol that requires a comparison form, and they have not yet been reviewed by specialists in each language. Notes confirmed by a second, independent reading are marked.</p>
+
+      <h2 id="corrections">Corrections and community knowledge</h2>
+      <p>Many of these words belong to living communities and to their ancestors. If you know a language recorded here, your corrections and context are welcome{REPO_URL ? <>: please <a href={`${REPO_URL}/issues/new`}>open an issue</a></> : null}. Every change is kept in the project's history.</p>
+
+      <h2>Using the data</h2>
+      <p>Each table can be downloaded as CSV or JSON from its page. Transcriptions derive from EEBO-TCP, released into the public domain (CC0). Comparison data come from ASJP and Lexibank (CC BY 4.0), and classifications from Glottolog. Page images are public-domain scans served from copies of Internet Archive files; please credit the holding library named on each table.</p>
+      <p>Each table has a permanent identifier (for example <span class="mono">WTL-0002</span>) and each entry a number, so a citation can point to a single word.</p>
+    </div>
+  </article>
+</Base>
+
+<style>
+  .about { display: grid; gap: 22px; padding-block: 44px 0; }
+  .about h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); letter-spacing: -0.02em; }
+  .prose .print { font-size: 1.08em; color: var(--ink); }
+</style>

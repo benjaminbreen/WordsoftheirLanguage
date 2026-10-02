@@ -1,0 +1,1548 @@
+{
+ "schema": 1,
+ "id": "rosier",
+ "wtl": "WTL-0001",
+ "heading": "Words which I learned of the Sauages, in their Language.",
+ "headings": [
+  "Words which I learned of the Sauages, in their Language."
+ ],
+ "language": {
+  "name": "Eastern Abenaki",
+  "glottocode": "east2544",
+  "family": "Algic",
+  "path": [
+   "Algic",
+   "Algonquian-Blackfoot",
+   "Algonquian",
+   "Eastern Algonquian",
+   "Maritimes-Southern New England Algonquian",
+   "Northern Eastern Algonquian",
+   "Abenaki"
+  ],
+  "labels": [
+   "Sauages"
+  ]
+ },
+ "region": "North America",
+ "book": {
+  "short": "Purchas his Pilgrimes, part 4",
+  "title": "Purchas his pilgrimes. part 4 In fiue bookes. The first, contayning the voyages and peregrinations made by ancient kings, patriarkes, apostles, philosophers, and others, to and thorow the remoter parts of the knowne world: enquiries also of languages and religions, especially of the moderne diuersified professions of Christianitie. The second, a description of all the circum-nauigations of the globe. The third, nauigations and voyages of English-men, alongst the coasts of Africa ... The fourth, English voyages beyond the East Indies, to the ilands of Iapan, China, Cauchinchina, the Philippinæ with others ... The fifth, nauigations, voyages, traffiques, discoueries, of the English nation in the easterne parts of the world ... The first part.",
+  "author": "Samuel Purchas (ed.)",
+  "printed": 1625,
+  "imprint": "1625.",
+  "tcp": "A71306",
+  "cover": "purchas4"
+ },
+ "provenance": {
+  "collector": "James Rosier",
+  "place": "St George's River, Maine",
+  "heard": "1605"
+ },
+ "scan": {
+  "ia": "purchaspilgrimes04",
+  "url": "https://archive.org/details/purchaspilgrimes04",
+  "holder": null,
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 534,
+   "w": 4878,
+   "h": 7888,
+   "sm": "/scans/rosier/0534-900.webp",
+   "lg": "/scans/rosier/0534-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Kesus",
+   "gloss": "Sunne or Moone",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "MOON",
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0863,
+    "y": 0.2871,
+    "w": 0.6781,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 2,
+   "form": "Biskeiore",
+   "gloss": "Cod-fish",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0863,
+    "y": 0.2871,
+    "w": 0.6781,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 3,
+   "form": "Manedo",
+   "gloss": "A fish with hornes",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0863,
+    "y": 0.2871,
+    "w": 0.6781,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 4,
+   "form": "Shoggah",
+   "gloss": "Lobster",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "LOBSTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0863,
+    "y": 0.2871,
+    "w": 0.6781,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 5,
+   "form": "Shagatocke",
+   "gloss": "Rock-fish",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.2998,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 6,
+   "form": "Hesucke",
+   "gloss": "Cockle-fish",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.2998,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 7,
+   "form": "Shoorocke",
+   "gloss": "Muskell",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.2998,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 8,
+   "form": "Tattaucke",
+   "gloss": "Cunner-fish",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.2998,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 9,
+   "form": "Wussorasha",
+   "gloss": "Crabbe",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "CRAB"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.3123,
+    "w": 0.6997,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 10,
+   "form": "Muscopeiuck",
+   "gloss": "Porpoise",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "PORPOISE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.3123,
+    "w": 0.6997,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 11,
+   "form": "Anego",
+   "gloss": "Plaise",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.3123,
+    "w": 0.6997,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 12,
+   "form": "Romcaneeke",
+   "gloss": "Tortoise",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "TORTOISE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4258,
+    "y": 0.3124,
+    "w": 0.338,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 13,
+   "form": "Ushcomono",
+   "gloss": "Pease",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.4258,
+    "y": 0.3124,
+    "w": 0.338,
+    "h": 0.0127
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Abenaki skamon \"corn\"",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 14,
+   "form": "Tomoch",
+   "gloss": "Tobacco",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "TOBACCO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0646,
+    "y": 0.3239,
+    "w": 0.6995,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 15,
+   "form": "Mebeere",
+   "gloss": "A leafe",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "LEAF"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0646,
+    "y": 0.3239,
+    "w": 0.6995,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 16,
+   "form": "Cashterush",
+   "gloss": "A weed",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "WEED"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0646,
+    "y": 0.3239,
+    "w": 0.6995,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 17,
+   "form": "Seteock",
+   "gloss": "A Firre tree",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0646,
+    "y": 0.3239,
+    "w": 0.6995,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 18,
+   "form": "Nabscurr",
+   "gloss": "A stone",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0646,
+    "y": 0.3239,
+    "w": 0.6995,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 19,
+   "form": "Shoanor",
+   "gloss": "A Bowe",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0299,
+    "y": 0.337,
+    "w": 0.7331,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 20,
+   "form": "Tobood",
+   "gloss": "An Arrow",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0299,
+    "y": 0.337,
+    "w": 0.7331,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 21,
+   "form": "Mashquere",
+   "gloss": "Barke of a tree",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0299,
+    "y": 0.337,
+    "w": 0.7331,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 22,
+   "form": "Shamogoon",
+   "gloss": "Water",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0299,
+    "y": 0.337,
+    "w": 0.7331,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 23,
+   "form": "Cheemuck",
+   "gloss": "Sand",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "SAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0662,
+    "y": 0.3494,
+    "w": 0.6978,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 24,
+   "form": "Cagagoose",
+   "gloss": "Crowe",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "CROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0662,
+    "y": 0.3494,
+    "w": 0.6978,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 25,
+   "form": "Messer",
+   "gloss": "Haire",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0662,
+    "y": 0.3494,
+    "w": 0.6978,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 26,
+   "form": "Meris",
+   "gloss": "Haire",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0662,
+    "y": 0.3494,
+    "w": 0.6978,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 27,
+   "form": "Nicowur",
+   "gloss": "A beard",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0662,
+    "y": 0.3494,
+    "w": 0.6978,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 28,
+   "form": "Rogsoo",
+   "gloss": "A Beare",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "BEAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0662,
+    "y": 0.3494,
+    "w": 0.6978,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 29,
+   "form": "Paneah",
+   "gloss": "Beauer",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "BEAVER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0644,
+    "y": 0.3615,
+    "w": 0.6989,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 30,
+   "form": "Nymemano",
+   "gloss": "Otter",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "OTTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0644,
+    "y": 0.3615,
+    "w": 0.6989,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 31,
+   "form": "Sanuke",
+   "gloss": "Rat",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "RAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0644,
+    "y": 0.3615,
+    "w": 0.6989,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 32,
+   "form": "Pocamka",
+   "gloss": "Polcat",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0644,
+    "y": 0.3615,
+    "w": 0.6989,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 33,
+   "form": "Pushuck",
+   "gloss": "Cat",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "CAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0644,
+    "y": 0.3615,
+    "w": 0.6989,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 34,
+   "form": "Coribo",
+   "gloss": "Fallow Deere",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.066,
+    "y": 0.3738,
+    "w": 0.6976,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 35,
+   "form": "Madoso",
+   "gloss": "Hogge",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.066,
+    "y": 0.3738,
+    "w": 0.6976,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 36,
+   "form": "Moosurr",
+   "gloss": "Red Deere",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.066,
+    "y": 0.3738,
+    "w": 0.6976,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 37,
+   "form": "Ibider",
+   "gloss": "Teeth",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0607,
+    "y": 0.3858,
+    "w": 0.7038,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 38,
+   "form": "Breecke",
+   "gloss": "A hand and finger",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0607,
+    "y": 0.3858,
+    "w": 0.7038,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 39,
+   "form": "Cushe",
+   "gloss": "A Naile of the hand",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0607,
+    "y": 0.3858,
+    "w": 0.7038,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 40,
+   "form": "Codd",
+   "gloss": "A legge",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0648,
+    "y": 0.3991,
+    "w": 0.6991,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 41,
+   "form": "Musseete",
+   "gloss": "A foot",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0648,
+    "y": 0.3991,
+    "w": 0.6991,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 42,
+   "form": "Epsegan",
+   "gloss": "Plum-tree",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0648,
+    "y": 0.3991,
+    "w": 0.6991,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 43,
+   "form": "Pishoa",
+   "gloss": "Strawberry",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0648,
+    "y": 0.3991,
+    "w": 0.6991,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 44,
+   "form": "Shewanor",
+   "gloss": "Gooseberry",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0648,
+    "y": 0.3991,
+    "w": 0.6991,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 45,
+   "form": "Espegononino",
+   "gloss": "Cherry tree",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0631,
+    "y": 0.4118,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 46,
+   "form": "Asheemena",
+   "gloss": "Corant tree",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0631,
+    "y": 0.4118,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 47,
+   "form": "Kiskeemy",
+   "gloss": "Rashberrie",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0631,
+    "y": 0.4118,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 48,
+   "form": "Metoan",
+   "gloss": "A lippe",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0631,
+    "y": 0.4118,
+    "w": 0.6993,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 49,
+   "form": "Squida",
+   "gloss": "Fire",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.064,
+    "y": 0.4234,
+    "w": 0.7003,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 50,
+   "form": "Bemoquiducke",
+   "gloss": "The maine Land",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.064,
+    "y": 0.4234,
+    "w": 0.7003,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 51,
+   "form": "Shoubbe",
+   "gloss": "Sea",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "SEA"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.064,
+    "y": 0.4234,
+    "w": 0.7003,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 52,
+   "form": "Wado",
+   "gloss": "Father",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.064,
+    "y": 0.4234,
+    "w": 0.7003,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 53,
+   "form": "Usto",
+   "gloss": "Sonne",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.064,
+    "y": 0.4234,
+    "w": 0.7003,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 54,
+   "form": "Toboogg",
+   "gloss": "Wane of the Sea",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.4353,
+    "w": 0.6986,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 55,
+   "form": "Poco",
+   "gloss": "Pitch and Tallow",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.4353,
+    "w": 0.6986,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 56,
+   "form": "Minusheck",
+   "gloss": "Wilde Rose",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.4353,
+    "w": 0.6986,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 57,
+   "form": "Pasquar",
+   "gloss": "Birch",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "BIRCH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0642,
+    "y": 0.4353,
+    "w": 0.6986,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 58,
+   "form": "Edagawancke",
+   "gloss": "Sword",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "SWORD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0648,
+    "y": 0.4477,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 59,
+   "form": "Machoucke",
+   "gloss": "Mountaine",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "MOUNTAIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0648,
+    "y": 0.4477,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 60,
+   "form": "Puckchawsen",
+   "gloss": "Winde",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0648,
+    "y": 0.4477,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 61,
+   "form": "Pagâgocun",
+   "gloss": "Bloud",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0648,
+    "y": 0.4477,
+    "w": 0.6993,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 62,
+   "form": "Woroman",
+   "gloss": "Red Paint",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0275,
+    "y": 0.46,
+    "w": 0.7378,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 63,
+   "form": "Cogosho",
+   "gloss": "Blacke Paint",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0275,
+    "y": 0.46,
+    "w": 0.7378,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 64,
+   "form": "Rem•ose",
+   "gloss": "A Dogge",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0275,
+    "y": 0.46,
+    "w": 0.7378,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 65,
+   "form": "Quiden",
+   "gloss": "A Ship or Boat",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0275,
+    "y": 0.46,
+    "w": 0.7378,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 66,
+   "form": "Wuttohogauor",
+   "gloss": "An Oare",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "OAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0275,
+    "y": 0.46,
+    "w": 0.7378,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 67,
+   "form": "Chussuah",
+   "gloss": "A Garnepo Fly",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0631,
+    "y": 0.4725,
+    "w": 0.7015,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 68,
+   "form": "Paune",
+   "gloss": "Bread",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0631,
+    "y": 0.4725,
+    "w": 0.7015,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 69,
+   "form": "Soogoran",
+   "gloss": "Raine",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "RAIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0631,
+    "y": 0.4725,
+    "w": 0.7015,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 70,
+   "form": "Peech-ten",
+   "gloss": "A nose",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0631,
+    "y": 0.4725,
+    "w": 0.7015,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 71,
+   "form": "Tomaheegon",
+   "gloss": "An Axe or Hatchet",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "AXE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0633,
+    "y": 0.4848,
+    "w": 0.7009,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 72,
+   "form": "Quodogon",
+   "gloss": "A Knife",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0633,
+    "y": 0.4848,
+    "w": 0.7009,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 73,
+   "form": "Askabesse",
+   "gloss": "Oake",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "OAK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0633,
+    "y": 0.4848,
+    "w": 0.7009,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 74,
+   "form": "Speesone",
+   "gloss": "White Bone, whereof they haue Chaines, Girdles, Bracelets",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0595,
+    "y": 0.497,
+    "w": 0.7048,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 75,
+   "form": "Canoah",
+   "gloss": "The Cheeke",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "CHEEK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0595,
+    "y": 0.497,
+    "w": 0.7048,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 76,
+   "form": "Tenoganuke",
+   "gloss": "A Shirt or Coat",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "COAT",
+    "SHIRT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0595,
+    "y": 0.497,
+    "w": 0.7048,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 77,
+   "form": "Queh",
+   "gloss": "The Chinne",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0636,
+    "y": 0.5088,
+    "w": 0.7005,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 78,
+   "form": "Sheesuck",
+   "gloss": "An Eye",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0636,
+    "y": 0.5088,
+    "w": 0.7005,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 79,
+   "form": "Momon",
+   "gloss": "Eylid",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0636,
+    "y": 0.5088,
+    "w": 0.7005,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 80,
+   "form": "Scottoquah",
+   "gloss": "Forehead",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "FOREHEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0636,
+    "y": 0.5088,
+    "w": 0.7005,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 81,
+   "form": "Fawwucke",
+   "gloss": "An Eare",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0636,
+    "y": 0.5088,
+    "w": 0.7005,
+    "h": 0.0127,
+    "approx": true
+   }
+  },
+  {
+   "n": 82,
+   "form": "Makeecon",
+   "gloss": "A fish-hooke",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0633,
+    "y": 0.5215,
+    "w": 0.4188,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 83,
+   "form": "Shomogon",
+   "gloss": "A Rainbow",
+   "section": "Words which I learned of the Sauages, in their Language.",
+   "concepts": [
+    "RAINBOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0633,
+    "y": 0.5215,
+    "w": 0.4188,
+    "h": 0.0127
+   }
+  },
+  {
+   "n": 84,
+   "form": "Tasquus",
+   "gloss": "other beasts (unglossed)",
+   "section": "Words which I learned of the Sauages, in their Language."
+  },
+  {
+   "n": 85,
+   "form": "Pisho",
+   "gloss": "other beasts (unglossed)",
+   "section": "Words which I learned of the Sauages, in their Language."
+  },
+  {
+   "n": 86,
+   "form": "Narsim",
+   "gloss": "other beasts (unglossed)",
+   "section": "Words which I learned of the Sauages, in their Language."
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Algic",
+   "Algonquian-Blackfoot",
+   "Algonquian",
+   "Eastern Algonquian",
+   "Maritimes-Southern New England Algonquian",
+   "Northern Eastern Algonquian",
+   "Abenaki"
+  ],
+  "support": [
+   1.0,
+   1.0,
+   1.0,
+   0.83,
+   0.83,
+   0.83,
+   0.55
+  ],
+  "concepts": 52,
+  "excluded": [],
+  "leading": {
+   "name": "ABNAKI_WESTERN",
+   "family": "Algic",
+   "z": 5.67
+  },
+  "candidates": [
+   {
+    "name": "ABNAKI_WESTERN",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Algonquian"
+    ],
+    "z": 5.67,
+    "n": 12
+   },
+   {
+    "name": "PASSAMAQUODDY_MALISEET_UnnamedInSource",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Algonquian"
+    ],
+    "z": 5.56,
+    "n": 11
+   },
+   {
+    "name": "ABNAKI_EASTERN",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Algonquian"
+    ],
+    "z": 5.39,
+    "n": 12
+   },
+   {
+    "name": "KICKAPOO",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Great Lakes Algonquian"
+    ],
+    "z": 5.07,
+    "n": 12
+   },
+   {
+    "name": "OJIBWA_EASTERN",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Great Lakes Algonquian"
+    ],
+    "z": 4.46,
+    "n": 11
+   },
+   {
+    "name": "POTAWATOMI",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Great Lakes Algonquian"
+    ],
+    "z": 4.32,
+    "n": 12
+   },
+   {
+    "name": "NISHNAABEMWIN",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Great Lakes Algonquian"
+    ],
+    "z": 4.3,
+    "n": 12
+   },
+   {
+    "name": "ALGONQUIN",
+    "db": "ASJP",
+    "family": "Algic",
+    "path": [
+     "Algic",
+     "Algonquian-Blackfoot",
+     "Algonquian",
+     "Eastern Great Lakes Algonquian"
+    ],
+    "z": 4.22,
+    "n": 12
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "fire",
+    "form": "Squida",
+    "ref": "skw~eda",
+    "d": 0.0
+   },
+   {
+    "concept": "sun",
+    "form": "Kesus",
+    "ref": "gizos",
+    "d": 0.0
+   },
+   {
+    "concept": "eye",
+    "form": "Sheesuck",
+    "ref": "sizegw~",
+    "d": 0.17
+   },
+   {
+    "concept": "blood",
+    "form": "Pagâgocun",
+    "ref": "bagakan",
+    "d": 0.22
+   },
+   {
+    "concept": "dog",
+    "form": "Rem•ose",
+    "ref": "alemos",
+    "d": 0.33
+   },
+   {
+    "concept": "tooth",
+    "form": "Ibider",
+    "ref": "ibid",
+    "d": 0.33
+   },
+   {
+    "concept": "ear",
+    "form": "Fawwucke",
+    "ref": "otawagw~",
+    "d": 0.43
+   },
+   {
+    "concept": "mountain",
+    "form": "Machoucke",
+    "ref": "waco",
+    "d": 0.5
+   },
+   {
+    "concept": "stone",
+    "form": "Nabscurr",
+    "ref": "asen",
+    "d": 0.57
+   },
+   {
+    "concept": "leaf",
+    "form": "Mebeere",
+    "ref": "wanibagw~",
+    "d": 0.62
+   },
+   {
+    "concept": "nose",
+    "form": "Peech-ten",
+    "ref": "col",
+    "d": 0.67
+   },
+   {
+    "concept": "water",
+    "form": "Shamogoon",
+    "ref": "nebi",
+    "d": 0.71
+   }
+  ]
+ },
+ "stats": {
+  "entries": 86,
+  "notes": 1,
+  "located": 83
+ },
+ "partial": null,
+ "relation": null
+}

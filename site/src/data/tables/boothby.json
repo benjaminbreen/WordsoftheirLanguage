@@ -1,0 +1,1655 @@
+{
+ "schema": 1,
+ "id": "boothby",
+ "wtl": "WTL-0013",
+ "heading": null,
+ "headings": [],
+ "language": {
+  "name": "Malagasy",
+  "glottocode": "mala1537",
+  "family": "Austronesian",
+  "path": [
+   "Austronesian",
+   "Malayo-Polynesian",
+   "Basap-Greater Barito",
+   "Greater Barito linkage",
+   "Southeast Barito"
+  ],
+  "labels": []
+ },
+ "region": "Africa & Indian Ocean",
+ "book": {
+  "short": "A Briefe Discovery … of Madagascar",
+  "title": "A briefe discovery or description of the most famous island of Madagascar or St. Laurence in Asia neare unto East-India with relation of the healthfulnesse, pleasure, fertility and wealth of that conntrey [sic] ... also the condition of the natives ... also the excellent meanes and accommodation to fit the planters there ... / by R.B. and Francis Lloyd, merchants.",
+  "author": "Richard Boothby",
+  "printed": 1647,
+  "imprint": "1647.",
+  "tcp": "A28809",
+  "cover": "boothby"
+ },
+ "provenance": {
+  "collector": "Richard Boothby",
+  "place": "St Augustine's Bay, Madagascar",
+  "heard": "c. 1630"
+ },
+ "scan": {
+  "ia": "bim_early-english-books-1641-1700_a-breife-discovery-or-de_boothby-richard_1647",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_a-breife-discovery-or-de_boothby-richard_1647",
+  "holder": "Internet Archive",
+  "note": "microfilm",
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 30,
+   "w": 5049,
+   "h": 6856,
+   "sm": "/scans/boothby/0030-900.webp",
+   "lg": "/scans/boothby/0030-1800.webp"
+  },
+  {
+   "leaf": 31,
+   "w": 5049,
+   "h": 6856,
+   "sm": "/scans/boothby/0031-900.webp",
+   "lg": "/scans/boothby/0031-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Viz (nooroon no zeff)",
+   "gloss": "how call you this.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1125,
+    "y": 0.3222,
+    "w": 0.1936,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 2,
+   "form": "Tona",
+   "gloss": "a man.",
+   "section": "",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1141,
+    "y": 0.364,
+    "w": 0.1449,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 3,
+   "form": "Codez",
+   "gloss": "a woman.",
+   "section": "",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.3834,
+    "w": 0.1808,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 4,
+   "form": "Tope",
+   "gloss": "a childe.",
+   "section": "",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1147,
+    "y": 0.4032,
+    "w": 0.1622,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 5,
+   "form": "Coma",
+   "gloss": "a house.",
+   "section": "",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1151,
+    "y": 0.423,
+    "w": 0.1661,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 6,
+   "form": "Ose",
+   "gloss": "a cow.",
+   "section": "",
+   "concepts": [
+    "COW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.4427,
+    "w": 0.1908,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Malagasy osy \"goat\"; cow = omby",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 7,
+   "form": "Angomba",
+   "gloss": "a cow.",
+   "section": "",
+   "concepts": [
+    "COW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.4427,
+    "w": 0.1908,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 8,
+   "form": "Gose",
+   "gloss": "a sheepe.",
+   "section": "",
+   "concepts": [
+    "SHEEP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.4626,
+    "w": 0.1511,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Malagasy osy \"goat\"; sheep = ondry",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 9,
+   "form": "Cowhee",
+   "gloss": "bread.",
+   "section": "",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1161,
+    "y": 0.4804,
+    "w": 0.1645,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 10,
+   "form": "Camba",
+   "gloss": "water.",
+   "section": "",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1155,
+    "y": 0.5022,
+    "w": 0.159,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 11,
+   "form": "Bingta",
+   "gloss": "the head.",
+   "section": "",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1181,
+    "y": 0.5205,
+    "w": 0.1881,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 12,
+   "form": "Sooa",
+   "gloss": "the head.",
+   "section": "",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1181,
+    "y": 0.5205,
+    "w": 0.1881,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 13,
+   "form": "Nunqua",
+   "gloss": "the eye or eare.",
+   "section": "",
+   "concepts": [
+    "EAR",
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1189,
+    "y": 0.543,
+    "w": 0.1873,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Recurrent -qua ending on body-part terms best explained as possessive -ko from pointing at the speaker's own body.",
+    "compare": "Nunqua \"eye or ear\"; Malagasy body-part nouns take -ko \"my\" (e.g. tanako \"my hand\", nifiko \"my teeth\")",
+    "checked": true
+   }
+  },
+  {
+   "n": 14,
+   "form": "Toee",
+   "gloss": "the nose.",
+   "section": "",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1181,
+    "y": 0.5602,
+    "w": 0.1541,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 15,
+   "form": "Umqua",
+   "gloss": "the lips.",
+   "section": "",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1181,
+    "y": 0.5825,
+    "w": 0.1881,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Recurrent -qua ending on body-part terms best explained as possessive -ko from pointing at the speaker's own body.",
+    "compare": "Umqua \"lips\"; Malagasy body-part nouns take -ko \"my\" (e.g. tanako \"my hand\", nifiko \"my teeth\")",
+    "checked": true
+   }
+  },
+  {
+   "n": 16,
+   "form": "Songe",
+   "gloss": "the lips.",
+   "section": "",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1181,
+    "y": 0.5825,
+    "w": 0.1881,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 17,
+   "form": "Coonqua",
+   "gloss": "the teeth.",
+   "section": "",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1181,
+    "y": 0.5996,
+    "w": 0.1881,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Recurrent -qua ending on body-part terms best explained as possessive -ko from pointing at the speaker's own body.",
+    "compare": "Coonqua \"teeth\"; Malagasy body-part nouns take -ko \"my\" (e.g. tanako \"my hand\", nifiko \"my teeth\")",
+    "checked": true
+   }
+  },
+  {
+   "n": 18,
+   "form": "Niffa",
+   "gloss": "the teeth.",
+   "section": "",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1181,
+    "y": 0.5996,
+    "w": 0.1881,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 19,
+   "form": "Goma",
+   "gloss": "the chin.",
+   "section": "",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1191,
+    "y": 0.6197,
+    "w": 0.1871,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 20,
+   "form": "Soca",
+   "gloss": "the chin.",
+   "section": "",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1191,
+    "y": 0.6197,
+    "w": 0.1871,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 21,
+   "form": "Coaqua",
+   "gloss": "the arme.",
+   "section": "",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1177,
+    "y": 0.6408,
+    "w": 0.1885,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Recurrent -qua ending on body-part terms best explained as possessive -ko from pointing at the speaker's own body.",
+    "compare": "Coaqua \"arm\"; Malagasy body-part nouns take -ko \"my\" (e.g. tanako \"my hand\", nifiko \"my teeth\")",
+    "checked": true
+   }
+  },
+  {
+   "n": 22,
+   "form": "Effena",
+   "gloss": "the arme.",
+   "section": "",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1177,
+    "y": 0.6408,
+    "w": 0.1885,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 23,
+   "form": "Cabed",
+   "gloss": "the elbow.",
+   "section": "",
+   "concepts": [
+    "ELBOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1189,
+    "y": 0.659,
+    "w": 0.177,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 24,
+   "form": "Unaqua",
+   "gloss": "the hand.",
+   "section": "",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1181,
+    "y": 0.6804,
+    "w": 0.1881,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Recurrent -qua ending on body-part terms best explained as possessive -ko from pointing at the speaker's own body.",
+    "compare": "Unaqua ~ tanako \"my hand\" (tanana + -ko); Malagasy body-part nouns take -ko \"my\" (e.g. tanako \"my hand\", nifiko \"my teeth\")",
+    "checked": true
+   }
+  },
+  {
+   "n": 25,
+   "form": "Tanga",
+   "gloss": "the hand.",
+   "section": "",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1181,
+    "y": 0.6804,
+    "w": 0.1881,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 26,
+   "form": "Hongko",
+   "gloss": "the finger.",
+   "section": "",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1189,
+    "y": 0.7007,
+    "w": 0.1873,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 27,
+   "form": "Chamkee",
+   "gloss": "the breast.",
+   "section": "",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1196,
+    "y": 0.7216,
+    "w": 0.1865,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 28,
+   "form": "Noeno",
+   "gloss": "the breast.",
+   "section": "",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1196,
+    "y": 0.7216,
+    "w": 0.1865,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 29,
+   "form": "Oncoma",
+   "gloss": "the necke.",
+   "section": "",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1202,
+    "y": 0.7386,
+    "w": 0.1859,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 30,
+   "form": "Hicuma",
+   "gloss": "the belly.",
+   "section": "",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.12,
+    "y": 0.7594,
+    "w": 0.1861,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 31,
+   "form": "Toa",
+   "gloss": "the belly.",
+   "section": "",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.12,
+    "y": 0.7594,
+    "w": 0.1861,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 32,
+   "form": "Coa",
+   "gloss": "the knee.",
+   "section": "",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1204,
+    "y": 0.7806,
+    "w": 0.1857,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 33,
+   "form": "Ungoote",
+   "gloss": "the knee.",
+   "section": "",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1204,
+    "y": 0.7806,
+    "w": 0.1857,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 34,
+   "form": "Noo",
+   "gloss": "the leg.",
+   "section": "",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1196,
+    "y": 0.799,
+    "w": 0.1865,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 35,
+   "form": "Vote",
+   "gloss": "the leg.",
+   "section": "",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1196,
+    "y": 0.799,
+    "w": 0.1865,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 36,
+   "form": "Iqua",
+   "gloss": "the foote.",
+   "section": "",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1214,
+    "y": 0.8216,
+    "w": 0.1847,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Recurrent -qua ending on body-part terms best explained as possessive -ko from pointing at the speaker's own body.",
+    "compare": "Iqua \"foot\"; Malagasy body-part nouns take -ko \"my\" (e.g. tanako \"my hand\", nifiko \"my teeth\")",
+    "checked": true
+   }
+  },
+  {
+   "n": 37,
+   "form": "Kambo temba",
+   "gloss": "the foote.",
+   "section": "",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1214,
+    "y": 0.8216,
+    "w": 0.1847,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 38,
+   "form": "Hica",
+   "gloss": "the yard or virill.",
+   "section": "",
+   "concepts": [
+    "YARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1198,
+    "y": 0.8394,
+    "w": 0.1863,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 39,
+   "form": "Vota",
+   "gloss": "the yard or virill.",
+   "section": "",
+   "concepts": [
+    "YARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1198,
+    "y": 0.8394,
+    "w": 0.1863,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 40,
+   "form": "Charaqua",
+   "gloss": "the cod.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1196,
+    "y": 0.8593,
+    "w": 0.1865,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Recurrent -qua ending on body-part terms best explained as possessive -ko from pointing at the speaker's own body.",
+    "compare": "Charaqua \"cod (scrotum)\"; Malagasy body-part nouns take -ko \"my\" (e.g. tanako \"my hand\", nifiko \"my teeth\")",
+    "checked": true
+   }
+  },
+  {
+   "n": 41,
+   "form": "Anatnicke",
+   "gloss": "the little finger.",
+   "section": "",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1208,
+    "y": 0.8799,
+    "w": 0.1853,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 42,
+   "form": "Voylee",
+   "gloss": "the buttocke.",
+   "section": ""
+  },
+  {
+   "n": 43,
+   "form": "Lemboshe",
+   "gloss": "the backe.",
+   "section": "",
+   "concepts": [
+    "BACK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4853,
+    "y": 0.3414,
+    "w": 0.2174,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 44,
+   "form": "Sowkee",
+   "gloss": "the shoulder.",
+   "section": "",
+   "concepts": [
+    "SHOULDER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4811,
+    "y": 0.3617,
+    "w": 0.2188,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 45,
+   "form": "Mise",
+   "gloss": "yea.",
+   "section": "",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4855,
+    "y": 0.3861,
+    "w": 0.1045,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "interactional",
+    "label": "Phrase taken for a word",
+    "text": "Malagasy misy \"there is\"; yes = eny",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 46,
+   "form": "Maligna",
+   "gloss": "a roote that smells sweete and is like a bulrusb.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4849,
+    "y": 0.4031,
+    "w": 0.347,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 47,
+   "form": "Moade",
+   "gloss": "a chaine of small beades.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4861,
+    "y": 0.4435,
+    "w": 0.3196,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 48,
+   "form": "Voyla",
+   "gloss": "haire.",
+   "section": "",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4855,
+    "y": 0.4624,
+    "w": 0.1392,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 49,
+   "form": "Maca",
+   "gloss": "an eye.",
+   "section": "",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4855,
+    "y": 0.4847,
+    "w": 0.1402,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 50,
+   "form": "Saffee",
+   "gloss": "an eare.",
+   "section": "",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4833,
+    "y": 0.5043,
+    "w": 0.1614,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 51,
+   "form": "Leela",
+   "gloss": "the tongue.",
+   "section": "",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4839,
+    "y": 0.5225,
+    "w": 0.1786,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 52,
+   "form": "Hoho",
+   "gloss": "the thumbe.",
+   "section": "",
+   "concepts": [
+    "THUMB"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4843,
+    "y": 0.5416,
+    "w": 0.184,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Malagasy hoho \"finger/toe nail\"; thumb = ankihibe",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 53,
+   "form": "Fala tanga",
+   "gloss": "the palme of the hand.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4847,
+    "y": 0.562,
+    "w": 0.3287,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 54,
+   "form": "Choroqua",
+   "gloss": "the nailes of the hand.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4342,
+    "y": 0.5822,
+    "w": 0.379,
+    "h": 0.0199
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Recurrent -qua ending on body-part terms best explained as possessive -ko from pointing at the speaker's own body.",
+    "compare": "Choroqua \"nails\" ~ hohoko \"my nails\"; Malagasy body-part nouns take -ko \"my\" (e.g. tanako \"my hand\", nifiko \"my teeth\")",
+    "checked": true
+   }
+  },
+  {
+   "n": 55,
+   "form": "Syra",
+   "gloss": "salt.",
+   "section": "",
+   "concepts": [
+    "SALT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4851,
+    "y": 0.603,
+    "w": 0.1111,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 56,
+   "form": "Humeray",
+   "gloss": "tomorrow.",
+   "section": "",
+   "concepts": [
+    "TOMORROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4847,
+    "y": 0.6232,
+    "w": 0.2151,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 57,
+   "form": "Soo",
+   "gloss": "a pot.",
+   "section": "",
+   "concepts": [
+    "POT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4863,
+    "y": 0.6429,
+    "w": 0.1129,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 58,
+   "form": "Pingbara",
+   "gloss": "a gun.",
+   "section": "",
+   "concepts": [
+    "GUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4868,
+    "y": 0.6635,
+    "w": 0.1729,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 59,
+   "form": "Vyra",
+   "gloss": "a sword.",
+   "section": "",
+   "concepts": [
+    "SWORD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4847,
+    "y": 0.6825,
+    "w": 0.1537,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 60,
+   "form": "Fajaro",
+   "gloss": "a little dart.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4855,
+    "y": 0.701,
+    "w": 0.2034,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 61,
+   "form": "Leffo",
+   "gloss": "a lance or great dart.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4855,
+    "y": 0.7219,
+    "w": 0.2034,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 62,
+   "form": "Mura",
+   "gloss": "a lance or great dart.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4855,
+    "y": 0.7429,
+    "w": 0.2034,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 63,
+   "form": "Caba",
+   "gloss": "a bat or cap.",
+   "section": "",
+   "concepts": [
+    "BAT",
+    "CAP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4865,
+    "y": 0.7638,
+    "w": 0.1931,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 64,
+   "form": "Lomba",
+   "gloss": "cloaths.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.488,
+    "y": 0.7825,
+    "w": 0.1663,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 65,
+   "form": "Memma",
+   "gloss": "a cloake or skin.",
+   "section": "",
+   "concepts": [
+    "CLOAK",
+    "SKIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4872,
+    "y": 0.8054,
+    "w": 0.2562,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 66,
+   "form": "Hoboqua",
+   "gloss": "shooes or slippers.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4872,
+    "y": 0.8255,
+    "w": 0.2562,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 67,
+   "form": "Aqua",
+   "gloss": "an arrow.",
+   "section": "",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4898,
+    "y": 0.8456,
+    "w": 0.1764,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 68,
+   "form": "Fenga",
+   "gloss": "a rope.",
+   "section": "",
+   "concepts": [
+    "ROPE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4892,
+    "y": 0.8651,
+    "w": 0.2394,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 69,
+   "form": "Talle",
+   "gloss": "a rope.",
+   "section": "",
+   "concepts": [
+    "ROPE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4892,
+    "y": 0.8651,
+    "w": 0.2394,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 70,
+   "form": "Siffe",
+   "gloss": "a knife.",
+   "section": "",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4904,
+    "y": 0.8853,
+    "w": 0.1436,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 71,
+   "form": "Hicha",
+   "gloss": "a bow.",
+   "section": "",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1779,
+    "y": 0.1352,
+    "w": 0.1281,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 72,
+   "form": "Hehoo",
+   "gloss": "a turn spit.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1779,
+    "y": 0.1352,
+    "w": 0.1281,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 73,
+   "form": "Acuto",
+   "gloss": "to dart.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1821,
+    "y": 0.165,
+    "w": 0.124,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 74,
+   "form": "Renova",
+   "gloss": "milke.",
+   "section": "",
+   "concepts": [
+    "MILK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1781,
+    "y": 0.2075,
+    "w": 0.1279,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 75,
+   "form": "Hihoo",
+   "gloss": "a small fish.",
+   "section": "",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1781,
+    "y": 0.2075,
+    "w": 0.1279,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 76,
+   "form": "Longora",
+   "gloss": "a great fish.",
+   "section": "",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1781,
+    "y": 0.2075,
+    "w": 0.1279,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 77,
+   "form": "Hirhoree",
+   "gloss": "brasse.",
+   "section": "",
+   "concepts": [
+    "BRASS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1789,
+    "y": 0.2473,
+    "w": 0.1271,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 78,
+   "form": "Chichata",
+   "gloss": "naught.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4875,
+    "y": 0.133,
+    "w": 0.2854,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 79,
+   "form": "Ruttee",
+   "gloss": "naught.",
+   "section": ""
+  },
+  {
+   "n": 80,
+   "form": "Chara",
+   "gloss": "good.",
+   "section": "",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4875,
+    "y": 0.133,
+    "w": 0.2854,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 81,
+   "form": "Longasba",
+   "gloss": "a good man or friend.",
+   "section": "",
+   "concepts": [
+    "FRIEND",
+    "GOOD",
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5566,
+    "y": 0.1673,
+    "w": 0.3276,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 82,
+   "form": "Laga Rattee",
+   "gloss": "a bad man or foe.",
+   "section": "",
+   "concepts": [
+    "BAD",
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5562,
+    "y": 0.2095,
+    "w": 0.3144,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 83,
+   "form": "Cheruse",
+   "gloss": "nay.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5562,
+    "y": 0.2095,
+    "w": 0.3144,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 84,
+   "form": "Calibus",
+   "gloss": "a bottle cup or basket.",
+   "section": "",
+   "concepts": [
+    "BASKET",
+    "BOTTLE",
+    "CUP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5562,
+    "y": 0.2095,
+    "w": 0.3144,
+    "h": 0.0199
+   }
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Austronesian",
+   "Malayo-Polynesian",
+   "Basap-Greater Barito",
+   "Greater Barito linkage",
+   "Southeast Barito",
+   "Malagasic",
+   "Southwestern Malagasic",
+   "South West-Central Malagasic",
+   "Nuclear South West-Central Malagasic"
+  ],
+  "support": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.87,
+   0.87,
+   0.48
+  ],
+  "concepts": 54,
+  "excluded": [],
+  "leading": {
+   "name": "Antaisaka",
+   "family": "Austronesian",
+   "z": 6.4
+  },
+  "candidates": [
+   {
+    "name": "Antaisaka",
+    "db": "Lexibank",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Basap-Greater Barito",
+     "Greater Barito linkage"
+    ],
+    "z": 6.4,
+    "n": 23
+   },
+   {
+    "name": "Zafisoro",
+    "db": "Lexibank",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Basap-Greater Barito",
+     "Greater Barito linkage"
+    ],
+    "z": 6.34,
+    "n": 23
+   },
+   {
+    "name": "Sakalava",
+    "db": "Lexibank",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Basap-Greater Barito",
+     "Greater Barito linkage"
+    ],
+    "z": 6.04,
+    "n": 23
+   },
+   {
+    "name": "Merina",
+    "db": "Lexibank",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Basap-Greater Barito",
+     "Greater Barito linkage"
+    ],
+    "z": 5.73,
+    "n": 23
+   },
+   {
+    "name": "Sakalava",
+    "db": "Lexibank",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Basap-Greater Barito",
+     "Greater Barito linkage"
+    ],
+    "z": 5.71,
+    "n": 23
+   },
+   {
+    "name": "Mahafaly",
+    "db": "Lexibank",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Basap-Greater Barito",
+     "Greater Barito linkage"
+    ],
+    "z": 5.32,
+    "n": 23
+   },
+   {
+    "name": "Antanosy",
+    "db": "Lexibank",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Basap-Greater Barito",
+     "Greater Barito linkage"
+    ],
+    "z": 5.32,
+    "n": 23
+   },
+   {
+    "name": "Mahafaly",
+    "db": "Lexibank",
+    "family": "Austronesian",
+    "path": [
+     "Austronesian",
+     "Malayo-Polynesian",
+     "Basap-Greater Barito",
+     "Greater Barito linkage"
+    ],
+    "z": 4.76,
+    "n": 23
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "ear",
+    "form": "Saffee",
+    "ref": "sofy",
+    "d": 0.0
+   },
+   {
+    "concept": "good",
+    "form": "Chara",
+    "ref": "tsara",
+    "d": 0.0
+   },
+   {
+    "concept": "tongue",
+    "form": "Leela",
+    "ref": "lela",
+    "d": 0.0
+   },
+   {
+    "concept": "tooth",
+    "form": "Niffa",
+    "ref": "nify",
+    "d": 0.0
+   },
+   {
+    "concept": "back",
+    "form": "Lemboshe",
+    "ref": "lamosy",
+    "d": 0.14
+   },
+   {
+    "concept": "hand",
+    "form": "Tanga",
+    "ref": "tagna",
+    "d": 0.2
+   },
+   {
+    "concept": "eye",
+    "form": "Maca",
+    "ref": "maso",
+    "d": 0.25
+   },
+   {
+    "concept": "rope",
+    "form": "Talle",
+    "ref": "tady",
+    "d": 0.25
+   },
+   {
+    "concept": "salt",
+    "form": "Syra",
+    "ref": "sira",
+    "d": 0.25
+   },
+   {
+    "concept": "belly",
+    "form": "Hicuma",
+    "ref": "troky",
+    "d": 0.4
+   },
+   {
+    "concept": "bad",
+    "form": "Laga Rattee",
+    "ref": "ratsy",
+    "d": 0.5
+   },
+   {
+    "concept": "child",
+    "form": "Tope",
+    "ref": "zaza",
+    "d": 0.5
+   }
+  ]
+ },
+ "stats": {
+  "entries": 84,
+  "notes": 12,
+  "located": 82
+ },
+ "partial": null,
+ "relation": null
+}

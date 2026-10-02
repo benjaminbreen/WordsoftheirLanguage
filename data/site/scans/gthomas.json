@@ -1,0 +1,231 @@
+{
+ "table": "gthomas",
+ "ia": "historicalgeogra01thom",
+ "scan_note": "",
+ "ia_title": "An historical and geographical account of the province and country of Pensilvania; and of West-New-Jersey in America. : The richness of the soil, the sweetness of the situation, the wholesomness of the air, the navigable rivers, and others, the prodigious encrease of corn, the flourishing condition of the city of Philadelphia, with the stately buildings, and other improvements there. The strange creatures, as birds, beasts, fishes, and fowls, with the several sorts of minerals, purging waters, and stones, lately discovered. The natives, aborogmes [sic] their language, religion, laws, and customs; the first planters, the Dutch, Sweeds, and English, with the number of its inhabitants; as also a touch upon George Keith's new religion, in his second change since he left the Quakers. With a map of both countries.",
+ "contributor": "John Carter Brown Library",
+ "rights": null,
+ "pages": [
+  {
+   "leaf": 59,
+   "w": 2664,
+   "h": 4292,
+   "img": {
+    "900": "/scans/gthomas/0059-900.webp",
+    "1800": "/scans/gthomas/0059-1800.webp"
+   },
+   "score": 2
+  },
+  {
+   "leaf": 60,
+   "w": 2664,
+   "h": 4292,
+   "img": {
+    "900": "/scans/gthomas/0060-900.webp",
+    "1800": "/scans/gthomas/0060-1800.webp"
+   },
+   "score": 0
+  },
+  {
+   "leaf": 61,
+   "w": 2664,
+   "h": 4292,
+   "img": {
+    "900": "/scans/gthomas/0061-900.webp",
+    "1800": "/scans/gthomas/0061-1800.webp"
+   },
+   "score": 3
+  }
+ ],
+ "boxes": {
+  "68": {
+   "page": 2,
+   "score": 80,
+   "form_score": 60,
+   "box": [
+    0.0376,
+    0.5113,
+    0.4471,
+    0.0266
+   ]
+  },
+  "62": {
+   "page": 2,
+   "score": 69,
+   "form_score": 80,
+   "box": [
+    0.0376,
+    0.5113,
+    0.4471,
+    0.0266
+   ]
+  },
+  "59": {
+   "page": 2,
+   "score": 73,
+   "form_score": 67,
+   "box": [
+    0.0376,
+    0.5113,
+    0.4471,
+    0.0266
+   ]
+  },
+  "56": {
+   "page": 2,
+   "score": 83,
+   "form_score": 100,
+   "box": [
+    0.0339,
+    0.4598,
+    0.4508,
+    0.0266
+   ]
+  },
+  "51": {
+   "page": 2,
+   "score": 75,
+   "form_score": 50,
+   "box": [
+    0.026,
+    0.2082,
+    0.4587,
+    0.0266
+   ]
+  },
+  "49": {
+   "page": 1,
+   "score": 66,
+   "form_score": 57,
+   "box": [
+    0.5159,
+    0.3124,
+    0.4529,
+    0.0258
+   ]
+  },
+  "48": {
+   "page": 1,
+   "score": 71,
+   "form_score": 67,
+   "box": [
+    0.3969,
+    0.6127,
+    0.0881,
+    0.0258
+   ]
+  },
+  "43": {
+   "page": 1,
+   "score": 77,
+   "form_score": 55,
+   "box": [
+    0.3976,
+    0.5897,
+    0.0874,
+    0.0258
+   ]
+  },
+  "37": {
+   "page": 1,
+   "score": 71,
+   "form_score": 75,
+   "box": [
+    0.4033,
+    0.5117,
+    0.0818,
+    0.0258
+   ]
+  },
+  "34": {
+   "page": 1,
+   "score": 69,
+   "form_score": 80,
+   "box": [
+    0.4611,
+    0.1583,
+    0.0239,
+    0.0258
+   ]
+  },
+  "33": {
+   "page": 0,
+   "score": 68,
+   "form_score": 75,
+   "box": [
+    0.0389,
+    0.7132,
+    0.4452,
+    0.0252
+   ]
+  },
+  "31": {
+   "page": 0,
+   "score": 83,
+   "form_score": 67,
+   "box": [
+    0.1354,
+    0.5379,
+    0.3487,
+    0.0252
+   ]
+  },
+  "30": {
+   "page": 0,
+   "score": 83,
+   "form_score": 67,
+   "box": [
+    0.0292,
+    0.4878,
+    0.455,
+    0.0252
+   ]
+  },
+  "29": {
+   "page": 0,
+   "score": 64,
+   "form_score": 71,
+   "box": [
+    0.0247,
+    0.3125,
+    0.4595,
+    0.0252
+   ]
+  },
+  "23": {
+   "page": 0,
+   "score": 75,
+   "form_score": 50,
+   "box": [
+    0.0247,
+    0.3125,
+    0.4595,
+    0.0252
+   ]
+  },
+  "17": {
+   "page": 0,
+   "score": 75,
+   "form_score": 50,
+   "box": [
+    0.0247,
+    0.3125,
+    0.4595,
+    0.0252
+   ]
+  },
+  "15": {
+   "page": 0,
+   "score": 75,
+   "form_score": 50,
+   "box": [
+    0.0247,
+    0.3125,
+    0.4595,
+    0.0252
+   ]
+  }
+ },
+ "n_entries": 82,
+ "n_aligned": 17
+}

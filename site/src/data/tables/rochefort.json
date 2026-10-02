@@ -1,0 +1,8738 @@
+{
+ "schema": 1,
+ "id": "rochefort",
+ "wtl": "WTL-0006",
+ "heading": "A Caribbian Vocabulary",
+ "headings": [
+  "I. The PARTS of MAN'S Bodie.",
+  "II. KINDRED and ALLYANCE.",
+  "III. CONDITIONS and QUALITIES.",
+  "IV. ACTIONS and PASSIONS.",
+  "V. Things relating to HOUSE-KEEPING and TRADE.",
+  "VI. ORNAMENTS and ARMES.",
+  "VII. LIVING CREATURES.",
+  "VIII. TREES and PLANTS.",
+  "IX. THINGS ELEMENTARY and IN ANIMATE.",
+  "X. Things relating to RELIGION."
+ ],
+ "language": {
+  "name": "Island Carib",
+  "glottocode": "isla1278",
+  "family": "Arawakan",
+  "path": [
+   "Arawakan",
+   "Caribbean Arawakan",
+   "Antillean Arawakan",
+   "Ineric",
+   "Island Carib-Garifuna"
+  ],
+  "labels": [
+   "Caribbian"
+  ]
+ },
+ "region": "Caribbean & South America",
+ "book": {
+  "short": "The History of the Caribby-Islands",
+  "title": "The history of the Caribby-islands, viz, Barbados, St Christophers, St Vincents, Martinico, Dominico, Barbouthos, Monserrat, Mevis, Antego, &c in all XXVIII in two books : the first containing the natural, the second, the moral history of those islands : illustrated with several pieces of sculpture representing the most considerable rarities therein described : with a Caribbian vocabulary / rendred into English by John Davies ...",
+  "author": "César de Rochefort, trans. John Davies",
+  "printed": 1666,
+  "imprint": "1666.",
+  "tcp": "A57484",
+  "cover": "rochefort"
+ },
+ "provenance": {
+  "collector": "César de Rochefort",
+  "place": "Lesser Antilles",
+  "heard": "before 1658"
+ },
+ "scan": {
+  "ia": "historyofcaribby00roch",
+  "url": "https://archive.org/details/historyofcaribby00roch",
+  "holder": "John Carter Brown Library",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 383,
+   "w": 3275,
+   "h": 5056,
+   "sm": "/scans/rochefort/0383-900.webp",
+   "lg": "/scans/rochefort/0383-1800.webp"
+  },
+  {
+   "leaf": 384,
+   "w": 3275,
+   "h": 5056,
+   "sm": "/scans/rochefort/0384-900.webp",
+   "lg": "/scans/rochefort/0384-1800.webp"
+  },
+  {
+   "leaf": 385,
+   "w": 3275,
+   "h": 5056,
+   "sm": "/scans/rochefort/0385-900.webp",
+   "lg": "/scans/rochefort/0385-1800.webp"
+  },
+  {
+   "leaf": 386,
+   "w": 3275,
+   "h": 5056,
+   "sm": "/scans/rochefort/0386-900.webp",
+   "lg": "/scans/rochefort/0386-1800.webp"
+  },
+  {
+   "leaf": 387,
+   "w": 3275,
+   "h": 5056,
+   "sm": "/scans/rochefort/0387-900.webp",
+   "lg": "/scans/rochefort/0387-1800.webp"
+  },
+  {
+   "leaf": 388,
+   "w": 3275,
+   "h": 5056,
+   "sm": "/scans/rochefort/0388-900.webp",
+   "lg": "/scans/rochefort/0388-1800.webp"
+  },
+  {
+   "leaf": 389,
+   "w": 3275,
+   "h": 5056,
+   "sm": "/scans/rochefort/0389-900.webp",
+   "lg": "/scans/rochefort/0389-1800.webp"
+  },
+  {
+   "leaf": 390,
+   "w": 3275,
+   "h": 5056,
+   "sm": "/scans/rochefort/0390-900.webp",
+   "lg": "/scans/rochefort/0390-1800.webp"
+  },
+  {
+   "leaf": 391,
+   "w": 3275,
+   "h": 5056,
+   "sm": "/scans/rochefort/0391-900.webp",
+   "lg": "/scans/rochefort/0391-1800.webp"
+  },
+  {
+   "leaf": 392,
+   "w": 3275,
+   "h": 5056,
+   "sm": "/scans/rochefort/0392-900.webp",
+   "lg": "/scans/rochefort/0392-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Nókobou",
+   "gloss": "MY Body",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "BODY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1491,
+    "y": 0.5831,
+    "w": 0.158,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 2,
+   "form": "Takellé",
+   "gloss": "Fat",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "FAT (OILY)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1298,
+    "y": 0.5981,
+    "w": 0.1296,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 3,
+   "form": "Nora",
+   "gloss": "My skin",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "SKIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.074,
+    "y": 0.6138,
+    "w": 0.2821,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 4,
+   "form": "Nabo",
+   "gloss": "My bones",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "BONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0746,
+    "y": 0.6597,
+    "w": 0.2815,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 5,
+   "form": "Nillagra",
+   "gloss": "My Nerves or my Veins (no distinction made between Veins and Nerves; also used of roots of trees)",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 0,
+    "x": 0.0746,
+    "y": 0.6619,
+    "w": 0.2815,
+    "h": 0.0159,
+    "approx": true
+   }
+  },
+  {
+   "n": 6,
+   "form": "Lillagra",
+   "gloss": "his Nerves or his Veins",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "VEIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0746,
+    "y": 0.6642,
+    "w": 0.2815,
+    "h": 0.0159,
+    "approx": true
+   }
+  },
+  {
+   "n": 7,
+   "form": "Nitta",
+   "gloss": "My bloud",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0746,
+    "y": 0.6664,
+    "w": 0.2815,
+    "h": 0.0159,
+    "approx": true
+   }
+  },
+  {
+   "n": 8,
+   "form": "Nimoinalou",
+   "gloss": "My bloud",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0746,
+    "y": 0.6687,
+    "w": 0.2815,
+    "h": 0.0159,
+    "approx": true
+   }
+  },
+  {
+   "n": 9,
+   "form": "Nilibouri",
+   "gloss": "The hair of my head or Body",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "BODY",
+    "HAIR",
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0746,
+    "y": 0.671,
+    "w": 0.2815,
+    "h": 0.0159,
+    "approx": true
+   }
+  },
+  {
+   "n": 10,
+   "form": "Nakou",
+   "gloss": "My Eyes",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0978,
+    "y": 0.6732,
+    "w": 0.2583,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 11,
+   "form": "Nakoueuke",
+   "gloss": "The ball of my eye",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 0,
+    "x": 0.0978,
+    "y": 0.6732,
+    "w": 0.2583,
+    "h": 0.0159,
+    "approx": true
+   }
+  },
+  {
+   "n": 12,
+   "form": "Nakou-ora",
+   "gloss": "My eye-lid",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 0,
+    "x": 0.0978,
+    "y": 0.6732,
+    "w": 0.2583,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 13,
+   "form": "Nichicouchi",
+   "gloss": "My Eye-brow",
+   "section": "I. The PARTS of MAN'S Bodie."
+  },
+  {
+   "n": 14,
+   "form": "Nakouiou",
+   "gloss": "The hair of the Eyelids",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 0,
+    "x": 0.0978,
+    "y": 0.6732,
+    "w": 0.2583,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 15,
+   "form": "Nérébé",
+   "gloss": "My forehead",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "FOREHEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0984,
+    "y": 0.7196,
+    "w": 0.2577,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 16,
+   "form": "Nichibou",
+   "gloss": "My face",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0987,
+    "y": 0.7362,
+    "w": 0.2574,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 17,
+   "form": "Nichiri",
+   "gloss": "My Nose",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0984,
+    "y": 0.7516,
+    "w": 0.2577,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 18,
+   "form": "Niouma",
+   "gloss": "My mouth",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0996,
+    "y": 0.7818,
+    "w": 0.2564,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 19,
+   "form": "Nioumarou",
+   "gloss": "My lip",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0996,
+    "y": 0.7818,
+    "w": 0.2564,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 20,
+   "form": "Nari",
+   "gloss": "My tooth",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.099,
+    "y": 0.7959,
+    "w": 0.2571,
+    "h": 0.0159,
+    "approx": true
+   }
+  },
+  {
+   "n": 21,
+   "form": "Nackeuke",
+   "gloss": "My cheek-teeth",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 0,
+    "x": 0.0941,
+    "y": 0.8127,
+    "w": 0.2619,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 22,
+   "form": "Nari-aregrick",
+   "gloss": "My jaws",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "JAW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3616,
+    "y": 0.8285,
+    "w": 0.2939,
+    "h": 0.0159
+   }
+  },
+  {
+   "n": 23,
+   "form": "Narikae",
+   "gloss": "My ear",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3392,
+    "y": 0.1334,
+    "w": 0.0169,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 24,
+   "form": "Nouboyoubou",
+   "gloss": "My Temples",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "TEMPLES"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3392,
+    "y": 0.1489,
+    "w": 0.0169,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 25,
+   "form": "Nitigné",
+   "gloss": "My cheeks",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "CHEEK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3392,
+    "y": 0.1645,
+    "w": 0.0169,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 26,
+   "form": "Nariona",
+   "gloss": "My chin",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3389,
+    "y": 0.1792,
+    "w": 0.0172,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 27,
+   "form": "Nouri",
+   "gloss": "My breast",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3386,
+    "y": 0.1944,
+    "w": 0.0175,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 28,
+   "form": "Narokou",
+   "gloss": "My bosome",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.338,
+    "y": 0.21,
+    "w": 0.0182,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 29,
+   "form": "Néché",
+   "gloss": "My shoulder",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "SHOULDER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3377,
+    "y": 0.2256,
+    "w": 0.0185,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 30,
+   "form": "Narreuna",
+   "gloss": "My arm",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3383,
+    "y": 0.2411,
+    "w": 0.0178,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 31,
+   "form": "N•ugt•e•meuke",
+   "gloss": "My elbow",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "ELBOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3371,
+    "y": 0.2857,
+    "w": 0.0191,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 32,
+   "form": "Noucabo",
+   "gloss": "My hands",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3371,
+    "y": 0.2857,
+    "w": 0.0191,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 33,
+   "form": "Noucabo-raün",
+   "gloss": "My fingers",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3365,
+    "y": 0.3032,
+    "w": 0.0197,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 34,
+   "form": "Noucabo-iteignum",
+   "gloss": "My thumb",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "THUMB"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3346,
+    "y": 0.3491,
+    "w": 0.0215,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 35,
+   "form": "Noucabo-anichi",
+   "gloss": "The pulse",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "PULSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3337,
+    "y": 0.3969,
+    "w": 0.0224,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Gloss \"The pulse\" lacks the \"my\" that the form (lit. \"soul of my hand\") carries.",
+    "compare": "internal: Noucabo \"my hands\" (row 32); Island Carib n- 1sg possessive",
+    "checked": false
+   }
+  },
+  {
+   "n": 36,
+   "form": "Noubara",
+   "gloss": "My nail",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3334,
+    "y": 0.4408,
+    "w": 0.0227,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 37,
+   "form": "Nanichirokou",
+   "gloss": "My stomack",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.3328,
+    "y": 0.456,
+    "w": 0.0233,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 38,
+   "form": "Nioüanni",
+   "gloss": "My heart",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3325,
+    "y": 0.4757,
+    "w": 0.0236,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 39,
+   "form": "Nanichi",
+   "gloss": "My heart",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3325,
+    "y": 0.4757,
+    "w": 0.0236,
+    "h": 0.0158,
+    "approx": true
+   }
+  },
+  {
+   "n": 40,
+   "form": "Noara",
+   "gloss": "My lungs",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "LUNG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3313,
+    "y": 0.5181,
+    "w": 0.0249,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 41,
+   "form": "Noubana",
+   "gloss": "My Liver",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "LIVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3307,
+    "y": 0.5333,
+    "w": 0.0255,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 42,
+   "form": "Noulakae",
+   "gloss": "My Entrails",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.3304,
+    "y": 0.5492,
+    "w": 0.0258,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 43,
+   "form": "Nanagané",
+   "gloss": "My Reins",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.3294,
+    "y": 0.5802,
+    "w": 0.0267,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 44,
+   "form": "Nauba",
+   "gloss": "My side",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "SIDE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3291,
+    "y": 0.595,
+    "w": 0.027,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 45,
+   "form": "Couëmata",
+   "gloss": "The Spleen",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "SPLEEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3288,
+    "y": 0.6097,
+    "w": 0.0273,
+    "h": 0.0158,
+    "approx": true
+   }
+  },
+  {
+   "n": 46,
+   "form": "Ichicolou-akae",
+   "gloss": "The Bladder",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "BLADDER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3282,
+    "y": 0.6251,
+    "w": 0.0279,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 47,
+   "form": "Narioma",
+   "gloss": "My Navil",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.3288,
+    "y": 0.6417,
+    "w": 0.0273,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 48,
+   "form": "Yaloukouli",
+   "gloss": "The natural parts of the Man",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.3279,
+    "y": 0.658,
+    "w": 0.0282,
+    "h": 0.0158,
+    "approx": true
+   }
+  },
+  {
+   "n": 49,
+   "form": "Neheuera",
+   "gloss": "The natural parts of the Man",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.3279,
+    "y": 0.658,
+    "w": 0.0282,
+    "h": 0.0158,
+    "approx": true
+   }
+  },
+  {
+   "n": 50,
+   "form": "Touloukou",
+   "gloss": "The natural parts of the Woman",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.3276,
+    "y": 0.7048,
+    "w": 0.0285,
+    "h": 0.0158,
+    "approx": true
+   }
+  },
+  {
+   "n": 51,
+   "form": "Narioma-rokou",
+   "gloss": "My back-parts",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.327,
+    "y": 0.734,
+    "w": 0.0291,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 52,
+   "form": "Niatta",
+   "gloss": "My buttock",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.3267,
+    "y": 0.7645,
+    "w": 0.0295,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 53,
+   "form": "Nebouik",
+   "gloss": "My Thigh",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "THIGH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3267,
+    "y": 0.7799,
+    "w": 0.0295,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 54,
+   "form": "Nagagirik",
+   "gloss": "My knee",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.327,
+    "y": 0.7962,
+    "w": 0.0291,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 55,
+   "form": "Nichaoua-chaoua",
+   "gloss": "My Ham",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.3267,
+    "y": 0.811,
+    "w": 0.0295,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 56,
+   "form": "Nourna",
+   "gloss": "My Leg",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3267,
+    "y": 0.8269,
+    "w": 0.0295,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 57,
+   "form": "Nourna-aboulougou",
+   "gloss": "My shin",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "SHIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3258,
+    "y": 0.8417,
+    "w": 0.0304,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 58,
+   "form": "Napataragoune",
+   "gloss": "My joint",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "JOINT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3236,
+    "y": 0.8583,
+    "w": 0.0325,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 59,
+   "form": "Noumourgouti",
+   "gloss": "My ankle",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "ANKLE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6329,
+    "y": 0.1823,
+    "w": 0.2529,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 60,
+   "form": "Nougouti",
+   "gloss": "My foot",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6418,
+    "y": 0.1972,
+    "w": 0.19,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 61,
+   "form": "Nogouti-ona",
+   "gloss": "My heel",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "concepts": [
+    "HEEL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6421,
+    "y": 0.2121,
+    "w": 0.2147,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 62,
+   "form": "Nougouti-raim",
+   "gloss": "My toes",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.6415,
+    "y": 0.2288,
+    "w": 0.2877,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 63,
+   "form": "Nougoutirokou",
+   "gloss": "The sole of my foot",
+   "section": "I. The PARTS of MAN'S Bodie.",
+   "box": {
+    "page": 1,
+    "x": 0.6397,
+    "y": 0.2889,
+    "w": 0.2959,
+    "h": 0.0158,
+    "approx": true
+   }
+  },
+  {
+   "n": 64,
+   "form": "Nioumoulikou",
+   "gloss": "MY Kinsman",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 1,
+    "x": 0.7133,
+    "y": 0.612,
+    "w": 0.2077,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 65,
+   "form": "Nitoucke",
+   "gloss": "MY Kinsman",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 1,
+    "x": 0.6931,
+    "y": 0.6279,
+    "w": 0.2275,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 66,
+   "form": "Youëlleteli",
+   "gloss": "My marriage",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "MARRIAGE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6333,
+    "y": 0.6426,
+    "w": 0.2456,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 67,
+   "form": "Niraiti",
+   "gloss": "My Husband",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "HUSBAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6333,
+    "y": 0.6658,
+    "w": 0.2456,
+    "h": 0.0158,
+    "approx": true
+   }
+  },
+  {
+   "n": 68,
+   "form": "Baba",
+   "gloss": "My Father, speaking to him",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 1,
+    "x": 0.6555,
+    "y": 0.689,
+    "w": 0.1671,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 69,
+   "form": "Youmaan",
+   "gloss": "My Father, speaking of him",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 1,
+    "x": 0.6531,
+    "y": 0.72,
+    "w": 0.266,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na (Kalina) yumu / yuumu \"father\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 70,
+   "form": "Noukouchili",
+   "gloss": "My Father, speaking of him",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 1,
+    "x": 0.6531,
+    "y": 0.72,
+    "w": 0.266,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 71,
+   "form": "Itamoulou",
+   "gloss": "My Grandfather",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "GRANDFATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6296,
+    "y": 0.7515,
+    "w": 0.2883,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na tamu(ru), tamusi \"grandfather, ancestor\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 72,
+   "form": "Nargouti",
+   "gloss": "My Grandfather",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "GRANDFATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.654,
+    "y": 0.7661,
+    "w": 0.1701,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 73,
+   "form": "Baba",
+   "gloss": "My Unkle by the Fathers side, they call him Father",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.1029,
+    "y": 0.1506,
+    "w": 0.2528,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 74,
+   "form": "Baba tinnaka",
+   "gloss": "the true and proper Father (when expressly distinguished)",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.1029,
+    "y": 0.1653,
+    "w": 0.2773,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 75,
+   "form": "Yao",
+   "gloss": "The Uncle by the Mother side",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0785,
+    "y": 0.1801,
+    "w": 0.2773,
+    "h": 0.0156,
+    "approx": true
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na yawo \"(maternal) uncle\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 76,
+   "form": "Akatobou",
+   "gloss": "The Uncle by the Mother side",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.1011,
+    "y": 0.1957,
+    "w": 0.221,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 77,
+   "form": "Imakou",
+   "gloss": "My Son",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.077,
+    "y": 0.2118,
+    "w": 0.2788,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na (y-)muku \"child, son\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 78,
+   "form": "Imoulou",
+   "gloss": "My Son",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.077,
+    "y": 0.2118,
+    "w": 0.2788,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na (y-)mure / imuru \"son\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 79,
+   "form": "Yamoinri",
+   "gloss": "My Son",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1002,
+    "y": 0.2273,
+    "w": 0.2556,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 80,
+   "form": "Niraheu",
+   "gloss": "My Son",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1002,
+    "y": 0.2273,
+    "w": 0.2556,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 81,
+   "form": "Hibali",
+   "gloss": "My Grand-child",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0755,
+    "y": 0.2422,
+    "w": 0.2803,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 82,
+   "form": "Nibagnem",
+   "gloss": "My Grand-child (more than one)",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0962,
+    "y": 0.2735,
+    "w": 0.247,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 83,
+   "form": "Hanhin",
+   "gloss": "My Elder-Brother",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0739,
+    "y": 0.2881,
+    "w": 0.2818,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 84,
+   "form": "Niboukayem",
+   "gloss": "My Elder-Brother",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0965,
+    "y": 0.3037,
+    "w": 0.1722,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 85,
+   "form": "Ouanonë",
+   "gloss": "My younger-Brother",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0721,
+    "y": 0.3191,
+    "w": 0.2837,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 86,
+   "form": "Ibiri",
+   "gloss": "My younger-Brother",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0721,
+    "y": 0.3191,
+    "w": 0.2837,
+    "h": 0.0156,
+    "approx": true
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na (y-)piri \"younger brother\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 87,
+   "form": "Namouleem",
+   "gloss": "My younger-Brother",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0929,
+    "y": 0.3506,
+    "w": 0.2629,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 88,
+   "form": "Ibamouy",
+   "gloss": "My Brother-in-law, and my Cousin-german by the Motherside",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0883,
+    "y": 0.3955,
+    "w": 0.2659,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na (y-)pami \"brother-in-law\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 89,
+   "form": "Nikeliri",
+   "gloss": "My Brother-in-law, and my Cousin-german by the Motherside",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0883,
+    "y": 0.3955,
+    "w": 0.2659,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 90,
+   "form": "Yapataganum",
+   "gloss": "The Cousin not married to the Cousin-German",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0883,
+    "y": 0.4345,
+    "w": 0.2659,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 91,
+   "form": "Yanantigané",
+   "gloss": "My Nephew",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "NEPHEW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0645,
+    "y": 0.4735,
+    "w": 0.2424,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 92,
+   "form": "Hibali moukou",
+   "gloss": "My Son-in-law",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "SON-IN-LAW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0651,
+    "y": 0.4885,
+    "w": 0.2864,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 93,
+   "form": "Yenenery",
+   "gloss": "My Wife",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0623,
+    "y": 0.5349,
+    "w": 0.2879,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 94,
+   "form": "Liani",
+   "gloss": "My Wife",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0855,
+    "y": 0.5496,
+    "w": 0.2241,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 95,
+   "form": "Bibi",
+   "gloss": "My Mother, speaking to her, both men and women say",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0849,
+    "y": 0.5801,
+    "w": 0.2638,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 96,
+   "form": "Ichanum",
+   "gloss": "A mother, speaking of her",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0611,
+    "y": 0.626,
+    "w": 0.287,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na (y-)sano \"mother\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 97,
+   "form": "Noukouchourou",
+   "gloss": "A mother, speaking of her",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0837,
+    "y": 0.6415,
+    "w": 0.2721,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 98,
+   "form": "Noukouchorouteni",
+   "gloss": "My mother-in-law by a second marriage",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0834,
+    "y": 0.6874,
+    "w": 0.2724,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 99,
+   "form": "Imenouti",
+   "gloss": "My mother-in-law, whose daughter I have married",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0596,
+    "y": 0.7197,
+    "w": 0.2962,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 100,
+   "form": "Innouti",
+   "gloss": "My Grand-mother",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.058,
+    "y": 0.7654,
+    "w": 0.2977,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na nosi / noosi \"grandmother\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 101,
+   "form": "Naguette",
+   "gloss": "My Grand-mother",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0809,
+    "y": 0.78,
+    "w": 0.1392,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 102,
+   "form": "Bibi",
+   "gloss": "My Aunt by the mothers-side is called mother",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.0813,
+    "y": 0.8098,
+    "w": 0.1856,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 103,
+   "form": "Naheupouli",
+   "gloss": "The Aunt by the Fathers-side",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.077,
+    "y": 0.8412,
+    "w": 0.1245,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 104,
+   "form": "Niananti",
+   "gloss": "My Daughter",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.059,
+    "y": 0.8579,
+    "w": 0.2968,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 105,
+   "form": "Niraheu",
+   "gloss": "My Daughter",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "DAUGHTER"
+   ]
+  },
+  {
+   "n": 106,
+   "form": "Nitou",
+   "gloss": "My Sister",
+   "section": "II. KINDRED and ALLYANCE.",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3805,
+    "y": 0.1692,
+    "w": 0.2854,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 107,
+   "form": "Bibi-Ouanouan",
+   "gloss": "The elder sister",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.3805,
+    "y": 0.1692,
+    "w": 0.2854,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 108,
+   "form": "Tamoulelouan",
+   "gloss": "The younger sister",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.378,
+    "y": 0.2002,
+    "w": 0.2864,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 109,
+   "form": "Nibaché",
+   "gloss": "Step-daughter, Daughter-in-law and Neece",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.3988,
+    "y": 0.2455,
+    "w": 0.1914,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 110,
+   "form": "Youelleri",
+   "gloss": "My•she-Cousin-german",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.3988,
+    "y": 0.2921,
+    "w": 0.2451,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 111,
+   "form": "Youellou",
+   "gloss": "My•she-Cousin-german",
+   "section": "II. KINDRED and ALLYANCE.",
+   "box": {
+    "page": 2,
+    "x": 0.3948,
+    "y": 0.3387,
+    "w": 0.2451,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 112,
+   "form": "Ouekelli",
+   "gloss": "A man, or a male",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "MALE",
+    "MAN"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na wokiri \"man\"",
+    "checked": false
+   },
+   "box": {
+    "page": 2,
+    "x": 0.3948,
+    "y": 0.4531,
+    "w": 0.2656,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 113,
+   "form": "Ouekliem",
+   "gloss": "A man, or a male (plural)",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "MALE",
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3869,
+    "y": 0.5674,
+    "w": 0.2656,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na wokiri \"man\" (+ plural)",
+    "checked": false
+   }
+  },
+  {
+   "n": 114,
+   "form": "Eyeri",
+   "gloss": "A man, or a male",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "MALE",
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3838,
+    "y": 0.5826,
+    "w": 0.1618,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 115,
+   "form": "Eyerium",
+   "gloss": "A man, or a male (plural)",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "MALE",
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3838,
+    "y": 0.5826,
+    "w": 0.1618,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 116,
+   "form": "Ouelle",
+   "gloss": "A Woman, or a Female",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "FEMALE",
+    "WOMAN"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na woori \"woman\"",
+    "checked": false
+   },
+   "box": {
+    "page": 2,
+    "x": 0.3838,
+    "y": 0.5979,
+    "w": 0.2641,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 117,
+   "form": "Ouliem",
+   "gloss": "A Woman, or a Female (plural)",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "FEMALE",
+    "WOMAN"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na woori \"woman\" (+ plural)",
+    "checked": false
+   },
+   "box": {
+    "page": 2,
+    "x": 0.3838,
+    "y": 0.6132,
+    "w": 0.2641,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 118,
+   "form": "Inarou",
+   "gloss": "A Woman, or a Female",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "FEMALE",
+    "WOMAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3854,
+    "y": 0.6285,
+    "w": 0.2641,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 119,
+   "form": "Innouyum",
+   "gloss": "A Woman, or a Female (plural)",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "FEMALE",
+    "WOMAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3854,
+    "y": 0.6436,
+    "w": 0.2641,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 120,
+   "form": "Niankeili",
+   "gloss": "A Child",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3613,
+    "y": 0.6587,
+    "w": 0.1804,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 121,
+   "form": "Mouléke",
+   "gloss": "A Boy",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "BOY"
+   ]
+  },
+  {
+   "n": 122,
+   "form": "Niankeirou",
+   "gloss": "A Girl",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3613,
+    "y": 0.6587,
+    "w": 0.1804,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 123,
+   "form": "Ouekelli-raeu",
+   "gloss": "A little boy",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3594,
+    "y": 0.7033,
+    "w": 0.287,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 124,
+   "form": "Ouelle-raeu",
+   "gloss": "A little girl",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3594,
+    "y": 0.7033,
+    "w": 0.287,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 125,
+   "form": "Ouaïali",
+   "gloss": "An old man",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 2,
+    "x": 0.3594,
+    "y": 0.75,
+    "w": 0.287,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 126,
+   "form": "Tiouboutouli authe",
+   "gloss": "A Father of a Family",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 2,
+    "x": 0.3805,
+    "y": 0.7967,
+    "w": 0.156,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 127,
+   "form": "Moincha",
+   "gloss": "A Widdow and Widdower",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 2,
+    "x": 0.3793,
+    "y": 0.8265,
+    "w": 0.0958,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 128,
+   "form": "Banaré",
+   "gloss": "A Comrade",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 2,
+    "x": 0.3548,
+    "y": 0.8424,
+    "w": 0.1902,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 129,
+   "form": "Ibaouanale",
+   "gloss": "A Friend",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "FRIEND"
+   ]
+  },
+  {
+   "n": 130,
+   "form": "Nitignon",
+   "gloss": "A Friend",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "FRIEND"
+   ]
+  },
+  {
+   "n": 131,
+   "form": "Etoutou",
+   "gloss": "An Enemy",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "ENEMY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3347,
+    "y": 0.1379,
+    "w": 0.0208,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na etoto \"enemy\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 132,
+   "form": "Akani",
+   "gloss": "An Enemy",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "ENEMY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3347,
+    "y": 0.1379,
+    "w": 0.0208,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 133,
+   "form": "Etoutou noubi",
+   "gloss": "An Enemy who goes clad, in opposition to those who go naked",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Cariban-origin item outside the explicitly marked men's words; Island Carib absorbed Kalina vocabulary.",
+    "compare": "Kari'na etoto \"enemy\" (men's word Etoutou in compound)",
+    "checked": false
+   },
+   "box": {
+    "page": 3,
+    "x": 0.3347,
+    "y": 0.1762,
+    "w": 0.0208,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 134,
+   "form": "Maron",
+   "gloss": "Savage",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3353,
+    "y": 0.2144,
+    "w": 0.0202,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source notes it is applied only to animals and wild fruits, exactly the colonial sense of cimarrón/marron.",
+    "compare": "Spanish cimarrón, French marron \"wild, run wild (of animals, plants, runaway slaves)\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 135,
+   "form": "Bonon",
+   "gloss": "An Inhabitant",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.335,
+    "y": 0.2595,
+    "w": 0.0205,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 136,
+   "form": "Oubao-bonon",
+   "gloss": "An Islander, or Inhabitant of the Islands",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "ISLAND"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.335,
+    "y": 0.2833,
+    "w": 0.0211,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 137,
+   "form": "Balouë-bonon",
+   "gloss": "An Inhabitant of the Continent",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3344,
+    "y": 0.3071,
+    "w": 0.0211,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 138,
+   "form": "Balanaglé",
+   "gloss": "A man come thither by Sea",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3344,
+    "y": 0.3385,
+    "w": 0.0211,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 139,
+   "form": "Nhaléné",
+   "gloss": "An Admiral, or General of a naval Army",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3328,
+    "y": 0.3996,
+    "w": 0.0227,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 140,
+   "form": "Tiouboutouli Canaoua",
+   "gloss": "A Captain of a Vessel",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3334,
+    "y": 0.4303,
+    "w": 0.0221,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 141,
+   "form": "Ouboutou",
+   "gloss": "A Commander in chief, or General",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3307,
+    "y": 0.5085,
+    "w": 0.0248,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 142,
+   "form": "Ouboutounum",
+   "gloss": "A Commander in chief, or General (plural)",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3307,
+    "y": 0.5085,
+    "w": 0.0248,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 143,
+   "form": "Tiouboutoumali arici",
+   "gloss": "A Lieutenant",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3307,
+    "y": 0.5085,
+    "w": 0.0248,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 144,
+   "form": "Netoukouiti",
+   "gloss": "A Souldier or Warriour",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3307,
+    "y": 0.5679,
+    "w": 0.0248,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 145,
+   "form": "Arikouti",
+   "gloss": "A Sentinel, or Spie",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3298,
+    "y": 0.5991,
+    "w": 0.0257,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 146,
+   "form": "Nabara",
+   "gloss": "A Sentinel, or Spie",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3298,
+    "y": 0.5991,
+    "w": 0.0257,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 147,
+   "form": "Nïouitouli",
+   "gloss": "My Prisoner of war",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3298,
+    "y": 0.631,
+    "w": 0.0257,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 148,
+   "form": "Niouemakali",
+   "gloss": "My Prisoner of war",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3298,
+    "y": 0.631,
+    "w": 0.0257,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 149,
+   "form": "Niouakaiti",
+   "gloss": "He who hath the charge of entertaining Guests",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3292,
+    "y": 0.6616,
+    "w": 0.0263,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 150,
+   "form": "Nabouyou",
+   "gloss": "My hired servant, such as the Christians have",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3292,
+    "y": 0.6966,
+    "w": 0.0263,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 151,
+   "form": "Tamon",
+   "gloss": "A servant who is an absolute Slave",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3292,
+    "y": 0.7315,
+    "w": 0.0263,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 152,
+   "form": "Ekerouti",
+   "gloss": "A Huntsman",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3295,
+    "y": 0.7665,
+    "w": 0.026,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 153,
+   "form": "Tibouleli",
+   "gloss": "Fat",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "FAT (OILY)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3301,
+    "y": 0.7818,
+    "w": 0.0254,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 154,
+   "form": "Touleeli",
+   "gloss": "Lean",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "LEAN (MEAT)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3319,
+    "y": 0.7977,
+    "w": 0.0236,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 155,
+   "form": "Mouchipeeli",
+   "gloss": "Great",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3316,
+    "y": 0.8142,
+    "w": 0.0239,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 156,
+   "form": "Ouboutonti",
+   "gloss": "Big",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "BIG"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3307,
+    "y": 0.8285,
+    "w": 0.0248,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 157,
+   "form": "Nianti, racu",
+   "gloss": "Little",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3313,
+    "y": 0.8443,
+    "w": 0.0242,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 158,
+   "form": "Pikenine",
+   "gloss": "Pretty little one",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3319,
+    "y": 0.8595,
+    "w": 0.0236,
+    "h": 0.0156,
+    "approx": true
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source labels it the \"bastard language\"; ancestor of pickaninny.",
+    "compare": "Portuguese pequenino, Spanish pequeñín \"little one\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 159,
+   "form": "Inouti",
+   "gloss": "High",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "HIGH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6388,
+    "y": 0.1545,
+    "w": 0.1273,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 160,
+   "form": "Onabouti",
+   "gloss": "Low",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "LOW"
+   ]
+  },
+  {
+   "n": 161,
+   "form": "Ouliliti",
+   "gloss": "Deep",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "DEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3591,
+    "y": 0.1846,
+    "w": 0.5056,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 162,
+   "form": "Anianliti",
+   "gloss": "Deep",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "DEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3591,
+    "y": 0.1846,
+    "w": 0.5056,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 163,
+   "form": "Taboubéreti",
+   "gloss": "Broad",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "BROAD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3566,
+    "y": 0.1998,
+    "w": 0.4815,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 164,
+   "form": "Mouchinagouti",
+   "gloss": "Long",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "LONG"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3566,
+    "y": 0.2152,
+    "w": 0.4815,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 165,
+   "form": "Chiririti",
+   "gloss": "Round",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "ROUND"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3588,
+    "y": 0.2305,
+    "w": 0.4412,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 166,
+   "form": "Patagouti",
+   "gloss": "Square",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "SQUARE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3588,
+    "y": 0.2444,
+    "w": 0.4574,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 167,
+   "form": "Bouitouti",
+   "gloss": "Fair",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.64,
+    "y": 0.2619,
+    "w": 0.1545,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 168,
+   "form": "Nianti ichibou",
+   "gloss": "Deformed",
+   "section": "III. CONDITIONS and QUALITIES."
+  },
+  {
+   "n": 169,
+   "form": "Nioulouti",
+   "gloss": "Soft",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "SOFT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3576,
+    "y": 0.2917,
+    "w": 0.4351,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 170,
+   "form": "Téleti",
+   "gloss": "Hard",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "HARD"
+   ]
+  },
+  {
+   "n": 171,
+   "form": "Ouärrou",
+   "gloss": "Dry",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "DRY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6385,
+    "y": 0.3239,
+    "w": 0.2507,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 172,
+   "form": "Ouärrouti",
+   "gloss": "Dry",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "DRY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6385,
+    "y": 0.3239,
+    "w": 0.2507,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 173,
+   "form": "Kouchakouali",
+   "gloss": "Moist",
+   "section": "III. CONDITIONS and QUALITIES."
+  },
+  {
+   "n": 174,
+   "form": "Alouti",
+   "gloss": "White",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3548,
+    "y": 0.3848,
+    "w": 0.4208,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 175,
+   "form": "Ouliti",
+   "gloss": "Black",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "BLACK"
+   ]
+  },
+  {
+   "n": 176,
+   "form": "Houëreti",
+   "gloss": "Yellow",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "YELLOW"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6373,
+    "y": 0.4161,
+    "w": 0.1673,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 177,
+   "form": "Ponati",
+   "gloss": "Red",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4003,
+    "y": 0.4769,
+    "w": 0.4928,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 178,
+   "form": "Youalouti",
+   "gloss": "A Thief",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "THIEF"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3515,
+    "y": 0.4927,
+    "w": 0.4733,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 179,
+   "form": "Kakouyoukouatiti",
+   "gloss": "An incestuous person",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3539,
+    "y": 0.522,
+    "w": 0.4296,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 180,
+   "form": "Oulimateti",
+   "gloss": "An Adulterer",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3539,
+    "y": 0.5384,
+    "w": 0.5267,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 181,
+   "form": "Huereti",
+   "gloss": "A Fornicator",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.3521,
+    "y": 0.5535,
+    "w": 0.4937,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 182,
+   "form": "Oulibimekoali",
+   "gloss": "Quarrelsome",
+   "section": "III. CONDITIONS and QUALITIES."
+  },
+  {
+   "n": 183,
+   "form": "Koauaiti",
+   "gloss": "Quarrelsome",
+   "section": "III. CONDITIONS and QUALITIES."
+  },
+  {
+   "n": 184,
+   "form": "Nirobouteiti",
+   "gloss": "A treacherous person",
+   "section": "III. CONDITIONS and QUALITIES."
+  },
+  {
+   "n": 185,
+   "form": "Oulibati",
+   "gloss": "Evil",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "EVIL"
+   ]
+  },
+  {
+   "n": 186,
+   "form": "Nianouanti",
+   "gloss": "Evil",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "EVIL"
+   ]
+  },
+  {
+   "n": 187,
+   "form": "Iroponti",
+   "gloss": "Good",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.633,
+    "y": 0.648,
+    "w": 0.1484,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 188,
+   "form": "Kanichicoti",
+   "gloss": "Wise",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "WISE"
+   ]
+  },
+  {
+   "n": 189,
+   "form": "Manigat",
+   "gloss": "Cunning",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "CUNNING"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4562,
+    "y": 0.6764,
+    "w": 0.3545,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 190,
+   "form": "Leuleuti ao",
+   "gloss": "A fool",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "FOOL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6318,
+    "y": 0.6928,
+    "w": 0.2885,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 191,
+   "form": "Talouali ao",
+   "gloss": "A fool",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "FOOL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6318,
+    "y": 0.6928,
+    "w": 0.2885,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 192,
+   "form": "Ballinumpti",
+   "gloss": "Valiant",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.6321,
+    "y": 0.756,
+    "w": 0.1933,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 193,
+   "form": "Abaouati",
+   "gloss": "Cowardly",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "COWARDLY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6321,
+    "y": 0.756,
+    "w": 0.1933,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 194,
+   "form": "Aouerekoua",
+   "gloss": "Joyful",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.6311,
+    "y": 0.77,
+    "w": 0.2858,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 195,
+   "form": "Liouani",
+   "gloss": "Joyful",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.6311,
+    "y": 0.77,
+    "w": 0.2858,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 196,
+   "form": "Imouemeti",
+   "gloss": "Sad",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "SAD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6315,
+    "y": 0.785,
+    "w": 0.1612,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 197,
+   "form": "Nitimaïnti",
+   "gloss": "Drunk",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "DRUNK"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6302,
+    "y": 0.8002,
+    "w": 0.1933,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 198,
+   "form": "Katakobaiti",
+   "gloss": "Rich",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "RICH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6296,
+    "y": 0.8161,
+    "w": 0.1762,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 199,
+   "form": "Matakobaiti",
+   "gloss": "Poor",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "POOR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6296,
+    "y": 0.8315,
+    "w": 0.1795,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 200,
+   "form": "Chouchouti",
+   "gloss": "Picquant",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "box": {
+    "page": 3,
+    "x": 0.6287,
+    "y": 0.8479,
+    "w": 0.2122,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 201,
+   "form": "Neketali",
+   "gloss": "Dead",
+   "section": "III. CONDITIONS and QUALITIES.",
+   "concepts": [
+    "DEAD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.629,
+    "y": 0.862,
+    "w": 0.1554,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 202,
+   "form": "Moingatteti loné",
+   "gloss": "HE puts his trust in him",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.1009,
+    "y": 0.233,
+    "w": 0.1988,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 203,
+   "form": "Jacaba",
+   "gloss": "Stay for me",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0694,
+    "y": 0.2522,
+    "w": 0.2862,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 204,
+   "form": "Noubara",
+   "gloss": "Stay for me",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0694,
+    "y": 0.2522,
+    "w": 0.2862,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 205,
+   "form": "Alliré",
+   "gloss": "Hope, expect",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0694,
+    "y": 0.2637,
+    "w": 0.1866,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 206,
+   "form": "Emenichiraba",
+   "gloss": "Hope in him",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0694,
+    "y": 0.2796,
+    "w": 0.2565,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 207,
+   "form": "Ementchira",
+   "gloss": "Hope",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "HOPE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.0688,
+    "y": 0.2955,
+    "w": 0.1781,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 208,
+   "form": "Nemenichiraeu",
+   "gloss": "My hope",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "HOPE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.0685,
+    "y": 0.3104,
+    "w": 0.2352,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 209,
+   "form": "Ninonnoubouli",
+   "gloss": "My fear",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "FEAR (FRIGHT)"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.0688,
+    "y": 0.3261,
+    "w": 0.2407,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 210,
+   "form": "Naoueregon",
+   "gloss": "My joy",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "JOY"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.0685,
+    "y": 0.3423,
+    "w": 0.2872,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 211,
+   "form": "Niouanni",
+   "gloss": "My joy",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "JOY"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.0685,
+    "y": 0.3423,
+    "w": 0.2872,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 212,
+   "form": "Nitikaboué",
+   "gloss": "My sadness",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0685,
+    "y": 0.3723,
+    "w": 0.2245,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 213,
+   "form": "Emeïgnouali",
+   "gloss": "He is born",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0676,
+    "y": 0.3871,
+    "w": 0.2333,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 214,
+   "form": "Halea tibou",
+   "gloss": "You are welcome",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.067,
+    "y": 0.4018,
+    "w": 0.2791,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 215,
+   "form": "Lamanatina",
+   "gloss": "I am hungry",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0676,
+    "y": 0.416,
+    "w": 0.2569,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 216,
+   "form": "Nacrabatina",
+   "gloss": "I am thirsty",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0676,
+    "y": 0.4334,
+    "w": 0.241,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 217,
+   "form": "Yerebalium boman",
+   "gloss": "Give me to eat, or give me some bread",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0801,
+    "y": 0.4637,
+    "w": 0.2736,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 218,
+   "form": "Nouboute um boman",
+   "gloss": "Give me to eat, or give me some bread",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0771,
+    "y": 0.4786,
+    "w": 0.248,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 219,
+   "form": "Natoni boman",
+   "gloss": "Give me some drink",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0667,
+    "y": 0.4951,
+    "w": 0.289,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 220,
+   "form": "Baika",
+   "gloss": "Eat, in the Imperative",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0655,
+    "y": 0.5266,
+    "w": 0.2902,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 221,
+   "form": "Aika",
+   "gloss": "To eat, in the Infinitive, which is seldome used",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.089,
+    "y": 0.5553,
+    "w": 0.1961,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 222,
+   "form": "Naikiem",
+   "gloss": "I eat",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0655,
+    "y": 0.5705,
+    "w": 0.2193,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 223,
+   "form": "Kouraba",
+   "gloss": "Drink thou",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0655,
+    "y": 0.5859,
+    "w": 0.2092,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 224,
+   "form": "Natiem",
+   "gloss": "I drink",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0652,
+    "y": 0.602,
+    "w": 0.2905,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 225,
+   "form": "Natakayem",
+   "gloss": "I drink",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0652,
+    "y": 0.602,
+    "w": 0.2905,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 226,
+   "form": "Nacharoüatina",
+   "gloss": "I am warm with drinking, or have drunk plentifully",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0652,
+    "y": 0.6322,
+    "w": 0.2905,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 227,
+   "form": "Hac-yeté",
+   "gloss": "Come hither",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0664,
+    "y": 0.6624,
+    "w": 0.2123,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 228,
+   "form": "Bayouboukaa",
+   "gloss": "Go thy wayes",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.067,
+    "y": 0.6787,
+    "w": 0.2703,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 229,
+   "form": "Ariangaba",
+   "gloss": "Speak",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "SPEAK"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.0664,
+    "y": 0.6945,
+    "w": 0.1805,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 230,
+   "form": "Nanangayem",
+   "gloss": "I speak",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0664,
+    "y": 0.7097,
+    "w": 0.2187,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 231,
+   "form": "Maniba",
+   "gloss": "Hold thy peace",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0667,
+    "y": 0.7245,
+    "w": 0.2162,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 232,
+   "form": "Niourouba",
+   "gloss": "Sit down",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0664,
+    "y": 0.7385,
+    "w": 0.2101,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 233,
+   "form": "Raoignaba",
+   "gloss": "Lie down on the ground",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.067,
+    "y": 0.7556,
+    "w": 0.2887,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 234,
+   "form": "Aganekaba",
+   "gloss": "Rise up",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0676,
+    "y": 0.786,
+    "w": 0.193,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 235,
+   "form": "Raramaba",
+   "gloss": "Stand up",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0673,
+    "y": 0.7997,
+    "w": 0.1973,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 236,
+   "form": "Arikaba",
+   "gloss": "Look",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "LOOK"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.0679,
+    "y": 0.816,
+    "w": 0.1536,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 237,
+   "form": "Akambabaë",
+   "gloss": "Hear",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "HEAR"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.0679,
+    "y": 0.8317,
+    "w": 0.1778,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 238,
+   "form": "Irimichaba",
+   "gloss": "Blow",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "BLOW (OF WIND)"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.0688,
+    "y": 0.8454,
+    "w": 0.1662,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 239,
+   "form": "Aochabaë",
+   "gloss": "Tast it",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.0679,
+    "y": 0.8608,
+    "w": 0.1784,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 240,
+   "form": "Kourouabaë",
+   "gloss": "Touch it",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "TOUCH"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.0685,
+    "y": 0.8765,
+    "w": 0.2872,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 241,
+   "form": "Bayoubaka",
+   "gloss": "Go",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "GO"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3693,
+    "y": 0.1466,
+    "w": 0.153,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 242,
+   "form": "Nayoubakayem",
+   "gloss": "I go",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3693,
+    "y": 0.1616,
+    "w": 0.2098,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 243,
+   "form": "Babachiaka",
+   "gloss": "Walk",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "WALK"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3699,
+    "y": 0.1765,
+    "w": 0.1854,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 244,
+   "form": "Hehemba",
+   "gloss": "Run",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "RUN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.369,
+    "y": 0.1918,
+    "w": 0.1497,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 245,
+   "form": "Babenaka",
+   "gloss": "Dance",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "DANCE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3681,
+    "y": 0.2073,
+    "w": 0.1701,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 246,
+   "form": "Nabinakayem",
+   "gloss": "I dance",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3681,
+    "y": 0.2073,
+    "w": 0.1701,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 247,
+   "form": "Choubakouaba",
+   "gloss": "Leap",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3681,
+    "y": 0.238,
+    "w": 0.2114,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 248,
+   "form": "Choubakoua niabou",
+   "gloss": "I am going, or about to leap",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3919,
+    "y": 0.2684,
+    "w": 0.2043,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 249,
+   "form": "Béérraka",
+   "gloss": "Laugh",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "LAUGH"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3678,
+    "y": 0.283,
+    "w": 0.1628,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 250,
+   "form": "Naouërekoyem",
+   "gloss": "I laugh or am glad",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3684,
+    "y": 0.3001,
+    "w": 0.2831,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 251,
+   "form": "Ayakouaba",
+   "gloss": "Weep",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3678,
+    "y": 0.3304,
+    "w": 0.1759,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 252,
+   "form": "Baronka",
+   "gloss": "Sleep",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3678,
+    "y": 0.3452,
+    "w": 0.2138,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 253,
+   "form": "Akakotouäba",
+   "gloss": "Awake",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "AWAKE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3671,
+    "y": 0.36,
+    "w": 0.2138,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 254,
+   "form": "Aromankaba",
+   "gloss": "Watch",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "WATCH"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3687,
+    "y": 0.3756,
+    "w": 0.2019,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 255,
+   "form": "Youategmali",
+   "gloss": "Labour or pains-taking",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3681,
+    "y": 0.3919,
+    "w": 0.2846,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 256,
+   "form": "Noumaniklé",
+   "gloss": "Labour or pains-taking",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.38,
+    "y": 0.4076,
+    "w": 0.2718,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 257,
+   "form": "Nemervoni",
+   "gloss": "Rest",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "REST"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3665,
+    "y": 0.4226,
+    "w": 0.1671,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 258,
+   "form": "Tibouikenoumali",
+   "gloss": "A Fight",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "FIGHT"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3656,
+    "y": 0.4376,
+    "w": 0.2901,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 259,
+   "form": "Nainchoa",
+   "gloss": "War",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "WAR"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3656,
+    "y": 0.453,
+    "w": 0.2901,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 260,
+   "form": "Nihuctoukouli",
+   "gloss": "War",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "WAR"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3656,
+    "y": 0.4685,
+    "w": 0.2901,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 261,
+   "form": "Niuëmboulouli",
+   "gloss": "Peace",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "PEACE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3653,
+    "y": 0.4839,
+    "w": 0.2205,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 262,
+   "form": "Niouellemainti",
+   "gloss": "He is defeated",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3653,
+    "y": 0.4994,
+    "w": 0.2282,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 263,
+   "form": "Enepali",
+   "gloss": "He is overcome",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3662,
+    "y": 0.5149,
+    "w": 0.2282,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 264,
+   "form": "Aouraba banichi",
+   "gloss": "Breathe",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "BREATHE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3662,
+    "y": 0.5374,
+    "w": 0.2282,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 265,
+   "form": "Phoubaë",
+   "gloss": "Blow",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "BLOW (OF WIND)"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3668,
+    "y": 0.56,
+    "w": 0.1506,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 266,
+   "form": "Chouëba",
+   "gloss": "Spit",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "SPIT"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3668,
+    "y": 0.5753,
+    "w": 0.1457,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 267,
+   "form": "Hymba",
+   "gloss": "Cough",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "COUGH"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3662,
+    "y": 0.5912,
+    "w": 0.1448,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 268,
+   "form": "Nainraba",
+   "gloss": "Wipe thy nose",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3662,
+    "y": 0.6063,
+    "w": 0.237,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 269,
+   "form": "Homoura",
+   "gloss": "To ease ones self",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3662,
+    "y": 0.6214,
+    "w": 0.237,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 270,
+   "form": "Chibaba",
+   "gloss": "Wash thy self",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3662,
+    "y": 0.6365,
+    "w": 0.237,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 271,
+   "form": "Touba boubara",
+   "gloss": "Moisten",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "MOISTEN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3659,
+    "y": 0.6516,
+    "w": 0.237,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 272,
+   "form": "Akao bouka",
+   "gloss": "Go to wash thy self",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3659,
+    "y": 0.6678,
+    "w": 0.2853,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 273,
+   "form": "Napouloukayem",
+   "gloss": "I swim",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3659,
+    "y": 0.6841,
+    "w": 0.2608,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 274,
+   "form": "Capouloukatiti",
+   "gloss": "I swim well",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3659,
+    "y": 0.699,
+    "w": 0.266,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 275,
+   "form": "Chalalaali",
+   "gloss": "He was drown'd",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3659,
+    "y": 0.7127,
+    "w": 0.2593,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 276,
+   "form": "Niarakouäli",
+   "gloss": "He was choak'd",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3659,
+    "y": 0.7285,
+    "w": 0.2721,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 277,
+   "form": "Talaba",
+   "gloss": "Open",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "OPEN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3665,
+    "y": 0.7448,
+    "w": 0.1335,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 278,
+   "form": "Taba",
+   "gloss": "Shut it",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "SHUT"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3665,
+    "y": 0.7599,
+    "w": 0.1622,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 279,
+   "form": "Aloukaba",
+   "gloss": "Seek",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.3656,
+    "y": 0.7749,
+    "w": 0.1622,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 280,
+   "form": "Ibikouabaë",
+   "gloss": "Find",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "FIND"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3647,
+    "y": 0.7901,
+    "w": 0.1723,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 281,
+   "form": "Hamamba",
+   "gloss": "Fly",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "FLY (INSECT)"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.365,
+    "y": 0.8059,
+    "w": 0.1472,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 282,
+   "form": "Batikeroyen",
+   "gloss": "Thou fallest",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 4,
+    "x": 0.365,
+    "y": 0.821,
+    "w": 0.2843,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 283,
+   "form": "Aboulekouabaë",
+   "gloss": "Loose it",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "LOOSE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3662,
+    "y": 0.8364,
+    "w": 0.2825,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 284,
+   "form": "Kebeciketabaë",
+   "gloss": "Sell it",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "SELL"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3656,
+    "y": 0.8501,
+    "w": 0.2153,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 285,
+   "form": "A mouliakaba",
+   "gloss": "Buy",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "BUY"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3662,
+    "y": 0.8672,
+    "w": 0.1842,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 286,
+   "form": "Haouanemeti",
+   "gloss": "He trades",
+   "section": "IV. ACTIONS and PASSIONS."
+  },
+  {
+   "n": 287,
+   "form": "Ekrekabouca",
+   "gloss": "Go a hunting",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3416,
+    "y": 0.1312,
+    "w": 0.0142,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 288,
+   "form": "Nekeren",
+   "gloss": "That which I have taken in hunting",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3431,
+    "y": 0.1518,
+    "w": 0.0127,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 289,
+   "form": "Kachienratiti",
+   "gloss": "He shoots well with the Bow",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3425,
+    "y": 0.1771,
+    "w": 0.0133,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 290,
+   "form": "Boukatiti",
+   "gloss": "He shoots well with the Bow",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3425,
+    "y": 0.1771,
+    "w": 0.0133,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 291,
+   "form": "Katouratiti",
+   "gloss": "He shoots well with a gun",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3425,
+    "y": 0.1771,
+    "w": 0.0133,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 292,
+   "form": "Tikabouka authe",
+   "gloss": "Go a fishing",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.341,
+    "y": 0.2394,
+    "w": 0.0149,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 293,
+   "form": "Natiakayem",
+   "gloss": "I fish",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3395,
+    "y": 0.2548,
+    "w": 0.0164,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 294,
+   "form": "Natiakani",
+   "gloss": "What I have got a fishing",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3395,
+    "y": 0.2548,
+    "w": 0.0164,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 295,
+   "form": "Abourricaali",
+   "gloss": "He is come into the Port",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3383,
+    "y": 0.3002,
+    "w": 0.0176,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 296,
+   "form": "Nallalakayem",
+   "gloss": "I sing in the Church",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3361,
+    "y": 0.3308,
+    "w": 0.0197,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 297,
+   "form": "Naromankayem",
+   "gloss": "I sing a song",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3337,
+    "y": 0.3615,
+    "w": 0.0222,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 298,
+   "form": "Ichoatoati tao",
+   "gloss": "He is in love with her, or makes much of her",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3337,
+    "y": 0.3849,
+    "w": 0.0237,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 299,
+   "form": "Chouba nioumolougou",
+   "gloss": "Kiss me",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3322,
+    "y": 0.4082,
+    "w": 0.0237,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 300,
+   "form": "Yetikleé yatek",
+   "gloss": "I would be named, name me",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3315,
+    "y": 0.4403,
+    "w": 0.0243,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 301,
+   "form": "Kinchinti loné",
+   "gloss": "He loves him",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3303,
+    "y": 0.472,
+    "w": 0.0255,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 302,
+   "form": "Tibouinati",
+   "gloss": "He loves him",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3303,
+    "y": 0.472,
+    "w": 0.0255,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 303,
+   "form": "Yerekati loné",
+   "gloss": "He hates him",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3282,
+    "y": 0.5019,
+    "w": 0.0277,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 304,
+   "form": "Liouelébouli",
+   "gloss": "A quarrel",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "QUARREL"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3279,
+    "y": 0.5161,
+    "w": 0.028,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 305,
+   "form": "Liuetimali",
+   "gloss": "Drunkenness",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.327,
+    "y": 0.5314,
+    "w": 0.0289,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 306,
+   "form": "Baikoaba",
+   "gloss": "Strike, beat",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3264,
+    "y": 0.5455,
+    "w": 0.0295,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 307,
+   "form": "Abaichaglé",
+   "gloss": "A whip or wand",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "WHIP"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3264,
+    "y": 0.5617,
+    "w": 0.0295,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 308,
+   "form": "Apparabaë",
+   "gloss": "Beat him",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3257,
+    "y": 0.5768,
+    "w": 0.0301,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 309,
+   "form": "Kiomba",
+   "gloss": "Scratch",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "SCRATCH"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3254,
+    "y": 0.5925,
+    "w": 0.0304,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 310,
+   "form": "Chiouibae",
+   "gloss": "Kill him",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3251,
+    "y": 0.6072,
+    "w": 0.0307,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 311,
+   "form": "Atouattienly",
+   "gloss": "He is well",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3245,
+    "y": 0.6232,
+    "w": 0.0313,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 312,
+   "form": "Nanegaeti",
+   "gloss": "He is sick",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3233,
+    "y": 0.6394,
+    "w": 0.0326,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 313,
+   "form": "Nanneteiti",
+   "gloss": "He is sick",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3233,
+    "y": 0.6394,
+    "w": 0.0326,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 314,
+   "form": "Aneck",
+   "gloss": "Sickness",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3224,
+    "y": 0.6698,
+    "w": 0.0335,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 315,
+   "form": "Naraliatina",
+   "gloss": "He hath bewitched me",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3218,
+    "y": 0.6866,
+    "w": 0.0341,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 316,
+   "form": "Nibane bouibatina",
+   "gloss": "I will be revenged",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3205,
+    "y": 0.7169,
+    "w": 0.0353,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 317,
+   "form": "Nayouïbanabouli",
+   "gloss": "Revenge",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "REVENGE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3205,
+    "y": 0.7467,
+    "w": 0.0353,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 318,
+   "form": "Kerrelialo",
+   "gloss": "He hath bitten him",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3199,
+    "y": 0.7639,
+    "w": 0.0359,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 319,
+   "form": "Niboukabouali",
+   "gloss": "He is wounded",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3199,
+    "y": 0.7772,
+    "w": 0.0359,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 320,
+   "form": "Nouloukeili",
+   "gloss": "He is yet living",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3196,
+    "y": 0.81,
+    "w": 0.0362,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 321,
+   "form": "Kakekeïli",
+   "gloss": "He is yet living",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3438,
+    "y": 0.8231,
+    "w": 0.0121,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 322,
+   "form": "Lakakechoni",
+   "gloss": "Life",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "concepts": [
+    "LIFE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3184,
+    "y": 0.8379,
+    "w": 0.0375,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 323,
+   "form": "Aouéeli",
+   "gloss": "He is dead",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3166,
+    "y": 0.8551,
+    "w": 0.0393,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 324,
+   "form": "Nikotamainali",
+   "gloss": "He is dead",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.3166,
+    "y": 0.8551,
+    "w": 0.0393,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 325,
+   "form": "Hilaali",
+   "gloss": "He is dead",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.672,
+    "y": 0.1394,
+    "w": 0.2316,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 326,
+   "form": "Bonambaë",
+   "gloss": "Bury him, or it; which is not said only of a man, but generally of whatsoever is put into the ground, as of a Plant",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.668,
+    "y": 0.2012,
+    "w": 0.2621,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 327,
+   "form": "Tonamouli",
+   "gloss": "Buriall",
+   "section": "IV. ACTIONS and PASSIONS.",
+   "box": {
+    "page": 5,
+    "x": 0.6436,
+    "y": 0.2282,
+    "w": 0.1876,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 328,
+   "form": "Authe",
+   "gloss": "A Village",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "VILLAGE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.6937,
+    "y": 0.3639,
+    "w": 0.1442,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 329,
+   "form": "Karbet",
+   "gloss": "A Publick-House",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.6867,
+    "y": 0.3804,
+    "w": 0.2255,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 330,
+   "form": "Toubana",
+   "gloss": "An ordinary house",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.3578,
+    "y": 0.3934,
+    "w": 0.5659,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 331,
+   "form": "Touhonoko",
+   "gloss": "An ordinary house",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.6598,
+    "y": 0.4102,
+    "w": 0.1919,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 332,
+   "form": "Aïoupa",
+   "gloss": "A Penthouse, Covering, or Hut suddenly erected",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.6598,
+    "y": 0.4332,
+    "w": 0.1919,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 333,
+   "form": "Maina",
+   "gloss": "A Garden",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "GARDEN"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.6332,
+    "y": 0.4561,
+    "w": 0.1733,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 334,
+   "form": "Imaïnali",
+   "gloss": "My Garden",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "GARDEN"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.6332,
+    "y": 0.4561,
+    "w": 0.1733,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 335,
+   "form": "Nichali",
+   "gloss": "My Garden",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "GARDEN"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.6332,
+    "y": 0.4876,
+    "w": 0.1974,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 336,
+   "form": "Tomonack",
+   "gloss": "A Trench for the planting of Manioc",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.6567,
+    "y": 0.519,
+    "w": 0.1974,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 337,
+   "form": "Toubana ora",
+   "gloss": "The Roof",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "ROOF"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.6305,
+    "y": 0.5361,
+    "w": 0.2884,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 338,
+   "form": "Kourara",
+   "gloss": "A Wall or Pallisado",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "WALL"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.6296,
+    "y": 0.5808,
+    "w": 0.2694,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 339,
+   "form": "Iboutou",
+   "gloss": "A Plank",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.6268,
+    "y": 0.6244,
+    "w": 0.1797,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 340,
+   "form": "Béna",
+   "gloss": "A door",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "DOOR"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.6268,
+    "y": 0.6411,
+    "w": 0.2884,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 341,
+   "form": "Toullepen",
+   "gloss": "A Window",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "WINDOW"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.625,
+    "y": 0.6578,
+    "w": 0.2884,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 342,
+   "form": "Amac",
+   "gloss": "A Bed",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "BED"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.625,
+    "y": 0.6727,
+    "w": 0.2884,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 343,
+   "form": "Akat",
+   "gloss": "A Bed",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "BED"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.625,
+    "y": 0.6877,
+    "w": 0.2884,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 344,
+   "form": "Nekera",
+   "gloss": "A Bed",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "BED"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.6479,
+    "y": 0.7026,
+    "w": 0.1168,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 345,
+   "form": "Matoutou",
+   "gloss": "A Table",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "TABLE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.6479,
+    "y": 0.7177,
+    "w": 0.1607,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 346,
+   "form": "Halaheu",
+   "gloss": "A Seat",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.6228,
+    "y": 0.7329,
+    "w": 0.1607,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 347,
+   "form": "Tonoulou-banna",
+   "gloss": "A Cage",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "CAGE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.6219,
+    "y": 0.7486,
+    "w": 0.2395,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 348,
+   "form": "Takae",
+   "gloss": "A Vessel",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.6219,
+    "y": 0.7725,
+    "w": 0.3,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 349,
+   "form": "Couï",
+   "gloss": "A Vessel made of a Gourd",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.621,
+    "y": 0.7964,
+    "w": 0.3,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 350,
+   "form": "Youla",
+   "gloss": "The wooden frame which serves for a Gridiron (called Boucan by other Savages)",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.621,
+    "y": 0.8112,
+    "w": 0.3,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 351,
+   "form": "Tauba",
+   "gloss": "Half the Couï, which serves for a dish",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 5,
+    "x": 0.6384,
+    "y": 0.8259,
+    "w": 0.2661,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 352,
+   "form": "Ritta-",
+   "gloss": "A Drinking-cup",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE."
+  },
+  {
+   "n": 353,
+   "form": "Boutella",
+   "gloss": "A Glass, Flagon, bottle",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0672,
+    "y": 0.1475,
+    "w": 0.2883,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source says \"from the Spanish\".",
+    "compare": "Spanish botella \"bottle\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 354,
+   "form": "Touraë",
+   "gloss": "An Iron Pot or Kettle",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "IRON",
+    "POT"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0635,
+    "y": 0.2377,
+    "w": 0.292,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 355,
+   "form": "Taumali akaë",
+   "gloss": "An Earthen Pot",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0632,
+    "y": 0.2515,
+    "w": 0.2864,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 356,
+   "form": "Canary",
+   "gloss": "An Earthen Pot",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.055,
+    "y": 0.2682,
+    "w": 0.1542,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 357,
+   "form": "Taketaklé",
+   "gloss": "A Candlestick, or any thing that holds a thing",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0739,
+    "y": 0.2978,
+    "w": 0.2748,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 358,
+   "form": "Touli",
+   "gloss": "A Candle, Lamp, Torch",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0614,
+    "y": 0.3153,
+    "w": 0.2941,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 359,
+   "form": "Tachackoutaglé",
+   "gloss": "A pair of snuffers",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0598,
+    "y": 0.361,
+    "w": 0.2867,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 360,
+   "form": "Keouë",
+   "gloss": "A Hook",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "HOOK"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0595,
+    "y": 0.3903,
+    "w": 0.1606,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 361,
+   "form": "Akoucha",
+   "gloss": "A needle",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "NEEDLE (CLASSIFIER)"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.058,
+    "y": 0.4056,
+    "w": 0.1869,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "European-introduced iron needle with Spanish name.",
+    "compare": "Spanish aguja \"needle\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 362,
+   "form": "Alopholer",
+   "gloss": "A pin",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "PIN"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0589,
+    "y": 0.422,
+    "w": 0.174,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Close match a-l-f-l-r.",
+    "compare": "Spanish alfiler \"pin\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 363,
+   "form": "Arka",
+   "gloss": "A Coffer",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0574,
+    "y": 0.4362,
+    "w": 0.145,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "European chest.",
+    "compare": "Spanish/Portuguese arca \"chest, coffer\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 364,
+   "form": "Alaouata",
+   "gloss": "A basket",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "BASKET"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0574,
+    "y": 0.4525,
+    "w": 0.2565,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 365,
+   "form": "Catoli",
+   "gloss": "A basket",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "BASKET"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0574,
+    "y": 0.4525,
+    "w": 0.2565,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 366,
+   "form": "Mouchache",
+   "gloss": "The hair-cloth to sift the meal of the Manioc, and to strain the Ouïcou",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0791,
+    "y": 0.4987,
+    "w": 0.2412,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 367,
+   "form": "Tekeric",
+   "gloss": "Flesh that may be eaten",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0519,
+    "y": 0.5156,
+    "w": 0.3036,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 368,
+   "form": "Aribelet",
+   "gloss": "Roast-meat",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0556,
+    "y": 0.5452,
+    "w": 0.2876,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 369,
+   "form": "Acherouti",
+   "gloss": "Roast-meat",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0556,
+    "y": 0.5452,
+    "w": 0.2876,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 370,
+   "form": "Taomali",
+   "gloss": "Sauce",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "SAUCE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.055,
+    "y": 0.5743,
+    "w": 0.2696,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 371,
+   "form": "Taumali",
+   "gloss": "Sauce",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "SAUCE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.055,
+    "y": 0.5743,
+    "w": 0.2696,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 372,
+   "form": "Natara",
+   "gloss": "A dish of hash'd meat",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0547,
+    "y": 0.5909,
+    "w": 0.2773,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 373,
+   "form": "Natoni",
+   "gloss": "A Feast",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0547,
+    "y": 0.6069,
+    "w": 0.2876,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 374,
+   "form": "Laupali",
+   "gloss": "A Feast",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0547,
+    "y": 0.6069,
+    "w": 0.2876,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 375,
+   "form": "Eletoak",
+   "gloss": "A Feast",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0547,
+    "y": 0.6069,
+    "w": 0.2876,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 376,
+   "form": "Tiboukoulou",
+   "gloss": "Poison",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "POISON"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0547,
+    "y": 0.6377,
+    "w": 0.3008,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 377,
+   "form": "Tibaukoura",
+   "gloss": "Poison",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "POISON"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0785,
+    "y": 0.6525,
+    "w": 0.2467,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 378,
+   "form": "Eberitina",
+   "gloss": "Merchandise",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "MERCHANDISE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0547,
+    "y": 0.6679,
+    "w": 0.2241,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 379,
+   "form": "Baouanemoukou",
+   "gloss": "A Merchant",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "MERCHANT"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.054,
+    "y": 0.6825,
+    "w": 0.3015,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 380,
+   "form": "Canaoüa",
+   "gloss": "A Piraga, or great vessel of the Savages",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0553,
+    "y": 0.6994,
+    "w": 0.3002,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 381,
+   "form": "Couliala",
+   "gloss": "A little vessel of the Savages, which we call Canow",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Cariban-origin item outside the explicitly marked men's words; Island Carib absorbed Kalina vocabulary.",
+    "compare": "Kari'na kuriara \"canoe\" (> Spanish curiara)",
+    "checked": false
+   },
+   "box": {
+    "page": 6,
+    "x": 0.0553,
+    "y": 0.7379,
+    "w": 0.3015,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 382,
+   "form": "Kanabire",
+   "gloss": "A Ship",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.054,
+    "y": 0.7764,
+    "w": 0.3015,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source itself suggests derivation from navire.",
+    "compare": "French navire \"ship\" (Spanish navío)",
+    "checked": false
+   }
+  },
+  {
+   "n": 383,
+   "form": "Ibitarrou",
+   "gloss": "A Cord",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0553,
+    "y": 0.8212,
+    "w": 0.1737,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 384,
+   "form": "Kaboya",
+   "gloss": "A Cable",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.0547,
+    "y": 0.8371,
+    "w": 0.3008,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source says coined after contact; Spanish cabuya is the colonial rope term.",
+    "compare": "Spanish cabuya \"fibre rope\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 385,
+   "form": "Tichibani",
+   "gloss": "An Anchor",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "ANCHOR"
+   ]
+  },
+  {
+   "n": 386,
+   "form": "Ankouroute",
+   "gloss": "An Anchor",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "ANCHOR"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3911,
+    "y": 0.1914,
+    "w": 0.1292,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 387,
+   "form": "Couchique",
+   "gloss": "A Knife",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3911,
+    "y": 0.2073,
+    "w": 0.1762,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 388,
+   "form": "Chirachi",
+   "gloss": "Scissers",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.3655,
+    "y": 0.2233,
+    "w": 0.1762,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 389,
+   "form": "Mouche",
+   "gloss": "Much",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "MUCH"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source labels it corrupt language.",
+    "compare": "Spanish mucho \"much\"",
+    "checked": false
+   },
+   "box": {
+    "page": 6,
+    "x": 0.3655,
+    "y": 0.2461,
+    "w": 0.2861,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 390,
+   "form": "Chonnoucabo raim",
+   "gloss": "Ten",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3652,
+    "y": 0.2689,
+    "w": 0.2861,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 391,
+   "form": "Chonnougouci raim",
+   "gloss": "Twenty",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "TWENTY"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3652,
+    "y": 0.2689,
+    "w": 0.2861,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 392,
+   "form": "Bouekra",
+   "gloss": "Behold thy bed",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.3612,
+    "y": 0.3929,
+    "w": 0.3078,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 393,
+   "form": "En yerebaili",
+   "gloss": "Behold thy meat",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.36,
+    "y": 0.4083,
+    "w": 0.287,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 394,
+   "form": "En batoni",
+   "gloss": "Behold thy drink",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.3615,
+    "y": 0.4227,
+    "w": 0.2736,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 395,
+   "form": "Tao",
+   "gloss": "Gramercy, or well",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "WELL"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3597,
+    "y": 0.44,
+    "w": 0.2198,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 396,
+   "form": "Anhan",
+   "gloss": "Yes",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3594,
+    "y": 0.455,
+    "w": 0.1151,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 397,
+   "form": "Ouä",
+   "gloss": "Nay",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.3594,
+    "y": 0.4778,
+    "w": 0.2208,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 398,
+   "form": "Alouka",
+   "gloss": "To morrow",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.3591,
+    "y": 0.5007,
+    "w": 0.2208,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 399,
+   "form": "Mabouë",
+   "gloss": "Good morrow",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
+   "box": {
+    "page": 6,
+    "x": 0.3591,
+    "y": 0.5007,
+    "w": 0.2208,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 400,
+   "form": "Huican",
+   "gloss": "Farewel",
+   "section": "V. Things relating to HOUSE-KEEPING and TRADE."
+  },
+  {
+   "n": 401,
+   "form": "Cacones",
+   "gloss": "TOyes and trifles in generall",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "box": {
+    "page": 6,
+    "x": 0.4547,
+    "y": 0.6525,
+    "w": 0.0931,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 402,
+   "form": "Tiamataboni",
+   "gloss": "A Crown",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "CROWN (OF HEAD)"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3557,
+    "y": 0.6677,
+    "w": 0.2269,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 403,
+   "form": "Toukabouri",
+   "gloss": "A Ring",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "RING"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3557,
+    "y": 0.6912,
+    "w": 0.2269,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 404,
+   "form": "Eneka",
+   "gloss": "A Chain or Necklace",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "CHAIN",
+    "NECKLACE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3557,
+    "y": 0.7147,
+    "w": 0.2009,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 405,
+   "form": "Yenekali",
+   "gloss": "My Chain",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "CHAIN"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3557,
+    "y": 0.7147,
+    "w": 0.2009,
+    "h": 0.0156
+   }
+  },
+  {
+   "n": 406,
+   "form": "Nournari",
+   "gloss": "A Bracelet",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "BRACELET"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3557,
+    "y": 0.7325,
+    "w": 0.2009,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 407,
+   "form": "Narikaela",
+   "gloss": "Pendants for the ears",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "box": {
+    "page": 6,
+    "x": 0.3557,
+    "y": 0.7502,
+    "w": 0.2009,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 408,
+   "form": "Jeconti",
+   "gloss": "A Girdle",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "box": {
+    "page": 6,
+    "x": 0.3557,
+    "y": 0.768,
+    "w": 0.2009,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 409,
+   "form": "Niranvary",
+   "gloss": "A Girdle",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "box": {
+    "page": 6,
+    "x": 0.3557,
+    "y": 0.7858,
+    "w": 0.2009,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 410,
+   "form": "Tichepoulou",
+   "gloss": "Spanish Leather",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "box": {
+    "page": 6,
+    "x": 0.3557,
+    "y": 0.8035,
+    "w": 0.2009,
+    "h": 0.0156,
+    "approx": true
+   }
+  },
+  {
+   "n": 411,
+   "form": "Baïna",
+   "gloss": "A Comb brought out of Europe",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "box": {
+    "page": 6,
+    "x": 0.378,
+    "y": 0.8213,
+    "w": 0.0672,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Gloss specifies a comb brought out of Europe; native reed comb is Boulera.",
+    "compare": "Spanish peine, Portuguese pente \"comb\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 412,
+   "form": "Boulera",
+   "gloss": "A Comb of Reeds",
+   "section": "VI. ORNAMENTS and ARMES."
+  },
+  {
+   "n": 413,
+   "form": "Naïnraglé",
+   "gloss": "A Handkercher",
+   "section": "VI. ORNAMENTS and ARMES."
+  },
+  {
+   "n": 414,
+   "form": "Chibouchi",
+   "gloss": "A Looking-glass",
+   "section": "VI. ORNAMENTS and ARMES."
+  },
+  {
+   "n": 415,
+   "form": "Echoubara",
+   "gloss": "A Sword",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "SWORD"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3429,
+    "y": 0.1366,
+    "w": 0.0126,
+    "h": 0.0154
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "European weapon; e-s-p-d > e-ch-b-r.",
+    "compare": "Spanish espada \"sword\" (cf. Garifuna esúbara)",
+    "checked": false
+   }
+  },
+  {
+   "n": 416,
+   "form": "Rakabouchou",
+   "gloss": "An Arquebuss or Musket",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "box": {
+    "page": 7,
+    "x": 0.3453,
+    "y": 0.1844,
+    "w": 0.5872,
+    "h": 0.0154
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Firearm term.",
+    "compare": "French arquebuse, Spanish arcabuz",
+    "checked": false
+   }
+  },
+  {
+   "n": 417,
+   "form": "Rakabouchou raeu",
+   "gloss": "A Pistol",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "box": {
+    "page": 7,
+    "x": 0.3453,
+    "y": 0.1844,
+    "w": 0.5872,
+    "h": 0.0154
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Hybrid compound \"little musket\".",
+    "compare": "arquebuse + Island Carib -raeu \"little\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 418,
+   "form": "Kaloon",
+   "gloss": "Great Guns",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "GUN"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.346,
+    "y": 0.2136,
+    "w": 0.5875,
+    "h": 0.0154
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "n > l substitution.",
+    "compare": "Spanish cañón, French canon",
+    "checked": false
+   }
+  },
+  {
+   "n": 419,
+   "form": "Ranicha",
+   "gloss": "A Pike, Halberd",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "box": {
+    "page": 7,
+    "x": 0.345,
+    "y": 0.2292,
+    "w": 0.5893,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 420,
+   "form": "Lichibau",
+   "gloss": "The point of it",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "POINT (WITH FINGER)"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3463,
+    "y": 0.2445,
+    "w": 0.5869,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 421,
+   "form": "Laboulougou",
+   "gloss": "The point of it",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "POINT (WITH FINGER)"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3716,
+    "y": 0.2601,
+    "w": 0.5621,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 422,
+   "form": "Lirana",
+   "gloss": "The middle",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "MIDDLE"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.346,
+    "y": 0.2744,
+    "w": 0.4763,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 423,
+   "form": "Tiona",
+   "gloss": "The end",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "END (OF TIME)"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3466,
+    "y": 0.2896,
+    "w": 0.5872,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 424,
+   "form": "Oullaba",
+   "gloss": "A bow",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3478,
+    "y": 0.3055,
+    "w": 0.4977,
+    "h": 0.0154
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na urapa \"bow\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 425,
+   "form": "Chimala",
+   "gloss": "A bow",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3478,
+    "y": 0.3055,
+    "w": 0.4977,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 426,
+   "form": "Ibitarrou",
+   "gloss": "The string of the bow",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "box": {
+    "page": 7,
+    "x": 0.3478,
+    "y": 0.351,
+    "w": 0.5863,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 427,
+   "form": "Alouani",
+   "gloss": "Arrows",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3472,
+    "y": 0.3673,
+    "w": 0.5878,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 428,
+   "form": "Bouleouä",
+   "gloss": "Arrows",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3472,
+    "y": 0.3673,
+    "w": 0.5878,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 429,
+   "form": "Hippé",
+   "gloss": "Arrows",
+   "section": "VI. ORNAMENTS and ARMES.",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3652,
+    "y": 0.3838,
+    "w": 0.0727,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 430,
+   "form": "Bouttou",
+   "gloss": "The Club which the Savages use instead of a sword",
+   "section": "VI. ORNAMENTS and ARMES."
+  },
+  {
+   "n": 431,
+   "form": "Anly",
+   "gloss": "A Dog",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "DOG"
+   ]
+  },
+  {
+   "n": 432,
+   "form": "Ouelle anly",
+   "gloss": "A Bitch",
+   "section": "VII. LIVING CREATURES."
+  },
+  {
+   "n": 433,
+   "form": "Bouirokou",
+   "gloss": "A swine",
+   "section": "VII. LIVING CREATURES.",
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Pigs were European introductions.",
+    "compare": "Spanish puerco \"pig\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 434,
+   "form": "Concoin",
+   "gloss": "A swine",
+   "section": "VII. LIVING CREATURES."
+  },
+  {
+   "n": 435,
+   "form": "Alouata",
+   "gloss": "An Ape or Monkey",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "MONKEY"
+   ]
+  },
+  {
+   "n": 436,
+   "form": "Catallou",
+   "gloss": "A Tortoise, or Turtle",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "TORTOISE",
+    "TURTLE"
+   ]
+  },
+  {
+   "n": 437,
+   "form": "Tortillé",
+   "gloss": "A Tortoise, or Turtle",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "TORTOISE",
+    "TURTLE"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source labels it corrupt language.",
+    "compare": "Spanish tortuga, French tortue",
+    "checked": false
+   }
+  },
+  {
+   "n": 438,
+   "form": "Ouayamaka",
+   "gloss": "The great Lizard",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "LIZARD"
+   ]
+  },
+  {
+   "n": 439,
+   "form": "Oulleouma",
+   "gloss": "The little Lizard, or Catch-flye",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "LIZARD"
+   ]
+  },
+  {
+   "n": 440,
+   "form": "Karattoni",
+   "gloss": "A mouse",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "MOUSE"
+   ]
+  },
+  {
+   "n": 441,
+   "form": "Mechou",
+   "gloss": "A Cat",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "CAT"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Cats introduced by Europeans.",
+    "compare": "Spanish micho/mizo \"puss, cat\" (cf. Garifuna mésu)",
+    "checked": false
+   }
+  },
+  {
+   "n": 442,
+   "form": "Makeré",
+   "gloss": "The Soldier, a kind of Snail so called",
+   "section": "VII. LIVING CREATURES."
+  },
+  {
+   "n": 443,
+   "form": "Hagué",
+   "gloss": "A Pismire",
+   "section": "VII. LIVING CREATURES."
+  },
+  {
+   "n": 444,
+   "form": "Koulaëlé",
+   "gloss": "A Spider",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "SPIDER"
+   ]
+  },
+  {
+   "n": 445,
+   "form": "Héhué",
+   "gloss": "A Serpent",
+   "section": "VII. LIVING CREATURES.",
+   "box": {
+    "page": 7,
+    "x": 0.3475,
+    "y": 0.3976,
+    "w": 0.5038,
+    "h": 0.0154,
+    "approx": true
+   }
+  },
+  {
+   "n": 446,
+   "form": "Couloubera",
+   "gloss": "A Snake",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "SNAKE"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source says \"from the Spanish\".",
+    "compare": "Spanish culebra \"snake\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 447,
+   "form": "Akourou",
+   "gloss": "A Scorpion",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "SCORPION"
+   ]
+  },
+  {
+   "n": 448,
+   "form": "Authe",
+   "gloss": "A Fish",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3475,
+    "y": 0.3976,
+    "w": 0.5038,
+    "h": 0.0154,
+    "approx": true
+   }
+  },
+  {
+   "n": 449,
+   "form": "Pisket",
+   "gloss": "A Fish",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "FISH"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source labels it corrupt language.",
+    "compare": "Spanish pescado \"fish\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 450,
+   "form": "Ouataboui-ora",
+   "gloss": "The shell of a Fish (they name the fish and add ora)",
+   "section": "VII. LIVING CREATURES."
+  },
+  {
+   "n": 451,
+   "form": "Aëtera",
+   "gloss": "A Mesquito, a kind of flye",
+   "section": "VII. LIVING CREATURES."
+  },
+  {
+   "n": 452,
+   "form": "Malu Kalabala",
+   "gloss": "Another kind of small flyes commonly called Maringoins",
+   "section": "VII. LIVING CREATURES."
+  },
+  {
+   "n": 453,
+   "form": "Hueré-hueré",
+   "gloss": "A Flye",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "FLY (INSECT)"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3475,
+    "y": 0.3976,
+    "w": 0.5038,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 454,
+   "form": "Cogouyou",
+   "gloss": "The glittering flye",
+   "section": "VII. LIVING CREATURES.",
+   "box": {
+    "page": 7,
+    "x": 0.3713,
+    "y": 0.4146,
+    "w": 0.5637,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 455,
+   "form": "Tonoulou",
+   "gloss": "A bird",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.6492,
+    "y": 0.475,
+    "w": 0.1774,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 456,
+   "form": "Ouekelli-pikaka",
+   "gloss": "A Turkey-cock",
+   "section": "VII. LIVING CREATURES.",
+   "box": {
+    "page": 7,
+    "x": 0.6492,
+    "y": 0.4921,
+    "w": 0.2858,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 457,
+   "form": "Ouelle-pikaka",
+   "gloss": "A Turkey-hen",
+   "section": "VII. LIVING CREATURES.",
+   "box": {
+    "page": 7,
+    "x": 0.3985,
+    "y": 0.521,
+    "w": 0.5328,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 458,
+   "form": "Kayou",
+   "gloss": "An ordinary hen",
+   "section": "VII. LIVING CREATURES.",
+   "box": {
+    "page": 7,
+    "x": 0.3685,
+    "y": 0.536,
+    "w": 0.5148,
+    "h": 0.0154
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Chickens introduced by Europeans.",
+    "compare": "Spanish gallo \"cock\" (cf. Garifuna gayu \"chicken\")",
+    "checked": false
+   }
+  },
+  {
+   "n": 459,
+   "form": "Kanarou",
+   "gloss": "A Duck",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "DUCK"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3484,
+    "y": 0.552,
+    "w": 0.4821,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 460,
+   "form": "Iriria",
+   "gloss": "A Goose",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "GOOSE"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3728,
+    "y": 0.5667,
+    "w": 0.4186,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 461,
+   "form": "Koulehuec",
+   "gloss": "A Parrat",
+   "section": "VII. LIVING CREATURES.",
+   "box": {
+    "page": 7,
+    "x": 0.6492,
+    "y": 0.5836,
+    "w": 0.2061,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 462,
+   "form": "Ouakoukoua",
+   "gloss": "A Pigeon",
+   "section": "VII. LIVING CREATURES.",
+   "box": {
+    "page": 7,
+    "x": 0.6482,
+    "y": 0.5991,
+    "w": 0.2247,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 463,
+   "form": "Oulleou",
+   "gloss": "A Turtle",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "TURTLE"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3487,
+    "y": 0.6126,
+    "w": 0.4751,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 464,
+   "form": "Ouallami",
+   "gloss": "A Partridge",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "PARTRIDGE"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3731,
+    "y": 0.6282,
+    "w": 0.4965,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 465,
+   "form": "Toubanna",
+   "gloss": "A Feather",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "FEATHER"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.6495,
+    "y": 0.6455,
+    "w": 0.2852,
+    "h": 0.0154,
+    "approx": true
+   }
+  },
+  {
+   "n": 466,
+   "form": "Tarreuna",
+   "gloss": "A wing or arm",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "ARM",
+    "WING"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3701,
+    "y": 0.675,
+    "w": 0.5191,
+    "h": 0.0154
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Citation form given with possessor prefix \"its\".",
+    "compare": "internal: Narreuna \"my arm, wing\" (row 30) -> t-arreuna",
+    "checked": false
+   }
+  },
+  {
+   "n": 467,
+   "form": "Tiouma",
+   "gloss": "A beak, or mouth",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "BEAK",
+    "MOUTH"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.6492,
+    "y": 0.6917,
+    "w": 0.2525,
+    "h": 0.0154
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Citation form given with possessor prefix \"its\".",
+    "compare": "internal: Niouma \"my mouth\" (row 18) -> t-iouma",
+    "checked": false
+   }
+  },
+  {
+   "n": 468,
+   "form": "Tougouti",
+   "gloss": "A foot or claw",
+   "section": "VII. LIVING CREATURES.",
+   "concepts": [
+    "CLAW",
+    "FOOT"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3508,
+    "y": 0.7051,
+    "w": 0.5389,
+    "h": 0.0154
+   },
+   "note": {
+    "kind": "inflected",
+    "label": "Possessed or inflected form",
+    "text": "Citation form given with possessor prefix \"its\".",
+    "compare": "internal: Nougouti \"my foot\" (row 60) -> t-ougouti",
+    "checked": false
+   }
+  },
+  {
+   "n": 469,
+   "form": "Huëhuë",
+   "gloss": "A Tree",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.7023,
+    "y": 0.8269,
+    "w": 0.1411,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 470,
+   "form": "Ninanteli",
+   "gloss": "A Plant",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "PLANT (SOMETHING)"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3502,
+    "y": 0.8424,
+    "w": 0.5328,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 471,
+   "form": "Illehué",
+   "gloss": "A Flower",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "FLOWER"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.647,
+    "y": 0.8563,
+    "w": 0.1716,
+    "h": 0.0154
+   }
+  },
+  {
+   "n": 472,
+   "form": "Tun",
+   "gloss": "Fruit, or seed",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "FRUIT",
+    "SEED"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.0685,
+    "y": 0.1464,
+    "w": 0.1836,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 473,
+   "form": "Toubanna",
+   "gloss": "A leaf",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "LEAF"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.063,
+    "y": 0.161,
+    "w": 0.2878,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 474,
+   "form": "Touribouri",
+   "gloss": "A Branch",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "BRANCH"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.0627,
+    "y": 0.192,
+    "w": 0.2194,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 475,
+   "form": "Huëhuëyou",
+   "gloss": "A Thorn, a Cyon",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.063,
+    "y": 0.2071,
+    "w": 0.2862,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 476,
+   "form": "Huëhuëakou",
+   "gloss": "A Thorn, a Cyon",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0871,
+    "y": 0.2365,
+    "w": 0.2683,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 477,
+   "form": "Arabou",
+   "gloss": "A Forrest",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0636,
+    "y": 0.284,
+    "w": 0.1821,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 478,
+   "form": "Bakoukou",
+   "gloss": "Figs",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "FIG"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.0648,
+    "y": 0.2956,
+    "w": 0.2906,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 479,
+   "form": "Malimali",
+   "gloss": "The Cassia-tree",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0639,
+    "y": 0.3752,
+    "w": 0.2398,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 480,
+   "form": "Manoulou",
+   "gloss": "Cotton",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "COTTON"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.0642,
+    "y": 0.406,
+    "w": 0.2912,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 481,
+   "form": "Manoulouakecha",
+   "gloss": "The Cotton-tree",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0642,
+    "y": 0.406,
+    "w": 0.2912,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 482,
+   "form": "Ouliem",
+   "gloss": "The wild-Vine",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0642,
+    "y": 0.4367,
+    "w": 0.2249,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 483,
+   "form": "Akoulerou",
+   "gloss": "A great kind of Thistle",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0651,
+    "y": 0.484,
+    "w": 0.2903,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 484,
+   "form": "Youli",
+   "gloss": "Tobacco",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "TOBACCO"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.0639,
+    "y": 0.5156,
+    "w": 0.1513,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 485,
+   "form": "Battia",
+   "gloss": "A Melon",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "MELON"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.0648,
+    "y": 0.5301,
+    "w": 0.1641,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 486,
+   "form": "Batta",
+   "gloss": "Raquette, a fruit so named by the French",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0648,
+    "y": 0.5383,
+    "w": 0.2395,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 487,
+   "form": "Manconti",
+   "gloss": "Pease or Beans",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "BEAN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.0651,
+    "y": 0.5464,
+    "w": 0.2395,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 488,
+   "form": "Maboulou",
+   "gloss": "A Cane, or Reed in general",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0654,
+    "y": 0.5602,
+    "w": 0.29,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 489,
+   "form": "Tikasket",
+   "gloss": "A Cane, or Reed in general",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0889,
+    "y": 0.5768,
+    "w": 0.1763,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 490,
+   "form": "Kaniche",
+   "gloss": "The Sugar-cane",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0657,
+    "y": 0.5908,
+    "w": 0.2362,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 491,
+   "form": "Kanichira",
+   "gloss": "The juice of the Canes, or the wine thereof",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0905,
+    "y": 0.6233,
+    "w": 0.2239,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 492,
+   "form": "Choucre",
+   "gloss": "Sugar",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "SUGAR"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.0667,
+    "y": 0.6388,
+    "w": 0.2887,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source says corrupt word.",
+    "compare": "French sucre \"sugar\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 493,
+   "form": "Kalao",
+   "gloss": "An herb",
+   "section": "VIII. TREES and PLANTS.",
+   "concepts": [
+    "HERB"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.0682,
+    "y": 0.6689,
+    "w": 0.15,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 494,
+   "form": "Torolé",
+   "gloss": "A root that may be eaten",
+   "section": "VIII. TREES and PLANTS.",
+   "box": {
+    "page": 8,
+    "x": 0.0691,
+    "y": 0.6832,
+    "w": 0.2863,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 495,
+   "form": "Oubekou",
+   "gloss": "THe Heavens",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.1561,
+    "y": 0.8025,
+    "w": 0.1993,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 496,
+   "form": "Allirou",
+   "gloss": "A white cloud",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.1271,
+    "y": 0.818,
+    "w": 0.2283,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 497,
+   "form": "Ouällion",
+   "gloss": "A black cloud",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.0752,
+    "y": 0.8328,
+    "w": 0.2233,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 498,
+   "form": "Kemerei",
+   "gloss": "Misty weather",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.0761,
+    "y": 0.8496,
+    "w": 0.2245,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 499,
+   "form": "Ouäloukouma",
+   "gloss": "A Star",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.077,
+    "y": 0.8641,
+    "w": 0.2178,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 500,
+   "form": "Huyeyou",
+   "gloss": "The Sun",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3674,
+    "y": 0.141,
+    "w": 0.2868,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na weyu \"sun\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 501,
+   "form": "Kachi",
+   "gloss": "The Sun",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3674,
+    "y": 0.141,
+    "w": 0.2868,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 502,
+   "form": "Nonum",
+   "gloss": "The Moon",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3662,
+    "y": 0.1709,
+    "w": 0.2868,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na nuuno \"moon\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 503,
+   "form": "Kati",
+   "gloss": "The Moon",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.39,
+    "y": 0.202,
+    "w": 0.0929,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 504,
+   "form": "Lihuycouli",
+   "gloss": "A day",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.39,
+    "y": 0.2174,
+    "w": 0.154,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 505,
+   "form": "Lalloukoné",
+   "gloss": "Light",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "LIGHT (COLOR)"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.39,
+    "y": 0.2328,
+    "w": 0.154,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 506,
+   "form": "Laguenani",
+   "gloss": "Lightsome",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.39,
+    "y": 0.2481,
+    "w": 0.154,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 507,
+   "form": "Ariabou",
+   "gloss": "Night",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3683,
+    "y": 0.2635,
+    "w": 0.154,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 508,
+   "form": "Bourreli",
+   "gloss": "Darkness",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "DARKNESS"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3677,
+    "y": 0.2792,
+    "w": 0.1873,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 509,
+   "form": "Haloukaali",
+   "gloss": "It is day",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3677,
+    "y": 0.3048,
+    "w": 0.1873,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 510,
+   "form": "Boureokaali",
+   "gloss": "It is night",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3677,
+    "y": 0.3305,
+    "w": 0.1873,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 511,
+   "form": "Naouaraglé",
+   "gloss": "The air",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "AIR"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3918,
+    "y": 0.3561,
+    "w": 0.1864,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 512,
+   "form": "Bebeité",
+   "gloss": "The wind",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3918,
+    "y": 0.3638,
+    "w": 0.1864,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 513,
+   "form": "Ouattou",
+   "gloss": "Fire",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.368,
+    "y": 0.3715,
+    "w": 0.147,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 514,
+   "form": "Ballissi",
+   "gloss": "Ashes",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "ASH"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3683,
+    "y": 0.3867,
+    "w": 0.1372,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 515,
+   "form": "Konoboui",
+   "gloss": "Rain",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Cariban-origin item outside the explicitly marked men's words; Island Carib absorbed Kalina vocabulary.",
+    "compare": "Kari'na konopo \"rain\"",
+    "checked": false
+   },
+   "box": {
+    "page": 8,
+    "x": 0.3683,
+    "y": 0.4259,
+    "w": 0.1998,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 516,
+   "form": "Liromouli",
+   "gloss": "Summer",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "SUMMER"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3702,
+    "y": 0.465,
+    "w": 0.1998,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 517,
+   "form": "Lamoyenli",
+   "gloss": "Cold",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3702,
+    "y": 0.4803,
+    "w": 0.1998,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 518,
+   "form": "Loubacha",
+   "gloss": "Heat",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "HEAT"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3702,
+    "y": 0.4956,
+    "w": 0.1644,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 519,
+   "form": "Ieromonmééli",
+   "gloss": "Fair weather",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3705,
+    "y": 0.5095,
+    "w": 0.2899,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 520,
+   "form": "Hueoumeti",
+   "gloss": "It is fair weather",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3714,
+    "y": 0.571,
+    "w": 0.2768,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 521,
+   "form": "Yehumeti",
+   "gloss": "It is foul weather",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3714,
+    "y": 0.571,
+    "w": 0.2768,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 522,
+   "form": "Oualou ouyoulou",
+   "gloss": "Thunder",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3732,
+    "y": 0.587,
+    "w": 0.2716,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 523,
+   "form": "Trtrguetenni",
+   "gloss": "The noise of Thunder",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3732,
+    "y": 0.6023,
+    "w": 0.2716,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 524,
+   "form": "Youallou",
+   "gloss": "A tempest",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3732,
+    "y": 0.6177,
+    "w": 0.2716,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 525,
+   "form": "Bointara",
+   "gloss": "A tempest",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3732,
+    "y": 0.6331,
+    "w": 0.2716,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 526,
+   "form": "Ourogan",
+   "gloss": "A tempest",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3958,
+    "y": 0.6484,
+    "w": 0.2652,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 527,
+   "form": "Alamoulou",
+   "gloss": "The Rain-bow",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3958,
+    "y": 0.6722,
+    "w": 0.2658,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 528,
+   "form": "Youlouca",
+   "gloss": "The Rain-bow",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3958,
+    "y": 0.696,
+    "w": 0.2658,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 529,
+   "form": "Ouëbo",
+   "gloss": "A Mountain",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "MOUNTAIN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3711,
+    "y": 0.7259,
+    "w": 0.1983,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 530,
+   "form": "Taralironne",
+   "gloss": "A Valley",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "VALLEY"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3711,
+    "y": 0.7411,
+    "w": 0.2267,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 531,
+   "form": "Tagreguin",
+   "gloss": "An ascent",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3711,
+    "y": 0.7563,
+    "w": 0.2267,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 532,
+   "form": "Liromonobou",
+   "gloss": "A plain",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "PLAIN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3726,
+    "y": 0.7715,
+    "w": 0.2267,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 533,
+   "form": "Tona",
+   "gloss": "Water, a River",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 8,
+    "x": 0.3723,
+    "y": 0.7883,
+    "w": 0.2035,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Cariban-origin item outside the explicitly marked men's words; Island Carib absorbed Kalina vocabulary.",
+    "compare": "Kari'na tuna \"water, river\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 534,
+   "form": "Taonaba",
+   "gloss": "A Pond",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "POND"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3723,
+    "y": 0.8082,
+    "w": 0.2035,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 535,
+   "form": "Taboulikani",
+   "gloss": "A Spring or Fountain",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "SPRING (OF WATER)"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3723,
+    "y": 0.828,
+    "w": 0.2035,
+    "h": 0.0153,
+    "approx": true
+   }
+  },
+  {
+   "n": 536,
+   "form": "Chiekati",
+   "gloss": "A Well",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "WELL"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3757,
+    "y": 0.8479,
+    "w": 0.169,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 537,
+   "form": "Tipouliri",
+   "gloss": "A Brook",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "BROOK"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.3775,
+    "y": 0.8643,
+    "w": 0.1907,
+    "h": 0.0153
+   }
+  },
+  {
+   "n": 538,
+   "form": "Balanna",
+   "gloss": "The Sea",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "SEA"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3381,
+    "y": 0.1389,
+    "w": 0.0173,
+    "h": 0.0155
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na parana \"sea\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 539,
+   "form": "Balaoua",
+   "gloss": "The Sea",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "SEA"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3381,
+    "y": 0.1389,
+    "w": 0.0173,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 540,
+   "form": "Nonum",
+   "gloss": "The earth",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3381,
+    "y": 0.1673,
+    "w": 0.0173,
+    "h": 0.0155
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Men's-register word of Cariban (Kalina) origin, a known register feature of Island Carib, not an error.",
+    "compare": "Kari'na nono \"earth\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 541,
+   "form": "Mona",
+   "gloss": "The earth",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3381,
+    "y": 0.1673,
+    "w": 0.0173,
+    "h": 0.0155,
+    "approx": true
+   }
+  },
+  {
+   "n": 542,
+   "form": "Itika",
+   "gloss": "Excrement",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 9,
+    "x": 0.339,
+    "y": 0.2,
+    "w": 0.0164,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 543,
+   "form": "Saccao",
+   "gloss": "Sand",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "SAND"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3387,
+    "y": 0.2146,
+    "w": 0.0167,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 544,
+   "form": "Ema",
+   "gloss": "A way",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 9,
+    "x": 0.3387,
+    "y": 0.2297,
+    "w": 0.0167,
+    "h": 0.0155
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Cariban-origin item outside the explicitly marked men's words; Island Carib absorbed Kalina vocabulary.",
+    "compare": "Kari'na ema \"path\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 545,
+   "form": "Tebou",
+   "gloss": "A Stone",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3378,
+    "y": 0.2451,
+    "w": 0.0176,
+    "h": 0.0155
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Cariban-origin item outside the explicitly marked men's words; Island Carib absorbed Kalina vocabulary.",
+    "compare": "Kari'na topu \"stone\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 546,
+   "form": "Emerali",
+   "gloss": "A Rock",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "ROCK"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3378,
+    "y": 0.2606,
+    "w": 0.0176,
+    "h": 0.0155,
+    "approx": true
+   }
+  },
+  {
+   "n": 547,
+   "form": "Oubao",
+   "gloss": "A Island",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "ISLAND"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3366,
+    "y": 0.2758,
+    "w": 0.0188,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 548,
+   "form": "Balouë",
+   "gloss": "The Continent",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 9,
+    "x": 0.3357,
+    "y": 0.2905,
+    "w": 0.0197,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 549,
+   "form": "Huëhuë",
+   "gloss": "Wood",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3354,
+    "y": 0.3083,
+    "w": 0.02,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 550,
+   "form": "Crabou",
+   "gloss": "Iron",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3351,
+    "y": 0.3382,
+    "w": 0.0204,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 551,
+   "form": "Boulâta",
+   "gloss": "Gold and silver",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 9,
+    "x": 0.3344,
+    "y": 0.3523,
+    "w": 0.021,
+    "h": 0.0155
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Precious metal named from Spanish.",
+    "compare": "Spanish plata \"silver\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 552,
+   "form": "Tialapirou",
+   "gloss": "Brass",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "BRASS"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3338,
+    "y": 0.3697,
+    "w": 0.0216,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 553,
+   "form": "Kaouanam",
+   "gloss": "Latten",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 9,
+    "x": 0.3344,
+    "y": 0.3846,
+    "w": 0.021,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 554,
+   "form": "Toullepen",
+   "gloss": "A hole",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "concepts": [
+    "HOLE"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3338,
+    "y": 0.4003,
+    "w": 0.0216,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 555,
+   "form": "Beya",
+   "gloss": "A Haven",
+   "section": "IX. THINGS ELEMENTARY and IN ANIMATE.",
+   "box": {
+    "page": 9,
+    "x": 0.3323,
+    "y": 0.4326,
+    "w": 0.0231,
+    "h": 0.0155
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Source itself compares English bay.",
+    "compare": "Spanish bahía, French baie \"bay\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 556,
+   "form": "Akambouë",
+   "gloss": "A Spirit",
+   "section": "X. Things relating to RELIGION.",
+   "concepts": [
+    "SPIRIT"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3323,
+    "y": 0.533,
+    "w": 0.0283,
+    "h": 0.0155,
+    "approx": true
+   }
+  },
+  {
+   "n": 557,
+   "form": "Opoyem",
+   "gloss": "A Spirit",
+   "section": "X. Things relating to RELIGION.",
+   "concepts": [
+    "SPIRIT"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3271,
+    "y": 0.6334,
+    "w": 0.0283,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 558,
+   "form": "Icheirikou",
+   "gloss": "My good Spirit, or my God",
+   "section": "X. Things relating to RELIGION.",
+   "concepts": [
+    "GOD",
+    "GOOD",
+    "SPIRIT"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.6352,
+    "y": 0.3562,
+    "w": 0.2859,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 559,
+   "form": "Nechemerakou",
+   "gloss": "My good Spirit, or my God",
+   "section": "X. Things relating to RELIGION.",
+   "concepts": [
+    "GOD",
+    "GOOD",
+    "SPIRIT"
+   ]
+  },
+  {
+   "n": 560,
+   "form": "Icheiri",
+   "gloss": "A Good Spirit (a Divinity, one peculiar to each person)",
+   "section": "X. Things relating to RELIGION.",
+   "box": {
+    "page": 9,
+    "x": 0.6352,
+    "y": 0.3562,
+    "w": 0.2859,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 561,
+   "form": "Chemun",
+   "gloss": "A Good Spirit (a Divinity, one peculiar to each person)",
+   "section": "X. Things relating to RELIGION.",
+   "box": {
+    "page": 9,
+    "x": 0.6352,
+    "y": 0.3767,
+    "w": 0.2865,
+    "h": 0.0155,
+    "approx": true
+   }
+  },
+  {
+   "n": 562,
+   "form": "Chemignum",
+   "gloss": "Gods (plural of Chemun)",
+   "section": "X. Things relating to RELIGION.",
+   "box": {
+    "page": 9,
+    "x": 0.6352,
+    "y": 0.3972,
+    "w": 0.2865,
+    "h": 0.0155,
+    "approx": true
+   }
+  },
+  {
+   "n": 563,
+   "form": "Maboya",
+   "gloss": "The evil Spirit, or Devil",
+   "section": "X. Things relating to RELIGION.",
+   "concepts": [
+    "DEVIL",
+    "EVIL",
+    "SPIRIT"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.634,
+    "y": 0.4177,
+    "w": 0.2865,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 564,
+   "form": "Mapoya",
+   "gloss": "The evil Spirit, or Devil",
+   "section": "X. Things relating to RELIGION.",
+   "concepts": [
+    "DEVIL",
+    "EVIL",
+    "SPIRIT"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.6328,
+    "y": 0.4661,
+    "w": 0.2875,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 565,
+   "form": "Maboya kayeu eu, kaima Loari",
+   "gloss": "The Devil, or evil Spirit is here, let us get away from him",
+   "section": "X. Things relating to RELIGION.",
+   "box": {
+    "page": 9,
+    "x": 0.3827,
+    "y": 0.5692,
+    "w": 0.5323,
+    "h": 0.0155
+   }
+  },
+  {
+   "n": 566,
+   "form": "Anakri",
+   "gloss": "The Offerings they make to the false Gods or Devils",
+   "section": "X. Things relating to RELIGION."
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Arawakan",
+   "Caribbean Arawakan"
+  ],
+  "support": [
+   0.96,
+   0.47
+  ],
+  "concepts": 232,
+  "excluded": [
+   "isla1278",
+   "asjp:CARIB_1665"
+  ],
+  "leading": {
+   "name": "Garifuna",
+   "family": "Arawakan",
+   "z": 11.93
+  },
+  "candidates": [
+   {
+    "name": "Garifuna",
+    "db": "Lexibank",
+    "family": "Arawakan",
+    "path": [
+     "Arawakan",
+     "Caribbean Arawakan",
+     "Antillean Arawakan",
+     "Ineric"
+    ],
+    "z": 11.93,
+    "n": 48
+   },
+   {
+    "name": "GARIFUNA",
+    "db": "ASJP",
+    "family": "Arawakan",
+    "path": [
+     "Arawakan",
+     "Caribbean Arawakan",
+     "Antillean Arawakan",
+     "Ineric"
+    ],
+    "z": 8.08,
+    "n": 20
+   },
+   {
+    "name": "Piapoco",
+    "db": "Lexibank",
+    "family": "Arawakan",
+    "path": [
+     "Arawakan",
+     "Japura-Colombia",
+     "Nuclear Japura-Colombia",
+     "Northeast Japura-Colombia"
+    ],
+    "z": 6.29,
+    "n": 48
+   },
+   {
+    "name": "Tariana_Bruzzi",
+    "db": "Lexibank",
+    "family": "Arawakan",
+    "path": [
+     "Arawakan",
+     "Japura-Colombia",
+     "Nuclear Japura-Colombia",
+     "Northeast Japura-Colombia"
+    ],
+    "z": 6.09,
+    "n": 41
+   },
+   {
+    "name": "PALIKUR",
+    "db": "ASJP",
+    "family": "Arawakan",
+    "path": [
+     "Arawakan",
+     "Central-Eastern Maipuran",
+     "Palikúr"
+    ],
+    "z": 5.75,
+    "n": 19
+   },
+   {
+    "name": "Baniwa_Hohoodene",
+    "db": "Lexibank",
+    "family": "Arawakan",
+    "path": [
+     "Arawakan",
+     "Japura-Colombia",
+     "Nuclear Japura-Colombia",
+     "Northeast Japura-Colombia"
+    ],
+    "z": 5.73,
+    "n": 41
+   },
+   {
+    "name": "Cabiyarí",
+    "db": "Lexibank",
+    "family": "Arawakan",
+    "path": [
+     "Arawakan",
+     "Japura-Colombia",
+     "Nuclear Japura-Colombia",
+     "Northeast Japura-Colombia"
+    ],
+    "z": 5.44,
+    "n": 48
+   },
+   {
+    "name": "Baré",
+    "db": "Lexibank",
+    "family": "Arawakan",
+    "path": [
+     "Arawakan",
+     "Medio Rio Negro",
+     "Bareic",
+     "Baré"
+    ],
+    "z": 5.4,
+    "n": 48
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "bird",
+    "form": "Tonoulou",
+    "ref": "dunuru",
+    "d": 0.0
+   },
+   {
+    "concept": "fish",
+    "form": "Authe",
+    "ref": "adίaha",
+    "d": 0.0
+   },
+   {
+    "concept": "long",
+    "form": "Mouchinagouti",
+    "ref": "miginaguti",
+    "d": 0.0
+   },
+   {
+    "concept": "man",
+    "form": "Eyeri",
+    "ref": "eyeri_",
+    "d": 0.0
+   },
+   {
+    "concept": "night",
+    "form": "Ariabou",
+    "ref": "áriebu",
+    "d": 0.0
+   },
+   {
+    "concept": "red",
+    "form": "Ponati",
+    "ref": "funati",
+    "d": 0.0
+   },
+   {
+    "concept": "round",
+    "form": "Chiririti",
+    "ref": "gararati",
+    "d": 0.0
+   },
+   {
+    "concept": "white",
+    "form": "Alouti",
+    "ref": "haruti",
+    "d": 0.0
+   },
+   {
+    "concept": "star",
+    "form": "Ouäloukouma",
+    "ref": "waruguma",
+    "d": 0.11
+   },
+   {
+    "concept": "black",
+    "form": "Ouliti",
+    "ref": "wuriti",
+    "d": 0.17
+   },
+   {
+    "concept": "ear",
+    "form": "Narikae",
+    "ref": "arigei",
+    "d": 0.17
+   },
+   {
+    "concept": "foot",
+    "form": "Nougouti",
+    "ref": "ugudi",
+    "d": 0.17
+   }
+  ]
+ },
+ "stats": {
+  "entries": 566,
+  "notes": 52,
+  "located": 520
+ },
+ "partial": null,
+ "relation": null
+}

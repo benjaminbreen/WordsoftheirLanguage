@@ -1,0 +1,1065 @@
+{
+ "schema": 1,
+ "id": "pegu",
+ "wtl": "WTL-0018",
+ "heading": "Certaine words of Pegu language.",
+ "headings": [
+  "Certaine words of Pegu language."
+ ],
+ "language": {
+  "name": "Mon",
+  "glottocode": "monn1252",
+  "family": "Austroasiatic",
+  "path": [
+   "Austroasiatic",
+   "Monic"
+  ],
+  "labels": [
+   "Pegu"
+  ]
+ },
+ "region": "Asia",
+ "book": {
+  "short": "A True and Large Discourse of the Voyage",
+  "title": "A true and large discourse of the voyage of the whole fleete of ships set forth the 20. of Aprill 1601. by the Gouernours and assistants of the East Indian marchants in London, to the East Indies Wherein is set downe the order and manner of their trafficke, the discription of the countries, the nature of the people and their language, with the names of all the men dead in the voyage.",
+  "author": "anonymous",
+  "printed": 1603,
+  "imprint": "1603.",
+  "tcp": "A21094",
+  "cover": "pegu"
+ },
+ "provenance": {
+  "collector": "First East India Company fleet",
+  "place": "collected from Peguans met in port",
+  "heard": "1601–02"
+ },
+ "scan": {
+  "ia": "bim_early-english-books-1475-1640_a-true-and-large-discour_east-indies_1603",
+  "url": "https://archive.org/details/bim_early-english-books-1475-1640_a-true-and-large-discour_east-indies_1603",
+  "holder": "Internet Archive",
+  "note": "microfilm",
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 31,
+   "w": 7624,
+   "h": 11153,
+   "sm": "/scans/pegu/0031-900.webp",
+   "lg": "/scans/pegu/0031-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Mugaru",
+   "gloss": "what call you it",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.2395,
+    "y": 0.1354,
+    "w": 0.1639,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 2,
+   "form": "Kidnan tiuan",
+   "gloss": "Giue mee bread",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.2419,
+    "y": 0.1568,
+    "w": 0.1615,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 3,
+   "form": "Fegoe",
+   "gloss": "a Catte",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "CAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2279,
+    "y": 0.1831,
+    "w": 0.1755,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 4,
+   "form": "Boon",
+   "gloss": "A Knife",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2425,
+    "y": 0.2103,
+    "w": 0.1608,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 5,
+   "form": "Tobacu",
+   "gloss": "A Pen",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "PEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2435,
+    "y": 0.2335,
+    "w": 0.1599,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 6,
+   "form": "Slappoit",
+   "gloss": "A Booke",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "BOOK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2445,
+    "y": 0.2621,
+    "w": 0.1589,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 7,
+   "form": "Pappoit",
+   "gloss": "A Table booke",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.2241,
+    "y": 0.2808,
+    "w": 0.1793,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 8,
+   "form": "Memuru",
+   "gloss": "What is your name?",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.2241,
+    "y": 0.3206,
+    "w": 0.1793,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 9,
+   "form": "Talla",
+   "gloss": "A Chest",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "CHEST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2382,
+    "y": 0.3603,
+    "w": 0.1652,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 10,
+   "form": "Tene",
+   "gloss": "A Pillow",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "PILLOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2444,
+    "y": 0.3893,
+    "w": 0.159,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 11,
+   "form": "Tayongabalon",
+   "gloss": "a Maste",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "MAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2481,
+    "y": 0.4122,
+    "w": 0.1553,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 12,
+   "form": "Pomeé",
+   "gloss": "Breeches",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.2495,
+    "y": 0.4386,
+    "w": 0.1539,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 13,
+   "form": "Cheochum",
+   "gloss": "Stockins",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.383,
+    "y": 0.4671,
+    "w": 0.0204,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 14,
+   "form": "Botoway",
+   "gloss": "A Thombe",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.2283,
+    "y": 0.492,
+    "w": 0.1751,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 15,
+   "form": "Toway",
+   "gloss": "a fist",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "FIST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2283,
+    "y": 0.492,
+    "w": 0.1751,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 16,
+   "form": "Cadup",
+   "gloss": "a head",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2283,
+    "y": 0.5287,
+    "w": 0.1751,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 17,
+   "form": "Suck",
+   "gloss": "haire of the head",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.253,
+    "y": 0.5653,
+    "w": 0.1503,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 18,
+   "form": "Slagota",
+   "gloss": "the eare",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2507,
+    "y": 0.5933,
+    "w": 0.1527,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 19,
+   "form": "Yu, yu",
+   "gloss": "I, I",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.2507,
+    "y": 0.6178,
+    "w": 0.1534,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 20,
+   "form": "Moat",
+   "gloss": "eyes",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.25,
+    "y": 0.6423,
+    "w": 0.1534,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 21,
+   "form": "Tegla",
+   "gloss": "By and by",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.2524,
+    "y": 0.6688,
+    "w": 0.151,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 22,
+   "form": "Ciniaut",
+   "gloss": "Let me see",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.2508,
+    "y": 0.6914,
+    "w": 0.1526,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 23,
+   "form": "Catu",
+   "gloss": "The Moone",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2547,
+    "y": 0.7179,
+    "w": 0.1486,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 24,
+   "form": "Shenon",
+   "gloss": "A Starre",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2549,
+    "y": 0.7427,
+    "w": 0.1485,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 25,
+   "form": "Yacata",
+   "gloss": "The morning",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "MORNING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2559,
+    "y": 0.7702,
+    "w": 0.1475,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 26,
+   "form": "Keka",
+   "gloss": "Good",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2568,
+    "y": 0.7958,
+    "w": 0.1465,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 27,
+   "form": "Kecho",
+   "gloss": "sit downe",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.2587,
+    "y": 0.8192,
+    "w": 0.1447,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 28,
+   "form": "Cacadòe",
+   "gloss": "The palme of the head",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.258,
+    "y": 0.8476,
+    "w": 0.1454,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 29,
+   "form": "Sanimbodoway",
+   "gloss": "the naile of the hand",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.4194,
+    "y": 0.1313,
+    "w": 0.3546,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 30,
+   "form": "Nepóe",
+   "gloss": "Sir",
+   "section": "Certaine words of Pegu language."
+  },
+  {
+   "n": 31,
+   "form": "Mucherow",
+   "gloss": "how sell you",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5796,
+    "y": 0.2081,
+    "w": 0.2017,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 32,
+   "form": "Cabang",
+   "gloss": "A Ship",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.581,
+    "y": 0.2342,
+    "w": 0.2217,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 33,
+   "form": "Aw, aw",
+   "gloss": "what say you?",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5816,
+    "y": 0.2607,
+    "w": 0.2861,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 34,
+   "form": "Braw",
+   "gloss": "A Woman",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5816,
+    "y": 0.2607,
+    "w": 0.2861,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 35,
+   "form": "True",
+   "gloss": "A Man",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5925,
+    "y": 0.311,
+    "w": 0.1712,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 36,
+   "form": "Fekeé",
+   "gloss": "A Whoore",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5866,
+    "y": 0.3337,
+    "w": 0.2549,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 37,
+   "form": "Oiara",
+   "gloss": "I will goe",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5718,
+    "y": 0.3631,
+    "w": 0.2332,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 38,
+   "form": "Tamonra",
+   "gloss": "Farewell",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5623,
+    "y": 0.3856,
+    "w": 0.2725,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 39,
+   "form": "Keag",
+   "gloss": "God",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5623,
+    "y": 0.4113,
+    "w": 0.2768,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 40,
+   "form": "Cling, Clang",
+   "gloss": "Much",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "MUCH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5816,
+    "y": 0.4371,
+    "w": 0.2768,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 41,
+   "form": "Nung, nung",
+   "gloss": "come hither",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5816,
+    "y": 0.4624,
+    "w": 0.2768,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 42,
+   "form": "Cooke",
+   "gloss": "Come hither",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5817,
+    "y": 0.4877,
+    "w": 0.2603,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 43,
+   "form": "Cleá",
+   "gloss": "Dogge",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4659,
+    "y": 0.5137,
+    "w": 0.3292,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 44,
+   "form": "Cle",
+   "gloss": "Bite",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "BITE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4659,
+    "y": 0.5137,
+    "w": 0.3292,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "Kleg",
+   "gloss": "A Hogge",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.4659,
+    "y": 0.5137,
+    "w": 0.3292,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 46,
+   "form": "Togatu",
+   "gloss": "Noone",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "NOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5749,
+    "y": 0.5926,
+    "w": 0.2295,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 47,
+   "form": "Daick",
+   "gloss": "Water",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5803,
+    "y": 0.6156,
+    "w": 0.204,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 48,
+   "form": "Carrow toway",
+   "gloss": "wash hands",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5831,
+    "y": 0.6358,
+    "w": 0.349,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 49,
+   "form": "Ksole",
+   "gloss": "To spit",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "SPIT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5959,
+    "y": 0.6685,
+    "w": 0.1879,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 50,
+   "form": "Stcake",
+   "gloss": "Sleepe",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5665,
+    "y": 0.7034,
+    "w": 0.213,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 51,
+   "form": "Notada",
+   "gloss": "Arise",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5792,
+    "y": 0.7175,
+    "w": 0.205,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 52,
+   "form": "Tarangcatu",
+   "gloss": "A doore",
+   "section": "Certaine words of Pegu language.",
+   "concepts": [
+    "DOOR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5946,
+    "y": 0.7452,
+    "w": 0.2645,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 53,
+   "form": "Poctarang",
+   "gloss": "open the dore",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5958,
+    "y": 0.7919,
+    "w": 0.286,
+    "h": 0.0094,
+    "approx": true
+   }
+  },
+  {
+   "n": 54,
+   "form": "Dotarang",
+   "gloss": "shut the dore",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5958,
+    "y": 0.7919,
+    "w": 0.286,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 55,
+   "form": "Chulay",
+   "gloss": "let it downe",
+   "section": "Certaine words of Pegu language.",
+   "box": {
+    "page": 0,
+    "x": 0.5242,
+    "y": 0.8183,
+    "w": 0.3273,
+    "h": 0.0094
+   }
+  },
+  {
+   "n": 56,
+   "form": "Downang",
+   "gloss": "Take vp",
+   "section": "Certaine words of Pegu language."
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Austroasiatic",
+   "Monic",
+   "Mon"
+  ],
+  "support": [
+   1.0,
+   1.0,
+   0.55
+  ],
+  "concepts": 27,
+  "excluded": [],
+  "leading": {
+   "name": "MON",
+   "family": "Austroasiatic",
+   "z": 5.65
+  },
+  "candidates": [
+   {
+    "name": "MON",
+    "db": "ASJP",
+    "family": "Austroasiatic",
+    "path": [
+     "Austroasiatic",
+     "Monic",
+     "Mon"
+    ],
+    "z": 5.65,
+    "n": 12
+   },
+   {
+    "name": "Nyakur",
+    "db": "Lexibank",
+    "family": "Austroasiatic",
+    "path": [
+     "Austroasiatic",
+     "Monic",
+     "Nyahkur"
+    ],
+    "z": 5.37,
+    "n": 20
+   },
+   {
+    "name": "Mon",
+    "db": "Lexibank",
+    "family": "Austroasiatic",
+    "path": [
+     "Austroasiatic",
+     "Monic",
+     "Mon"
+    ],
+    "z": 5.26,
+    "n": 12
+   },
+   {
+    "name": "Nyakur",
+    "db": "Lexibank",
+    "family": "Austroasiatic",
+    "path": [
+     "Austroasiatic",
+     "Monic",
+     "Nyahkur"
+    ],
+    "z": 5.15,
+    "n": 12
+   },
+   {
+    "name": "NYAKUR",
+    "db": "ASJP",
+    "family": "Austroasiatic",
+    "path": [
+     "Austroasiatic",
+     "Monic",
+     "Nyahkur"
+    ],
+    "z": 4.71,
+    "n": 12
+   },
+   {
+    "name": "Halang",
+    "db": "Lexibank",
+    "family": "Austroasiatic",
+    "path": [
+     "Austroasiatic",
+     "Bahnaric",
+     "North Bahnaric",
+     "Kayong-Jeh-Halang"
+    ],
+    "z": 4.16,
+    "n": 12
+   },
+   {
+    "name": "Tampuan",
+    "db": "Lexibank",
+    "family": "Austroasiatic",
+    "path": [
+     "Austroasiatic",
+     "Bahnaric",
+     "West Bahnaric",
+     "Tampuon-Bahnar"
+    ],
+    "z": 4.05,
+    "n": 11
+   },
+   {
+    "name": "Bunong",
+    "db": "Lexibank",
+    "family": "Austroasiatic",
+    "path": [
+     "Austroasiatic",
+     "Bahnaric",
+     "West Bahnaric",
+     "South Bahnaric"
+    ],
+    "z": 3.92,
+    "n": 10
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "eye",
+    "form": "Moat",
+    "ref": "mat",
+    "d": 0.0
+   },
+   {
+    "concept": "head",
+    "form": "Cadup",
+    "ref": "kaduip",
+    "d": 0.0
+   },
+   {
+    "concept": "man",
+    "form": "True",
+    "ref": "tru7",
+    "d": 0.0
+   },
+   {
+    "concept": "moon",
+    "form": "Catu",
+    "ref": "gatu",
+    "d": 0.0
+   },
+   {
+    "concept": "water",
+    "form": "Daick",
+    "ref": "dak",
+    "d": 0.0
+   },
+   {
+    "concept": "star",
+    "form": "Shenon",
+    "ref": "saman",
+    "d": 0.2
+   },
+   {
+    "concept": "dog",
+    "form": "Cleá",
+    "ref": "kluiw",
+    "d": 0.25
+   },
+   {
+    "concept": "woman",
+    "form": "Braw",
+    "ref": "brau",
+    "d": 0.25
+   },
+   {
+    "concept": "sleep",
+    "form": "Stcake",
+    "ref": "stik",
+    "d": 0.33
+   },
+   {
+    "concept": "good",
+    "form": "Keka",
+    "ref": "kh~uih",
+    "d": 0.5
+   },
+   {
+    "concept": "ear",
+    "form": "Slagota",
+    "ref": "katow",
+    "d": 0.57
+   },
+   {
+    "concept": "bite",
+    "form": "Cle",
+    "ref": "kit",
+    "d": 0.67
+   }
+  ]
+ },
+ "stats": {
+  "entries": 56,
+  "notes": 0,
+  "located": 54
+ },
+ "partial": null,
+ "relation": null
+}

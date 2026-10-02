@@ -1,0 +1,3561 @@
+{
+ "schema": 1,
+ "id": "tupi",
+ "wtl": "WTL-0009",
+ "heading": null,
+ "headings": [
+  "The Words for Action: A.",
+  "The Words for Action: B.",
+  "The Words for Action: C",
+  "The Words for Action: E.",
+  "The Words for Action: G.",
+  "The Words for Action: I.",
+  "The Words for Action: M.",
+  "The Words for Action: N.",
+  "The Words for Action: P.",
+  "The Words for Action: Q.",
+  "The Words for Action: R.",
+  "The Words for Action: T."
+ ],
+ "language": {
+  "name": "Tupinambá",
+  "glottocode": "tupi1273",
+  "family": "Tupian",
+  "path": [
+   "Tupian",
+   "Eastern Tupian",
+   "Maweti-Guarani",
+   "Aweti-Guarani",
+   "Tupi-Guarani",
+   "Southern Tupi-Guarani",
+   "Tupi-Guarani Subgroup III"
+  ],
+  "labels": []
+ },
+ "region": "Caribbean & South America",
+ "book": {
+  "short": "America",
+  "title": "America : being the latest, and most accurate description of the new vvorld containing the original of the inhabitants, and the remarkable voyages thither, the conquest of the vast empires of Mexico and Peru and other large provinces and territories : with the several European plantations in those parts : also their cities, fortresses, towns, temples, mountains, and rivers : their habits, customs, manners, and religions, their plants, beasts, birds, and serpents : with an appendix containing, besides several other considerable additions, a brief survey of what hath been discover'd of the unknown south-land and the arctick region : collected from most authentick authors, augmented with later observations, and adorn'd with maps and sculptures / by John Ogilby ...",
+  "author": "John Ogilby",
+  "printed": 1671,
+  "imprint": "1671.",
+  "tcp": "A53222",
+  "cover": "ogilby"
+ },
+ "provenance": {
+  "collector": "via Dutch Brazil sources",
+  "place": "Brazil",
+  "heard": "17th century"
+ },
+ "scan": {
+  "ia": "americabeinglate01mont",
+  "url": "https://archive.org/details/americabeinglate01mont",
+  "holder": "John Carter Brown Library",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 615,
+   "w": 3523,
+   "h": 5508,
+   "sm": "/scans/tupi/0615-900.webp",
+   "lg": "/scans/tupi/0615-1800.webp"
+  },
+  {
+   "leaf": 616,
+   "w": 3603,
+   "h": 5508,
+   "sm": "/scans/tupi/0616-900.webp",
+   "lg": "/scans/tupi/0616-1800.webp"
+  },
+  {
+   "leaf": 617,
+   "w": 3523,
+   "h": 5508,
+   "sm": "/scans/tupi/0617-900.webp",
+   "lg": "/scans/tupi/0617-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "ABa",
+   "gloss": "a Man, also Hair.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0333,
+    "y": 0.4323,
+    "w": 0.272,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 2,
+   "form": "Acu",
+   "gloss": "the Left-hand.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0592,
+    "y": 0.4475,
+    "w": 0.2461,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 3,
+   "form": "Acuabeimae",
+   "gloss": "Sweet.",
+   "section": "",
+   "concepts": [
+    "SWEET"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0231,
+    "y": 0.465,
+    "w": 0.1641,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 4,
+   "form": "Amaberaba",
+   "gloss": "Lightning.",
+   "section": "",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.022,
+    "y": 0.4824,
+    "w": 0.2833,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 5,
+   "form": "Amacuminga",
+   "gloss": "Thunder.",
+   "section": "",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0217,
+    "y": 0.4976,
+    "w": 0.2836,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 6,
+   "form": "Amandiba",
+   "gloss": "Hail.",
+   "section": "",
+   "concepts": [
+    "HAIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0225,
+    "y": 0.5138,
+    "w": 0.2827,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 7,
+   "form": "Anama",
+   "gloss": "a near Relation.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0214,
+    "y": 0.5305,
+    "w": 0.2839,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 8,
+   "form": "Anga",
+   "gloss": "the Soul.",
+   "section": "",
+   "concepts": [
+    "SOUL"
+   ]
+  },
+  {
+   "n": 9,
+   "form": "Angabara",
+   "gloss": "Lean.",
+   "section": "",
+   "concepts": [
+    "LEAN (MEAT)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0214,
+    "y": 0.5305,
+    "w": 0.2839,
+    "h": 0.0151,
+    "approx": true
+   }
+  },
+  {
+   "n": 10,
+   "form": "Angaipata",
+   "gloss": "Angry, or Wicked.",
+   "section": "",
+   "concepts": [
+    "ANGRY"
+   ]
+  },
+  {
+   "n": 11,
+   "form": "Angaturama",
+   "gloss": "Thankful, or Acceptable.",
+   "section": ""
+  },
+  {
+   "n": 12,
+   "form": "Apara",
+   "gloss": "a Crown.",
+   "section": "",
+   "concepts": [
+    "CROWN (OF HEAD)"
+   ]
+  },
+  {
+   "n": 13,
+   "form": "Apecum",
+   "gloss": "the Tongue.",
+   "section": "",
+   "concepts": [
+    "TONGUE"
+   ]
+  },
+  {
+   "n": 14,
+   "form": "Apicaba",
+   "gloss": "a Stool.",
+   "section": "",
+   "concepts": [
+    "STOOL"
+   ]
+  },
+  {
+   "n": 15,
+   "form": "Ara",
+   "gloss": "the Time, Skye, or Day.",
+   "section": "",
+   "concepts": [
+    "DAY",
+    "SKY",
+    "TIME"
+   ]
+  },
+  {
+   "n": 16,
+   "form": "Ara-ibi coquime",
+   "gloss": "Noon.",
+   "section": "",
+   "concepts": [
+    "NOON"
+   ]
+  },
+  {
+   "n": 17,
+   "form": "Araya",
+   "gloss": "Grandmother.",
+   "section": "",
+   "concepts": [
+    "GRANDMOTHER"
+   ]
+  },
+  {
+   "n": 18,
+   "form": "Atapuana",
+   "gloss": "Light.",
+   "section": "",
+   "concepts": [
+    "LIGHT (COLOR)"
+   ]
+  },
+  {
+   "n": 19,
+   "form": "Atapuatia",
+   "gloss": "Swift.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0214,
+    "y": 0.5305,
+    "w": 0.2839,
+    "h": 0.0151,
+    "approx": true
+   }
+  },
+  {
+   "n": 20,
+   "form": "Atucupe",
+   "gloss": "the Back.",
+   "section": "",
+   "concepts": [
+    "BACK"
+   ]
+  },
+  {
+   "n": 21,
+   "form": "Atyba",
+   "gloss": "the Shoulder.",
+   "section": "",
+   "concepts": [
+    "SHOULDER"
+   ]
+  },
+  {
+   "n": 22,
+   "form": "Ay cig",
+   "gloss": "a Mother.",
+   "section": "",
+   "concepts": [
+    "MOTHER"
+   ]
+  },
+  {
+   "n": 23,
+   "form": "Ayura",
+   "gloss": "the Neck.",
+   "section": "",
+   "concepts": [
+    "NECK"
+   ]
+  },
+  {
+   "n": 24,
+   "form": "Boya",
+   "gloss": "a Slave.",
+   "section": "",
+   "concepts": [
+    "SLAVE"
+   ]
+  },
+  {
+   "n": 25,
+   "form": "Cama",
+   "gloss": "a Sucking-Breast.",
+   "section": ""
+  },
+  {
+   "n": 26,
+   "form": "Canga",
+   "gloss": "a Leg.",
+   "section": "",
+   "concepts": [
+    "LEG"
+   ],
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "The form means 'bone'; leg rendered by the word for its bone.",
+    "compare": "Old Tupi kanga 'bone' (leg = retymã)",
+    "checked": false
+   }
+  },
+  {
+   "n": 27,
+   "form": "Caraibebe, apiabebe",
+   "gloss": "an Angle.",
+   "section": "",
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "Caraibebe is the Jesuit coinage for 'angel'; the note's reading as fishing hook is wrong.",
+    "compare": "Old Tupi karaibebe 'angel' (karaíba 'holy, European' + bebé 'flying')",
+    "checked": false
+   }
+  },
+  {
+   "n": 28,
+   "form": "Caruca",
+   "gloss": "the Evening.",
+   "section": "",
+   "concepts": [
+    "EVENING"
+   ]
+  },
+  {
+   "n": 29,
+   "form": "Capii",
+   "gloss": "Grass.",
+   "section": "",
+   "concepts": [
+    "GRASS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2669,
+    "y": 0.5322,
+    "w": 0.0383,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 30,
+   "form": "Capii goacu",
+   "gloss": "Straw.",
+   "section": "",
+   "concepts": [
+    "STRAW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2669,
+    "y": 0.5322,
+    "w": 0.0383,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 31,
+   "form": "Catu",
+   "gloss": "Dainty.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.2669,
+    "y": 0.5497,
+    "w": 0.0383,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 32,
+   "form": "Cay",
+   "gloss": "an Ape.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.2666,
+    "y": 0.5641,
+    "w": 0.0386,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 33,
+   "form": "Ceba",
+   "gloss": "a Loaf.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0214,
+    "y": 0.5793,
+    "w": 0.2839,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 34,
+   "form": "Cibera",
+   "gloss": "the Buttocks.",
+   "section": "",
+   "concepts": [
+    "BUTTOCKS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2661,
+    "y": 0.5962,
+    "w": 0.0392,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 35,
+   "form": "Cemiracoaobae",
+   "gloss": "a Widower.",
+   "section": "",
+   "concepts": [
+    "WIDOWER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0214,
+    "y": 0.6132,
+    "w": 0.2839,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 36,
+   "form": "Ceo",
+   "gloss": "a Breast.",
+   "section": "",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2652,
+    "y": 0.6287,
+    "w": 0.0401,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 37,
+   "form": "Ceteeimibae",
+   "gloss": "a Ghost.",
+   "section": "",
+   "concepts": [
+    "GHOST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2655,
+    "y": 0.6456,
+    "w": 0.0398,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 38,
+   "form": "Cig cygra",
+   "gloss": "an Aunt.",
+   "section": "",
+   "concepts": [
+    "AUNT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2655,
+    "y": 0.6625,
+    "w": 0.0398,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 39,
+   "form": "Coaraci",
+   "gloss": "a Son.",
+   "section": "",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2649,
+    "y": 0.6782,
+    "w": 0.0403,
+    "h": 0.0151
+   },
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "Coaraci is the sun; son is ta'yra (row 104).",
+    "compare": "Old Tupi kûarasy 'sun'",
+    "checked": false
+   }
+  },
+  {
+   "n": 40,
+   "form": "Cobra",
+   "gloss": "a Serpent.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0211,
+    "y": 0.6941,
+    "w": 0.2842,
+    "h": 0.0151
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Portuguese cobra 'snake'; Old Tupi mboîa",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 41,
+   "form": "Coemitanga",
+   "gloss": "the Dawn.",
+   "section": "",
+   "concepts": [
+    "DAWN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2644,
+    "y": 0.7118,
+    "w": 0.0409,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 42,
+   "form": "Coriba",
+   "gloss": "Rejoyce.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.2641,
+    "y": 0.7289,
+    "w": 0.0412,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 43,
+   "form": "Coya",
+   "gloss": "Twins.",
+   "section": "",
+   "concepts": [
+    "TWINS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2638,
+    "y": 0.744,
+    "w": 0.0415,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 44,
+   "form": "Cunha",
+   "gloss": "a Wife.",
+   "section": "",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0203,
+    "y": 0.775,
+    "w": 0.285,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 45,
+   "form": "Cunhaiba",
+   "gloss": "a Bride.",
+   "section": "",
+   "concepts": [
+    "BRIDE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2632,
+    "y": 0.7762,
+    "w": 0.042,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 46,
+   "form": "Cunumigoacu",
+   "gloss": "a Youth.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.263,
+    "y": 0.793,
+    "w": 0.0423,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 47,
+   "form": "Cunumi",
+   "gloss": "a Boy.",
+   "section": "",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2627,
+    "y": 0.8109,
+    "w": 0.0426,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 48,
+   "form": "Ecatuaba",
+   "gloss": "the right Hand.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.2624,
+    "y": 0.844,
+    "w": 0.0429,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 49,
+   "form": "Eyruba",
+   "gloss": "a Bee.",
+   "section": "",
+   "concepts": [
+    "BEE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2627,
+    "y": 0.8578,
+    "w": 0.0426,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 50,
+   "form": "Giba",
+   "gloss": "an Arm.",
+   "section": "",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2627,
+    "y": 0.8908,
+    "w": 0.0426,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 51,
+   "form": "Guaibino",
+   "gloss": "an old Woman.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5099,
+    "y": 0.4137,
+    "w": 0.2212,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 52,
+   "form": "Guirarupia",
+   "gloss": "an Egg.",
+   "section": "",
+   "concepts": [
+    "EGG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5099,
+    "y": 0.4379,
+    "w": 0.2212,
+    "h": 0.0151,
+    "approx": true
+   }
+  },
+  {
+   "n": 53,
+   "form": "Jaci",
+   "gloss": "the Moon, or Month.",
+   "section": "",
+   "concepts": [
+    "MONTH",
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5099,
+    "y": 0.4622,
+    "w": 0.2212,
+    "h": 0.0151,
+    "approx": true
+   }
+  },
+  {
+   "n": 54,
+   "form": "Jacitata",
+   "gloss": "a Star.",
+   "section": "",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5074,
+    "y": 0.4864,
+    "w": 0.136,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 55,
+   "form": "Iba",
+   "gloss": "a Tree.",
+   "section": "",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5088,
+    "y": 0.5023,
+    "w": 0.1076,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 56,
+   "form": "Ibiaia",
+   "gloss": "the Heavens.",
+   "section": "",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5082,
+    "y": 0.5192,
+    "w": 0.1678,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 57,
+   "form": "Ibatinga and Ibitinga",
+   "gloss": "a Witch.",
+   "section": "",
+   "concepts": [
+    "WITCH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5085,
+    "y": 0.5377,
+    "w": 0.2078,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 58,
+   "form": "Ibateba",
+   "gloss": "High.",
+   "section": "",
+   "concepts": [
+    "HIGH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5079,
+    "y": 0.5695,
+    "w": 0.1261,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 59,
+   "form": "Ibi",
+   "gloss": "the Earth.",
+   "section": "",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5076,
+    "y": 0.5839,
+    "w": 0.1281,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 60,
+   "form": "Ibitira",
+   "gloss": "a Mountain.",
+   "section": "",
+   "concepts": [
+    "MOUNTAIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5071,
+    "y": 0.6004,
+    "w": 0.1738,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 61,
+   "form": "Ibitu",
+   "gloss": "the Wind.",
+   "section": "",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5071,
+    "y": 0.6166,
+    "w": 0.1738,
+    "h": 0.0151,
+    "approx": true
+   }
+  },
+  {
+   "n": 62,
+   "form": "Icapi",
+   "gloss": "the Dew.",
+   "section": "",
+   "concepts": [
+    "DEW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5065,
+    "y": 0.6328,
+    "w": 0.136,
+    "h": 0.0151,
+    "approx": true
+   }
+  },
+  {
+   "n": 63,
+   "form": "Ig",
+   "gloss": "Water.",
+   "section": "",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5065,
+    "y": 0.6498,
+    "w": 0.2322,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 64,
+   "form": "Iguaba",
+   "gloss": "a Cap.",
+   "section": "",
+   "concepts": [
+    "CAP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5059,
+    "y": 0.6676,
+    "w": 0.1318,
+    "h": 0.0151,
+    "approx": true
+   },
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "Old Tupi y-gûaba 'drinking vessel, cup' ('y water + gûaba drinking instrument)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 65,
+   "form": "Ipeca",
+   "gloss": "a Goose.",
+   "section": "",
+   "concepts": [
+    "GOOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5054,
+    "y": 0.6815,
+    "w": 0.1301,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 66,
+   "form": "Igue",
+   "gloss": "the Side.",
+   "section": "",
+   "concepts": [
+    "SIDE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.698,
+    "w": 0.1275,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 67,
+   "form": "Ita",
+   "gloss": "Iron, or a Stone.",
+   "section": "",
+   "concepts": [
+    "IRON",
+    "STONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5042,
+    "y": 0.7149,
+    "w": 0.1846,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 68,
+   "form": "Itacira",
+   "gloss": "a Spade.",
+   "section": "",
+   "concepts": [
+    "SPADE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5051,
+    "y": 0.7311,
+    "w": 0.1428,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 69,
+   "form": "Itapigua",
+   "gloss": "a Nail.",
+   "section": "",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.7468,
+    "w": 0.1403,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 70,
+   "form": "Juba",
+   "gloss": "Yellow.",
+   "section": "",
+   "concepts": [
+    "YELLOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.7635,
+    "w": 0.1261,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 71,
+   "form": "Maupiara",
+   "gloss": "the Gall.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.7961,
+    "w": 0.1775,
+    "h": 0.0151,
+    "approx": true
+   }
+  },
+  {
+   "n": 72,
+   "form": "Mbabeaubora",
+   "gloss": "Sick.",
+   "section": "",
+   "concepts": [
+    "SICK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5037,
+    "y": 0.8129,
+    "w": 0.1604,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 73,
+   "form": "Mbiu",
+   "gloss": "Meat.",
+   "section": "",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.8289,
+    "w": 0.1102,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 74,
+   "form": "Mbo",
+   "gloss": "a Hand.",
+   "section": "",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.8457,
+    "w": 0.1474,
+    "h": 0.0151,
+    "approx": true
+   }
+  },
+  {
+   "n": 75,
+   "form": "Membeca",
+   "gloss": "Softly.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.8624,
+    "w": 0.1474,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 76,
+   "form": "Menearaa",
+   "gloss": "a Wedding.",
+   "section": "",
+   "concepts": [
+    "WEDDING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5025,
+    "y": 0.8785,
+    "w": 0.188,
+    "h": 0.0151,
+    "approx": true
+   }
+  },
+  {
+   "n": 77,
+   "form": "Micu",
+   "gloss": "a Toe.",
+   "section": "",
+   "concepts": [
+    "TOE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5025,
+    "y": 0.8929,
+    "w": 0.1159,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 78,
+   "form": "Mita",
+   "gloss": "the Heel.",
+   "section": "",
+   "concepts": [
+    "HEEL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.674,
+    "y": 0.91,
+    "w": 0.0463,
+    "h": 0.0151
+   }
+  },
+  {
+   "n": 79,
+   "form": "Mocu",
+   "gloss": "an Eel.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2787,
+    "y": 0.1119,
+    "w": 0.0268,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 80,
+   "form": "Mormotara",
+   "gloss": "Angry.",
+   "section": "",
+   "concepts": [
+    "ANGRY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2807,
+    "y": 0.1292,
+    "w": 0.0248,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 81,
+   "form": "Muapendaba",
+   "gloss": "a Joint.",
+   "section": "",
+   "concepts": [
+    "JOINT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2812,
+    "y": 0.1445,
+    "w": 0.0243,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 82,
+   "form": "Nbia",
+   "gloss": "the Heart.",
+   "section": "",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2795,
+    "y": 0.1765,
+    "w": 0.026,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 83,
+   "form": "Opacatumha",
+   "gloss": "the World.",
+   "section": "",
+   "concepts": [
+    "WORLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2804,
+    "y": 0.2085,
+    "w": 0.0251,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 84,
+   "form": "Potia",
+   "gloss": "the Breast.",
+   "section": "",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2804,
+    "y": 0.2419,
+    "w": 0.0251,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 85,
+   "form": "Paranga",
+   "gloss": "Fair.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2807,
+    "y": 0.2611,
+    "w": 0.0248,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 86,
+   "form": "Porerobiara",
+   "gloss": "Faithful.",
+   "section": "",
+   "concepts": [
+    "FAITHFUL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2807,
+    "y": 0.2759,
+    "w": 0.0248,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 87,
+   "form": "Porucuicobora",
+   "gloss": "Poor.",
+   "section": "",
+   "concepts": [
+    "POOR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2815,
+    "y": 0.2919,
+    "w": 0.024,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 88,
+   "form": "Potivi",
+   "gloss": "a Duck.",
+   "section": "",
+   "concepts": [
+    "DUCK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2818,
+    "y": 0.3077,
+    "w": 0.0237,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 89,
+   "form": "Poxi",
+   "gloss": "Ugly.",
+   "section": "",
+   "concepts": [
+    "UGLY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2815,
+    "y": 0.3259,
+    "w": 0.024,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 90,
+   "form": "Pi",
+   "gloss": "a Foot.",
+   "section": "",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2815,
+    "y": 0.341,
+    "w": 0.024,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 91,
+   "form": "Pia",
+   "gloss": "the Liver.",
+   "section": "",
+   "concepts": [
+    "LIVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2815,
+    "y": 0.3568,
+    "w": 0.024,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 92,
+   "form": "Pira",
+   "gloss": "Fish, or a Skin.",
+   "section": "",
+   "concepts": [
+    "FISH",
+    "SKIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2812,
+    "y": 0.3739,
+    "w": 0.0243,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 93,
+   "form": "Piquiira",
+   "gloss": "Younger in years.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2815,
+    "y": 0.3902,
+    "w": 0.024,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 94,
+   "form": "Pitanga",
+   "gloss": "a Child.",
+   "section": "",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2818,
+    "y": 0.4217,
+    "w": 0.0237,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 95,
+   "form": "Pua",
+   "gloss": "a Finger.",
+   "section": "",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2815,
+    "y": 0.44,
+    "w": 0.024,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 96,
+   "form": "Pua-guacu",
+   "gloss": "a Thumb.",
+   "section": "",
+   "concepts": [
+    "THUMB"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2818,
+    "y": 0.4538,
+    "w": 0.0237,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 97,
+   "form": "Purva",
+   "gloss": "the Navel.",
+   "section": "",
+   "concepts": [
+    "NAVEL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2737,
+    "y": 0.4717,
+    "w": 0.0318,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 98,
+   "form": "Puou",
+   "gloss": "Long.",
+   "section": "",
+   "concepts": [
+    "LONG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2807,
+    "y": 0.4892,
+    "w": 0.0248,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 99,
+   "form": "Putuma",
+   "gloss": "the Night.",
+   "section": "",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.2812,
+    "y": 0.5046,
+    "w": 0.0243,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 100,
+   "form": "Roig",
+   "gloss": "Cold.",
+   "section": "",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5127,
+    "y": 0.1107,
+    "w": 0.1081,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 101,
+   "form": "Tagica",
+   "gloss": "a Vein.",
+   "section": "",
+   "concepts": [
+    "VEIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.1405,
+    "w": 0.3962,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 102,
+   "form": "Tagui",
+   "gloss": "Blood.",
+   "section": "",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5132,
+    "y": 0.1595,
+    "w": 0.384,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 103,
+   "form": "Tagira, or Membira",
+   "gloss": "a Daughter. The first of these words is us'd by the Fathers, and the other by the Mothers.",
+   "section": ""
+  },
+  {
+   "n": 104,
+   "form": "Taira",
+   "gloss": "Children, or a Son.",
+   "section": "",
+   "concepts": [
+    "SON"
+   ]
+  },
+  {
+   "n": 105,
+   "form": "Tamua",
+   "gloss": "a Grandfather.",
+   "section": "",
+   "concepts": [
+    "GRANDFATHER"
+   ]
+  },
+  {
+   "n": 106,
+   "form": "Tata",
+   "gloss": "Fire.",
+   "section": "",
+   "concepts": [
+    "FIRE"
+   ]
+  },
+  {
+   "n": 107,
+   "form": "Tecoacu",
+   "gloss": "Luck.",
+   "section": ""
+  },
+  {
+   "n": 108,
+   "form": "Tecoateima",
+   "gloss": "Covetousness.",
+   "section": ""
+  },
+  {
+   "n": 109,
+   "form": "Temerico",
+   "gloss": "Man or Woman.",
+   "section": "",
+   "concepts": [
+    "MAN",
+    "WOMAN"
+   ]
+  },
+  {
+   "n": 110,
+   "form": "Tendiba",
+   "gloss": "a Chin.",
+   "section": "",
+   "concepts": [
+    "CHIN"
+   ]
+  },
+  {
+   "n": 111,
+   "form": "Tendi",
+   "gloss": "Spittle.",
+   "section": ""
+  },
+  {
+   "n": 112,
+   "form": "Tendipia",
+   "gloss": "a Knee.",
+   "section": "",
+   "concepts": [
+    "KNEE"
+   ]
+  },
+  {
+   "n": 113,
+   "form": "Tecobecatu",
+   "gloss": "Wholsom.",
+   "section": ""
+  },
+  {
+   "n": 114,
+   "form": "Tema",
+   "gloss": "a Shin-bone.",
+   "section": ""
+  },
+  {
+   "n": 115,
+   "form": "Tete",
+   "gloss": "a Body.",
+   "section": "",
+   "concepts": [
+    "BODY"
+   ]
+  },
+  {
+   "n": 116,
+   "form": "Tiaya",
+   "gloss": "Sweet.",
+   "section": "",
+   "concepts": [
+    "SWEET"
+   ]
+  },
+  {
+   "n": 117,
+   "form": "Tibira",
+   "gloss": "Younger: for so the Brothers call one another, but the Sisters name their younger Brothers Quibira, and Brothers their younger Sisters Teindira.",
+   "section": ""
+  },
+  {
+   "n": 118,
+   "form": "Tigue",
+   "gloss": "the Belly.",
+   "section": "",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5132,
+    "y": 0.1595,
+    "w": 0.384,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 119,
+   "form": "Tique perg",
+   "gloss": "the Guts.",
+   "section": "",
+   "concepts": [
+    "GUTS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5141,
+    "y": 0.1725,
+    "w": 0.4159,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 120,
+   "form": "Tinga",
+   "gloss": "White.",
+   "section": "",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5377,
+    "y": 0.1876,
+    "w": 0.3363,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 121,
+   "form": "Tipiba",
+   "gloss": "Melancholly.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5382,
+    "y": 0.2052,
+    "w": 0.3984,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 122,
+   "form": "Tiquera",
+   "gloss": "eldest Sister.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5388,
+    "y": 0.2206,
+    "w": 0.3965,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 123,
+   "form": "Tiquiera",
+   "gloss": "eldest Brother.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5371,
+    "y": 0.2376,
+    "w": 0.4218,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 124,
+   "form": "Tuba",
+   "gloss": "Parents.",
+   "section": "",
+   "concepts": [
+    "PARENTS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5149,
+    "y": 0.2542,
+    "w": 0.369,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 125,
+   "form": "Tutira",
+   "gloss": "Father's Brother.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5155,
+    "y": 0.2711,
+    "w": 0.4487,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 126,
+   "form": "Tubei-ima",
+   "gloss": "an Hospital Boy.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5163,
+    "y": 0.2891,
+    "w": 0.4614,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 127,
+   "form": "Tuibaem",
+   "gloss": "an old Man.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5166,
+    "y": 0.3194,
+    "w": 0.4256,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 128,
+   "form": "Tupana",
+   "gloss": "God.",
+   "section": "",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5168,
+    "y": 0.3366,
+    "w": 0.3554,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 129,
+   "form": "Ty",
+   "gloss": "Piss.",
+   "section": "",
+   "concepts": [
+    "PISS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5166,
+    "y": 0.3528,
+    "w": 0.3205,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 130,
+   "form": "Tyuris",
+   "gloss": "the Bladder.",
+   "section": "",
+   "concepts": [
+    "BLADDER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5174,
+    "y": 0.3714,
+    "w": 0.4134,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 131,
+   "form": "Uba",
+   "gloss": "the Hip.",
+   "section": "",
+   "concepts": [
+    "HIP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.7594,
+    "y": 0.4098,
+    "w": 0.1228,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 132,
+   "form": "Unhapuapem",
+   "gloss": "a Nail.",
+   "section": "",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.758,
+    "y": 0.4251,
+    "w": 0.1734,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 133,
+   "form": "Yja",
+   "gloss": "a Fountain.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5171,
+    "y": 0.4667,
+    "w": 0.3826,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 134,
+   "form": "Ymeneoba",
+   "gloss": "a Widow.",
+   "section": "",
+   "concepts": [
+    "WIDOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5418,
+    "y": 0.4837,
+    "w": 0.3901,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 135,
+   "form": "Yyaobuamba",
+   "gloss": "Naked.",
+   "section": "",
+   "concepts": [
+    "NAKED"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5404,
+    "y": 0.5,
+    "w": 0.3896,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 136,
+   "form": "ABi",
+   "gloss": "Erring.",
+   "section": "The Words for Action: A.",
+   "box": {
+    "page": 1,
+    "x": 0.5174,
+    "y": 0.5491,
+    "w": 0.3871,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 137,
+   "form": "Abiqui",
+   "gloss": "Coming.",
+   "section": "The Words for Action: A."
+  },
+  {
+   "n": 138,
+   "form": "Acanhem",
+   "gloss": "I die.",
+   "section": "The Words for Action: A.",
+   "box": {
+    "page": 1,
+    "x": 0.5174,
+    "y": 0.5491,
+    "w": 0.3871,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 139,
+   "form": "Acoy",
+   "gloss": "Covering.",
+   "section": "The Words for Action: A."
+  },
+  {
+   "n": 140,
+   "form": "Aei",
+   "gloss": "Missing.",
+   "section": "The Words for Action: A."
+  },
+  {
+   "n": 141,
+   "form": "Ami",
+   "gloss": "Squeezing.",
+   "section": "The Words for Action: A.",
+   "box": {
+    "page": 1,
+    "x": 0.5174,
+    "y": 0.5491,
+    "w": 0.3871,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 142,
+   "form": "Amotareima",
+   "gloss": "Hating.",
+   "section": "The Words for Action: A."
+  },
+  {
+   "n": 143,
+   "form": "Anduba",
+   "gloss": "Opinion.",
+   "section": "The Words for Action: A."
+  },
+  {
+   "n": 144,
+   "form": "Anguipaba",
+   "gloss": "Sinning.",
+   "section": "The Words for Action: A."
+  },
+  {
+   "n": 145,
+   "form": "Abba mandeba",
+   "gloss": "To put on.",
+   "section": "The Words for Action: A."
+  },
+  {
+   "n": 146,
+   "form": "Apina",
+   "gloss": "Shaving.",
+   "section": "The Words for Action: A."
+  },
+  {
+   "n": 147,
+   "form": "Apition",
+   "gloss": "Binding.",
+   "section": "The Words for Action: A."
+  },
+  {
+   "n": 148,
+   "form": "Aroca",
+   "gloss": "a Lesson.",
+   "section": "The Words for Action: A."
+  },
+  {
+   "n": 149,
+   "form": "Ayaima",
+   "gloss": "Feigning.",
+   "section": "The Words for Action: A.",
+   "box": {
+    "page": 1,
+    "x": 0.5174,
+    "y": 0.5491,
+    "w": 0.3871,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 150,
+   "form": "Beraba",
+   "gloss": "Shining.",
+   "section": "The Words for Action: B."
+  },
+  {
+   "n": 151,
+   "form": "Coanga",
+   "gloss": "Measuring, Proving, or Speaking.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 152,
+   "form": "Cacaba",
+   "gloss": "Passing by.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 153,
+   "form": "Cae",
+   "gloss": "Curing.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5174,
+    "y": 0.5491,
+    "w": 0.3871,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 154,
+   "form": "Capucaya",
+   "gloss": "Calling, or To be vex'd.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5174,
+    "y": 0.5491,
+    "w": 0.3871,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 155,
+   "form": "Carom",
+   "gloss": "Hoping.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5177,
+    "y": 0.5843,
+    "w": 0.1417,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 156,
+   "form": "Caruca",
+   "gloss": "Pissing.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5177,
+    "y": 0.6003,
+    "w": 0.3671,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 157,
+   "form": "Cauccuba",
+   "gloss": "Loving.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5185,
+    "y": 0.6166,
+    "w": 0.4104,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 158,
+   "form": "Cecaraya",
+   "gloss": "Forgetting.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5185,
+    "y": 0.6333,
+    "w": 0.4001,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 159,
+   "form": "Cema",
+   "gloss": "Going out.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5185,
+    "y": 0.6333,
+    "w": 0.4001,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 160,
+   "form": "Cenduba",
+   "gloss": "Hearing.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 161,
+   "form": "Cenoya",
+   "gloss": "Naming.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 162,
+   "form": "Cepiaca",
+   "gloss": "Seeing, Punishment.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 163,
+   "form": "Cerura",
+   "gloss": "Carrying.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5185,
+    "y": 0.6333,
+    "w": 0.4001,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 164,
+   "form": "Cetuna",
+   "gloss": "Smelling.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 165,
+   "form": "Ceyara",
+   "gloss": "Relating.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5185,
+    "y": 0.6333,
+    "w": 0.4001,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 166,
+   "form": "Cica",
+   "gloss": "Ploughing.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5185,
+    "y": 0.6333,
+    "w": 0.4001,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 167,
+   "form": "Cipya",
+   "gloss": "Making wet.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 168,
+   "form": "Ciquye",
+   "gloss": "Fearing.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 169,
+   "form": "Co",
+   "gloss": "Going.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5185,
+    "y": 0.6333,
+    "w": 0.4001,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 170,
+   "form": "Cobaitim",
+   "gloss": "Meeting.",
+   "section": "The Words for Action: C",
+   "box": {
+    "page": 1,
+    "x": 0.5185,
+    "y": 0.6333,
+    "w": 0.4001,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 171,
+   "form": "Coquendaboya",
+   "gloss": "Opening.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 172,
+   "form": "Cuaba",
+   "gloss": "Knowing.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 173,
+   "form": "Cupira",
+   "gloss": "Performing.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 174,
+   "form": "Cuu",
+   "gloss": "Defending.",
+   "section": "The Words for Action: C"
+  },
+  {
+   "n": 175,
+   "form": "Ecatu",
+   "gloss": "To be able.",
+   "section": "The Words for Action: E."
+  },
+  {
+   "n": 176,
+   "form": "Genonheca",
+   "gloss": "Praying.",
+   "section": "The Words for Action: G."
+  },
+  {
+   "n": 177,
+   "form": "Goameenga",
+   "gloss": "Biting.",
+   "section": "The Words for Action: G.",
+   "box": {
+    "page": 1,
+    "x": 0.5185,
+    "y": 0.6333,
+    "w": 0.4001,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 178,
+   "form": "Guapua",
+   "gloss": "Sitting.",
+   "section": "The Words for Action: G.",
+   "box": {
+    "page": 1,
+    "x": 0.5188,
+    "y": 0.6485,
+    "w": 0.381,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 179,
+   "form": "Guata",
+   "gloss": "Walking.",
+   "section": "The Words for Action: G.",
+   "box": {
+    "page": 1,
+    "x": 0.5191,
+    "y": 0.6658,
+    "w": 0.3873,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 180,
+   "form": "Gueena",
+   "gloss": "Vomiting.",
+   "section": "The Words for Action: G.",
+   "box": {
+    "page": 1,
+    "x": 0.7608,
+    "y": 0.6805,
+    "w": 0.1606,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 181,
+   "form": "Jababa",
+   "gloss": "To run away.",
+   "section": "The Words for Action: I.",
+   "box": {
+    "page": 1,
+    "x": 0.7575,
+    "y": 0.7124,
+    "w": 0.1911,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 182,
+   "form": "Jecoacuba",
+   "gloss": "To remember.",
+   "section": "The Words for Action: I.",
+   "concepts": [
+    "REMEMBER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.758,
+    "y": 0.7272,
+    "w": 0.2153,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 183,
+   "form": "Jenumuna",
+   "gloss": "Spitting.",
+   "section": "The Words for Action: I.",
+   "box": {
+    "page": 1,
+    "x": 0.5205,
+    "y": 0.7476,
+    "w": 0.407,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 184,
+   "form": "Jerure",
+   "gloss": "Demanding.",
+   "section": "The Words for Action: I.",
+   "box": {
+    "page": 1,
+    "x": 0.7586,
+    "y": 0.7623,
+    "w": 0.1792,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 185,
+   "form": "Igtaba",
+   "gloss": "Swimming.",
+   "section": "The Words for Action: I.",
+   "box": {
+    "page": 1,
+    "x": 0.5213,
+    "y": 0.7806,
+    "w": 0.4079,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 186,
+   "form": "Igu",
+   "gloss": "Drinking.",
+   "section": "The Words for Action: I.",
+   "box": {
+    "page": 1,
+    "x": 0.5213,
+    "y": 0.7967,
+    "w": 0.3751,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 187,
+   "form": "Maenduara",
+   "gloss": "Thinking.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 1,
+    "x": 0.523,
+    "y": 0.8302,
+    "w": 0.4445,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 188,
+   "form": "Mano",
+   "gloss": "Dying.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 1,
+    "x": 0.7616,
+    "y": 0.8444,
+    "w": 0.1198,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 189,
+   "form": "Maramonhanga",
+   "gloss": "Warring.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 1,
+    "x": 0.5232,
+    "y": 0.8625,
+    "w": 0.4484,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 190,
+   "form": "Mayaoca",
+   "gloss": "Dividing.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 1,
+    "x": 0.5232,
+    "y": 0.8783,
+    "w": 0.4026,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 191,
+   "form": "Mba-eraca",
+   "gloss": "Buying.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 1,
+    "x": 0.5232,
+    "y": 0.8951,
+    "w": 0.4118,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 192,
+   "form": "Mubacu",
+   "gloss": "Eating.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 1,
+    "x": 0.9196,
+    "y": 0.9075,
+    "w": 0.064,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 193,
+   "form": "Meenga",
+   "gloss": "Delivering.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0157,
+    "y": 0.1115,
+    "w": 0.2904,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 194,
+   "form": "Menbirara",
+   "gloss": "Barring.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.016,
+    "y": 0.1267,
+    "w": 0.2901,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 195,
+   "form": "Moaibaba",
+   "gloss": "Bewitching, or Preventing.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0163,
+    "y": 0.1445,
+    "w": 0.2898,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 196,
+   "form": "Mongueba",
+   "gloss": "Putting out.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0152,
+    "y": 0.177,
+    "w": 0.291,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 197,
+   "form": "Moanga",
+   "gloss": "Thinking.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0143,
+    "y": 0.1929,
+    "w": 0.1712,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 198,
+   "form": "Moaquima",
+   "gloss": "Making wet.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0143,
+    "y": 0.2093,
+    "w": 0.2166,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 199,
+   "form": "Mobibua",
+   "gloss": "Sowing.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0137,
+    "y": 0.2258,
+    "w": 0.1587,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 200,
+   "form": "Moete",
+   "gloss": "Praising, or Honoring.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0135,
+    "y": 0.2411,
+    "w": 0.2927,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 201,
+   "form": "Moendi",
+   "gloss": "Setting on fire.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0137,
+    "y": 0.2731,
+    "w": 0.2924,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 202,
+   "form": "Mogiba",
+   "gloss": "Boyling.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0126,
+    "y": 0.291,
+    "w": 0.1533,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 203,
+   "form": "Mogyco",
+   "gloss": "Polishing.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.012,
+    "y": 0.3076,
+    "w": 0.2941,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 204,
+   "form": "Momiya",
+   "gloss": "Moving.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0126,
+    "y": 0.3243,
+    "w": 0.2935,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 205,
+   "form": "Momita",
+   "gloss": "Lodging.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0118,
+    "y": 0.3405,
+    "w": 0.2944,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 206,
+   "form": "Monberaba",
+   "gloss": "Bruising.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0118,
+    "y": 0.3556,
+    "w": 0.2944,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 207,
+   "form": "Monbeu",
+   "gloss": "Delivering of a Message.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0118,
+    "y": 0.3556,
+    "w": 0.2944,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 208,
+   "form": "Monbuca",
+   "gloss": "To bore through.",
+   "section": "The Words for Action: M."
+  },
+  {
+   "n": 209,
+   "form": "Monbuja",
+   "gloss": "Boring.",
+   "section": "The Words for Action: M.",
+   "concepts": [
+    "BORING"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0118,
+    "y": 0.3556,
+    "w": 0.2944,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 210,
+   "form": "Mondoca",
+   "gloss": "To cut, take away, or cleave asunder.",
+   "section": "The Words for Action: M."
+  },
+  {
+   "n": 211,
+   "form": "Mondoroca",
+   "gloss": "Breaking.",
+   "section": "The Words for Action: M."
+  },
+  {
+   "n": 212,
+   "form": "Monguy",
+   "gloss": "Grinding.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0118,
+    "y": 0.3556,
+    "w": 0.2944,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 213,
+   "form": "Monguya",
+   "gloss": "Making loose.",
+   "section": "The Words for Action: M."
+  },
+  {
+   "n": 214,
+   "form": "Monhanga",
+   "gloss": "Doing.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0118,
+    "y": 0.3556,
+    "w": 0.2944,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 215,
+   "form": "Moperua",
+   "gloss": "Being cold.",
+   "section": "The Words for Action: M."
+  },
+  {
+   "n": 216,
+   "form": "Mopotaya",
+   "gloss": "Buttoning.",
+   "section": "The Words for Action: M."
+  },
+  {
+   "n": 217,
+   "form": "Moriba",
+   "gloss": "Consenting.",
+   "section": "The Words for Action: M."
+  },
+  {
+   "n": 218,
+   "form": "Moropiana",
+   "gloss": "Changing.",
+   "section": "The Words for Action: M."
+  },
+  {
+   "n": 219,
+   "form": "Moeyeceara",
+   "gloss": "Mixing.",
+   "section": "The Words for Action: M.",
+   "box": {
+    "page": 2,
+    "x": 0.0118,
+    "y": 0.3556,
+    "w": 0.2944,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 220,
+   "form": "Nheangeru",
+   "gloss": "Sighing.",
+   "section": "The Words for Action: N."
+  },
+  {
+   "n": 221,
+   "form": "Nheenga",
+   "gloss": "Speaking.",
+   "section": "The Words for Action: N."
+  },
+  {
+   "n": 222,
+   "form": "Nhemboe",
+   "gloss": "Learning.",
+   "section": "The Words for Action: N."
+  },
+  {
+   "n": 223,
+   "form": "Nhengara",
+   "gloss": "Singing.",
+   "section": "The Words for Action: N.",
+   "box": {
+    "page": 2,
+    "x": 0.0118,
+    "y": 0.3556,
+    "w": 0.2944,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 224,
+   "form": "Paepua",
+   "gloss": "Answering.",
+   "section": "The Words for Action: P."
+  },
+  {
+   "n": 225,
+   "form": "Paraboca",
+   "gloss": "Chusing.",
+   "section": "The Words for Action: P."
+  },
+  {
+   "n": 226,
+   "form": "Paronduba",
+   "gloss": "Enquiring.",
+   "section": "The Words for Action: P."
+  },
+  {
+   "n": 227,
+   "form": "Pea",
+   "gloss": "Abstaining.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.2542,
+    "y": 0.3589,
+    "w": 0.052,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 228,
+   "form": "Pitu",
+   "gloss": "Remaining.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.0103,
+    "y": 0.3739,
+    "w": 0.2958,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 229,
+   "form": "Pitanga rempi",
+   "gloss": "To cast off.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.2533,
+    "y": 0.3905,
+    "w": 0.0528,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 230,
+   "form": "Pitera",
+   "gloss": "Kissing.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.0109,
+    "y": 0.4062,
+    "w": 0.2952,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 231,
+   "form": "Pitibo",
+   "gloss": "Helping.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.2533,
+    "y": 0.4244,
+    "w": 0.0528,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 232,
+   "form": "Aittiba",
+   "gloss": "Anointing.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.0098,
+    "y": 0.4395,
+    "w": 0.2964,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 233,
+   "form": "Poacema",
+   "gloss": "Mourning.",
+   "section": "The Words for Action: P.",
+   "concepts": [
+    "MOURNING"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0336,
+    "y": 0.4558,
+    "w": 0.2725,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 234,
+   "form": "Pobana",
+   "gloss": "Spinning.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.2527,
+    "y": 0.4741,
+    "w": 0.0534,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 235,
+   "form": "Pocuaba",
+   "gloss": "To use.",
+   "section": "The Words for Action: P.",
+   "concepts": [
+    "USE (VERB)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.2527,
+    "y": 0.4882,
+    "w": 0.0534,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 236,
+   "form": "Pocaucuba",
+   "gloss": "Dreaming.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.2522,
+    "y": 0.5073,
+    "w": 0.054,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 237,
+   "form": "Porabiqui",
+   "gloss": "Working.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.2516,
+    "y": 0.5234,
+    "w": 0.0545,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 238,
+   "form": "Potara",
+   "gloss": "Lying.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.5028,
+    "y": 0.1018,
+    "w": 0.1301,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 239,
+   "form": "Potareima",
+   "gloss": "Refusing.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.5022,
+    "y": 0.1187,
+    "w": 0.1775,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 240,
+   "form": "Potara",
+   "gloss": "Desiring.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.5025,
+    "y": 0.1346,
+    "w": 0.1522,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 241,
+   "form": "Puama",
+   "gloss": "Rising.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.502,
+    "y": 0.1506,
+    "w": 0.1349,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 242,
+   "form": "Puaya",
+   "gloss": "Commanding.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.5014,
+    "y": 0.1678,
+    "w": 0.1905,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 243,
+   "form": "Puca",
+   "gloss": "Laughing.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.5014,
+    "y": 0.1831,
+    "w": 0.1496,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 244,
+   "form": "Pura",
+   "gloss": "Using.",
+   "section": "The Words for Action: P.",
+   "box": {
+    "page": 2,
+    "x": 0.3504,
+    "y": 0.2024,
+    "w": 0.2663,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 245,
+   "form": "Quera",
+   "gloss": "Sleeping.",
+   "section": "The Words for Action: Q.",
+   "box": {
+    "page": 2,
+    "x": 0.4991,
+    "y": 0.2469,
+    "w": 0.1582,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 246,
+   "form": "Querara",
+   "gloss": "Waking.",
+   "section": "The Words for Action: Q.",
+   "box": {
+    "page": 2,
+    "x": 0.4991,
+    "y": 0.2469,
+    "w": 0.1582,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 247,
+   "form": "Raba",
+   "gloss": "Untying.",
+   "section": "The Words for Action: R.",
+   "box": {
+    "page": 2,
+    "x": 0.4983,
+    "y": 0.2791,
+    "w": 0.1411,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 248,
+   "form": "Qereco",
+   "gloss": "Having.",
+   "section": "The Words for Action: R.",
+   "box": {
+    "page": 2,
+    "x": 0.4991,
+    "y": 0.2976,
+    "w": 0.1414,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 249,
+   "form": "Rura",
+   "gloss": "Coming.",
+   "section": "The Words for Action: R.",
+   "box": {
+    "page": 2,
+    "x": 0.4986,
+    "y": 0.314,
+    "w": 0.1397,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 250,
+   "form": "Tara",
+   "gloss": "Catching.",
+   "section": "The Words for Action: T.",
+   "box": {
+    "page": 2,
+    "x": 0.4971,
+    "y": 0.3544,
+    "w": 0.1477,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 251,
+   "form": "Tecobe",
+   "gloss": "Living.",
+   "section": "The Words for Action: T.",
+   "box": {
+    "page": 2,
+    "x": 0.4974,
+    "y": 0.371,
+    "w": 0.1352,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 252,
+   "form": "Tiguioca",
+   "gloss": "Bleeding.",
+   "section": "The Words for Action: T.",
+   "box": {
+    "page": 2,
+    "x": 0.4974,
+    "y": 0.3873,
+    "w": 0.1494,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 253,
+   "form": "Tiu",
+   "gloss": "Disgracing.",
+   "section": "The Words for Action: T.",
+   "box": {
+    "page": 2,
+    "x": 0.4966,
+    "y": 0.4036,
+    "w": 0.1494,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 254,
+   "form": "Tima",
+   "gloss": "Ploughing, Warring, or Burying.",
+   "section": "The Words for Action: T.",
+   "box": {
+    "page": 2,
+    "x": 0.4963,
+    "y": 0.4195,
+    "w": 0.2257,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 255,
+   "form": "Yaceo",
+   "gloss": "Crying.",
+   "section": "The Words for Action: Y.",
+   "box": {
+    "page": 2,
+    "x": 0.4971,
+    "y": 0.4772,
+    "w": 0.1258,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 256,
+   "form": "Yeaoboca",
+   "gloss": "Pulling off.",
+   "section": "The Words for Action: Y.",
+   "box": {
+    "page": 2,
+    "x": 0.4966,
+    "y": 0.4922,
+    "w": 0.1823,
+    "h": 0.0168,
+    "approx": true
+   }
+  },
+  {
+   "n": 257,
+   "form": "Yeupira",
+   "gloss": "Climbing.",
+   "section": "The Words for Action: Y.",
+   "box": {
+    "page": 2,
+    "x": 0.4968,
+    "y": 0.5102,
+    "w": 0.1658,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 258,
+   "form": "Yuca",
+   "gloss": "Killing.",
+   "section": "The Words for Action: Y.",
+   "box": {
+    "page": 2,
+    "x": 0.4968,
+    "y": 0.5259,
+    "w": 0.1227,
+    "h": 0.0168
+   }
+  },
+  {
+   "n": 259,
+   "form": "Jatirana",
+   "gloss": "Cotton Strings (cords wound about spear handles)",
+   "section": "prose in Ogilby text"
+  },
+  {
+   "n": 260,
+   "form": "Canguenca",
+   "gloss": "Trumpets (made of Shin-bones of Men, or Shells and Canes)",
+   "section": "prose in Ogilby text"
+  },
+  {
+   "n": 261,
+   "form": "Arara",
+   "gloss": "a Bird (whose Feathers hang as a tuft)",
+   "section": "prose in Ogilby text"
+  },
+  {
+   "n": 262,
+   "form": "Vruca",
+   "gloss": "a wild Plant (red dye from Kernels)",
+   "section": "prose in Ogilby text"
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Tupian",
+   "Eastern Tupian",
+   "Maweti-Guarani",
+   "Aweti-Guarani",
+   "Tupi-Guarani",
+   "Southern Tupi-Guarani"
+  ],
+  "support": [
+   0.93,
+   0.93,
+   0.93,
+   0.93,
+   0.93,
+   0.55
+  ],
+  "concepts": 105,
+  "excluded": [],
+  "leading": {
+   "name": "Tupinambá",
+   "family": "Tupian",
+   "z": 12.14
+  },
+  "candidates": [
+   {
+    "name": "Tupinambá",
+    "db": "Lexibank",
+    "family": "Tupian",
+    "path": [
+     "Tupian",
+     "Eastern Tupian",
+     "Maweti-Guarani",
+     "Aweti-Guarani"
+    ],
+    "z": 12.14,
+    "n": 51
+   },
+   {
+    "name": "Tupí",
+    "db": "Lexibank",
+    "family": "Tupian",
+    "path": [
+     "Tupian",
+     "Eastern Tupian",
+     "Maweti-Guarani",
+     "Aweti-Guarani"
+    ],
+    "z": 9.56,
+    "n": 40
+   },
+   {
+    "name": "Tupí Austral",
+    "db": "Lexibank",
+    "family": "Tupian",
+    "path": [
+     "Tupian",
+     "Eastern Tupian",
+     "Maweti-Guarani",
+     "Aweti-Guarani"
+    ],
+    "z": 8.56,
+    "n": 34
+   },
+   {
+    "name": "Guarayo",
+    "db": "Lexibank",
+    "family": "Tupian",
+    "path": [
+     "Tupian",
+     "Eastern Tupian",
+     "Maweti-Guarani",
+     "Aweti-Guarani"
+    ],
+    "z": 8.25,
+    "n": 36
+   },
+   {
+    "name": "Guarayo",
+    "db": "Lexibank",
+    "family": "Tupian",
+    "path": [
+     "Tupian",
+     "Eastern Tupian",
+     "Maweti-Guarani",
+     "Aweti-Guarani"
+    ],
+    "z": 7.71,
+    "n": 17
+   },
+   {
+    "name": "PROTO_TUPI_GUARANI",
+    "db": "ASJP",
+    "family": "PROTO_TUPI_GUARANI",
+    "path": [
+     "PROTO_TUPI_GUARANI"
+    ],
+    "z": 7.35,
+    "n": 14
+   },
+   {
+    "name": "TENHARIM",
+    "db": "ASJP",
+    "family": "Tupian",
+    "path": [
+     "Tupian",
+     "Eastern Tupian",
+     "Maweti-Guarani",
+     "Aweti-Guarani"
+    ],
+    "z": 7.29,
+    "n": 15
+   },
+   {
+    "name": "Paraguayan Guaraní",
+    "db": "Lexibank",
+    "family": "Tupian",
+    "path": [
+     "Tupian",
+     "Eastern Tupian",
+     "Maweti-Guarani",
+     "Aweti-Guarani"
+    ],
+    "z": 7.22,
+    "n": 26
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "finger",
+    "form": "Pua",
+    "ref": "pʷã",
+    "d": 0.0
+   },
+   {
+    "concept": "fire",
+    "form": "Tata",
+    "ref": "tata",
+    "d": 0.0
+   },
+   {
+    "concept": "fish",
+    "form": "Pira",
+    "ref": "piɾa",
+    "d": 0.0
+   },
+   {
+    "concept": "foot",
+    "form": "Pi",
+    "ref": "pɨ",
+    "d": 0.0
+   },
+   {
+    "concept": "grass",
+    "form": "Capii",
+    "ref": "kapiʔi",
+    "d": 0.0
+   },
+   {
+    "concept": "liver",
+    "form": "Pia",
+    "ref": "pɨʔa",
+    "d": 0.0
+   },
+   {
+    "concept": "skin",
+    "form": "Pira",
+    "ref": "piɾa",
+    "d": 0.0
+   },
+   {
+    "concept": "stone",
+    "form": "Ita",
+    "ref": "ita",
+    "d": 0.0
+   },
+   {
+    "concept": "wind",
+    "form": "Ibitu",
+    "ref": "ɨβɨtu",
+    "d": 0.0
+   },
+   {
+    "concept": "star",
+    "form": "Jacitata",
+    "ref": "jasɨtata",
+    "d": 0.12
+   },
+   {
+    "concept": "child",
+    "form": "Pitanga",
+    "ref": "pitaŋa",
+    "d": 0.14
+   },
+   {
+    "concept": "mountain",
+    "form": "Ibitira",
+    "ref": "ɨβɨtɨɾ",
+    "d": 0.14
+   }
+  ]
+ },
+ "stats": {
+  "entries": 262,
+  "notes": 5,
+  "located": 185
+ },
+ "partial": null,
+ "relation": null
+}

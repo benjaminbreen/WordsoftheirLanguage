@@ -1,0 +1,1742 @@
+{
+ "schema": 1,
+ "id": "burrough",
+ "wtl": "WTL-0011",
+ "heading": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+ "headings": [
+  "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+  "Their wordes of number are these as followeth."
+ ],
+ "language": {
+  "name": "Kildin Sami",
+  "glottocode": "kild1236",
+  "family": "Uralic",
+  "path": [
+   "Uralic",
+   "Saami",
+   "Eastern Saami",
+   "Peninsular Eastern Saami"
+  ],
+  "labels": [
+   "their language (Lappians)"
+  ]
+ },
+ "region": "Arctic & North",
+ "book": {
+  "short": "The Principal Navigations, vol. 1",
+  "title": "The principal nauigations, voyages, traffiques and discoueries of the English nation. [vols. 1-3] made by sea or ouer-land, to the remote and farthest distant quarters of the earth, at any time within the compasse of these 1600. yeres: deuided into three seuerall volumes, according to the positions of the regions, whereunto they were directed. The first volume containeth the worthy discoueries, &c. of the English ... The second volume comprehendeth the principall nauigations ... to the south and south-east parts of the world ... By Richard Hakluyt preacher, and sometime student of Christ-Church in Oxford.",
+  "author": "Richard Hakluyt (ed.)",
+  "printed": 1599,
+  "imprint": "Anno 1599[-1600]",
+  "tcp": "A02495",
+  "cover": "hakluyt1"
+ },
+ "provenance": {
+  "collector": "Stephen Burrough",
+  "place": "Kola coast",
+  "heard": "1557"
+ },
+ "scan": {
+  "ia": "b30333635_0001",
+  "url": "https://archive.org/details/b30333635_0001",
+  "holder": "Wellcome Library",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 327,
+   "w": 3475,
+   "h": 5050,
+   "sm": "/scans/burrough/0327-900.webp",
+   "lg": "/scans/burrough/0327-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "COwghtie coteat",
+   "gloss": "what call you this",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.1719,
+    "y": 0.1783,
+    "w": 0.133,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 2,
+   "form": "Poddythecke",
+   "gloss": "come hither",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.1376,
+    "y": 0.2035,
+    "w": 0.1672,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 3,
+   "form": "Auanchythocke",
+   "gloss": "get the hence",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.137,
+    "y": 0.2178,
+    "w": 0.1678,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 4,
+   "form": "Anna",
+   "gloss": "farewell",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.137,
+    "y": 0.2178,
+    "w": 0.1678,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 5,
+   "form": "Teyrue",
+   "gloss": "good morrowe",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.1365,
+    "y": 0.242,
+    "w": 0.1654,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 6,
+   "form": "Iomme •emaufes",
+   "gloss": "I thanke you",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.1356,
+    "y": 0.2544,
+    "w": 0.1692,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 7,
+   "form": "Passeuellie",
+   "gloss": "a friend",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "FRIEND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1362,
+    "y": 0.2665,
+    "w": 0.1395,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 8,
+   "form": "Olmuelke",
+   "gloss": "a man",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1365,
+    "y": 0.2799,
+    "w": 0.1317,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 9,
+   "form": "Captella",
+   "gloss": "a woman",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1362,
+    "y": 0.2924,
+    "w": 0.138,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 10,
+   "form": "Alke",
+   "gloss": "a sonne",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1359,
+    "y": 0.3049,
+    "w": 0.1018,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 11,
+   "form": "Neit",
+   "gloss": "a daughter, or yong wench",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1356,
+    "y": 0.3183,
+    "w": 0.1692,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 12,
+   "form": "Oyuie",
+   "gloss": "a head",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1353,
+    "y": 0.3314,
+    "w": 0.1038,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 13,
+   "form": "Cyelme",
+   "gloss": "an eye",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.135,
+    "y": 0.3438,
+    "w": 0.1159,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 14,
+   "form": "Nenna",
+   "gloss": "a nose",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.135,
+    "y": 0.3561,
+    "w": 0.1058,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 15,
+   "form": "Nealma",
+   "gloss": "a mouth",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1347,
+    "y": 0.3692,
+    "w": 0.1271,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 16,
+   "form": "Pannea",
+   "gloss": "teeth",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1344,
+    "y": 0.3819,
+    "w": 0.1038,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 17,
+   "form": "Neughtema",
+   "gloss": "a tongue",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1342,
+    "y": 0.3949,
+    "w": 0.1607,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 18,
+   "form": "Seaman",
+   "gloss": "a beard",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1347,
+    "y": 0.4075,
+    "w": 0.1193,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 19,
+   "form": "Peallee",
+   "gloss": "an eare",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1342,
+    "y": 0.4206,
+    "w": 0.1161,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 20,
+   "form": "Teappat",
+   "gloss": "the necke",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1333,
+    "y": 0.4454,
+    "w": 0.1415,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 21,
+   "form": "Voapt",
+   "gloss": "the haire",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1333,
+    "y": 0.4454,
+    "w": 0.1415,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 22,
+   "form": "Keat",
+   "gloss": "a hand",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1339,
+    "y": 0.4582,
+    "w": 0.0925,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 23,
+   "form": "Soarme",
+   "gloss": "fingers",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1339,
+    "y": 0.4711,
+    "w": 0.1176,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 24,
+   "form": "Iowlkie",
+   "gloss": "a legge",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1339,
+    "y": 0.4841,
+    "w": 0.1231,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 25,
+   "form": "Peelkie",
+   "gloss": "the thombe, or great toe",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "TOE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1336,
+    "y": 0.4971,
+    "w": 0.1713,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 26,
+   "form": "Sarke",
+   "gloss": "wollen cloth",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.1339,
+    "y": 0.5089,
+    "w": 0.136,
+    "h": 0.013
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Cloth term shared with Finnic, probably borrowed.",
+    "compare": "Finnish sarka \"coarse homespun woollen cloth\"",
+    "checked": true
+   }
+  },
+  {
+   "n": 27,
+   "form": "Lein",
+   "gloss": "linnen cloth",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.1344,
+    "y": 0.5219,
+    "w": 0.1256,
+    "h": 0.013
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Old Norse lín \"linen\"; Kildin lɨjjn \"cloth\"",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 28,
+   "form": "Payte",
+   "gloss": "a shirt",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "SHIRT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1333,
+    "y": 0.5349,
+    "w": 0.1078,
+    "h": 0.013
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Old loan, established in Saami.",
+    "compare": "North Saami báidi \"shirt\" < Finnic paita < Germanic *paidō",
+    "checked": false
+   }
+  },
+  {
+   "n": 29,
+   "form": "Tol",
+   "gloss": "fire",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1333,
+    "y": 0.5477,
+    "w": 0.1078,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 30,
+   "form": "Keatse",
+   "gloss": "water",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1336,
+    "y": 0.5606,
+    "w": 0.1035,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 31,
+   "form": "Murr",
+   "gloss": "wood",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1333,
+    "y": 0.5731,
+    "w": 0.0923,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 32,
+   "form": "Vannace",
+   "gloss": "a boate",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1333,
+    "y": 0.5858,
+    "w": 0.1245,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 33,
+   "form": "Ariea",
+   "gloss": "an oare",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "OAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1327,
+    "y": 0.5985,
+    "w": 0.1032,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 34,
+   "form": "Nurr",
+   "gloss": "a roape",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.1324,
+    "y": 0.6126,
+    "w": 0.1012,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 35,
+   "form": "Peyue",
+   "gloss": "a day",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1319,
+    "y": 0.6249,
+    "w": 0.0934,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 36,
+   "form": "Hyr",
+   "gloss": "a night",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1319,
+    "y": 0.6371,
+    "w": 0.0923,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 37,
+   "form": "Peyuezea",
+   "gloss": "the Sunne",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1313,
+    "y": 0.6492,
+    "w": 0.1533,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 38,
+   "form": "Manna",
+   "gloss": "the Moone",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1319,
+    "y": 0.6621,
+    "w": 0.1386,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 39,
+   "form": "Laste",
+   "gloss": "starres",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1238,
+    "y": 0.6752,
+    "w": 0.1104,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 40,
+   "form": "Cozam volka",
+   "gloss": "whither goe you",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.1321,
+    "y": 0.6883,
+    "w": 0.1727,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 41,
+   "form": "Ottapp",
+   "gloss": "sleepe",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1327,
+    "y": 0.7006,
+    "w": 0.1078,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 42,
+   "form": "Tallye",
+   "gloss": "that",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "THAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1319,
+    "y": 0.7132,
+    "w": 0.0897,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 43,
+   "form": "Keiedde pieue",
+   "gloss": "a weeke",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "WEEK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1316,
+    "y": 0.7249,
+    "w": 0.1654,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 44,
+   "form": "Isckie",
+   "gloss": "a yeere",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.1316,
+    "y": 0.7504,
+    "w": 0.1337,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 45,
+   "form": "Kesse",
+   "gloss": "Sommer",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.1316,
+    "y": 0.7504,
+    "w": 0.1337,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 46,
+   "form": "Talue",
+   "gloss": "Winter",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "WINTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.131,
+    "y": 0.7635,
+    "w": 0.1153,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 47,
+   "form": "Iowksam",
+   "gloss": "colde",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1307,
+    "y": 0.7762,
+    "w": 0.1159,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 48,
+   "form": "Parox",
+   "gloss": "warme",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "WARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.127,
+    "y": 0.7899,
+    "w": 0.1127,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 49,
+   "form": "Abrye",
+   "gloss": "raine",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "RAIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1198,
+    "y": 0.8099,
+    "w": 0.1302,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 50,
+   "form": "Youghang",
+   "gloss": "yce",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1198,
+    "y": 0.8099,
+    "w": 0.1302,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 51,
+   "form": "Kea•ykye",
+   "gloss": "a stone",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "STONE"
+   ]
+  },
+  {
+   "n": 52,
+   "form": "Sellowpe",
+   "gloss": "siluer",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "SILVER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3802,
+    "y": 0.1916,
+    "w": 0.1156,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 53,
+   "form": "Solda",
+   "gloss": "golde",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "GOLD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3791,
+    "y": 0.2047,
+    "w": 0.0928,
+    "h": 0.013
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Kola Saami form from Russian.",
+    "compare": "Russian zoloto \"gold\"; native Saami golli \"gold\"",
+    "checked": false
+   }
+  },
+  {
+   "n": 54,
+   "form": "Tennae",
+   "gloss": "tinnne",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Norse metal loan.",
+    "compare": "North Saami tinná \"tin\" < Old Norse tin",
+    "checked": true
+   },
+   "box": {
+    "page": 0,
+    "x": 0.3791,
+    "y": 0.2173,
+    "w": 0.1066,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 55,
+   "form": "Veskue",
+   "gloss": "copper",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "COPPER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3791,
+    "y": 0.23,
+    "w": 0.1066,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 56,
+   "form": "Rowadt",
+   "gloss": "yron",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3779,
+    "y": 0.2426,
+    "w": 0.1066,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 57,
+   "form": "Neybx",
+   "gloss": "a knife",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3779,
+    "y": 0.2548,
+    "w": 0.1219,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 58,
+   "form": "Axshe",
+   "gloss": "a hatchet",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "AXE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3776,
+    "y": 0.267,
+    "w": 0.1219,
+    "h": 0.013
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Norse loan.",
+    "compare": "North Saami ákšu \"axe\" < Old Norse øx",
+    "checked": false
+   }
+  },
+  {
+   "n": 59,
+   "form": "Leabee",
+   "gloss": "bread",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3793,
+    "y": 0.2801,
+    "w": 0.1075,
+    "h": 0.013
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Old loan, established in Saami.",
+    "compare": "North Saami láibi \"bread\" < Finnic leipä < Germanic *hlaiba-",
+    "checked": false
+   }
+  },
+  {
+   "n": 60,
+   "form": "Ieauegoat",
+   "gloss": "meale",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "MEAL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3776,
+    "y": 0.2927,
+    "w": 0.1279,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 61,
+   "form": "Pencka",
+   "gloss": "the winde",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3773,
+    "y": 0.3049,
+    "w": 0.1328,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 62,
+   "form": "Iowte",
+   "gloss": "A platter",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.3773,
+    "y": 0.3177,
+    "w": 0.1328,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 63,
+   "form": "Kemnie",
+   "gloss": "a kettle",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "concepts": [
+    "POT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.369,
+    "y": 0.3305,
+    "w": 0.13,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 64,
+   "form": "Keestes",
+   "gloss": "gloues",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.3767,
+    "y": 0.3437,
+    "w": 0.1161,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 65,
+   "form": "Sapege",
+   "gloss": "shoes",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.3767,
+    "y": 0.3566,
+    "w": 0.0997,
+    "h": 0.013
+   },
+   "note": {
+    "kind": "loan",
+    "label": "Loanword",
+    "text": "Russian сапоги sapogi \"boots\"; Kildin native koame \"shoe\"",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 66,
+   "form": "Conde",
+   "gloss": "a wilde Deare",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.3762,
+    "y": 0.3687,
+    "w": 0.1613,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 67,
+   "form": "Poatsa",
+   "gloss": "the labouring Deare",
+   "section": "I obserued certaine wordes of their language, which I thought good to set downe for their vse, that hereafter shall haue occasion to continue this voyage.",
+   "box": {
+    "page": 0,
+    "x": 0.3759,
+    "y": 0.3825,
+    "w": 0.1976,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 68,
+   "form": "OFte",
+   "gloss": "1",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3759,
+    "y": 0.4347,
+    "w": 0.2787,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 69,
+   "form": "Noumpte",
+   "gloss": "2",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3359,
+    "y": 0.487,
+    "w": 0.2787,
+    "h": 0.013
+   },
+   "note": {
+    "kind": "ostension",
+    "label": "Related meaning",
+    "text": "Kildin kūht \"two\"; cf. N. Saami nubbi \"second, other\"",
+    "compare": null,
+    "checked": true
+   }
+  },
+  {
+   "n": 70,
+   "form": "Colme",
+   "gloss": "3",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3359,
+    "y": 0.4994,
+    "w": 0.2787,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 71,
+   "form": "Nellye",
+   "gloss": "4",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3736,
+    "y": 0.5117,
+    "w": 0.1081,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 72,
+   "form": "Vitte",
+   "gloss": "5",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3739,
+    "y": 0.5242,
+    "w": 0.2396,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 73,
+   "form": "Cowte",
+   "gloss": "6",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3736,
+    "y": 0.5364,
+    "w": 0.2396,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 74,
+   "form": "Keydeem",
+   "gloss": "7",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3727,
+    "y": 0.5499,
+    "w": 0.2405,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 75,
+   "form": "Kaffts",
+   "gloss": "8",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3724,
+    "y": 0.5621,
+    "w": 0.2402,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 76,
+   "form": "Owghchte",
+   "gloss": "9",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3736,
+    "y": 0.575,
+    "w": 0.239,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 77,
+   "form": "Locke",
+   "gloss": "10",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3727,
+    "y": 0.6006,
+    "w": 0.2393,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 78,
+   "form": "Ostretumbelocke",
+   "gloss": "11",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3727,
+    "y": 0.6006,
+    "w": 0.2393,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 79,
+   "form": "Cowghtnumbelocke",
+   "gloss": "12",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3724,
+    "y": 0.6137,
+    "w": 0.239,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 80,
+   "form": "Colmenonbelocke",
+   "gloss": "13",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.371,
+    "y": 0.6262,
+    "w": 0.2407,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 81,
+   "form": "Nellynombelocke",
+   "gloss": "14",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3721,
+    "y": 0.6389,
+    "w": 0.2393,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 82,
+   "form": "Vittie nombelocke",
+   "gloss": "15",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3719,
+    "y": 0.6516,
+    "w": 0.239,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 83,
+   "form": "Cowtenombelocke",
+   "gloss": "16",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.373,
+    "y": 0.6644,
+    "w": 0.2376,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 84,
+   "form": "Keydemnombelocke",
+   "gloss": "17",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3727,
+    "y": 0.6773,
+    "w": 0.2382,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 85,
+   "form": "Kafts nombelocke",
+   "gloss": "18",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3727,
+    "y": 0.6901,
+    "w": 0.2384,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 86,
+   "form": "Owght nombelocke",
+   "gloss": "19",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3724,
+    "y": 0.7029,
+    "w": 0.2384,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 87,
+   "form": "Coffreylocke",
+   "gloss": "20",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "TWENTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3724,
+    "y": 0.7164,
+    "w": 0.2514,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 88,
+   "form": "Colmelocke",
+   "gloss": "30",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3583,
+    "y": 0.7299,
+    "w": 0.2514,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 89,
+   "form": "Nellylocke",
+   "gloss": "40",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3583,
+    "y": 0.7409,
+    "w": 0.2514,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 90,
+   "form": "Vitte locke",
+   "gloss": "50",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3713,
+    "y": 0.7518,
+    "w": 0.2393,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 91,
+   "form": "Cowtelocke",
+   "gloss": "60",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3721,
+    "y": 0.7656,
+    "w": 0.2384,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 92,
+   "form": "Keydemlocke",
+   "gloss": "70",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3719,
+    "y": 0.7832,
+    "w": 0.2382,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 93,
+   "form": "Kaffstelocke",
+   "gloss": "80",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3719,
+    "y": 0.7999,
+    "w": 0.252,
+    "h": 0.013,
+    "approx": true
+   }
+  },
+  {
+   "n": 94,
+   "form": "Oughcheteloke",
+   "gloss": "90",
+   "section": "Their wordes of number are these as followeth.",
+   "box": {
+    "page": 0,
+    "x": 0.3578,
+    "y": 0.8167,
+    "w": 0.252,
+    "h": 0.013
+   }
+  },
+  {
+   "n": 95,
+   "form": "Tewer",
+   "gloss": "100",
+   "section": "Their wordes of number are these as followeth.",
+   "concepts": [
+    "HUNDRED"
+   ]
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Uralic",
+   "Saami",
+   "Western Saami"
+  ],
+  "support": [
+   1.0,
+   0.9,
+   0.45
+  ],
+  "concepts": 61,
+  "excluded": [],
+  "leading": {
+   "name": "Kildin Sami",
+   "family": "Uralic",
+   "z": 17.22
+  },
+  "candidates": [
+   {
+    "name": "Kildin Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Eastern Saami",
+     "Peninsular Eastern Saami"
+    ],
+    "z": 17.22,
+    "n": 57
+   },
+   {
+    "name": "Skolt Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Eastern Saami",
+     "Mainland Eastern Saami"
+    ],
+    "z": 16.57,
+    "n": 57
+   },
+   {
+    "name": "Northern Saami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Western Saami",
+     "Central Western Saami"
+    ],
+    "z": 16.47,
+    "n": 54
+   },
+   {
+    "name": "Kildin Saami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Eastern Saami",
+     "Peninsular Eastern Saami"
+    ],
+    "z": 16.46,
+    "n": 57
+   },
+   {
+    "name": "Northern Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Western Saami",
+     "Central Western Saami"
+    ],
+    "z": 16.12,
+    "n": 57
+   },
+   {
+    "name": "Inari Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Eastern Saami",
+     "Mainland Eastern Saami"
+    ],
+    "z": 15.08,
+    "n": 57
+   },
+   {
+    "name": "Lule Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Western Saami",
+     "Central Western Saami"
+    ],
+    "z": 13.94,
+    "n": 57
+   },
+   {
+    "name": "Southern Sami",
+    "db": "Lexibank",
+    "family": "Uralic",
+    "path": [
+     "Uralic",
+     "Saami",
+     "Western Saami",
+     "Southwestern Saami"
+    ],
+    "z": 12.82,
+    "n": 57
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "fire",
+    "form": "Tol",
+    "ref": "toːlː",
+    "d": 0.0
+   },
+   {
+    "concept": "hair",
+    "form": "Voapt",
+    "ref": "vuːpːt",
+    "d": 0.0
+   },
+   {
+    "concept": "hand",
+    "form": "Keat",
+    "ref": "kiːdt",
+    "d": 0.0
+   },
+   {
+    "concept": "seven",
+    "form": "Keydeem",
+    "ref": "kɨd͡ʒemʲ",
+    "d": 0.0
+   },
+   {
+    "concept": "wood",
+    "form": "Murr",
+    "ref": "muːrː",
+    "d": 0.0
+   },
+   {
+    "concept": "four",
+    "form": "Nellye",
+    "ref": "ɲeːʎːj",
+    "d": 0.2
+   },
+   {
+    "concept": "iron",
+    "form": "Rowadt",
+    "ref": "ruːvːt",
+    "d": 0.2
+   },
+   {
+    "concept": "mouth",
+    "form": "Nealma",
+    "ref": "ɲaːʎːm",
+    "d": 0.2
+   },
+   {
+    "concept": "neck",
+    "form": "Teappat",
+    "ref": "t͡ʃaːpex",
+    "d": 0.2
+   },
+   {
+    "concept": "pot",
+    "form": "Kemnie",
+    "ref": "kiːmʲːn",
+    "d": 0.2
+   },
+   {
+    "concept": "three",
+    "form": "Colme",
+    "ref": "koːlːm",
+    "d": 0.2
+   },
+   {
+    "concept": "wind",
+    "form": "Pencka",
+    "ref": "piːŋːk",
+    "d": 0.2
+   }
+  ]
+ },
+ "stats": {
+  "entries": 95,
+  "notes": 9,
+  "located": 93
+ },
+ "partial": null,
+ "relation": null
+}

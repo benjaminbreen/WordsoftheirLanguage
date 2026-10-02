@@ -134,11 +134,14 @@ def segments(p):
     mh = hs[len(hs) // 2] or 1
     lines, cur = [], [W[0]]
     for w in W[1:]:
-        if abs((w[2] + w[4]) / 2 - (cur[-1][2] + cur[-1][4]) / 2) < 0.5 * mh:
+        if abs((w[2] + w[4]) / 2 - (cur[-1][2] + cur[-1][4]) / 2) < 0.36 * mh:
             cur.append(w)
         else:
             lines.append(cur); cur = [w]
     lines.append(cur)
+    cys = sorted(sum((w[2] + w[4]) / 2 for w in ln) / len(ln) for ln in lines)
+    gaps = sorted(b - a for a, b in zip(cys, cys[1:]) if 0.6 * mh < b - a < 3 * mh)
+    pitch = gaps[len(gaps) // 2] if gaps else 1.4 * mh
     segs = []
     for ln in lines:
         ln = sorted(ln, key=lambda w: w[1])
@@ -152,7 +155,9 @@ def segments(p):
     out = []
     for g in segs:
         L, T, R, B = min(w[1] for w in g), min(w[2] for w in g), max(w[3] for w in g), max(w[4] for w in g)
-        out.append(dict(text=" ".join(w[0] for w in g), box=(L, T, R, B), col=0 if L < 0.45 * p["w"] else 1))
+        gcy = sorted((w[2] + w[4]) / 2 for w in g)
+        out.append(dict(text=" ".join(w[0] for w in g), box=(L, T, R, B), cy=gcy[len(gcy) // 2], mh=mh, pitch=pitch,
+                        col=0 if L < 0.45 * p["w"] else 1))
     out.sort(key=lambda s: (s["col"], s["box"][1]))
     return out
 
@@ -179,15 +184,16 @@ def units(pgs, idxs, split=None):
             c = col(sg["box"])
             if X is not None and c == 0:
                 R = min(R, X)
-            out.append(dict(pi=pi, left=fold(sg["text"]), right="", box=(L, T, R, B), order=(pi, c, T, L)))
+            out.append(dict(pi=pi, left=fold(sg["text"]), right="", box=(L, T, R, B), cy=sg["cy"], mh=sg["mh"], pitch=sg["pitch"], order=(pi, c, T, L)))
             h = B - T
-            nb = [o for o in segs if o is not sg and col(o["box"]) == c and abs(o["box"][1] - T) < 0.6 * h
+            nb = [o for o in segs if o is not sg and col(o["box"]) == c and abs(o["cy"] - sg["cy"]) < 0.35 * sg["mh"]
                   and 0 < o["box"][0] - sg["box"][2] < 0.22 * p["w"]]
             if nb:
                 o = min(nb, key=lambda o: o["box"][0])
                 R2 = min(o["box"][2], X) if (X is not None and c == 0) else o["box"][2]
                 out.append(dict(pi=pi, left=fold(sg["text"]), right=fold(o["text"]),
-                                box=(L, min(T, o["box"][1]), R2, max(B, o["box"][3])), order=(pi, c, T, L + 0.5)))
+                                box=(L, min(T, o["box"][1]), R2, max(B, o["box"][3])), cy=sg["cy"], mh=sg["mh"], pitch=sg["pitch"],
+                                order=(pi, c, T, L + 0.5)))
     out.sort(key=lambda u: u["order"])
     return out
 
@@ -241,11 +247,16 @@ def align_once(pgs, idxs, ents, split):
         if s_ > 0 and (abs(D[i][j] - (D[i - 1][j - 1] + s_)) < 1e-9 or same_line):
             u = S[j - 1]
             p = pgs[u["pi"]]
-            L, T, R, B = u["box"]
-            pad = 0.22 * (B - T)
-            boxes[ents[i - 1][0]] = dict(page=idxs.index(u["pi"]), score=round(s_ + TH),
-                box=[round(max(0, (L - pad) / p["w"]), 4), round(max(0, (T - pad) / p["h"]), 4),
-                     round(min(1, (R - L + 2 * pad) / p["w"]), 4), round(min(1, (B - T + 2 * pad) / p["h"]), 4)])
+            L, _, R, _ = u["box"]
+            mh, pitch = u["mh"], u["pitch"]
+            up, down = min(0.72 * mh, 0.56 * pitch), min(0.62 * mh, 0.46 * pitch)
+            T, B = u["cy"] - up, u["cy"] + down
+            pad = 0.3 * mh
+            fform = fold(ents[i - 1][1]["form_as_printed"])
+            fs = max(psim(fform, u["left"]), psim(fform, u["left"] + u["right"]))
+            boxes[ents[i - 1][0]] = dict(page=idxs.index(u["pi"]), score=round(s_ + TH), form_score=round(fs),
+                box=[round(max(0, (L - pad) / p["w"]), 4), round(max(0, T / p["h"]), 4),
+                     round(min(1, (R - L + 2 * pad) / p["w"]), 4), round(min(1, (B - T) / p["h"]), 4)])
             i -= 1
             if not same_line:
                 j -= 1

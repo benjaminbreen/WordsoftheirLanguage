@@ -6,8 +6,8 @@ Inputs
   out/site/data.json                        identifications (src/build_site_data.py)
   data/work/encounter/annot*/*.jsonl        draft notes (protocol annotations)
   out/cases/herbert_vs_vanneck_alignment.csv
-Outputs
-  site/src/data/tables/<id>.json, site/src/data/catalog.json, site/public/data/search.json
+Outputs (the search index is built by the site: site/src/pages/data/index.json.ts)
+  site/src/data/tables/<id>.json, site/src/data/catalog.json
 """
 import csv
 import glob
@@ -190,7 +190,6 @@ def interpolate(entries, pages):
 
 def main():
     os.makedirs(f"{OUT}/tables", exist_ok=True)
-    os.makedirs("site/public/data", exist_ok=True)
     cm = ConceptMapper()
     ann = load_annotations()
     hn = herbert_notes()
@@ -234,11 +233,14 @@ def main():
             if b and b["page"] in remap:
                 x, y, w, h = b["box"]
                 e["box"] = dict(page=remap[b["page"]], x=x, y=y, w=w, h=h)
+                if b.get("score", 100) < 75 or b.get("form_score", 100) < 70:
+                    e["box"]["approx"] = True
             note = None
             if c.get("ann") and (c["ann"], i) in ann:
                 a = ann[(c["ann"], i)]
-                note = dict(kind=a["category"], label=CAT_LABEL[a["category"]], text=clean_comment(a["comment"]),
-                            compare=(a.get("evidence") or "").strip() or None,
+                txt, ev = clean_comment(a["comment"]), (a.get("evidence") or "").strip()
+                note = dict(kind=a["category"], label=CAT_LABEL[a["category"]], text=txt or ev,
+                            compare=ev if (txt and ev) else None,
                             checked=bool(a.get("agree") or a.get("verified")))
             if tid == "herbert" and (g, f) in hn:
                 h_ = hn[(g, f)]
@@ -287,8 +289,7 @@ def main():
             search.append([tid, e["n"], e["form"], e["gloss"], fold(e["form"]), fold(e["gloss"]), ",".join(e.get("concepts", []))])
     catalog.sort(key=lambda r: r["printed"])
     json.dump(catalog, open(f"{OUT}/catalog.json", "w"), ensure_ascii=False, indent=1)
-    json.dump(dict(v=1, fields=["table", "n", "form", "gloss", "formFold", "glossFold", "concepts"], rows=search),
-              open("site/public/data/search.json", "w"), ensure_ascii=False, separators=(",", ":"))
+    # The search index is built by the site itself (site/src/pages/data/index.json.ts).
     print(len(catalog), "tables;", len(search), "entries;", sum(r["notes"] for r in catalog), "notes")
 
 

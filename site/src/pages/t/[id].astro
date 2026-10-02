@@ -1,0 +1,551 @@
+---
+import Base from "../../layouts/Base.astro";
+import { tables, byId, cover, cropStyle, conceptIndex, conceptLabel, citation, type Table } from "../../lib/data";
+
+export function getStaticPaths() {
+  return tables.map((t) => ({ params: { id: t.id } }));
+}
+const t: Table = byId[Astro.params.id!];
+const first = t.entries.find((e) => e.box) || t.entries[0];
+const fp = first.box ? t.pages[first.box.page] : t.pages[0];
+const title = t.heading || `${t.language.name} vocabulary`;
+const idn = t.identification;
+
+// Same meaning in other tables, per concept present here (kept small).
+const elsewhere: Record<string, { t: string; n: number; form: string; lang: string; year: number }[]> = {};
+for (const e of t.entries) for (const c of e.concepts || []) {
+  if (elsewhere[c]) continue;
+  elsewhere[c] = (conceptIndex[c] || []).filter((o) => o.table !== t.id).slice(0, 8)
+    .map((o) => ({ t: o.table, n: o.n, form: o.form, lang: o.lang, year: o.year }));
+}
+const payload = {
+  id: t.id, wtl: t.wtl, ia: t.scan.ia, cite: citation(t),
+  pages: t.pages.map((p) => ({ w: p.w, h: p.h, sm: p.sm, lg: p.lg, leaf: p.leaf })),
+  entries: t.entries.map((e) => ({ n: e.n, f: e.form, g: e.gloss, b: e.box ? [e.box.page, e.box.x, e.box.y, e.box.w, e.box.h, e.box.approx ? 1 : 0] : null,
+    note: e.note || null, c: (e.concepts || []).map((c) => [c, conceptLabel(c)]), s: e.section || "", col: e.col || "" })),
+  elsewhere, langs: Object.fromEntries(tables.map((x) => [x.id, x.language.name])),
+};
+const notesN = t.stats.notes;
+let lastSection = "";
+const relTable = t.relation ? byId[t.relation.table] : null;
+---
+<Base title={`${t.language.name}: ${t.book.short} (${t.book.printed})`} description={`${t.stats.entries} ${t.language.name} words as printed in ${t.book.short} (${t.book.printed}), with page images and transcription.`} nav="tables" image={cover(t, 720)}>
+  <article class="tp" data-table={t.id}>
+    <header class="wrap tp-head">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href={`/?region=${encodeURIComponent(t.region)}`}>{t.region}</a><span aria-hidden="true">/</span><a href={`/languages#${t.language.glottocode || t.id}`}>{t.language.name}</a></nav>
+      <div class="tp-title">
+        <div class="tp-title-main">
+          <h1 class="print">{title}</h1>
+          <p class="tp-sub"><span class="tp-lang">{t.language.name}</span><span aria-hidden="true">·</span><i class="print">{t.book.short}</i><span aria-hidden="true">·</span><span>{t.book.author}, {t.book.printed}</span></p>
+        </div>
+        <dl class="tp-stats mono">
+          <div><dt>Entries</dt><dd>{t.stats.entries}</dd></div>
+          <div><dt>Pages</dt><dd>{t.pages.length}</dd></div>
+          <div><dt>Notes</dt><dd>{notesN}</dd></div>
+          <div class="tp-id"><dt>ID</dt><dd>{t.wtl}</dd></div>
+        </dl>
+      </div>
+      {t.relation && relTable && (
+        <p class="notice"><strong>Copied.</strong> {t.relation.text} <a href={`/t/${relTable.id}`}>See the {relTable.book.printed} original →</a></p>
+      )}
+      {t.partial && <p class="notice soft">{t.partial}</p>}
+    </header>
+
+    <div class="wrap">
+      <div class="workspace" id="workspace">
+        <section class="pane scan-pane" aria-label="Page images">
+          <div class="scan-tools">
+            {t.pages.length > 1 ? (
+              <div class="seg" role="tablist" aria-label="Pages">
+                {t.pages.map((p, i) => <button type="button" role="tab" data-page={i} aria-pressed={i === (first.box?.page || 0) ? "true" : "false"}>p. {i + 1}</button>)}
+              </div>
+            ) : <span class="faint scan-one">Single page</span>}
+            <div class="scan-actions">
+              <button type="button" class="icon-btn" data-zoom aria-label="Enlarge page (z)" title="Enlarge page (z)">
+                <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5M11 8v6M8 11h6"/></svg>
+              </button>
+              <a class="icon-btn" data-ia href={`https://archive.org/details/${t.scan.ia}/page/n${fp.leaf}`} target="_blank" rel="noopener" aria-label="Open this page at the Internet Archive" title="Open at the Internet Archive">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>
+              </a>
+            </div>
+          </div>
+          <figure class="page" data-pageview>
+            <div class="page-frame" style={`aspect-ratio:${fp.w}/${fp.h}`}>
+              <img class="page-img" src={fp.sm} srcset={`${fp.sm} 900w, ${fp.lg} 1800w`} sizes="(max-width: 1100px) 92vw, 520px" alt={`Page ${(first.box?.page || 0) + 1} of the table in ${t.book.short}`} width={fp.w} height={fp.h} data-pageimg />
+              <span class="band ghost" data-ghost hidden></span>
+              <span class="band" data-band hidden></span>
+            </div>
+          </figure>
+          <div class="loupe-box">
+            <div class="loupe-head"><span>Printed line, enlarged</span><span class="mono faint" data-loupe-label></span></div>
+            <div class="loupe" data-loupe role="img" aria-label="The selected printed line, enlarged"></div>
+          </div>
+          <p class="scan-credit faint">{t.scan.holder ? `${t.scan.holder} copy` : "Scan"} via the <a href={t.scan.url} target="_blank" rel="noopener">Internet Archive</a>{t.scan.note ? ` · ${t.scan.note}` : ""}</p>
+        </section>
+
+        <section class="pane list-pane" aria-label="Entries">
+          <div class="list-tools">
+            <label class="filter">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+              <input type="search" placeholder="Filter this table" aria-label="Filter entries in this table" data-local-search autocomplete="off" />
+            </label>
+            <div class="chips" role="group" aria-label="Show">
+              <button class="chip" type="button" data-only="all" aria-pressed="true">All</button>
+              <button class="chip" type="button" data-only="notes" aria-pressed="false" disabled={!notesN}>Notes <span class="mono">{notesN}</span></button>
+            </div>
+          </div>
+          <ol class="entries" role="listbox" aria-label="Entries" tabindex="0" data-entries>
+            {t.entries.map((e) => {
+              const sec = e.section && e.section !== lastSection ? e.section : null;
+              if (e.section) lastSection = e.section;
+              return (
+                <>
+                  {sec && <li class="sec print" role="presentation">{sec}</li>}
+                  <li role="option" id={`e${e.n}`} data-n={e.n} aria-selected="false" class={e.note ? "has-note" : undefined}>
+                    <span class="n mono">{e.n}</span>
+                    <span class="f print">{e.form}</span>
+                    <span class="g">{e.col && <span class="tag">{e.col}</span>} {e.gloss}</span>
+                    {e.note && <span class="dot" aria-label="has a note"></span>}
+                  </li>
+                </>
+              );
+            })}
+          </ol>
+          <p class="list-empty faint" data-empty hidden>No entries match.</p>
+        </section>
+
+        <aside class="pane inspector" aria-label="Selected entry" data-inspector>
+          <button class="sheet-close icon-btn" type="button" data-close aria-label="Close">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+          </button>
+          <div class="insp-top">
+            <span class="mono faint" data-i-pos>Entry {first.n}</span>
+            <div class="insp-nav">
+              <button type="button" class="icon-btn" data-prev aria-label="Previous entry (↑)"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M18 15l-6-6-6 6"/></svg></button>
+              <button type="button" class="icon-btn" data-next aria-label="Next entry (↓)"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button>
+            </div>
+          </div>
+          <p class="i-form print" data-i-form>{first.form}</p>
+          <p class="i-gloss" data-i-gloss>“{first.gloss}”</p>
+          <div class="i-block">
+            <span class="i-label">As printed</span>
+            <div class="i-crop" data-i-crop role="img" aria-label="The printed line"></div>
+            <span class="i-approx faint" data-i-approx hidden>Position estimated from neighbouring lines.</span>
+          </div>
+          <div class="i-note" data-i-note hidden>
+            <span class="i-note-label" data-i-note-label></span>
+            <p data-i-note-text></p>
+            <p class="i-compare" data-i-note-compare></p>
+            <span class="i-note-status faint" data-i-note-status></span>
+          </div>
+          <div class="i-block" data-i-else-box hidden>
+            <span class="i-label">Same meaning in other tables</span>
+            <ul class="i-else" data-i-else></ul>
+          </div>
+          <div class="i-actions">
+            <button type="button" class="link-btn" data-copy-link>Copy link to entry</button>
+            <button type="button" class="link-btn" data-copy-cite>Cite entry</button>
+          </div>
+          <p class="i-toast faint" data-toast aria-live="polite"></p>
+        </aside>
+      </div>
+      <p class="kbd-hint faint">Keys: <kbd>↑</kbd> <kbd>↓</kbd> move · <kbd>/</kbd> filter · <kbd>z</kbd> enlarge page · click a printed line to find its entry</p>
+    </div>
+
+    <div class="wrap below">
+      <section class="block" aria-labelledby="about-h">
+        <h2 id="about-h">About this table</h2>
+        <dl class="facts">
+          <dt>Language</dt><dd>{t.language.name}{t.language.path.length ? <span class="faint"> · {t.language.path.slice(0, 3).join(" › ")}</span> : null}</dd>
+          <dt>Printed in</dt><dd><i class="print">{t.book.title || t.book.short}</i> ({t.book.imprint || t.book.printed})</dd>
+          <dt>Author</dt><dd>{t.book.author}</dd>
+          <dt>Collected by</dt><dd>{t.provenance.collector}</dd>
+          <dt>Where</dt><dd>{t.provenance.place}</dd>
+          <dt>When heard</dt><dd>{t.provenance.heard}</dd>
+          {t.language.labels.length > 0 && <><dt>Called in the source</dt><dd>{t.language.labels.join("; ")}</dd></>}
+          <dt>Transcription</dt><dd>EEBO-TCP <span class="mono">{t.book.tcp}</span>, re-checked against the scan; spellings kept as printed</dd>
+          <dt>Page images</dt><dd>{t.scan.holder || "Scan"}, via the <a href={t.scan.url} target="_blank" rel="noopener">Internet Archive</a>{t.scan.note ? ` (${t.scan.note})` : ""}</dd>
+          <dt>Located on the page</dt><dd>{t.stats.located} of {t.stats.entries} entries</dd>
+        </dl>
+      </section>
+
+      {idn && (
+        <section class="block" aria-labelledby="id-h">
+          <h2 id="id-h">How the language was identified</h2>
+          <p class="muted lede">The printed forms were compared, without the book's title or the source's own label, against 17,041 modern wordlists (ASJP and Lexibank) on {idn.concepts} shared meanings. A match counts only if it beats the best score that shuffled nonsense lists reach.{idn.excluded.length ? " Reference lists that descend from this same source were removed first." : ""}</p>
+          {idn.status === "resolved" ? (
+            <ol class="path" aria-label="Classification">
+              {idn.path.map((p, i) => <li><span>{p}</span><span class="mono faint">{Math.round(idn.support[i] * 100)}%</span></li>)}
+            </ol>
+          ) : (
+            <p class="abstain">No match cleared the threshold, so the catalogue does not assign one. {idn.leading && <span class="faint">Closest family: {idn.leading.family}.</span>}</p>
+          )}
+          <div class="id-grid">
+            <div>
+              <h3>Closest modern wordlists</h3>
+              <table class="mini">
+                <thead><tr><th>Wordlist</th><th>Family</th><th class="num">Shared</th><th class="num">Score</th></tr></thead>
+                <tbody>{idn.candidates.slice(0, 6).map((c) => <tr><td>{c.name}</td><td class="faint">{c.family}</td><td class="num mono">{c.n}</td><td class="num mono">{c.z.toFixed(1)}</td></tr>)}</tbody>
+              </table>
+            </div>
+            {idn.evidence.length > 0 && (
+              <div>
+                <h3>Word by word, against {idn.candidates[0]?.name}</h3>
+                <table class="mini">
+                  <thead><tr><th>Meaning</th><th>As printed</th><th>Modern</th></tr></thead>
+                  <tbody>{idn.evidence.slice(0, 10).map((e) => <tr><td class="faint">{e.concept}</td><td class="print f">{e.form}</td><td>{e.ref}</td></tr>)}</tbody>
+                </table>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
+      <section class="block" aria-labelledby="use-h">
+        <h2 id="use-h">Use this table</h2>
+        <div class="use">
+          <a class="btn" href={`/t/${t.id}/entries.csv`} download>Download CSV</a>
+          <a class="btn" href={`/t/${t.id}/entries.json`} download>Download JSON</a>
+          <button class="btn" type="button" data-copy-table-cite>Copy citation</button>
+        </div>
+        <p class="cite mono faint">{citation(t)}</p>
+        <p class="faint small">Notes are drafts produced under a written protocol and are not yet reviewed by specialists. Each says what it compares against.</p>
+      </section>
+    </div>
+
+    <dialog class="zoom" data-zoom-dialog aria-label="Enlarged page">
+      <div class="zoom-bar"><span class="mono faint" data-zoom-label></span><button type="button" class="icon-btn" data-zoom-close aria-label="Close enlarged page"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+      <div class="zoom-scroll" data-zoom-scroll>
+        <div class="zoom-frame" data-zoom-frame><img alt="Enlarged page" data-zoom-img /><span class="band" data-zoom-band hidden></span></div>
+      </div>
+    </dialog>
+  </article>
+  <script type="application/json" id="table-data" set:html={JSON.stringify(payload)}></script>
+</Base>
+
+<style>
+  .tp-head { padding-block: 28px 18px; display: grid; gap: 14px; }
+  .crumbs { display: flex; gap: 8px; font-size: 13px; color: var(--ink-3); }
+  .crumbs a:hover { color: var(--accent); }
+  .tp-title { display: flex; justify-content: space-between; align-items: flex-end; gap: 32px; }
+  .tp-title-main { display: grid; gap: 8px; min-width: 0; }
+  .tp-title h1 { font-size: clamp(1.7rem, 3.4vw, 2.6rem); line-height: 1.08; max-width: 34ch; font-weight: 400; letter-spacing: 0; }
+  .tp-sub { display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: baseline; color: var(--ink-2); font-size: 15px; }
+  .tp-sub .print { font-size: 17px; color: var(--ink); }
+  .tp-lang { font-weight: 600; color: var(--ink); }
+  .tp-stats { margin: 0; display: flex; gap: 28px; font-size: 12px; color: var(--ink-3); }
+  .tp-stats div { display: grid; gap: 2px; }
+  .tp-stats dd { margin: 0; font-size: 20px; color: var(--ink); }
+  .notice { font-size: 14px; padding: 10px 14px; border-radius: var(--radius); background: var(--accent-soft); color: var(--ink); max-width: 90ch; }
+  .notice a { color: var(--accent); }
+  .notice.soft { background: var(--rule-2); color: var(--ink-2); }
+  @media (max-width: 860px) { .tp-title { flex-direction: column; align-items: flex-start; gap: 16px; } .tp-stats { gap: 20px; } .tp-stats dd { font-size: 17px; } .tp-id { display: none !important; } }
+
+  .workspace { display: grid; grid-template-columns: minmax(340px, 1.1fr) minmax(280px, 0.85fr) minmax(300px, 1fr); gap: 0; border: 1px solid var(--rule); border-radius: 10px; background: var(--surface); height: calc(100vh - 60px - 40px); min-height: 560px; max-height: 980px; overflow: hidden; }
+  .pane { min-width: 0; min-height: 0; overflow: auto; }
+  .scan-pane { padding: 14px 18px 16px; display: flex; flex-direction: column; gap: 12px; background: var(--bg-2); border-right: 1px solid var(--rule); }
+  .scan-tools { display: flex; justify-content: space-between; align-items: center; gap: 10px; min-width: 0; }
+  .scan-tools .seg { overflow-x: auto; scrollbar-width: none; flex: 0 1 auto; min-width: 0; }
+  .scan-tools .seg button { white-space: nowrap; flex: none; }
+  .scan-actions { flex: none; }
+  .scan-one { font-size: 13px; }
+  .scan-actions { display: flex; gap: 2px; }
+  .page { margin: 0; }
+  .page-frame { position: relative; width: 100%; border-radius: 4px; overflow: hidden; box-shadow: var(--shadow); cursor: crosshair; background: var(--rule-2); }
+  .page-img { width: 100%; height: 100%; object-fit: contain; }
+  .band { position: absolute; border-radius: 2px; background: var(--mark); box-shadow: inset 0 -2px 0 var(--mark-line); pointer-events: none; transition: top .18s ease, left .18s ease, width .18s ease, height .18s ease; }
+  .band.approx { background: transparent; box-shadow: inset 0 0 0 1.5px var(--mark-line); opacity: .7; border-radius: 3px; }
+  .band.ghost { background: rgba(127, 127, 127, 0.12); box-shadow: none; transition: none; }
+  .loupe-box { display: grid; gap: 6px; background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius); padding: 8px 10px 10px; }
+  .loupe-head { display: flex; justify-content: space-between; font-size: 12px; color: var(--ink-3); }
+  .loupe { height: 54px; border-radius: 4px; background-color: var(--rule-2); background-repeat: no-repeat; }
+  .scan-credit { font-size: 12px; margin-top: auto; }
+  .scan-credit a { text-decoration: underline; text-underline-offset: 2px; }
+
+  .list-pane { position: relative; display: flex; flex-direction: column; border-right: 1px solid var(--rule); }
+  .list-tools { position: sticky; top: 0; z-index: 2; display: grid; gap: 10px; padding: 12px 14px; background: var(--surface); border-bottom: 1px solid var(--rule); }
+  .filter { display: flex; align-items: center; gap: 8px; padding: 7px 10px; border: 1px solid var(--rule); border-radius: var(--radius); color: var(--ink-3); background: var(--bg-2); }
+  .filter:focus-within { border-color: var(--accent); }
+  .filter input { border: 0; outline: none; background: transparent; width: 100%; font: inherit; font-size: 14px; color: var(--ink); }
+  .entries { list-style: none; margin: 0; padding: 4px 0 24px; outline: none; position: relative; }
+  .entries li[role="option"] { display: grid; grid-template-columns: 34px auto minmax(0, 1fr) 10px; gap: 12px; align-items: baseline; padding: 7px 14px 7px 6px; border-bottom: 1px solid var(--rule-2); cursor: pointer; scroll-margin: 80px; }
+  .entries li[role="option"]:hover { background: var(--rule-2); }
+  .entries li[aria-selected="true"] { background: var(--accent-soft); }
+  .entries li[aria-selected="true"] .n { color: var(--accent); }
+  .entries li[hidden] { display: none; }
+  .entries .n { font-size: 11px; color: var(--ink-3); text-align: right; }
+  .entries .f { font-size: 18px; line-height: 1.2; }
+  .entries .g { font-size: 13.5px; color: var(--ink-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .entries .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); align-self: center; }
+  .entries .sec { padding: 14px 14px 6px 52px; font-size: 15px; font-style: italic; color: var(--ink-2); }
+  .list-empty { padding: 20px; }
+
+  .inspector { padding: 18px 22px 24px; display: flex; flex-direction: column; gap: 16px; }
+  .sheet-close { display: none; }
+  .insp-top { display: flex; justify-content: space-between; align-items: center; font-size: 12px; }
+  .insp-nav { display: flex; gap: 2px; }
+  .i-form { font-size: clamp(2rem, 3.3vw, 2.9rem); line-height: 1.02; overflow-wrap: anywhere; }
+  .i-gloss { font-size: 18px; color: var(--ink-2); margin-top: -8px; }
+  .i-block { display: grid; gap: 6px; }
+  .i-label { font-size: 12px; color: var(--ink-3); }
+  .i-crop { width: 100%; border-radius: 6px; border: 1px solid var(--rule); background-color: var(--rule-2); background-repeat: no-repeat; min-height: 28px; }
+  .i-approx { font-size: 12px; }
+  .i-note { display: grid; gap: 6px; padding: 14px 16px; border-radius: var(--radius); background: var(--accent-soft); }
+  .i-note-label { font-size: 12px; font-weight: 600; color: var(--accent); }
+  .i-note p { font-size: 15px; line-height: 1.55; }
+  .i-compare { font-size: 13.5px !important; color: var(--ink-2); }
+  .i-compare:empty { display: none; }
+  .i-note-status { font-size: 11.5px; }
+  .i-else { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+  .i-else :global(a) { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 8px 10px; border: 1px solid var(--rule); border-radius: var(--radius); }
+  .i-else :global(a:hover) { border-color: var(--accent); color: inherit; }
+  .i-else :global(.print) { font-size: 17px; }
+  .i-else :global(.faint) { margin-left: 6px; font-size: 13px; }
+  .i-else :global(.meta) { font-size: 12px; color: var(--ink-3); white-space: nowrap; }
+  .i-actions { display: flex; gap: 16px; margin-top: auto; padding-top: 8px; }
+  .link-btn { border: 0; background: none; padding: 0; color: var(--accent); cursor: pointer; font-size: 13.5px; }
+  .link-btn:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .i-toast { font-size: 12px; min-height: 1em; }
+  .kbd-hint { font-size: 12px; padding: 10px 2px 0; }
+
+  @media (max-width: 1100px) {
+    .workspace { display: block; height: auto; max-height: none; border: 0; background: transparent; overflow: visible; }
+    .scan-pane { border: 1px solid var(--rule); border-radius: 10px; margin-bottom: 14px; }
+    .page-frame { max-height: 70vh; }
+    .list-pane { border: 1px solid var(--rule); border-radius: 10px; background: var(--surface); }
+    .list-tools { top: 60px; border-radius: 10px 10px 0 0; }
+    .inspector { position: fixed; left: 0; right: 0; bottom: 0; z-index: 40; max-height: 78vh; background: var(--surface); border-top: 1px solid var(--rule); border-radius: 16px 16px 0 0; box-shadow: 0 -12px 40px rgba(0, 0, 0, 0.18); transform: translateY(105%); transition: transform .25s ease; padding-bottom: calc(24px + env(safe-area-inset-bottom, 0px)); overflow: auto; }
+    .inspector.open { transform: none; }
+    .sheet-close { display: inline-grid; position: absolute; right: 12px; top: 10px; }
+    .insp-top { padding-right: 48px; }
+    .kbd-hint { display: none; }
+  }
+
+  .below { display: grid; gap: 56px; padding-top: 64px; }
+  .block { display: grid; gap: 16px; }
+  .block h2 { font-size: var(--s-3); }
+  .block h3 { font-size: 14px; font-weight: 600; margin-bottom: 8px; }
+  .facts { display: grid; grid-template-columns: 180px minmax(0, 1fr); gap: 10px 20px; margin: 0; max-width: 980px; font-size: 15px; }
+  .facts dt { color: var(--ink-3); }
+  .facts dd { margin: 0; }
+  .facts a { text-decoration: underline; text-underline-offset: 3px; }
+  @media (max-width: 640px) { .facts { grid-template-columns: 1fr; gap: 2px; } .facts dd { margin-bottom: 10px; } }
+  .lede { max-width: 72ch; }
+  .path { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+  .path li { display: inline-flex; gap: 8px; align-items: baseline; padding: 6px 10px; border-radius: 6px; background: var(--accent-soft); color: var(--accent); font-size: 14px; }
+  .path li + li::before { content: "›"; color: var(--ink-3); margin-right: 2px; }
+  .abstain { padding: 10px 14px; border-radius: var(--radius); background: var(--rule-2); max-width: 80ch; }
+  .id-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; }
+  @media (max-width: 860px) { .id-grid { grid-template-columns: 1fr; } }
+  .mini { width: 100%; border-collapse: collapse; font-size: 14px; }
+  .mini th { text-align: left; font-weight: 400; font-size: 12px; color: var(--ink-3); padding: 0 10px 6px 0; border-bottom: 1px solid var(--rule); }
+  .mini td { padding: 7px 10px 7px 0; border-bottom: 1px solid var(--rule-2); }
+  .mini .num { text-align: right; }
+  .mini .f { font-size: 17px; }
+  .use { display: flex; gap: 10px; flex-wrap: wrap; }
+  .btn { display: inline-flex; align-items: center; padding: 9px 14px; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--surface); font-size: 14px; cursor: pointer; }
+  .btn:hover { border-color: var(--accent); color: var(--accent); }
+  .cite { font-size: 12.5px; max-width: 90ch; }
+  .small { font-size: 13px; }
+
+  .zoom { width: min(1200px, 96vw); height: 92vh; padding: 0; border: 1px solid var(--rule); border-radius: 12px; background: var(--surface); color: var(--ink); }
+  .zoom::backdrop { background: rgba(10, 12, 14, 0.72); }
+  .zoom-bar { display: flex; justify-content: space-between; align-items: center; padding: 8px 10px 8px 16px; border-bottom: 1px solid var(--rule); }
+  .zoom-scroll { height: calc(92vh - 56px); overflow: auto; background: var(--bg-2); }
+  .zoom-frame { position: relative; width: 1400px; max-width: none; margin: 0 auto; }
+  .zoom-frame img { width: 100%; }
+  @media (max-width: 700px) { .zoom-frame { width: 1100px; } }
+</style>
+
+<script>
+  type B = [number, number, number, number, number, number] | null;
+  type E = { n: number; f: string; g: string; b: B; note: null | { kind: string; label: string; text: string; compare: string | null; checked: boolean }; c: [string, string][]; s: string; col: string };
+  const D = JSON.parse(document.getElementById("table-data")!.textContent!) as {
+    id: string; wtl: string; ia: string; cite: string; pages: { w: number; h: number; sm: string; lg: string; leaf: number }[];
+    entries: E[]; elsewhere: Record<string, { t: string; n: number; form: string; lang: string; year: number }[]>; langs: Record<string, string>;
+  };
+  const q = <T extends Element = HTMLElement>(s: string) => document.querySelector<T>(s)!;
+  const qa = <T extends Element = HTMLElement>(s: string) => Array.from(document.querySelectorAll<T>(s));
+  const byN = new Map(D.entries.map((e, i) => [e.n, i]));
+  const rows = qa<HTMLLIElement>('.entries li[role="option"]');
+  const rowByN = new Map(rows.map((r) => [+r.dataset.n!, r]));
+  const img = q<HTMLImageElement>("[data-pageimg]"), frame = q(".page-frame"), band = q("[data-band]"), ghost = q("[data-ghost]");
+  const loupe = q("[data-loupe]"), insp = q("[data-inspector]"), list = q("[data-entries]");
+  const mobile = () => matchMedia("(max-width: 1100px)").matches;
+  let cur = 0, page = D.entries[0].b ? D.entries[0].b[0] : 0;
+
+  const fold = (s: string) => (s || "").toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/ſ/g, "s").replace(/vv/g, "w").replace(/v/g, "u").replace(/j/g, "i").replace(/y/g, "i").replace(/ck/g, "k").replace(/ph/g, "f");
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]!));
+
+  function cropCss(p: { w: number; h: number; sm: string; lg: string }, b: B, big = false, padX = 0.006, padY = 0.004) {
+    if (!b) return "";
+    const x = Math.max(0, b[1] - padX), y = Math.max(0, b[2] - padY);
+    const w = Math.min(1 - x, b[3] + 2 * padX), h = Math.min(1 - y, b[4] + 2 * padY);
+    const px = w >= 1 ? 0 : (x / (1 - w)) * 100, py = h >= 1 ? 0 : (y / (1 - h)) * 100;
+    return { bg: `url(${big ? p.lg : p.sm})`, size: `${(100 / w).toFixed(3)}% auto`, pos: `${px.toFixed(3)}% ${py.toFixed(3)}%`, ratio: (w * p.w) / (h * p.h) };
+  }
+  function setPage(i: number) {
+    if (i === page && img.dataset.loaded) return;
+    page = i; const p = D.pages[i];
+    img.src = p.sm; img.srcset = `${p.sm} 900w, ${p.lg} 1800w`; img.dataset.loaded = "1";
+    frame.style.aspectRatio = `${p.w}/${p.h}`;
+    img.alt = `Page ${i + 1} of the table`;
+    qa<HTMLButtonElement>("[data-page]").forEach((b) => b.setAttribute("aria-pressed", String(+b.dataset.page! === i)));
+    q<HTMLAnchorElement>("[data-ia]").href = `https://archive.org/details/${D.ia}/page/n${p.leaf}`;
+  }
+  function place(el: HTMLElement, b: B) {
+    if (!b) { el.hidden = true; return; }
+    el.hidden = false;
+    el.style.left = `${b[1] * 100}%`; el.style.top = `${b[2] * 100}%`; el.style.width = `${b[3] * 100}%`; el.style.height = `${b[4] * 100}%`;
+    el.classList.toggle("approx", !!b[5]);
+  }
+  const listPane = list.closest<HTMLElement>(".pane")!;
+  function ensureVisible(row: HTMLElement, center = false) {
+    if (mobile()) return;
+    const base = list.offsetTop;
+    if (center) { listPane.scrollTop = base + row.offsetTop - listPane.clientHeight / 2; return; }
+    const top = base + row.offsetTop - 70, bottom = base + row.offsetTop + row.offsetHeight + 12;
+    if (top < listPane.scrollTop) listPane.scrollTop = top;
+    else if (bottom > listPane.scrollTop + listPane.clientHeight) listPane.scrollTop = bottom - listPane.clientHeight;
+  }
+  function select(i: number, opts: { scroll?: boolean; open?: boolean; hash?: boolean; center?: boolean } = {}) {
+    i = Math.max(0, Math.min(D.entries.length - 1, i));
+    const e = D.entries[i]; cur = i;
+    rows.forEach((r) => r.setAttribute("aria-selected", "false"));
+    const row = rowByN.get(e.n)!;
+    row.setAttribute("aria-selected", "true");
+    list.setAttribute("aria-activedescendant", row.id);
+    if (opts.scroll !== false) ensureVisible(row, !!opts.center);
+    if (e.b) { setPage(e.b[0]); }
+    place(band, e.b && e.b[0] === page ? e.b : null);
+    const p = D.pages[e.b ? e.b[0] : page];
+    const lc = cropCss(p, e.b, true, 0.004, 0.0015);
+    if (lc) { loupe.style.backgroundImage = lc.bg; loupe.style.backgroundSize = lc.size; loupe.style.backgroundPosition = lc.pos; loupe.style.aspectRatio = String(lc.ratio); loupe.style.height = "auto"; }
+    else { loupe.style.backgroundImage = "none"; loupe.style.aspectRatio = ""; loupe.style.height = "54px"; }
+    q("[data-loupe-label]").textContent = e.b ? `p. ${e.b[0] + 1} · entry ${e.n}` : "not located on the page";
+    // inspector
+    q("[data-i-pos]").textContent = `Entry ${e.n} · ${i + 1} of ${D.entries.length}`;
+    q("[data-i-form]").textContent = e.f;
+    q("[data-i-gloss]").textContent = e.g ? `“${e.g}”` : "";
+    const ic = q("[data-i-crop]"); const cc = cropCss(p, e.b, true, 0.006, 0.0015);
+    if (cc) { ic.style.backgroundImage = cc.bg; ic.style.backgroundSize = cc.size; ic.style.backgroundPosition = cc.pos; ic.style.aspectRatio = String(cc.ratio); ic.hidden = false; }
+    else { ic.hidden = true; }
+    q("[data-i-approx]").hidden = !(e.b && e.b[5]);
+    const nb = q("[data-i-note]");
+    if (e.note) {
+      nb.hidden = false;
+      q("[data-i-note-label]").textContent = e.note.label;
+      q("[data-i-note-text]").textContent = e.note.text;
+      q("[data-i-note-compare]").textContent = e.note.compare ? `Compare: ${e.note.compare}` : "";
+      q("[data-i-note-status]").textContent = e.note.checked ? "Draft note · confirmed by a second reading" : "Draft note · not yet reviewed";
+    } else nb.hidden = true;
+    const el: string[] = [];
+    for (const [c, label] of e.c) for (const o of (D.elsewhere[c] || [])) {
+      el.push(`<li><a href="/t/${o.t}#${o.n}"><span><span class="print">${esc(o.form)}</span> <span class="faint">${esc(label)}</span></span><span class="meta">${esc(o.lang)} · ${o.year}</span></a></li>`);
+    }
+    q("[data-i-else-box]").hidden = !el.length;
+    q("[data-i-else]").innerHTML = el.slice(0, 8).join("");
+    if (opts.hash !== false) history.replaceState(null, "", `#${e.n}`);
+    if (opts.open && mobile()) insp.classList.add("open");
+  }
+  // list interactions
+  list.addEventListener("click", (ev) => {
+    const r = (ev.target as HTMLElement).closest<HTMLLIElement>('li[role="option"]');
+    if (r) select(byN.get(+r.dataset.n!)!, { scroll: false, open: true });
+  });
+  list.addEventListener("mouseover", (ev) => {
+    const r = (ev.target as HTMLElement).closest<HTMLLIElement>('li[role="option"]');
+    if (!r || mobile()) return;
+    const e = D.entries[byN.get(+r.dataset.n!)!];
+    place(ghost, e.b && e.b[0] === page && e !== D.entries[cur] ? e.b : null);
+  });
+  list.addEventListener("mouseleave", () => (ghost.hidden = true));
+  // click a printed line to find its entry
+  frame.addEventListener("click", (ev) => {
+    const r = frame.getBoundingClientRect();
+    const x = (ev.clientX - r.left) / r.width, y = (ev.clientY - r.top) / r.height;
+    let best = -1, bd = 1e9;
+    D.entries.forEach((e, i) => {
+      if (!e.b || e.b[0] !== page) return;
+      const [, bx, by, bw, bh] = e.b;
+      const dx = x < bx ? bx - x : x > bx + bw ? x - bx - bw : 0;
+      const dy = y < by ? by - y : y > by + bh ? y - by - bh : 0;
+      const d = dx * 0.3 + dy;
+      if (d < bd) { bd = d; best = i; }
+    });
+    if (best >= 0 && bd < 0.03) select(best, { open: true });
+  });
+  qa<HTMLButtonElement>("[data-page]").forEach((b) => b.addEventListener("click", () => {
+    setPage(+b.dataset.page!);
+    const e = D.entries[cur]; place(band, e.b && e.b[0] === page ? e.b : null);
+  }));
+  // keyboard
+  const visible = () => rows.filter((r) => !r.hidden).map((r) => byN.get(+r.dataset.n!)!);
+  function step(d: number) { const v = visible(); const k = v.indexOf(cur); select(v[Math.max(0, Math.min(v.length - 1, (k < 0 ? 0 : k + d)))]); }
+  document.addEventListener("keydown", (e) => {
+    const t = e.target as HTMLElement;
+    if (/INPUT|TEXTAREA|SELECT/.test(t.tagName)) {
+      if (e.key === "ArrowDown" && t.hasAttribute("data-local-search")) { e.preventDefault(); list.focus(); step(0); }
+      if (e.key === "Escape") (t as HTMLInputElement).blur();
+      return;
+    }
+    if (q<HTMLDialogElement>("[data-zoom-dialog]").open) return;
+    if (e.key === "ArrowDown" || e.key === "j") { e.preventDefault(); step(1); }
+    else if (e.key === "ArrowUp" || e.key === "k") { e.preventDefault(); step(-1); }
+    else if (e.key === "Home") { e.preventDefault(); select(visible()[0]); }
+    else if (e.key === "End") { e.preventDefault(); const v = visible(); select(v[v.length - 1]); }
+    else if (e.key === "z") { openZoom(); }
+    else if (e.key === "Escape") { insp.classList.remove("open"); }
+  });
+  q("[data-prev]").addEventListener("click", () => step(-1));
+  q("[data-next]").addEventListener("click", () => step(1));
+  q("[data-close]").addEventListener("click", () => insp.classList.remove("open"));
+  // filter
+  const input = q<HTMLInputElement>("[data-local-search]");
+  let only = "all";
+  const folded = D.entries.map((e) => fold(e.f + " " + e.g));
+  function applyFilter() {
+    const s = fold(input.value.trim());
+    let shown = 0;
+    rows.forEach((r) => {
+      const i = byN.get(+r.dataset.n!)!;
+      const ok = (!s || folded[i].includes(s)) && (only === "all" || !!D.entries[i].note);
+      r.hidden = !ok; if (ok) shown++;
+    });
+    qa<HTMLLIElement>(".entries .sec").forEach((sec) => (sec.hidden = !!s || only !== "all"));
+    q("[data-empty]").hidden = shown > 0;
+  }
+  input.addEventListener("input", applyFilter);
+  qa<HTMLButtonElement>("[data-only]").forEach((b) => b.addEventListener("click", () => {
+    only = b.dataset.only!; qa("[data-only]").forEach((x) => x.setAttribute("aria-pressed", String(x === b))); applyFilter();
+  }));
+  // zoom
+  const dlg = q<HTMLDialogElement>("[data-zoom-dialog]");
+  function openZoom() {
+    const p = D.pages[page]; const e = D.entries[cur];
+    q<HTMLImageElement>("[data-zoom-img]").src = p.lg;
+    q("[data-zoom-label]").textContent = `Page ${page + 1} of ${D.pages.length} · ${D.wtl}`;
+    const zb = q("[data-zoom-band]"); place(zb, e.b && e.b[0] === page ? e.b : null);
+    dlg.showModal();
+    requestAnimationFrame(() => {
+      const sc = q("[data-zoom-scroll]"), fr = q("[data-zoom-frame]");
+      if (e.b && e.b[0] === page) { sc.scrollTop = e.b[2] * fr.offsetHeight - sc.clientHeight / 3; sc.scrollLeft = e.b[1] * fr.offsetWidth - 40; }
+    });
+  }
+  q("[data-zoom]").addEventListener("click", openZoom);
+  q("[data-zoom-close]").addEventListener("click", () => dlg.close());
+  dlg.addEventListener("click", (e) => { if (e.target === dlg) dlg.close(); });
+  // copy helpers
+  const toast = (m: string) => { const t = q("[data-toast]"); t.textContent = m; setTimeout(() => (t.textContent = ""), 2400); };
+  async function copy(text: string, msg: string) {
+    try { await navigator.clipboard.writeText(text); toast(msg); } catch { prompt("Copy:", text); }
+  }
+  q("[data-copy-link]").addEventListener("click", () => copy(location.href, "Link copied"));
+  q("[data-copy-cite]").addEventListener("click", () => { const e = D.entries[cur]; copy(D.cite.replace(/Wordes of their Language, (WTL-\d+)\./, `Entry ${e.n}. Wordes of their Language, $1.${e.n}. ${location.href}`), "Citation copied"); });
+  q("[data-copy-table-cite]").addEventListener("click", () => copy(`${D.cite} ${location.origin}${location.pathname}`, "Citation copied"));
+  // initial selection from the URL
+  const h = +location.hash.slice(1);
+  const start = byN.has(h) ? byN.get(h)! : Math.max(0, D.entries.findIndex((e) => e.b));
+  select(start, { scroll: true, center: true, hash: byN.has(h) });
+  window.addEventListener("hashchange", () => { const n = +location.hash.slice(1); if (byN.has(n)) select(byN.get(n)!); });
+</script>

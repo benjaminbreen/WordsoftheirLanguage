@@ -1,0 +1,1880 @@
+{
+ "schema": 1,
+ "id": "knox",
+ "wtl": "WTL-0015",
+ "heading": "I shall conclude this Discourse of their Language, by giving you a tast of their Proverbs, some hints of the strain of their Speech.",
+ "headings": [
+  "I shall conclude this Discourse of their Language, by giving you a tast of their Proverbs, some hints of the strain of their Speech.",
+  "First, I will give you some of their Nouns Plural.",
+  "But usually when they have occasion to speak of many they express themselves by Numerals set after the Noun",
+  "Their Verbs they form after this manner:",
+  "They number thus,"
+ ],
+ "language": {
+  "name": "Sinhala",
+  "glottocode": "sinh1246",
+  "family": "Indo-European",
+  "path": [
+   "Indo-European",
+   "Classical Indo-European",
+   "Indo-Iranian",
+   "Indo-Aryan",
+   "Middle-Modern Indo-Aryan",
+   "Dhivehi-Sinhala",
+   "Sinhalaic"
+  ],
+  "labels": []
+ },
+ "region": "Asia",
+ "book": {
+  "short": "An Historical Relation of the Island Ceylon",
+  "title": "An historical relation of the island Ceylon, in the East-Indies together, with an account of the detaining in captivity the author and divers other Englishmen now living there, and of the authors miraculous escape : illustrated with figures, and a map of the island / by Robert Knox.",
+  "author": "Robert Knox",
+  "printed": 1681,
+  "imprint": "1681.",
+  "tcp": "A47586",
+  "cover": "knox"
+ },
+ "provenance": {
+  "collector": "Robert Knox",
+  "place": "Kandy, Ceylon",
+  "heard": "1660–79"
+ },
+ "scan": {
+  "ia": "gpl_1730637",
+  "url": "https://archive.org/details/gpl_1730637",
+  "holder": "The George Peabody Library, The Johns Hopkins University Sheridan Libraries",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "pages": [
+  {
+   "leaf": 170,
+   "w": 2903,
+   "h": 4687,
+   "sm": "/scans/knox/0170-900.webp",
+   "lg": "/scans/knox/0170-1800.webp"
+  },
+  {
+   "leaf": 171,
+   "w": 2927,
+   "h": 4680,
+   "sm": "/scans/knox/0171-900.webp",
+   "lg": "/scans/knox/0171-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Miris dilah, ingurah gotta",
+   "gloss": "I have given Pepper, and got Ginger.",
+   "section": "I shall conclude this Discourse of their Language, by giving you a tast of their Proverbs, some hints of the strain of their Speech."
+  },
+  {
+   "n": 2,
+   "form": "Datta horrala Badda peri•d",
+   "gloss": "Pick your Teeth to fill your Belly.",
+   "section": "I shall conclude this Discourse of their Language, by giving you a tast of their Proverbs, some hints of the strain of their Speech."
+  },
+  {
+   "n": 3,
+   "form": "Caula yonawa ruah atti",
+   "gloss": "To eat before you go forth is handsom and convenient.",
+   "section": "I shall conclude this Discourse of their Language, by giving you a tast of their Proverbs, some hints of the strain of their Speech."
+  },
+  {
+   "n": 4,
+   "form": "Kiallah tiannah, Degery illand avah oppala hanguand mordy",
+   "gloss": "As the saying is, if I come to beg Butter-milk, why should I hide my Pan.",
+   "section": "I shall conclude this Discourse of their Language, by giving you a tast of their Proverbs, some hints of the strain of their Speech."
+  },
+  {
+   "n": 5,
+   "form": "Hingonna wellendam cor cottonwat geah par wardenda netta",
+   "gloss": "A Begger and a Trader cannot be lost.",
+   "section": "I shall conclude this Discourse of their Language, by giving you a tast of their Proverbs, some hints of the strain of their Speech."
+  },
+  {
+   "n": 6,
+   "form": "Atting mitting delah hottarah harracurnowah",
+   "gloss": "To lend to another makes him become an Enemy.",
+   "section": "I shall conclude this Discourse of their Language, by giving you a tast of their Proverbs, some hints of the strain of their Speech."
+  },
+  {
+   "n": 7,
+   "form": "Annuna min yain ecka ourowaying younda eppa",
+   "gloss": "Go not with a Slave in one Boat.",
+   "section": "I shall conclude this Discourse of their Language, by giving you a tast of their Proverbs, some hints of the strain of their Speech."
+  },
+  {
+   "n": 8,
+   "form": "Issara otting bollanowa pos cotting",
+   "gloss": "First look in the hand, afterwards open the mouth.",
+   "section": "I shall conclude this Discourse of their Language, by giving you a tast of their Proverbs, some hints of the strain of their Speech."
+  },
+  {
+   "n": 9,
+   "form": "Minnia",
+   "gloss": "A Man.",
+   "section": "First, I will give you some of their Nouns Plural.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2957,
+    "y": 0.1537,
+    "w": 0.6818,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 10,
+   "form": "Cucula",
+   "gloss": "A Cock.",
+   "section": "First, I will give you some of their Nouns Plural."
+  },
+  {
+   "n": 11,
+   "form": "Cole-la",
+   "gloss": "A Boy.",
+   "section": "First, I will give you some of their Nouns Plural.",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3859,
+    "y": 0.1805,
+    "w": 0.5888,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 12,
+   "form": "Minnis",
+   "gloss": "Men.",
+   "section": "First, I will give you some of their Nouns Plural."
+  },
+  {
+   "n": 13,
+   "form": "Cuculong",
+   "gloss": "Cocks.",
+   "section": "First, I will give you some of their Nouns Plural."
+  },
+  {
+   "n": 14,
+   "form": "Colani",
+   "gloss": "Boyes.",
+   "section": "First, I will give you some of their Nouns Plural.",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3859,
+    "y": 0.1805,
+    "w": 0.5888,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 15,
+   "form": "Gahah",
+   "gloss": "A Tree.",
+   "section": "First, I will give you some of their Nouns Plural.",
+   "concepts": [
+    "TREE"
+   ]
+  },
+  {
+   "n": 16,
+   "form": "Auhoun",
+   "gloss": "A Horse.",
+   "section": "First, I will give you some of their Nouns Plural.",
+   "concepts": [
+    "HORSE"
+   ]
+  },
+  {
+   "n": 17,
+   "form": "Polaha",
+   "gloss": "A young Iack.",
+   "section": "First, I will give you some of their Nouns Plural.",
+   "box": {
+    "page": 0,
+    "x": 0.3859,
+    "y": 0.1805,
+    "w": 0.5888,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 18,
+   "form": "Gos",
+   "gloss": "Trees.",
+   "section": "First, I will give you some of their Nouns Plural."
+  },
+  {
+   "n": 19,
+   "form": "Auspio",
+   "gloss": "horses.",
+   "section": "First, I will give you some of their Nouns Plural."
+  },
+  {
+   "n": 20,
+   "form": "Polas",
+   "gloss": "Iacks.",
+   "section": "First, I will give you some of their Nouns Plural.",
+   "box": {
+    "page": 0,
+    "x": 0.3859,
+    "y": 0.1805,
+    "w": 0.5888,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 21,
+   "form": "Dissawva",
+   "gloss": "two, three, &c.",
+   "section": "But usually when they have occasion to speak of many they express themselves by Numerals set after the Noun",
+   "box": {
+    "page": 0,
+    "x": 0.3869,
+    "y": 0.2208,
+    "w": 0.5899,
+    "h": 0.0139
+   },
+   "note": {
+    "kind": "print_error",
+    "label": "Printing or translation slip",
+    "text": "Form is the title Dissava used as an example noun; the gloss is only the numerals that follow it.",
+    "compare": "Sinhala disāva \"provincial governor\" (Knox's example noun \"Dissawva two, three\")",
+    "checked": false
+   }
+  },
+  {
+   "n": 22,
+   "form": "Bittera",
+   "gloss": "An Egg",
+   "section": "But usually when they have occasion to speak of many they express themselves by Numerals set after the Noun",
+   "concepts": [
+    "EGG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3869,
+    "y": 0.2357,
+    "w": 0.5527,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 23,
+   "form": "Bittera cattei",
+   "gloss": "Eggs (word for word, Egg many)",
+   "section": "But usually when they have occasion to speak of many they express themselves by Numerals set after the Noun",
+   "box": {
+    "page": 0,
+    "x": 0.3869,
+    "y": 0.2357,
+    "w": 0.5527,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 24,
+   "form": "Mam conna",
+   "gloss": "I eat.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.4283,
+    "y": 0.2915,
+    "w": 0.1972,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 25,
+   "form": "Mam conyum",
+   "gloss": "I will eat.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.4283,
+    "y": 0.2915,
+    "w": 0.5065,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 26,
+   "form": "Mam cava",
+   "gloss": "I have eat.",
+   "section": "Their Verbs they form after this manner:"
+  },
+  {
+   "n": 27,
+   "form": "Conowa",
+   "gloss": "Eating.",
+   "section": "Their Verbs they form after this manner:"
+  },
+  {
+   "n": 28,
+   "form": "Caupoudi",
+   "gloss": "Let him eat.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.4283,
+    "y": 0.2915,
+    "w": 0.5065,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 29,
+   "form": "Caum",
+   "gloss": "Let us eat.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.7049,
+    "y": 0.3047,
+    "w": 0.2189,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 30,
+   "form": "Conda",
+   "gloss": "To eat.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "EAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.7039,
+    "y": 0.3184,
+    "w": 0.1872,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 31,
+   "form": "Caula",
+   "gloss": "Eaten.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.7045,
+    "y": 0.3322,
+    "w": 0.1841,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 32,
+   "form": "Mam denyam",
+   "gloss": "I will give.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.4269,
+    "y": 0.3606,
+    "w": 0.2433,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 33,
+   "form": "Mam Doun-na",
+   "gloss": "I gave.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.4269,
+    "y": 0.3606,
+    "w": 0.2433,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 34,
+   "form": "Dila",
+   "gloss": "I have given.",
+   "section": "Their Verbs they form after this manner:"
+  },
+  {
+   "n": 35,
+   "form": "Dendi",
+   "gloss": "Shall I give?",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.4269,
+    "y": 0.3606,
+    "w": 0.2433,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 36,
+   "form": "Dendi",
+   "gloss": "To give.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "GIVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4269,
+    "y": 0.3606,
+    "w": 0.2433,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 37,
+   "form": "Dem",
+   "gloss": "Let us give.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.7259,
+    "y": 0.3596,
+    "w": 0.2172,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 38,
+   "form": "Dennowa",
+   "gloss": "Giving.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.7262,
+    "y": 0.3742,
+    "w": 0.1779,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 39,
+   "form": "Dipon",
+   "gloss": "Give him.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.7262,
+    "y": 0.3877,
+    "w": 0.1944,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 40,
+   "form": "Douna, or",
+   "gloss": "Given.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.5688,
+    "y": 0.4007,
+    "w": 0.2554,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 41,
+   "form": "Dila tiana",
+   "gloss": "Given.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.5692,
+    "y": 0.4291,
+    "w": 0.2526,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 42,
+   "form": "Mam yonyam",
+   "gloss": "I'le go.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.3818,
+    "y": 0.4575,
+    "w": 0.5106,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 43,
+   "form": "Mam yonda oni",
+   "gloss": "I will go.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.3818,
+    "y": 0.4575,
+    "w": 0.5106,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 44,
+   "form": "Yong",
+   "gloss": "Let us go.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.3818,
+    "y": 0.4575,
+    "w": 0.5106,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 45,
+   "form": "Yonowa",
+   "gloss": "Going.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.3818,
+    "y": 0.4575,
+    "w": 0.5106,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 46,
+   "form": "Yonda dipadi",
+   "gloss": "Let him go.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.6615,
+    "y": 0.4541,
+    "w": 0.2309,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 47,
+   "form": "Pollatch",
+   "gloss": "Gone, spoken of an ordinary person.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.6618,
+    "y": 0.4696,
+    "w": 0.3133,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 48,
+   "form": "Pollad-da",
+   "gloss": "Gone, spoken of a person of great quality.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.6629,
+    "y": 0.4964,
+    "w": 0.3129,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 49,
+   "form": "Mam oy",
+   "gloss": "I am,",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.3811,
+    "y": 0.538,
+    "w": 0.5957,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 50,
+   "form": "Eai",
+   "gloss": "He, or They, or He is.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "HE",
+    "THEY"
+   ]
+  },
+  {
+   "n": 51,
+   "form": "Mam gia atti",
+   "gloss": "I have been. [Atti] signifieth [have]",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.3811,
+    "y": 0.538,
+    "w": 0.5957,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 52,
+   "form": "Gia dendi.",
+   "gloss": "Let him, or give him leave to go.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.4831,
+    "y": 0.5642,
+    "w": 0.4917,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 53,
+   "form": "Dio",
+   "gloss": "God.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2898,
+    "y": 0.618,
+    "w": 0.2471,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 54,
+   "form": "Dio loco",
+   "gloss": "Heaven.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2898,
+    "y": 0.6315,
+    "w": 0.6629,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 55,
+   "form": "Iacco",
+   "gloss": "The Devil.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "DEVIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3814,
+    "y": 0.6456,
+    "w": 0.4779,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 56,
+   "form": "Narra cauda",
+   "gloss": "Hell.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "HELL"
+   ]
+  },
+  {
+   "n": 57,
+   "form": "Aucoi",
+   "gloss": "The Sky.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3814,
+    "y": 0.6456,
+    "w": 0.4779,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 58,
+   "form": "Taurcoi",
+   "gloss": "A Star.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "STAR"
+   ]
+  },
+  {
+   "n": 59,
+   "form": "Deure",
+   "gloss": "Water.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "WATER"
+   ]
+  },
+  {
+   "n": 60,
+   "form": "Gindere",
+   "gloss": "Fire.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "FIRE"
+   ]
+  },
+  {
+   "n": 61,
+   "form": "Gani",
+   "gloss": "A Woman.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "WOMAN"
+   ]
+  },
+  {
+   "n": 62,
+   "form": "Rodgura",
+   "gloss": "A King.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "KING"
+   ]
+  },
+  {
+   "n": 63,
+   "form": "Haul",
+   "gloss": "Raw rice.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.493,
+    "y": 0.645,
+    "w": 0.3663,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 64,
+   "form": "Bat",
+   "gloss": "Boyled rice.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.5885,
+    "y": 0.6588,
+    "w": 0.2526,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 65,
+   "form": "Banglale",
+   "gloss": "A Table.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "TABLE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4937,
+    "y": 0.6733,
+    "w": 0.4631,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 66,
+   "form": "Wellau",
+   "gloss": "Time.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "TIME"
+   ]
+  },
+  {
+   "n": 67,
+   "form": "Wauri",
+   "gloss": "Season.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "SEASON"
+   ]
+  },
+  {
+   "n": 68,
+   "form": "Colading",
+   "gloss": "Harvest.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "HARVEST"
+   ]
+  },
+  {
+   "n": 69,
+   "form": "Oppa",
+   "gloss": "Father.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3814,
+    "y": 0.6734,
+    "w": 0.5754,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 70,
+   "form": "Pianannah",
+   "gloss": "Father.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "FATHER"
+   ]
+  },
+  {
+   "n": 71,
+   "form": "Oppatchi",
+   "gloss": "Father.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3814,
+    "y": 0.6734,
+    "w": 0.5754,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 72,
+   "form": "Omma",
+   "gloss": "Mother.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3814,
+    "y": 0.6734,
+    "w": 0.5754,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 73,
+   "form": "Ommandea",
+   "gloss": "Mother.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3814,
+    "y": 0.6734,
+    "w": 0.5754,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 74,
+   "form": "Puta",
+   "gloss": "Son.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4934,
+    "y": 0.7009,
+    "w": 0.4328,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 75,
+   "form": "Putandi",
+   "gloss": "Son.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4934,
+    "y": 0.7009,
+    "w": 0.4328,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 76,
+   "form": "Dua",
+   "gloss": "Daughter.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5881,
+    "y": 0.7147,
+    "w": 0.2309,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 77,
+   "form": "Donianna",
+   "gloss": "Daughter.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.7683,
+    "y": 0.7297,
+    "w": 0.0949,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 78,
+   "form": "Molla",
+   "gloss": "A flower.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "FLOWER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3828,
+    "y": 0.7552,
+    "w": 0.5441,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 79,
+   "form": "Gauhah",
+   "gloss": "A tree.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3838,
+    "y": 0.7686,
+    "w": 0.5341,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 80,
+   "form": "Courilla",
+   "gloss": "A bird.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3842,
+    "y": 0.7817,
+    "w": 0.5885,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 81,
+   "form": "Gom",
+   "gloss": "A town.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "TOWN"
+   ]
+  },
+  {
+   "n": 82,
+   "form": "Oppuland",
+   "gloss": "To wash cloths.",
+   "section": "Their Verbs they form after this manner:"
+  },
+  {
+   "n": 83,
+   "form": "Naund",
+   "gloss": "To wash the body.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 0,
+    "x": 0.3842,
+    "y": 0.7817,
+    "w": 0.5885,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 84,
+   "form": "Pinaund",
+   "gloss": "To swim.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "SWIM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3842,
+    "y": 0.7817,
+    "w": 0.5885,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 85,
+   "form": "Coppaund",
+   "gloss": "To cut.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "CUT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3842,
+    "y": 0.7961,
+    "w": 0.2971,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 86,
+   "form": "Horraund",
+   "gloss": "To bore.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "BORE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3842,
+    "y": 0.7961,
+    "w": 0.5892,
+    "h": 0.0139,
+    "approx": true
+   }
+  },
+  {
+   "n": 87,
+   "form": "Hoppacaund",
+   "gloss": "To bite.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "BITE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3842,
+    "y": 0.7961,
+    "w": 0.5892,
+    "h": 0.0139
+   }
+  },
+  {
+   "n": 88,
+   "form": "Coraund",
+   "gloss": "To do.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "DO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0585,
+    "y": 0.1315,
+    "w": 0.582,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 89,
+   "form": "Corowaund",
+   "gloss": "To cause to be done.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 1,
+    "x": 0.0585,
+    "y": 0.1315,
+    "w": 0.582,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 90,
+   "form": "Goumanic",
+   "gloss": "A journey.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "JOURNEY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0585,
+    "y": 0.1315,
+    "w": 0.582,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 91,
+   "form": "Gauman corowaund, word for word",
+   "gloss": "To send, to cause to do a journey.",
+   "section": "Their Verbs they form after this manner:"
+  },
+  {
+   "n": 92,
+   "form": "Heuwoya",
+   "gloss": "All words signifying Common Soldiers, only they are titles one above another, and the two last are as much as to say Gentlemen Soldiers.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 1,
+    "x": 0.0585,
+    "y": 0.1315,
+    "w": 0.582,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 93,
+   "form": "Heuwoynanna",
+   "gloss": "All words signifying Common Soldiers, only they are titles one above another, and the two last are as much as to say Gentlemen Soldiers.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 1,
+    "x": 0.0585,
+    "y": 0.1315,
+    "w": 0.582,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 94,
+   "form": "Heuwoynanoura",
+   "gloss": "All words signifying Common Soldiers, only they are titles one above another, and the two last are as much as to say Gentlemen Soldiers.",
+   "section": "Their Verbs they form after this manner:"
+  },
+  {
+   "n": 95,
+   "form": "Heuwaycom",
+   "gloss": "To fight",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "FIGHT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4206,
+    "y": 0.1291,
+    "w": 0.2199,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 96,
+   "form": "Coraund",
+   "gloss": "as much as as to say, To act the Soldier.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 1,
+    "x": 0.4206,
+    "y": 0.1291,
+    "w": 0.2199,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 97,
+   "form": "Mihi",
+   "gloss": "To dye.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "DYE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0588,
+    "y": 0.2001,
+    "w": 0.1406,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 98,
+   "form": "Mich",
+   "gloss": "Dead.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "DEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0585,
+    "y": 0.2119,
+    "w": 0.2554,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 99,
+   "form": "Mienyum",
+   "gloss": "I will dye.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 1,
+    "x": 0.0581,
+    "y": 0.224,
+    "w": 0.581,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 100,
+   "form": "Mioenowa",
+   "gloss": "Dying.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 1,
+    "x": 0.0585,
+    "y": 0.2358,
+    "w": 0.3822,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 101,
+   "form": "Eppa",
+   "gloss": "Do not.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 1,
+    "x": 0.0585,
+    "y": 0.2358,
+    "w": 0.3822,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 102,
+   "form": "Negatind",
+   "gloss": "To rise.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "RISE (ONESELF)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0585,
+    "y": 0.2358,
+    "w": 0.3822,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 103,
+   "form": "Upaudénowa",
+   "gloss": "The Resurrection.",
+   "section": "Their Verbs they form after this manner:"
+  },
+  {
+   "n": 104,
+   "form": "Negantind Eppa",
+   "gloss": "Do not rise.",
+   "section": "Their Verbs they form after this manner:",
+   "box": {
+    "page": 1,
+    "x": 0.0585,
+    "y": 0.2358,
+    "w": 0.5082,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 105,
+   "form": "Tonnaund",
+   "gloss": "To build.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "BUILD"
+   ]
+  },
+  {
+   "n": 106,
+   "form": "Tannitch",
+   "gloss": "Built.",
+   "section": "Their Verbs they form after this manner:"
+  },
+  {
+   "n": 107,
+   "form": "Touncheroutwitch",
+   "gloss": "It is finished.",
+   "section": "Their Verbs they form after this manner:"
+  },
+  {
+   "n": 108,
+   "form": "Na & Natti",
+   "gloss": "No, or not.",
+   "section": "Their Verbs they form after this manner:",
+   "concepts": [
+    "NO",
+    "NOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4671,
+    "y": 0.2477,
+    "w": 0.1717,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 109,
+   "form": "Eckhoi",
+   "gloss": "I.",
+   "section": "They number thus,",
+   "concepts": [
+    "I"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0561,
+    "y": 0.3549,
+    "w": 0.2749,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 110,
+   "form": "Deckhoi",
+   "gloss": "II.",
+   "section": "They number thus,",
+   "concepts": [
+    "I"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0561,
+    "y": 0.3549,
+    "w": 0.2749,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 111,
+   "form": "Tunhoi",
+   "gloss": "III.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.2102,
+    "y": 0.3682,
+    "w": 0.4748,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 112,
+   "form": "Hotterhoi",
+   "gloss": "IV.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.2102,
+    "y": 0.3682,
+    "w": 0.4748,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 113,
+   "form": "Pauhhoi",
+   "gloss": "V.",
+   "section": "They number thus,"
+  },
+  {
+   "n": 114,
+   "form": "Hoyhoi",
+   "gloss": "VI.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.2102,
+    "y": 0.3682,
+    "w": 0.4748,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 115,
+   "form": "Hothoi",
+   "gloss": "VII.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.2102,
+    "y": 0.3682,
+    "w": 0.4748,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 116,
+   "form": "Ot hoi",
+   "gloss": "VIII.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.2102,
+    "y": 0.3682,
+    "w": 0.4748,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 117,
+   "form": "Novihoi",
+   "gloss": "IX.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.203,
+    "y": 0.3817,
+    "w": 0.4348,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 118,
+   "form": "Dauhoihoi",
+   "gloss": "X.",
+   "section": "They number thus,"
+  },
+  {
+   "n": 119,
+   "form": "Eckolauhoi",
+   "gloss": "XI.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.203,
+    "y": 0.3817,
+    "w": 0.4348,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 120,
+   "form": "Dolahoi",
+   "gloss": "XII.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.2033,
+    "y": 0.3953,
+    "w": 0.3108,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 121,
+   "form": "Dauhottunhoi",
+   "gloss": "XIII.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.2098,
+    "y": 0.4085,
+    "w": 0.4279,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 122,
+   "form": "Dauhotterhoi",
+   "gloss": "XIV.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.0564,
+    "y": 0.4243,
+    "w": 0.4966,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 123,
+   "form": "Paulohoi.",
+   "gloss": "XV.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.1948,
+    "y": 0.4364,
+    "w": 0.3419,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 124,
+   "form": "Dauhossahoi",
+   "gloss": "XVI.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.0554,
+    "y": 0.4502,
+    "w": 0.3842,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 125,
+   "form": "Dauhahottoi",
+   "gloss": "XVII.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.0554,
+    "y": 0.4502,
+    "w": 0.3842,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 126,
+   "form": "Dauha ot hoi",
+   "gloss": "XVIII.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.0554,
+    "y": 0.4502,
+    "w": 0.3842,
+    "h": 0.0132,
+    "approx": true
+   }
+  },
+  {
+   "n": 127,
+   "form": "Dauhanovihoi",
+   "gloss": "XIX.",
+   "section": "They number thus,"
+  },
+  {
+   "n": 128,
+   "form": "Vishoi",
+   "gloss": "XX.",
+   "section": "They number thus,"
+  },
+  {
+   "n": 129,
+   "form": "Tihoi",
+   "gloss": "XXX.",
+   "section": "They number thus,",
+   "box": {
+    "page": 1,
+    "x": 0.0554,
+    "y": 0.4502,
+    "w": 0.3842,
+    "h": 0.0132
+   }
+  },
+  {
+   "n": 130,
+   "form": "Hottalehoi",
+   "gloss": "XL.",
+   "section": "They number thus,"
+  },
+  {
+   "n": 131,
+   "form": "Ponnahoi",
+   "gloss": "L.",
+   "section": "They number thus,"
+  },
+  {
+   "n": 132,
+   "form": "Leet",
+   "gloss": "Almanacks (printed: \"They make Leet, that is Almanacks\")",
+   "section": ""
+  },
+  {
+   "n": 133,
+   "form": "Bonna",
+   "gloss": "the Ceremonies of their Religion (printed: \"Books of Bonna, that is of the Ceremonies of their Religion\")",
+   "section": ""
+  },
+  {
+   "n": 134,
+   "form": "Taulcole",
+   "gloss": "another leaf for Letters (\"another leaf, called Taulcole\")",
+   "section": ""
+  }
+ ],
+ "identification": {
+  "status": "resolved",
+  "path": [
+   "Indo-European",
+   "Classical Indo-European",
+   "Indo-Iranian",
+   "Indo-Aryan",
+   "Middle-Modern Indo-Aryan",
+   "Continental Indo-Aryan",
+   "Midlands Indo-Aryan",
+   "Shaurasenic",
+   "Indo-Aryan Central zone",
+   "Romani"
+  ],
+  "support": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.65
+  ],
+  "concepts": 43,
+  "excluded": [],
+  "leading": {
+   "name": "Selice Romani",
+   "family": "Indo-European",
+   "z": 5.39
+  },
+  "candidates": [
+   {
+    "name": "Selice Romani",
+    "db": "Lexibank",
+    "family": "Indo-European",
+    "path": [
+     "Indo-European",
+     "Classical Indo-European",
+     "Indo-Iranian",
+     "Indo-Aryan"
+    ],
+    "z": 5.39,
+    "n": 37
+   },
+   {
+    "name": "Hindi",
+    "db": "Lexibank",
+    "family": "Indo-European",
+    "path": [
+     "Indo-European",
+     "Classical Indo-European",
+     "Indo-Iranian",
+     "Indo-Aryan"
+    ],
+    "z": 4.88,
+    "n": 32
+   },
+   {
+    "name": "Jawi",
+    "db": "Lexibank",
+    "family": "Nyulnyulan",
+    "path": [
+     "Nyulnyulan",
+     "Western Nyulnyulan",
+     "Bardic",
+     "Djawi"
+    ],
+    "z": 4.49,
+    "n": 14
+   },
+   {
+    "name": "T-Nûshor 3",
+    "db": "Lexibank",
+    "family": "Indo-European",
+    "path": [
+     "Indo-European",
+     "Classical Indo-European",
+     "Indo-Iranian",
+     "Iranian-Nuristani"
+    ],
+    "z": 4.31,
+    "n": 22
+   },
+   {
+    "name": "Dutch_List",
+    "db": "Lexibank",
+    "family": "Indo-European",
+    "path": [
+     "Indo-European",
+     "Classical Indo-European",
+     "Germanic",
+     "Northwest Germanic"
+    ],
+    "z": 4.23,
+    "n": 22
+   },
+   {
+    "name": "KHAH",
+    "db": "ASJP",
+    "family": "Indo-European",
+    "path": [
+     "Indo-European",
+     "Classical Indo-European",
+     "Indo-Iranian",
+     "Indo-Aryan"
+    ],
+    "z": 4.2,
+    "n": 13
+   },
+   {
+    "name": "Marathi",
+    "db": "Lexibank",
+    "family": "Indo-European",
+    "path": [
+     "Indo-European",
+     "Classical Indo-European",
+     "Indo-Iranian",
+     "Indo-Aryan"
+    ],
+    "z": 4.05,
+    "n": 21
+   },
+   {
+    "name": "Kashmiri",
+    "db": "Lexibank",
+    "family": "Indo-European",
+    "path": [
+     "Indo-European",
+     "Classical Indo-European",
+     "Indo-Iranian",
+     "Indo-Aryan"
+    ],
+    "z": 3.98,
+    "n": 16
+   }
+  ],
+  "evidence": [
+   {
+    "concept": "no",
+    "form": "Na",
+    "ref": "na",
+    "d": 0.0
+   },
+   {
+    "concept": "not",
+    "form": "Na",
+    "ref": "na",
+    "d": 0.0
+   },
+   {
+    "concept": "do",
+    "form": "Coraund",
+    "ref": "keren",
+    "d": 0.17
+   },
+   {
+    "concept": "star",
+    "form": "Taurcoi",
+    "ref": "čillaga",
+    "d": 0.17
+   },
+   {
+    "concept": "mother",
+    "form": "Omma",
+    "ref": "mama",
+    "d": 0.25
+   },
+   {
+    "concept": "bird",
+    "form": "Courilla",
+    "ref": "čirikli",
+    "d": 0.29
+   },
+   {
+    "concept": "boy",
+    "form": "Cole-la",
+    "ref": "čhavóro",
+    "d": 0.33
+   },
+   {
+    "concept": "daughter",
+    "form": "Dua",
+    "ref": "čhaj",
+    "d": 0.33
+   },
+   {
+    "concept": "give",
+    "form": "Dendi",
+    "ref": "den",
+    "d": 0.4
+   },
+   {
+    "concept": "bore",
+    "form": "Horraund",
+    "ref": "fúrinen",
+    "d": 0.43
+   },
+   {
+    "concept": "king",
+    "form": "Rodgura",
+    "ref": "királi",
+    "d": 0.43
+   },
+   {
+    "concept": "build",
+    "form": "Tonnaund",
+    "ref": "ípítinen",
+    "d": 0.5
+   }
+  ]
+ },
+ "stats": {
+  "entries": 134,
+  "notes": 1,
+  "located": 88
+ },
+ "partial": null,
+ "relation": null
+}

@@ -1,0 +1,15 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="Not found">
+  <section class="wrap nf">
+    <p class="print big">Nothing here.</p>
+    <p class="muted">The page may have moved. Every table keeps a permanent address under <span class="mono">/t/</span>.</p>
+    <p><a href="/" class="go">Browse the tables →</a></p>
+  </section>
+</Base>
+<style>
+  .nf { display: grid; gap: 12px; padding-block: 96px; }
+  .big { font-size: 48px; }
+  .go { color: var(--accent); }
+</style>
