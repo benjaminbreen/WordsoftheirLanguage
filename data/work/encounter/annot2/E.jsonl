@@ -1,0 +1,497 @@
+{"list": "trinidad", "n": 1, "gloss": "A man", "form": "GVttemock", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 2, "gloss": "The heare of ones head", "form": "Tabairo, Dabarah, Or Dabarra", "category": "inflected", "subtype": "da- 1sg possessive", "evidence": "Lokono (y)balha \"hair\"; da- \"my\"", "confidence": 0.65, "comment": "verified: local Lexibank/ASJP CLDF (data/raw); Tabairo t- form unclear"}
+{"list": "trinidad", "n": 3, "gloss": "The forehead", "form": "Dessie", "category": "ostension", "subtype": "head for forehead, possessed", "evidence": "Lokono (i)si \"head\" + da- \"my\"", "confidence": 0.4, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 4, "gloss": "An eye", "form": "Dasereth, or Dacosi", "category": "inflected", "subtype": "da- 1sg possessive", "evidence": "Lokono kosi \"eye\", da-kosi \"my eye\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 5, "gloss": "The mouth", "form": "Dalacoack", "category": "inflected", "subtype": "da- 1sg possessive", "evidence": "Lokono lheroko \"mouth\"", "confidence": 0.7, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 6, "gloss": "The teeth", "form": "Areheh", "category": "ok", "subtype": "", "evidence": "Lokono ari(-hi) \"tooth\" (unpossessed suffix -hi)", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 7, "gloss": "The gummes", "form": "Daria", "category": "ostension", "subtype": "teeth for gums, possessed", "evidence": "Lokono ari \"tooth\" + da- \"my\"", "confidence": 0.4, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 8, "gloss": "The lips", "form": "Desire", "category": "ostension", "subtype": "nose for lips, possessed", "evidence": "Lokono da-siri \"my nose\" (ASJP daSiri)", "confidence": 0.5, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 9, "gloss": "The tongue", "form": "Dill", "category": "inflected", "subtype": "da- 1sg possessive", "evidence": "Lokono yje(-hy) \"tongue\"; da-yee \"my tongue\"", "confidence": 0.45, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 10, "gloss": "The eares", "form": "Dudica", "category": "inflected", "subtype": "da- 1sg possessive", "evidence": "Lokono dike(-he) \"ear\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 11, "gloss": "A hand", "form": "Dacan", "category": "inflected", "subtype": "da- 1sg possessive", "evidence": "Lokono khabo \"hand\"; da- \"my\"", "confidence": 0.5, "comment": "memory; stem -can unclear"}
+{"list": "trinidad", "n": 12, "gloss": "The palme of the hand", "form": "Dacabbo", "category": "inflected", "subtype": "da- 1sg possessive", "evidence": "Lokono khabo(-ho) \"hand\", da-khabo \"my hand\"", "confidence": 0.6, "comment": "verified: local Lexibank/ASJP CLDF (data/raw); also hand-for-palm"}
+{"list": "trinidad", "n": 13, "gloss": "The wrist", "form": "Dadena", "category": "ostension", "subtype": "leg for wrist?, possessed", "evidence": "Lokono dana(-ha) \"foot/leg\" + da-", "confidence": 0.3, "comment": "verified: local Lexibank/ASJP CLDF (data/raw); weak"}
+{"list": "trinidad", "n": 14, "gloss": "A knee", "form": "Dacurle", "category": "inflected", "subtype": "da- 1sg possessive", "evidence": "Lokono koro \"knee\" (ASJP)", "confidence": 0.6, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 15, "gloss": "The calfe of the legge", "form": "Daddano", "category": "inflected", "subtype": "da- 1sg possessive", "evidence": "Lokono dana(-ha) \"leg\"", "confidence": 0.6, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 16, "gloss": "The toes", "form": "Dabodda", "category": "ostension", "subtype": "nail for toes, possessed", "evidence": "Lokono bada(-ha) \"fingernail\" + da-", "confidence": 0.4, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 17, "gloss": "The feete", "form": "Dacutti", "category": "inflected", "subtype": "da- 1sg possessive", "evidence": "Lokono kothi(-hi) \"foot\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 18, "gloss": "The moone", "form": "Cattie", "category": "ok", "subtype": "", "evidence": "Lokono kathi \"moon\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 19, "gloss": "A rope", "form": "Tauraroth", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 20, "gloss": "A paire of •izers", "form": "Arkeano", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 21, "gloss": "The heauen", "form": "Weeuah", "category": "ostension", "subtype": "star for heaven", "evidence": "Lokono wiwa \"star\"; sky = maukilli", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 22, "gloss": "A stone good for the head ache•", "form": "Harowa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 23, "gloss": "Yron or steele", "form": "Mointiman", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 24, "gloss": "Munkeis in generall", "form": "Howa", "category": "uncertain", "subtype": "", "evidence": "Lokono hau \"sloth\" (cf. Howa)", "confidence": 0.25, "comment": "verified: local Lexibank/ASJP CLDF (data/raw); resemblance only"}
+{"list": "trinidad", "n": 25, "gloss": "A thing like pappe", "form": "Carotta", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 26, "gloss": "It is well, or I am well", "form": "Sakel", "category": "phrase", "subtype": "sentence gloss", "evidence": "Lokono san \"good\"", "confidence": 0.7, "comment": "memory"}
+{"list": "trinidad", "n": 27, "gloss": "A bracelet", "form": "Techir", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 28, "gloss": "A boxe or chest", "form": "Bodad", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 29, "gloss": "A tree", "form": "Mentinie", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 30, "gloss": "A glasse", "form": "Addehegaeno", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 31, "gloss": "Gold", "form": "Calcouri", "category": "ok", "subtype": "native metal term", "evidence": "Carib/Arawak caracoli \"gold-copper alloy\"", "confidence": 0.75, "comment": "memory"}
+{"list": "trinidad", "n": 32, "gloss": "Siluer", "form": "Perota", "category": "loan", "subtype": "Spanish/Portuguese", "evidence": "Spanish plata / Portuguese prata \"silver\"", "confidence": 0.55, "comment": "memory"}
+{"list": "trinidad", "n": 33, "gloss": "a green stone", "form": "Tacorao", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 34, "gloss": "copper", "form": "Arrara", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 35, "gloss": "A white stone", "form": "Caulpiri", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 36, "gloss": "A sword", "form": "Casparo", "category": "ok", "subtype": "", "evidence": "Lokono kasipara \"cutlass\"", "confidence": 0.6, "comment": "memory"}
+{"list": "trinidad", "n": 37, "gloss": "cockles", "form": "Tibetebe", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 38, "gloss": "a bow", "form": "Marrahabo", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 39, "gloss": "an arrow", "form": "Semaro", "category": "ok", "subtype": "", "evidence": "Lokono simara \"arrow\"", "confidence": 0.8, "comment": "memory"}
+{"list": "trinidad", "n": 40, "gloss": "A bow-string", "form": "Huculle", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 41, "gloss": "A Potato roote", "form": "Halete", "category": "ok", "subtype": "", "evidence": "Lokono halchi/halichi \"sweet potato\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 42, "gloss": "A sweete root", "form": "Caerwoda", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 43, "gloss": "Wheat", "form": "Maurisse", "category": "ostension", "subtype": "maize given for wheat", "evidence": "Lokono marishi \"maize\"", "confidence": 0.5, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 44, "gloss": "A basket", "form": "Qucca", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 45, "gloss": "A knife", "form": "Yeddola", "category": "ok", "subtype": "", "evidence": "Lokono yadoala \"knife\"", "confidence": 0.75, "comment": "memory"}
+{"list": "trinidad", "n": 46, "gloss": "A hat", "form": "Sambolers", "category": "loan", "subtype": "Spanish", "evidence": "Spanish sombrero \"hat\"", "confidence": 0.55, "comment": "memory"}
+{"list": "trinidad", "n": 47, "gloss": "A pipe", "form": "Beyou", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 48, "gloss": "Bread", "form": "Callit", "category": "ok", "subtype": "", "evidence": "Lokono kali \"cassava bread\"", "confidence": 0.7, "comment": "memory"}
+{"list": "trinidad", "n": 49, "gloss": "Water", "form": "Oronuie", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 50, "gloss": "A paire of cizzers", "form": "Arguecona", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 51, "gloss": "A spoone", "form": "Heldaro", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 52, "gloss": "A bread which they eate", "form": "Hemachug•", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 53, "gloss": "Fire", "form": "Hicket", "category": "ok", "subtype": "", "evidence": "Lokono ikhi \"fire\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 54, "gloss": "A parrot", "form": "Walrowa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 55, "gloss": "Tabacco", "form": "Vreit", "category": "ok", "subtype": "", "evidence": "Lokono yuri \"tobacco\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 56, "gloss": "A combe", "form": "Batudda", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 57, "gloss": "A slicke", "form": "Addoth", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 58, "gloss": "A button, or beads", "form": "Barrennaire", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 59, "gloss": "for 2 sundry sto•es: but Sibath in general signifieth a stone", "form": "Curaballa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 60, "gloss": "for 2 sundry sto•es: but Sibath in general signifieth a stone", "form": "Sibath", "category": "ok", "subtype": "", "evidence": "Lokono siba \"stone\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 61, "gloss": "bels", "form": "Tolletille•o", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 62, "gloss": "a Tuny-fish", "form": "Vllas•o", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 63, "gloss": "A flying s••h", "form": "Bohery", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "trinidad", "n": 64, "gloss": "Water", "form": "Bara", "category": "ostension", "subtype": "sea for water", "evidence": "Proto Lokono-Guajiro *bařawa \"sea\"; Lokono water = iniabo", "confidence": 0.55, "comment": "verified: https://en.wikipedia.org/wiki/Ta-Arawakan_languages + local CLDF"}
+{"list": "trinidad", "n": 65, "gloss": "The Sunne", "form": "Haddalle", "category": "ok", "subtype": "", "evidence": "Lokono hadali \"sun\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "trinidad", "n": 66, "gloss": "The maner of the Indians hatling of a ship, calling it after the name of their Canoas", "form": "Babage-Canoaseen", "category": "phrase", "subtype": "descriptive gloss of hail", "evidence": "", "confidence": 0.6, "comment": "form contains Canoa"}
+{"list": "trinidad", "n": 67, "gloss": "I know not", "form": "Non quo", "category": "phrase", "subtype": "negation phrase", "evidence": "Lokono kho \"no\"", "confidence": 0.6, "comment": "memory; Non- may be Spanish-coloured"}
+{"list": "trinidad", "n": 68, "gloss": "I cannot tell", "form": "Non quapa", "category": "phrase", "subtype": "negation phrase", "evidence": "Lokono kho \"no\"", "confidence": 0.6, "comment": "memory"}
+{"list": "greenland", "n": 1, "gloss": "Heaven", "form": "Keiling", "category": "ok", "subtype": "", "evidence": "Kalaallisut qilak \"sky\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 2, "gloss": "a Star", "form": "Vbleisin", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 3, "gloss": "yesterday", "form": "Agakwugoo", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 4, "gloss": "a Man", "form": "Petting", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 5, "gloss": "young", "form": "Kajoictuinas", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 6, "gloss": "deformed", "form": "Ekiken", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 7, "gloss": "the head", "form": "Niakau", "category": "ok", "subtype": "", "evidence": "Kalaallisut niaqoq \"head\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 8, "gloss": "an ear", "form": "Siuta", "category": "ok", "subtype": "", "evidence": "Kalaallisut siut \"ear\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 9, "gloss": "the tongue", "form": "Vkang", "category": "ok", "subtype": "", "evidence": "Kalaallisut oqaq \"tongue\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 10, "gloss": "a finger", "form": "Tikagga", "category": "inflected", "subtype": "-ga 1sg possessive", "evidence": "Kalaallisut tikeq \"index finger\", tikiga \"my index finger\"", "confidence": 0.4, "comment": "memory"}
+{"list": "greenland", "n": 11, "gloss": "the belly", "form": "Nasekka", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 12, "gloss": "a Wast-coat", "form": "Ennowan", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 13, "gloss": "an arrow", "form": "Kaksua", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 14, "gloss": "a pot", "form": "Kalipsi", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 15, "gloss": "a bird", "form": "Vglessin", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 16, "gloss": "dry'd Haberdine", "form": "Kalulisen", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 17, "gloss": "the Fish that hath the Horn called the Unicorn's horn", "form": "Towak", "category": "ostension", "subtype": "tusk for narwhal", "evidence": "Kalaallisut tuugaaq \"tusk\"; tuugaalik \"narwhal\"", "confidence": 0.5, "comment": "verified: https://tips.translation.bible/story/ivory/"}
+{"list": "greenland", "n": 18, "gloss": "the Horn it self", "form": "Touwaksen", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 19, "gloss": "a Salmon", "form": "Kapissiling", "category": "ok", "subtype": "", "evidence": "Kalaallisut kapisilik \"salmon\"", "confidence": 0.85, "comment": "memory"}
+{"list": "greenland", "n": 20, "gloss": "an Oar", "form": "Pauting", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 21, "gloss": "a stone", "form": "Vgaggan", "category": "ok", "subtype": "", "evidence": "Kalaallisut ujarak \"stone\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 22, "gloss": "a Boot", "form": "Kaming", "category": "ok", "subtype": "", "evidence": "Kalaallisut kamik \"boot\"", "confidence": 0.9, "comment": "memory"}
+{"list": "greenland", "n": 23, "gloss": "a Bow", "form": "Pisickse", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 24, "gloss": "a Knife", "form": "Iugeling", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 25, "gloss": "a Spoon", "form": "Kejuta", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 26, "gloss": "a Cup", "form": "Emeisa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 27, "gloss": "flesh", "form": "Tukto", "category": "ostension", "subtype": "reindeer for flesh", "evidence": "Kalaallisut tuttu \"reindeer\"; meat = neqi", "confidence": 0.55, "comment": "verified: https://www.greenland-travel.com/inspiration/wildlife/reindeer/ + local CLDF"}
+{"list": "greenland", "n": 28, "gloss": "a Drake", "form": "Kack sluton", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 29, "gloss": "Haberdine", "form": "Kalulia", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 30, "gloss": "a Boat", "form": "Nau", "category": "uncertain", "subtype": "", "evidence": "Kalaallisut umiaq/qajaq \"boat\"; cf. Portuguese nau \"ship\"", "confidence": 0.3, "comment": "memory"}
+{"list": "greenland", "n": 31, "gloss": "a house", "form": "Iglun", "category": "ok", "subtype": "", "evidence": "Kalaallisut illu \"house\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 32, "gloss": "the Sun", "form": "Iliout, or Ilioun", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 33, "gloss": "the Moon", "form": "Aningang", "category": "ok", "subtype": "moon-man name", "evidence": "Kalaallisut Aningaaq (moon); moon = qaammat", "confidence": 0.7, "comment": "memory"}
+{"list": "greenland", "n": 34, "gloss": "day", "form": "Vblau", "category": "ok", "subtype": "", "evidence": "Kalaallisut ulloq \"day\"", "confidence": 0.85, "comment": "memory"}
+{"list": "greenland", "n": 35, "gloss": "night", "form": "Vnuwoa", "category": "ok", "subtype": "", "evidence": "Kalaallisut unnuaq \"night\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 36, "gloss": "to morrow", "form": "Itaguptan", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 37, "gloss": "a Woman", "form": "Kona", "category": "wrong_language", "subtype": "Old Norse/Icelandic", "evidence": "Old Norse kona \"woman\"; Kalaallisut arnaq \"woman\"", "confidence": 0.55, "comment": "verified: local Lexibank/ASJP CLDF (data/raw) (arnaq); Norse from memory"}
+{"list": "greenland", "n": 38, "gloss": "a Child", "form": "Pannien", "category": "ostension", "subtype": "daughter for child", "evidence": "Kalaallisut panik \"daughter\"", "confidence": 0.4, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 39, "gloss": "old", "form": "Kannoctuina", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 40, "gloss": "fair", "form": "Pinallu", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 41, "gloss": "Father", "form": "Vbia", "category": "ostension", "subtype": "husband for father", "evidence": "Kalaallisut ui \"husband\", uia \"her husband\"; father = ataata", "confidence": 0.55, "comment": "verified: local Lexibank/ASJP CLDF (data/raw) + https://en.wiktionary.org/wiki/nuliaq"}
+{"list": "greenland", "n": 42, "gloss": "Mother", "form": "Nulia", "category": "ostension", "subtype": "wife for mother", "evidence": "Kalaallisut nuliaq \"wife\", nulia \"his wife\"; mother = anaana", "confidence": 0.6, "comment": "verified: local Lexibank/ASJP CLDF (data/raw) + https://en.wiktionary.org/wiki/nuliaq"}
+{"list": "greenland", "n": 43, "gloss": "an eye", "form": "Isiken", "category": "ok", "subtype": "", "evidence": "Kalaallisut isi \"eye\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 44, "gloss": "the Nose", "form": "Keinga", "category": "ok", "subtype": "", "evidence": "Kalaallisut qingaq \"nose\"", "confidence": 0.85, "comment": "memory"}
+{"list": "greenland", "n": 45, "gloss": "the mouth", "form": "Kanexua", "category": "ok", "subtype": "", "evidence": "Kalaallisut qaneq \"mouth\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 46, "gloss": "a Tooth", "form": "Kiguting", "category": "ok", "subtype": "", "evidence": "Kalaallisut kigut \"tooth\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 47, "gloss": "the beard", "form": "Vimixuin", "category": "ok", "subtype": "", "evidence": "Kalaallisut umik \"beard\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 48, "gloss": "the hand", "form": "Akseita", "category": "ok", "subtype": "", "evidence": "Kalaallisut assak \"hand\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 49, "gloss": "the thumb", "form": "Kablan", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 50, "gloss": "a nail", "form": "Kuggie", "category": "ok", "subtype": "", "evidence": "Kalaallisut kukik \"nail\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 51, "gloss": "a leg", "form": "Kana", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 52, "gloss": "a foot", "form": "Sikadin", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 53, "gloss": "a doublet", "form": "Neizin", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 54, "gloss": "breeches", "form": "Naglein", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 55, "gloss": "stockins", "form": "Karlein", "category": "ostension", "subtype": "trousers for stockings", "evidence": "Kalaallisut qarlik/qarlit \"trousers\"", "confidence": 0.35, "comment": "memory"}
+{"list": "greenland", "n": 56, "gloss": "Iron", "form": "Suwigming", "category": "ok", "subtype": "", "evidence": "Kalaallisut savimineq \"iron\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 57, "gloss": "fish", "form": "Mingakisin", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 58, "gloss": "a little Boat", "form": "Kajakka", "category": "ok", "subtype": "", "evidence": "Kalaallisut qajaq \"kayak\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 59, "gloss": "Wood", "form": "Keisuin", "category": "ok", "subtype": "", "evidence": "Kalaallisut qisuk \"wood\"", "confidence": 0.85, "comment": "memory"}
+{"list": "greenland", "n": 60, "gloss": "the Earth", "form": "Ipsaw", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 61, "gloss": "grass", "form": "Ipgin", "category": "ok", "subtype": "", "evidence": "Kalaallisut ivik \"grass\"", "confidence": 0.85, "comment": "memory"}
+{"list": "greenland", "n": 62, "gloss": "Ice", "form": "Nidlong", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 63, "gloss": "Snow", "form": "Apon", "category": "ok", "subtype": "", "evidence": "Kalaallisut aput \"snow\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 64, "gloss": "rain", "form": "Siruksua", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 65, "gloss": "water", "form": "Ime", "category": "ok", "subtype": "", "evidence": "Kalaallisut imeq \"water\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 66, "gloss": "the Sea", "form": "Imak", "category": "ok", "subtype": "", "evidence": "Kalaallisut imaq \"sea\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 67, "gloss": "fire", "form": "Igne", "category": "ok", "subtype": "", "evidence": "Kalaallisut inneq \"fire\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 68, "gloss": "smoak", "form": "Igga", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 69, "gloss": "hot", "form": "Kisakaun", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 70, "gloss": "cold", "form": "Kaigenakaun", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 71, "gloss": "I", "form": "Vanga", "category": "ok", "subtype": "", "evidence": "Kalaallisut uanga \"I\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 72, "gloss": "to day", "form": "Akagoo", "category": "uncertain", "subtype": "", "evidence": "Kalaallisut aqagu \"tomorrow\"; today = ullumi", "confidence": 0.5, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 73, "gloss": "yes", "form": "Ab", "category": "ok", "subtype": "", "evidence": "Kalaallisut aap \"yes\"", "confidence": 0.85, "comment": "memory"}
+{"list": "greenland", "n": 74, "gloss": "no", "form": "Nagga", "category": "ok", "subtype": "", "evidence": "Kalaallisut naagga \"no\"", "confidence": 0.85, "comment": "memory"}
+{"list": "greenland", "n": 75, "gloss": "a Dog", "form": "Pissiak", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 76, "gloss": "the skin", "form": "Amiga", "category": "inflected", "subtype": "-ga 1sg possessive", "evidence": "Kalaallisut amiq \"skin\", amiga \"my skin\"", "confidence": 0.4, "comment": "memory"}
+{"list": "greenland", "n": 77, "gloss": "a Needle", "form": "Mekkone", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 78, "gloss": "little", "form": "Mikkakaun", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 79, "gloss": "great", "form": "Angewo", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 80, "gloss": "what wouldst?", "form": "Sua", "category": "phrase", "subtype": "question gloss", "evidence": "Kalaallisut suna \"what\"", "confidence": 0.6, "comment": "memory"}
+{"list": "greenland", "n": 81, "gloss": "two", "form": "Magluna", "category": "ok", "subtype": "", "evidence": "Kalaallisut marluk \"two\"", "confidence": 0.9, "comment": "memory"}
+{"list": "greenland", "n": 82, "gloss": "four", "form": "Sassema", "category": "ok", "subtype": "", "evidence": "Kalaallisut sisamat \"four\"", "confidence": 0.9, "comment": "memory"}
+{"list": "greenland", "n": 83, "gloss": "six", "form": "Akbukmen", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 84, "gloss": "eight", "form": "Pingenguen", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 85, "gloss": "ten", "form": "Tellimen", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 86, "gloss": "high", "form": "Agnessui", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 87, "gloss": "low", "form": "Eipa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 88, "gloss": "hungry", "form": "Kachain", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 89, "gloss": "thou", "form": "Ibling", "category": "ok", "subtype": "", "evidence": "Kalaallisut illit \"you sg\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "greenland", "n": 90, "gloss": "full", "form": "Kasilakaun", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 91, "gloss": "to eat", "form": "Kepsiun", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 92, "gloss": "to drink", "form": "Iemektaun", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 93, "gloss": "to weep", "form": "Keigerson", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 94, "gloss": "to laugh", "form": "Iglakton", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 95, "gloss": "to be troubled", "form": "Aliasukton", "category": "phrase", "subtype": "verb phrase gloss", "evidence": "", "confidence": 0.6, "comment": ""}
+{"list": "greenland", "n": 96, "gloss": "to be glad", "form": "Tabatton", "category": "phrase", "subtype": "verb phrase gloss", "evidence": "", "confidence": 0.6, "comment": ""}
+{"list": "greenland", "n": 97, "gloss": "bring", "form": "Ieptone", "category": "phrase", "subtype": "verb phrase gloss", "evidence": "", "confidence": 0.6, "comment": ""}
+{"list": "greenland", "n": 98, "gloss": "go thy wayes", "form": "Nikatin", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.7, "comment": ""}
+{"list": "greenland", "n": 99, "gloss": "which signifies", "form": "Kia mecle", "category": "phrase", "subtype": "function expression", "evidence": "", "confidence": 0.6, "comment": ""}
+{"list": "greenland", "n": 100, "gloss": "what is't", "form": "Suna", "category": "phrase", "subtype": "question gloss", "evidence": "Kalaallisut suna \"what\"", "confidence": 0.7, "comment": "memory"}
+{"list": "greenland", "n": 101, "gloss": "one", "form": "Tansi", "category": "ok", "subtype": "", "evidence": "Kalaallisut ataaseq \"one\"", "confidence": 0.8, "comment": "memory"}
+{"list": "greenland", "n": 102, "gloss": "three", "form": "Pingegua", "category": "ok", "subtype": "", "evidence": "Kalaallisut pingasut \"three\"", "confidence": 0.9, "comment": "memory"}
+{"list": "greenland", "n": 103, "gloss": "five", "form": "Tellima", "category": "ok", "subtype": "", "evidence": "Kalaallisut tallimat \"five\"", "confidence": 0.9, "comment": "memory"}
+{"list": "greenland", "n": 104, "gloss": "seven", "form": "Arleng", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 105, "gloss": "nine", "form": "Sissemen", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 106, "gloss": "hook", "form": "Karlusa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "greenland", "n": 107, "gloss": "those of their Countrey", "form": "Inguin", "category": "ok", "subtype": "", "evidence": "Kalaallisut inuit \"people\"", "confidence": 0.85, "comment": "memory"}
+{"list": "greenland", "n": 108, "gloss": "strangers", "form": "Kablunassouin", "category": "ok", "subtype": "", "evidence": "Kalaallisut qallunaat \"Europeans\"", "confidence": 0.9, "comment": "memory"}
+{"list": "pegu", "n": 1, "gloss": "what call you it", "form": "Mugaru", "category": "phrase", "subtype": "question", "evidence": "Mon mu \"what\"", "confidence": 0.75, "comment": "memory"}
+{"list": "pegu", "n": 2, "gloss": "Giue mee bread", "form": "Kidnan tiuan", "category": "phrase", "subtype": "request", "evidence": "", "confidence": 0.8, "comment": ""}
+{"list": "pegu", "n": 3, "gloss": "a Catte", "form": "Fegoe", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 4, "gloss": "A Knife", "form": "Boon", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 5, "gloss": "A Pen", "form": "Tobacu", "category": "uncertain", "subtype": "", "evidence": "English/Portuguese tobacco/tabaco", "confidence": 0.25, "comment": "memory; resemblance only"}
+{"list": "pegu", "n": 6, "gloss": "A Booke", "form": "Slappoit", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 7, "gloss": "A Table booke", "form": "Pappoit", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 8, "gloss": "What is your name?", "form": "Memuru", "category": "phrase", "subtype": "question", "evidence": "Mon mu \"what\"", "confidence": 0.75, "comment": "memory"}
+{"list": "pegu", "n": 9, "gloss": "A Chest", "form": "Talla", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 10, "gloss": "A Pillow", "form": "Tene", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 11, "gloss": "a Maste", "form": "Tayongabalon", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 12, "gloss": "Breeches", "form": "Pomeé", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 13, "gloss": "Stockins", "form": "Cheochum", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 14, "gloss": "A Thombe", "form": "Botoway", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 15, "gloss": "a fist", "form": "Toway", "category": "ok", "subtype": "hand for fist", "evidence": "Mon tai \"hand\"", "confidence": 0.7, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 16, "gloss": "a head", "form": "Cadup", "category": "ok", "subtype": "", "evidence": "Mon kaḍuip \"head\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 17, "gloss": "haire of the head", "form": "Suck", "category": "ok", "subtype": "", "evidence": "Mon sok \"hair\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 18, "gloss": "the eare", "form": "Slagota", "category": "ok", "subtype": "", "evidence": "Mon katow \"ear\"", "confidence": 0.7, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 19, "gloss": "I, I", "form": "Yu, yu", "category": "ok", "subtype": "", "evidence": "Mon ʔoa \"I\"", "confidence": 0.6, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 20, "gloss": "eyes", "form": "Moat", "category": "ok", "subtype": "", "evidence": "Mon mat \"eye\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 21, "gloss": "By and by", "form": "Tegla", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 22, "gloss": "Let me see", "form": "Ciniaut", "category": "phrase", "subtype": "request", "evidence": "", "confidence": 0.8, "comment": ""}
+{"list": "pegu", "n": 23, "gloss": "The Moone", "form": "Catu", "category": "ok", "subtype": "", "evidence": "Mon gatu \"moon\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 24, "gloss": "A Starre", "form": "Shenon", "category": "ok", "subtype": "", "evidence": "Mon hnaN \"star\" (ASJP)", "confidence": 0.7, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 25, "gloss": "The morning", "form": "Yacata", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 26, "gloss": "Good", "form": "Keka", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 27, "gloss": "sit downe", "form": "Kecho", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.75, "comment": ""}
+{"list": "pegu", "n": 28, "gloss": "The palme of the head", "form": "Cacadòe", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 29, "gloss": "the naile of the hand", "form": "Sanimbodoway", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 30, "gloss": "Sir", "form": "Nepóe", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 31, "gloss": "how sell you", "form": "Mucherow", "category": "phrase", "subtype": "question", "evidence": "", "confidence": 0.8, "comment": ""}
+{"list": "pegu", "n": 32, "gloss": "A Ship", "form": "Cabang", "category": "ok", "subtype": "", "evidence": "Mon kəbaŋ \"ship\"", "confidence": 0.75, "comment": "memory"}
+{"list": "pegu", "n": 33, "gloss": "what say you?", "form": "Aw, aw", "category": "phrase", "subtype": "question; form may be interjection", "evidence": "", "confidence": 0.55, "comment": ""}
+{"list": "pegu", "n": 34, "gloss": "A Woman", "form": "Braw", "category": "ok", "subtype": "", "evidence": "Mon brau \"woman\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 35, "gloss": "A Man", "form": "True", "category": "ok", "subtype": "", "evidence": "Mon truʔ \"man\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 36, "gloss": "A Whoore", "form": "Fekeé", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 37, "gloss": "I will goe", "form": "Oiara", "category": "phrase", "subtype": "sentence", "evidence": "", "confidence": 0.8, "comment": ""}
+{"list": "pegu", "n": 38, "gloss": "Farewell", "form": "Tamonra", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 39, "gloss": "God", "form": "Keag", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 40, "gloss": "Much", "form": "Cling, Clang", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 41, "gloss": "come hither", "form": "Nung, nung", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.75, "comment": ""}
+{"list": "pegu", "n": 42, "gloss": "Come hither", "form": "Cooke", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.75, "comment": ""}
+{"list": "pegu", "n": 43, "gloss": "Dogge", "form": "Cleá", "category": "ok", "subtype": "", "evidence": "Mon kluiw \"dog\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 44, "gloss": "Bite", "form": "Cle", "category": "ostension", "subtype": "dog for bite", "evidence": "Mon kluiw \"dog\"; bite = kit", "confidence": 0.4, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 45, "gloss": "A Hogge", "form": "Kleg", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 46, "gloss": "Noone", "form": "Togatu", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 47, "gloss": "Water", "form": "Daick", "category": "ok", "subtype": "", "evidence": "Mon ḍak/daik \"water\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "pegu", "n": 48, "gloss": "wash hands", "form": "Carrow toway", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.75, "comment": ""}
+{"list": "pegu", "n": 49, "gloss": "To spit", "form": "Ksole", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 50, "gloss": "Sleepe", "form": "Stcake", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 51, "gloss": "Arise", "form": "Notada", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 52, "gloss": "A doore", "form": "Tarangcatu", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "pegu", "n": 53, "gloss": "open the dore", "form": "Poctarang", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.8, "comment": ""}
+{"list": "pegu", "n": 54, "gloss": "shut the dore", "form": "Dotarang", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.8, "comment": ""}
+{"list": "pegu", "n": 55, "gloss": "let it downe", "form": "Chulay", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.75, "comment": ""}
+{"list": "pegu", "n": 56, "gloss": "Take vp", "form": "Downang", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.6, "comment": ""}
+{"list": "boothby", "n": 1, "gloss": "how call you this.", "form": "Viz (nooroon no zeff)", "category": "phrase", "subtype": "question", "evidence": "", "confidence": 0.7, "comment": "garbled printing"}
+{"list": "boothby", "n": 2, "gloss": "a man.", "form": "Tona", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 3, "gloss": "a woman.", "form": "Codez", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 4, "gloss": "a childe.", "form": "Tope", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 5, "gloss": "a house.", "form": "Coma", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 6, "gloss": "a cow.", "form": "Ose", "category": "ostension", "subtype": "goat for cow", "evidence": "Malagasy osy \"goat\"; cow = omby", "confidence": 0.4, "comment": "verified: https://malagasyworld.org/bins/teny2/osy"}
+{"list": "boothby", "n": 7, "gloss": "a cow.", "form": "Angomba", "category": "ok", "subtype": "old Bantu loan, established", "evidence": "SW Malagasy aombe/anombe; Swahili ng'ombe", "confidence": 0.6, "comment": "memory"}
+{"list": "boothby", "n": 8, "gloss": "a sheepe.", "form": "Gose", "category": "ostension", "subtype": "goat for sheep", "evidence": "Malagasy osy \"goat\"; sheep = ondry", "confidence": 0.35, "comment": "verified: https://malagasyworld.org/bins/teny2/osy + local CLDF"}
+{"list": "boothby", "n": 9, "gloss": "bread.", "form": "Cowhee", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 10, "gloss": "water.", "form": "Camba", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 11, "gloss": "the head.", "form": "Bingta", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 12, "gloss": "the head.", "form": "Sooa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 13, "gloss": "the eye or eare.", "form": "Nunqua", "category": "inflected", "subtype": "-ko 1sg possessive?", "evidence": "Malagasy -ko \"my\"", "confidence": 0.3, "comment": "memory; stem unclear"}
+{"list": "boothby", "n": 14, "gloss": "the nose.", "form": "Toee", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 15, "gloss": "the lips.", "form": "Umqua", "category": "inflected", "subtype": "-ko 1sg possessive?", "evidence": "Malagasy -ko \"my\"", "confidence": 0.3, "comment": "memory; stem unclear"}
+{"list": "boothby", "n": 16, "gloss": "the lips.", "form": "Songe", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 17, "gloss": "the teeth.", "form": "Coonqua", "category": "inflected", "subtype": "-ko 1sg possessive?", "evidence": "Malagasy -ko \"my\"", "confidence": 0.3, "comment": "memory; stem unclear"}
+{"list": "boothby", "n": 18, "gloss": "the teeth.", "form": "Niffa", "category": "ok", "subtype": "", "evidence": "Malagasy nify \"tooth\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 19, "gloss": "the chin.", "form": "Goma", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 20, "gloss": "the chin.", "form": "Soca", "category": "ok", "subtype": "", "evidence": "Malagasy saoka \"chin\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 21, "gloss": "the arme.", "form": "Coaqua", "category": "inflected", "subtype": "-ko 1sg possessive?", "evidence": "Malagasy -ko \"my\"", "confidence": 0.3, "comment": "memory; stem unclear"}
+{"list": "boothby", "n": 22, "gloss": "the arme.", "form": "Effena", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 23, "gloss": "the elbow.", "form": "Cabed", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 24, "gloss": "the hand.", "form": "Unaqua", "category": "inflected", "subtype": "-ko 1sg possessive?", "evidence": "Malagasy -ko \"my\"", "confidence": 0.3, "comment": "memory; stem unclear"}
+{"list": "boothby", "n": 25, "gloss": "the hand.", "form": "Tanga", "category": "ok", "subtype": "", "evidence": "Malagasy tanana \"hand\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 26, "gloss": "the finger.", "form": "Hongko", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 27, "gloss": "the breast.", "form": "Chamkee", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 28, "gloss": "the breast.", "form": "Noeno", "category": "ok", "subtype": "", "evidence": "Malagasy nono \"breast\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 29, "gloss": "the necke.", "form": "Oncoma", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 30, "gloss": "the belly.", "form": "Hicuma", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 31, "gloss": "the belly.", "form": "Toa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 32, "gloss": "the knee.", "form": "Coa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 33, "gloss": "the knee.", "form": "Ungoote", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 34, "gloss": "the leg.", "form": "Noo", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 35, "gloss": "the leg.", "form": "Vote", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 36, "gloss": "the foote.", "form": "Iqua", "category": "inflected", "subtype": "-ko 1sg possessive?", "evidence": "Malagasy -ko \"my\"", "confidence": 0.3, "comment": "memory; stem unclear"}
+{"list": "boothby", "n": 37, "gloss": "the foote.", "form": "Kambo temba", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 38, "gloss": "the yard or virill.", "form": "Hica", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 39, "gloss": "the yard or virill.", "form": "Vota", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 40, "gloss": "the cod.", "form": "Charaqua", "category": "inflected", "subtype": "-ko 1sg possessive?", "evidence": "Malagasy -ko \"my\"", "confidence": 0.25, "comment": "memory; stem unclear"}
+{"list": "boothby", "n": 41, "gloss": "the little finger.", "form": "Anatnicke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 42, "gloss": "the buttocke.", "form": "Voylee", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 43, "gloss": "the backe.", "form": "Lemboshe", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 44, "gloss": "the shoulder.", "form": "Sowkee", "category": "ok", "subtype": "", "evidence": "Malagasy soroka \"shoulder\"", "confidence": 0.8, "comment": "memory"}
+{"list": "boothby", "n": 45, "gloss": "yea.", "form": "Mise", "category": "interactional", "subtype": "existential answer for yes", "evidence": "Malagasy misy \"there is\"; yes = eny", "confidence": 0.45, "comment": "verified: https://malagasyword.org/bins/teny2/misy + local CLDF"}
+{"list": "boothby", "n": 46, "gloss": "a roote that smells sweete and is like a bulrusb.", "form": "Maligna", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 47, "gloss": "a chaine of small beades.", "form": "Moade", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 48, "gloss": "haire.", "form": "Voyla", "category": "ok", "subtype": "", "evidence": "Malagasy volo \"hair\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 49, "gloss": "an eye.", "form": "Maca", "category": "ok", "subtype": "", "evidence": "Malagasy maso \"eye\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 50, "gloss": "an eare.", "form": "Saffee", "category": "ok", "subtype": "", "evidence": "Malagasy sofina \"ear\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 51, "gloss": "the tongue.", "form": "Leela", "category": "ok", "subtype": "", "evidence": "Malagasy lela \"tongue\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 52, "gloss": "the thumbe.", "form": "Hoho", "category": "ostension", "subtype": "nail for thumb", "evidence": "Malagasy hoho \"finger/toe nail\"; thumb = ankihibe", "confidence": 0.6, "comment": "verified: https://malagasyworld.org/bins/teny2/hoho + local CLDF"}
+{"list": "boothby", "n": 53, "gloss": "the palme of the hand.", "form": "Fala tanga", "category": "ok", "subtype": "", "evidence": "Malagasy felatanana \"palm\"", "confidence": 0.85, "comment": "memory"}
+{"list": "boothby", "n": 54, "gloss": "the nailes of the hand.", "form": "Choroqua", "category": "inflected", "subtype": "-ko 1sg possessive?", "evidence": "Malagasy hoho \"nail\" + -ko \"my\"", "confidence": 0.3, "comment": "memory"}
+{"list": "boothby", "n": 55, "gloss": "salt.", "form": "Syra", "category": "ok", "subtype": "", "evidence": "Malagasy sira \"salt\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 56, "gloss": "tomorrow.", "form": "Humeray", "category": "uncertain", "subtype": "", "evidence": "Malagasy omaly \"yesterday\"; tomorrow = rahampitso", "confidence": 0.45, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 57, "gloss": "a pot.", "form": "Soo", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 58, "gloss": "a gun.", "form": "Pingbara", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 59, "gloss": "a sword.", "form": "Vyra", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 60, "gloss": "a little dart.", "form": "Fajaro", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 61, "gloss": "a lance or great dart.", "form": "Leffo", "category": "ok", "subtype": "", "evidence": "Malagasy lefona \"spear\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 62, "gloss": "a lance or great dart.", "form": "Mura", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": ""}
+{"list": "boothby", "n": 63, "gloss": "a bat or cap.", "form": "Caba", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 64, "gloss": "cloaths.", "form": "Lomba", "category": "ok", "subtype": "", "evidence": "Malagasy lamba \"cloth\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 65, "gloss": "a cloake or skin.", "form": "Memma", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 66, "gloss": "shooes or slippers.", "form": "Hoboqua", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 67, "gloss": "an arrow.", "form": "Aqua", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 68, "gloss": "a rope.", "form": "Fenga", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 69, "gloss": "a rope.", "form": "Talle", "category": "ok", "subtype": "", "evidence": "Malagasy tady \"rope\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 70, "gloss": "a knife.", "form": "Siffe", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 71, "gloss": "a bow.", "form": "Hicha", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 72, "gloss": "a turn spit.", "form": "Hehoo", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 73, "gloss": "to dart.", "form": "Acuto", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 74, "gloss": "milke.", "form": "Renova", "category": "ok", "subtype": "", "evidence": "Malagasy ronono \"milk\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 75, "gloss": "a small fish.", "form": "Hihoo", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 76, "gloss": "a great fish.", "form": "Longora", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 77, "gloss": "brasse.", "form": "Hirhoree", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 78, "gloss": "naught.", "form": "Chichata", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 79, "gloss": "naught.", "form": "Ruttee", "category": "ok", "subtype": "", "evidence": "Malagasy ratsy \"bad\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 80, "gloss": "good.", "form": "Chara", "category": "ok", "subtype": "", "evidence": "Malagasy tsara \"good\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 81, "gloss": "a good man or friend.", "form": "Longasba", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "boothby", "n": 82, "gloss": "a bad man or foe.", "form": "Laga Rattee", "category": "ok", "subtype": "", "evidence": "Malagasy ratsy \"bad\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 83, "gloss": "nay.", "form": "Cheruse", "category": "ok", "subtype": "", "evidence": "Malagasy tsy/tsia \"no\"", "confidence": 0.6, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "boothby", "n": 84, "gloss": "a bottle cup or basket.", "form": "Calibus", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 1, "gloss": "Sunne or Moone", "form": "Kesus", "category": "ok", "subtype": "sun/moon colexified", "evidence": "Abenaki kizos \"sun, moon\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "rosier", "n": 2, "gloss": "Cod-fish", "form": "Biskeiore", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 3, "gloss": "A fish with hornes", "form": "Manedo", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 4, "gloss": "Lobster", "form": "Shoggah", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 5, "gloss": "Rock-fish", "form": "Shagatocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 6, "gloss": "Cockle-fish", "form": "Hesucke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 7, "gloss": "Muskell", "form": "Shoorocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 8, "gloss": "Cunner-fish", "form": "Tattaucke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 9, "gloss": "Crabbe", "form": "Wussorasha", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 10, "gloss": "Porpoise", "form": "Muscopeiuck", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 11, "gloss": "Plaise", "form": "Anego", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 12, "gloss": "Tortoise", "form": "Romcaneeke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 13, "gloss": "Pease", "form": "Ushcomono", "category": "ostension", "subtype": "maize for peas", "evidence": "Abenaki skamon \"corn\"", "confidence": 0.45, "comment": "verified: https://www.vtfolklife.org/s/language_glossary.pdf"}
+{"list": "rosier", "n": 14, "gloss": "Tobacco", "form": "Tomoch", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 15, "gloss": "A leafe", "form": "Mebeere", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 16, "gloss": "A weed", "form": "Cashterush", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 17, "gloss": "A Firre tree", "form": "Seteock", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 18, "gloss": "A stone", "form": "Nabscurr", "category": "ok", "subtype": "", "evidence": "Maliseet ponapsqis \"stone\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "rosier", "n": 19, "gloss": "A Bowe", "form": "Shoanor", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 20, "gloss": "An Arrow", "form": "Tobood", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 21, "gloss": "Barke of a tree", "form": "Mashquere", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 22, "gloss": "Water", "form": "Shamogoon", "category": "ok", "subtype": "", "evidence": "Mi'kmaq samuqwan \"water\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "rosier", "n": 23, "gloss": "Sand", "form": "Cheemuck", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 24, "gloss": "Crowe", "form": "Cagagoose", "category": "ok", "subtype": "", "evidence": "Abenaki kakakas \"crow\"", "confidence": 0.75, "comment": "memory"}
+{"list": "rosier", "n": 25, "gloss": "Haire", "form": "Messer", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 26, "gloss": "Haire", "form": "Meris", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 27, "gloss": "A beard", "form": "Nicowur", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 28, "gloss": "A Beare", "form": "Rogsoo", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 29, "gloss": "Beauer", "form": "Paneah", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 30, "gloss": "Otter", "form": "Nymemano", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 31, "gloss": "Rat", "form": "Sanuke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 32, "gloss": "Polcat", "form": "Pocamka", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 33, "gloss": "Cat", "form": "Pushuck", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 34, "gloss": "Fallow Deere", "form": "Coribo", "category": "ok", "subtype": "caribou, glossed by English analogue", "evidence": "Mi'kmaq qalipu \"caribou\"", "confidence": 0.8, "comment": "memory"}
+{"list": "rosier", "n": 35, "gloss": "Hogge", "form": "Madoso", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 36, "gloss": "Red Deere", "form": "Moosurr", "category": "ok", "subtype": "moose, glossed by English analogue", "evidence": "Abenaki mos \"moose\"", "confidence": 0.85, "comment": "memory"}
+{"list": "rosier", "n": 37, "gloss": "Teeth", "form": "Ibider", "category": "ok", "subtype": "", "evidence": "Abenaki wibid \"tooth\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "rosier", "n": 38, "gloss": "A hand and finger", "form": "Breecke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 39, "gloss": "A Naile of the hand", "form": "Cushe", "category": "ok", "subtype": "", "evidence": "Abenaki -kas \"nail\"", "confidence": 0.7, "comment": "memory"}
+{"list": "rosier", "n": 40, "gloss": "A legge", "form": "Codd", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 41, "gloss": "A foot", "form": "Musseete", "category": "ok", "subtype": "m- indefinite possessor is citation form", "evidence": "Penobscot msit \"a foot\"", "confidence": 0.7, "comment": "memory"}
+{"list": "rosier", "n": 42, "gloss": "Plum-tree", "form": "Epsegan", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 43, "gloss": "Strawberry", "form": "Pishoa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 44, "gloss": "Gooseberry", "form": "Shewanor", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 45, "gloss": "Cherry tree", "form": "Espegononino", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 46, "gloss": "Corant tree", "form": "Asheemena", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 47, "gloss": "Rashberrie", "form": "Kiskeemy", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 48, "gloss": "A lippe", "form": "Metoan", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 49, "gloss": "Fire", "form": "Squida", "category": "ok", "subtype": "", "evidence": "Abenaki skwəda \"fire\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "rosier", "n": 50, "gloss": "The maine Land", "form": "Bemoquiducke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 51, "gloss": "Sea", "form": "Shoubbe", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 52, "gloss": "Father", "form": "Wado", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 53, "gloss": "Sonne", "form": "Usto", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 54, "gloss": "Wane of the Sea", "form": "Toboogg", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 55, "gloss": "Pitch and Tallow", "form": "Poco", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 56, "gloss": "Wilde Rose", "form": "Minusheck", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 57, "gloss": "Birch", "form": "Pasquar", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 58, "gloss": "Sword", "form": "Edagawancke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 59, "gloss": "Mountaine", "form": "Machoucke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 60, "gloss": "Winde", "form": "Puckchawsen", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 61, "gloss": "Bloud", "form": "Pagâgocun", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 62, "gloss": "Red Paint", "form": "Woroman", "category": "ok", "subtype": "", "evidence": "Penobscot wəlaman \"red ochre\"", "confidence": 0.8, "comment": "memory"}
+{"list": "rosier", "n": 63, "gloss": "Blacke Paint", "form": "Cogosho", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 64, "gloss": "A Dogge", "form": "Rem•ose", "category": "ok", "subtype": "", "evidence": "Abenaki alemos \"dog\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "rosier", "n": 65, "gloss": "A Ship or Boat", "form": "Quiden", "category": "ok", "subtype": "", "evidence": "Abenaki aguiden \"canoe\"", "confidence": 0.85, "comment": "memory"}
+{"list": "rosier", "n": 66, "gloss": "An Oare", "form": "Wuttohogauor", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 67, "gloss": "A Garnepo Fly", "form": "Chussuah", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 68, "gloss": "Bread", "form": "Paune", "category": "ok", "subtype": "native, not French pain", "evidence": "Abenaki abôn \"bread\" < PA *apwa:n", "confidence": 0.8, "comment": "verified: https://en.wikipedia.org/wiki/Abenaki (search)"}
+{"list": "rosier", "n": 69, "gloss": "Raine", "form": "Soogoran", "category": "ok", "subtype": "", "evidence": "Penobscot sokəlan \"rain\"", "confidence": 0.8, "comment": "memory"}
+{"list": "rosier", "n": 70, "gloss": "A nose", "form": "Peech-ten", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 71, "gloss": "An Axe or Hatchet", "form": "Tomaheegon", "category": "ok", "subtype": "", "evidence": "Abenaki temahigan \"axe\"", "confidence": 0.9, "comment": "memory"}
+{"list": "rosier", "n": 72, "gloss": "A Knife", "form": "Quodogon", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 73, "gloss": "Oake", "form": "Askabesse", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 74, "gloss": "White Bone, whereof they haue Chaines, Girdles, Bracelets", "form": "Speesone", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 75, "gloss": "The Cheeke", "form": "Canoah", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 76, "gloss": "A Shirt or Coat", "form": "Tenoganuke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 77, "gloss": "The Chinne", "form": "Queh", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 78, "gloss": "An Eye", "form": "Sheesuck", "category": "ok", "subtype": "", "evidence": "Abenaki msizukw \"eye\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "rosier", "n": 79, "gloss": "Eylid", "form": "Momon", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 80, "gloss": "Forehead", "form": "Scottoquah", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 81, "gloss": "An Eare", "form": "Fawwucke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 82, "gloss": "A fish-hooke", "form": "Makeecon", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 83, "gloss": "A Rainbow", "form": "Shomogon", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "rosier", "n": 84, "gloss": "other beasts (unglossed)", "form": "Tasquus", "category": "ok", "subtype": "unglossed", "evidence": "", "confidence": 0.6, "comment": "no gloss to evaluate"}
+{"list": "rosier", "n": 85, "gloss": "other beasts (unglossed)", "form": "Pisho", "category": "ok", "subtype": "unglossed", "evidence": "", "confidence": 0.6, "comment": "no gloss to evaluate"}
+{"list": "rosier", "n": 86, "gloss": "other beasts (unglossed)", "form": "Narsim", "category": "ok", "subtype": "unglossed", "evidence": "", "confidence": 0.6, "comment": "no gloss to evaluate"}
+{"list": "sami_burrough", "n": 1, "gloss": "what call you this", "form": "COwghtie coteat", "category": "phrase", "subtype": "question", "evidence": "", "confidence": 0.8, "comment": ""}
+{"list": "sami_burrough", "n": 2, "gloss": "come hither", "form": "Poddythecke", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.8, "comment": ""}
+{"list": "sami_burrough", "n": 3, "gloss": "get the hence", "form": "Auanchythocke", "category": "phrase", "subtype": "imperative", "evidence": "", "confidence": 0.8, "comment": ""}
+{"list": "sami_burrough", "n": 4, "gloss": "farewell", "form": "Anna", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 5, "gloss": "good morrowe", "form": "Teyrue", "category": "phrase", "subtype": "greeting", "evidence": "Kildin tiörv \"hello\"", "confidence": 0.6, "comment": "memory"}
+{"list": "sami_burrough", "n": 6, "gloss": "I thanke you", "form": "Iomme •emaufes", "category": "phrase", "subtype": "thanks", "evidence": "", "confidence": 0.7, "comment": ""}
+{"list": "sami_burrough", "n": 7, "gloss": "a friend", "form": "Passeuellie", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 8, "gloss": "a man", "form": "Olmuelke", "category": "ok", "subtype": "", "evidence": "Kildin olma \"person\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 9, "gloss": "a woman", "form": "Captella", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 10, "gloss": "a sonne", "form": "Alke", "category": "ok", "subtype": "", "evidence": "Kildin all'k \"son\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 11, "gloss": "a daughter, or yong wench", "form": "Neit", "category": "ok", "subtype": "", "evidence": "Kildin nījjt \"daughter\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 12, "gloss": "a head", "form": "Oyuie", "category": "ok", "subtype": "", "evidence": "Kildin vuejjv \"head\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 13, "gloss": "an eye", "form": "Cyelme", "category": "ok", "subtype": "", "evidence": "Kildin čall'm \"eye\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 14, "gloss": "a nose", "form": "Nenna", "category": "ok", "subtype": "", "evidence": "Kildin njunn' \"nose\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 15, "gloss": "a mouth", "form": "Nealma", "category": "ok", "subtype": "", "evidence": "Kildin njāll'm \"mouth\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 16, "gloss": "teeth", "form": "Pannea", "category": "ok", "subtype": "", "evidence": "Kildin pānn' \"tooth\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 17, "gloss": "a tongue", "form": "Neughtema", "category": "ok", "subtype": "", "evidence": "Kildin njuxčem \"tongue\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 18, "gloss": "a beard", "form": "Seaman", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 19, "gloss": "an eare", "form": "Peallee", "category": "ok", "subtype": "", "evidence": "Kildin piellj \"ear\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 20, "gloss": "the necke", "form": "Teappat", "category": "ok", "subtype": "", "evidence": "Kildin čāpex \"neck\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 21, "gloss": "the haire", "form": "Voapt", "category": "ok", "subtype": "", "evidence": "Kildin vūppt \"hair\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 22, "gloss": "a hand", "form": "Keat", "category": "ok", "subtype": "", "evidence": "Kildin kīdt \"hand\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 23, "gloss": "fingers", "form": "Soarme", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 24, "gloss": "a legge", "form": "Iowlkie", "category": "ok", "subtype": "", "evidence": "Kildin jūll'k \"leg\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 25, "gloss": "the thombe, or great toe", "form": "Peelkie", "category": "ok", "subtype": "", "evidence": "Kildin piell'k \"thumb\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 26, "gloss": "wollen cloth", "form": "Sarke", "category": "loan", "subtype": "Old Norse", "evidence": "Old Norse serkr \"shirt\"", "confidence": 0.45, "comment": "memory"}
+{"list": "sami_burrough", "n": 27, "gloss": "linnen cloth", "form": "Lein", "category": "loan", "subtype": "Old Norse", "evidence": "Old Norse lín \"linen\"; Kildin lɨjjn \"cloth\"", "confidence": 0.45, "comment": "verified: local Lexibank/ASJP CLDF (data/raw) (Kildin form); donor memory"}
+{"list": "sami_burrough", "n": 28, "gloss": "a shirt", "form": "Payte", "category": "ok", "subtype": "old Finnic loan, established", "evidence": "Kildin pājjt \"shirt\" (< Finnic paita)", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 29, "gloss": "fire", "form": "Tol", "category": "ok", "subtype": "", "evidence": "Kildin tōll \"fire\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 30, "gloss": "water", "form": "Keatse", "category": "ok", "subtype": "", "evidence": "Kildin čādz' \"water\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 31, "gloss": "wood", "form": "Murr", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 32, "gloss": "a boate", "form": "Vannace", "category": "ok", "subtype": "", "evidence": "Kildin vens \"boat\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 33, "gloss": "an oare", "form": "Ariea", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 34, "gloss": "a roape", "form": "Nurr", "category": "ok", "subtype": "", "evidence": "Kildin nurr' \"rope\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 35, "gloss": "a day", "form": "Peyue", "category": "ok", "subtype": "", "evidence": "Kildin piejjv \"day\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 36, "gloss": "a night", "form": "Hyr", "category": "ok", "subtype": "", "evidence": "Kildin ɨjj \"night\"", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 37, "gloss": "the Sunne", "form": "Peyuezea", "category": "ok", "subtype": "", "evidence": "Kildin piejjv \"sun/day\" + -ʒ", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 38, "gloss": "the Moone", "form": "Manna", "category": "ok", "subtype": "", "evidence": "Kildin mānn \"moon\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 39, "gloss": "starres", "form": "Laste", "category": "ok", "subtype": "", "evidence": "Kildin tāss't \"star\"", "confidence": 0.85, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 40, "gloss": "whither goe you", "form": "Cozam volka", "category": "phrase", "subtype": "question", "evidence": "", "confidence": 0.8, "comment": ""}
+{"list": "sami_burrough", "n": 41, "gloss": "sleepe", "form": "Ottapp", "category": "ok", "subtype": "", "evidence": "Kildin vuedt'e \"sleep\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 42, "gloss": "that", "form": "Tallye", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 43, "gloss": "a weeke", "form": "Keiedde pieue", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 44, "gloss": "a yeere", "form": "Isckie", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 45, "gloss": "Sommer", "form": "Kesse", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 46, "gloss": "Winter", "form": "Talue", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 47, "gloss": "colde", "form": "Iowksam", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 48, "gloss": "warme", "form": "Parox", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 49, "gloss": "raine", "form": "Abrye", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 50, "gloss": "yce", "form": "Youghang", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 51, "gloss": "a stone", "form": "Kea•ykye", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 52, "gloss": "siluer", "form": "Sellowpe", "category": "ok", "subtype": "old loan, established", "evidence": "Kildin sɨllp \"silver\"", "confidence": 0.8, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 53, "gloss": "golde", "form": "Solda", "category": "uncertain", "subtype": "", "evidence": "Kildin koall' \"gold\"; cf. Russian zoloto", "confidence": 0.3, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 54, "gloss": "tinnne", "form": "Tennae", "category": "loan", "subtype": "Norse/Germanic", "evidence": "Old Norse tin \"tin\"", "confidence": 0.35, "comment": "memory"}
+{"list": "sami_burrough", "n": 55, "gloss": "copper", "form": "Veskue", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 56, "gloss": "yron", "form": "Rowadt", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 57, "gloss": "a knife", "form": "Neybx", "category": "ok", "subtype": "", "evidence": "Kildin nɨjjp \"knife\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 58, "gloss": "a hatchet", "form": "Axshe", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 59, "gloss": "bread", "form": "Leabee", "category": "ok", "subtype": "old Finnic loan, established", "evidence": "Kildin liejjp \"bread\" (< Finnic leipä)", "confidence": 0.75, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 60, "gloss": "meale", "form": "Ieauegoat", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 61, "gloss": "the winde", "form": "Pencka", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 62, "gloss": "A platter", "form": "Iowte", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 63, "gloss": "a kettle", "form": "Kemnie", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 64, "gloss": "gloues", "form": "Keestes", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 65, "gloss": "shoes", "form": "Sapege", "category": "loan", "subtype": "Russian", "evidence": "Russian сапоги sapogi \"boots\"; Kildin native koame \"shoe\"", "confidence": 0.65, "comment": "verified: local Lexibank/ASJP CLDF (data/raw) (koame); donor memory"}
+{"list": "sami_burrough", "n": 66, "gloss": "a wilde Deare", "form": "Conde", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 67, "gloss": "the labouring Deare", "form": "Poatsa", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 68, "gloss": "1", "form": "OFte", "category": "ok", "subtype": "", "evidence": "Kildin ēxxt/ōxxte \"one\"", "confidence": 0.9, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
+{"list": "sami_burrough", "n": 69, "gloss": "2", "form": "Noumpte", "category": "ostension", "subtype": "ordinal \"other/second\" for two", "evidence": "Kildin kūht \"two\"; cf. N. Saami nubbi \"second, other\"", "confidence": 0.35, "comment": "verified: local Lexibank/ASJP CLDF (data/raw) (kūht); nubbi memory"}
+{"list": "sami_burrough", "n": 70, "gloss": "3", "form": "Colme", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 71, "gloss": "4", "form": "Nellye", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 72, "gloss": "5", "form": "Vitte", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 73, "gloss": "6", "form": "Cowte", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 74, "gloss": "7", "form": "Keydeem", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 75, "gloss": "8", "form": "Kaffts", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 76, "gloss": "9", "form": "Owghchte", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 77, "gloss": "10", "form": "Locke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 78, "gloss": "11", "form": "Ostretumbelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 79, "gloss": "12", "form": "Cowghtnumbelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 80, "gloss": "13", "form": "Colmenonbelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 81, "gloss": "14", "form": "Nellynombelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 82, "gloss": "15", "form": "Vittie nombelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 83, "gloss": "16", "form": "Cowtenombelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 84, "gloss": "17", "form": "Keydemnombelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 85, "gloss": "18", "form": "Kafts nombelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 86, "gloss": "19", "form": "Owght nombelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 87, "gloss": "20", "form": "Coffreylocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 88, "gloss": "30", "form": "Colmelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 89, "gloss": "40", "form": "Nellylocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 90, "gloss": "50", "form": "Vitte locke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 91, "gloss": "60", "form": "Cowtelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 92, "gloss": "70", "form": "Keydemlocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 93, "gloss": "80", "form": "Kaffstelocke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 94, "gloss": "90", "form": "Oughcheteloke", "category": "ok", "subtype": "", "evidence": "", "confidence": 0.7, "comment": "memory; nothing remarkable"}
+{"list": "sami_burrough", "n": 95, "gloss": "100", "form": "Tewer", "category": "uncertain", "subtype": "", "evidence": "Kildin čūdt' \"hundred\"", "confidence": 0.25, "comment": "verified: local Lexibank/ASJP CLDF (data/raw)"}
