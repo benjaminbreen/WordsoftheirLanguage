@@ -1,0 +1,30 @@
+{
+ "loan": {
+  "flagged": 29,
+  "annotated_pos": 89,
+  "tp": 6,
+  "precision": 0.21,
+  "recall": 0.07
+ },
+ "ostension": {
+  "flagged": 20,
+  "annotated_pos": 6,
+  "tp": 1,
+  "precision": 0.05,
+  "recall": 0.17
+ },
+ "interactional": {
+  "flagged": 6,
+  "annotated_pos": 3,
+  "tp": 0,
+  "precision": 0.0,
+  "recall": 0.0
+ },
+ "phrase": {
+  "flagged": 214,
+  "annotated_pos": 481,
+  "tp": 189,
+  "precision": 0.88,
+  "recall": 0.39
+ }
+}
