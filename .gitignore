@@ -3,3 +3,4 @@ data/raw/
 data/work/*.parquet
 __pycache__/
 *.pyc
+data/work/jcb/txt/

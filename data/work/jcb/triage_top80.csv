@@ -1,0 +1,79 @@
+rank,ia,title,date,is_vocab,language,modern_id,n_entries_est,known,note
+1,voyagedanslespro02sain_0,Voyage dans les provinces de Rio de Janeiro et de Minas Geraes;,1830,yes,Botocudo,Krenak (Macro-Jê),100+,likely known,"Saint-Hilaire Botocudo vocab, cited in Jê literature; ch29+"
+2,joannisdelaetant00laet,Joannis de Laet Antwerpiani Notæ ad dissertationem Hugonis Grotii De origine gen,1643,partial,Welsh/Frisian etc. (+American lists),Welsh (European); Amerindian lists in ch78-80,50,likely known,de Laet Notae vs Grotius; best chunk Welsh numerals
+3,ioannisdelaetant00laet_0,Ioannis de Laet Antwerpiani Notæ ad dissertationem Hugonis Grotii De origine gen,1643,partial,Welsh (+American),Welsh,50,likely known,dup of rank 2 (de Laet Notae 1643)
+5,spieghelderaustr00lema,"Spieghel der Australische navigatie,",1622,yes,Malay / Horn Islands (Le Maire),Malay; Futunan/East Futuna,100+,likely known,Le Maire Spieghel; trade-goods Malay list ch14-24
+6,histoiregnralede05prvo_0,"Histoire générale des voyages, ou nouvelle collection de toutes les relations de",1746,yes,Hottentot,Khoekhoe,30,likely known,"Prevost reprint of Juncker/Ludolf list, ch207"
+7,ioannisdelaetant00laet,Ioannis de Laet Antuerpiani Notæ ad dissertationem Hugonis Grotii De origine gen,1643,partial,Frisian/English-like,European (Germanic),40,likely known,3rd copy de Laet Notae; best chunk body-part list in Germanic language
+8,veritablerelatio00boye_0,Veritable relation de tout ce qui s'est fait et passé au voyage que Monsieur de ,1654,yes,Galibi,Kari'na (Cariban),500+,unsure,"Paul Boyer 1654 French-Galibi dictionary, ch5-23; used by Cariban specialists but rarely edited"
+9,collectionabrged11unkn,Collection abrégée des voyages anciens et modernes autour du monde; : avec des e,1808,yes,numerals of Monterey nation,Esselen (Lapérouse),10-30,likely known,"Lapérouse numerals reprinted, ch112/142"
+10,rechercheshistor00schr,Recherches historiques et géographiques sur le Nouveau-Monde.,1777,yes,"Abenaki, Eskimo, Greenlandic, etc. comparative",multiple,100s,unsure,Schérer 1777 comparative word lists ch159-167; derivative compilation
+11,accountofvoyages02unse,"An Account of the voyages undertaken by the order of His present Majesty, for ma",1775,yes,Savu/South Sea,Savunese / Malay-Polynesian (Banks),40,likely known,"Hawkesworth 1773 Cook vol; ch57 numerals prose, ch409-410 lists"
+12,histoiregnralede14prvo_0,"Histoire générale des voyages, ou nouvelle collection de toutes les relations de",1746,yes,Galibi/Arawak (Guiane),"Kari'na, Lokono",80,likely known,"Prevost comparative table ch542, from Biet/Barrère"
+13,relationdecequis00quen,"Relation de ce qui s'est passé en la mission des peres de la Compagnie de Iesus,",1657,no,,,,,Jesuit Relation prose
+14,embaixadaquefeso00cost,Embaixada que fes o excellentissimo senhor conde de Villar-Maior (hoje marques d,1694,no,,,,,Portuguese/Latin emblem prose
+15,histoiredelanouv00lesc_3,"Histoire de la Nouvelle France : contenant les navigations, découvertes, & habit",1609,no,(Souriquois words scattered),Mi'kmaq,,likely known,Lescarbot 1609; best chunk prose/OCR junk
+16,historianaturaly00acos_1,Historia natural y moral de las Indias. : En que se tratan las cosas notables de,1591,no,,,,,Acosta prose
+17,zwlfftertheilder00herr,"Zwölffter Theil der Newen Welt, : das ist: Gründliche volkommene Entdeckung alle",1623,yes,Horn Islands (Le Maire),East Futunan,60,likely known,Hulsius/Herrera Pt12 German reprint of Le Maire list ch186-188
+19,historialedescri00alva,"Historiale description de l'Ethiopie, : contenant vraye relation des terres, & p",1558,no,,,,,Alvares Ethiopia prose
+20,ellibrodelascost00boem,"El libro de las costumbres de todas las gentes del mundo, y de las Indias.",1556,no,,,,,Boemus prose
+21,origendelosindio00garc,"Origen de los Indios de el Nueuo Mundo, e Indias Occidentales.",1607,no,,,,,Garcia Origen prose/OCR
+22,histoiredelanouv00lesc_2,"Histoire de la Nouvelle France : contenat les navigations, découvertes, & habita",1611,no,,Mi'kmaq,,likely known,Lescarbot 1611; best chunk prose
+23,monarchiahispani00zeil,"Monarchia Hispanica ofte Een reys-beschryvinge, aller koninckrijken, vorstendomm",1659,no,,,,,Dutch prose (Spanish titles)
+24,voyagedanslespar00bart_0,Voyage dans les parties sud de l'Amérique septentrionale; : savoir: les Caroline,1800,no,,,,,Bartram ornithological Latin
+25,teatromexicanode01veta,"Teatro mexicano : descripcion breve de los sucessos exemplares, historicos, poli",1697,no,,,,,Vetancurt prose
+26,nieuvvevvereltan00herr_0,"Nieuvve VVerelt, anders ghenaempt VVest-Indien",1622,no,,,,,Herrera Dutch prose
+27,voyagededentreca01entr,"Voyage de Dentrecasteaux, envoyé à la recherche de La Pérouse. : Publié par ordr",1807,yes,New Caledonia/Tonga,Balade (Kanak) / Tongan,300+,likely known,d'Entrecasteaux (Rossel 1807) vocab ch369-384
+28,vocabularioenlen00moli,"Vocabulario en lengua castellana y mexicana,",1571,yes,Mexicana,Nahuatl,1000s,likely known,Molina dictionary
+29,vidadoapostolico00barr,"Vida do apostolico padre Antonio Vieyra da Companhia de Jesus, chamado por anton",1746,no,,,,,Vieira biography prose
+30,histoirememorabl00lryj,"Histoire memorable de la ville de Sancerre. : Contenant les entreprises, siege, ",1574,no,,,,,Léry Sancerre; no vocab
+31,liurepremierdess00bouc,Liure premier des serees,1585,no,,,,,Bouchet Serées prose
+32,arteydictionario00lagu,"Arte y dictionario: con otras obras, en lengua Michuacana.",1574,yes,Michuacana,Purépecha,1000s,likely known,Lagunas dictionary
+33,lahistoriagenera00fern,La historia general delas Indias,1535,no,,,,,Oviedo prose
+34,relationdecequis00leje_9,"Relation de ce qui sést passé en la Nouuelle France, en lánnee 1634. Enuoyée au ",1635,no,,,,,Le Jeune Relation 1635 prose
+35,viaggioalbrasile04wied,"Viaggio al Brasile negli anni 1815, 1816 e 1817",1821,yes,Botocudo,Krenak,300,likely known,Wied Italian trans. vocab ch72-100
+36,histoiregnralede13prvo_0,"Histoire générale des voyages, ou nouvelle collection de toutes les relations de",1746,yes,Darien,Kuna (Wafer),50,likely known,Prevost reprint of Wafer ch424
+37,nouveauvoyageaux00laba,Nouveau voyage aux isles de l'Amerique. : Contenant l'histoire naturelle de ces ,1724,no,,,,,Labat prose
+38,voyagesautourdum00pag,"Voyages autour du monde, et vers les deux poles, par terre et par mer, : pendant",1782,no,,,,,Pagès prose
+39,vozessaudosasdae00viei,"Vozes saudosas, da eloquencia, do espirito, do zelo; e eminente sabedoria",1736,no,,,,,Portuguese prose
+40,coronicadelasind00fern,Coronica delas Indias. La hystoria general de las Indias agora nueuamente impres,1547,no,,,,,Oviedo 1547 prose
+41,arteenlenguazapo00juan,"Arte en lengua zapoteca,",1578,yes,Zapoteca,Zapotec,grammar numerals,likely known,"Córdova Arte, numerals ch34"
+42,voyagedanslespar00bart_2,Voyage dans les parties sud de l'Amérique septentrionale; : savoir: les Caroline,1798,no,,,,,"Bartram Latin, dup of 24"
+43,relationduvoyage00laon_0,"Relation du voyage des Francois fait au Cap de Nord en Amerique, par les soings ",1654,no,,,,,Laon Cap de Nord prose (check for Galibi list not found)
+44,discoursediscoue00whit_0,"A discourse and discouery of New-found-land, with many reasons to prooue how wor",1622,no,,,,,Whitbourne provisions list
+45,primaziaserafica00apol,"Primazia serafica na regiam da America, : novo descobrimento de santos, e venera",1733,no,,,,,Portuguese prose
+46,relationdecequis00leje_10,Relation de ce qui s'est passé en la Nouuelle France en l'annee 1637. Enuoyée ,1638,no,,,,,Le Jeune 1638 prose
+47,iohnhuighenvanli00lins_0,Iohn Huighen van Linschoten. His discours of voyages into ye Easte & West Indies,1598,no,,,,,Linschoten prose/OCR
+48,orbeseraficonovo00jabo,"Orbe serafico novo brasilico, descoberto, estabelecido, e cultivado a influxos d",1761,no,,,,,Jaboatão prose
+49,relationdecequis00lall_1,Relation de ce qui s'est passé de plus remarquable és missions des peres de la C,1648,no,,,,,Jesuit Relation prose
+50,histoiregnralede16prvo_0,"Histoire générale des voyages, ou nouvelle collection de toutes les relations de",1746,no,,,,,Prevost index
+51,iaiiiapartedelos01torq,Ia [-IIIa] parte de los Veynte y vn libros rituales y monarchia yndiana : con el,1615,no,,,,,Torquemada prose
+52,relationdecequis00leje_8,Relation de ce qui s'est passé en la Nouuelle France en l'année 1639. Enuoyée au,1640,no,,,,,Jesuit Relation prose
+53,historiadeldescu00zrat,"Historia del descubrimiento y conquista de las prouincias del Peru, : y de los s",1578,no,,,,,Zárate prose
+54,newvoyagedescrip00wafe_3,A new voyage and description of the Isthmus of America. : Giving an account of t,1704,partial,Darien,Kuna,50,likely known,Wafer original; table ch76 badly OCR'd
+55,relationdecequis00leme_2,Relation de ce qui s'est passé de plus remarquable aux missions des peres de la ,1671,no,,,,,Jesuit Relation prose
+56,huehuetlahtolliq00juan_0,"Huehuetlahtolli, que contiene las plàticas que los padres y madres hicieron á su",1601,no,Nahuatl text,Nahuatl,,likely known,"Huehuetlahtolli: Nahuatl/Spanish prose, not a list"
+57,predicaciondeleu00garc,"Predicacion del euangelio en el Nueuo Mundo, viuie[n]do los apostoles.",1625,no,,,,,Spanish prose
+58,relationdecequis00vimo_0,Relation de ce qui s'est passé en la Nouuelle France és années 1643. & 1644. Enu,1645,no,,,,,Jesuit prose
+59,parteprimeradela00ciez,Parte primera dela chronica del Peru. : Que tracta la demarcacion de sus prouinc,1553,no,,,,,Cieza prose
+60,relationsveritab00unkn,"Relations veritables et curieuses de l'isle de Madagascar, et du Bresil. : Auec ",1651,no,,,,,Madagascar relation prose
+61,accountoftwovoya00joss_0,An account of two voyages to New-England. : Wherein you have the setting out of ,1674,no,,,,,Josselyn errata/OCR
+62,lesoldatparvenuo00mauv,"Le soldat parvenu, ou Memoires et avantures de M. de Verval, dit Bellerose.",1761,no,,,,,French novel
+63,historiagenerald00vega,"Historia general del Peru trata el descubrimiento del, y como lo ganaron los Esp",1617,no,,,,,Garcilaso prose
+64,relationdecequis00leje_0,Relation de ce qui s'est passé en la Nouuelle France en l'année 1639. Enuoyée au,1640,no,,,,,Jesuit prose
+65,nouveauvoyageaux01laba,Nouveau voyage aux isles de l'Amerique. : Contenant l'histoire naturelle de ces ,1724,no,,,,,Labat prose
+66,gedenkwaardigesc00schm,"Gedenkwaardige scheeps-togten na Rio de la Plata, in 't zuyderdeel van America, ",1706,no,,,,,Schmidel Dutch
+67,artedelalenguade00gilb,Arte de la le[n]gua de Michuaca[n],1558,yes,Michuacana,Purépecha,grammar,likely known,"Gilberti Arte, numerals"
+68,secondliuredesse00bouc,Second liure des serees,1608,no,,,,,Bouchet
+69,arabiaseuarabumv00unse,"Arabia, seu, Arabum vicinarumq[ue] gentium Orientalium leges, ritus, sacri et pr",1633,no,,,,,Latin coinage prose
+70,histoirenaturell00acos_3,"Histoire naturelle et moralle des Indes, tant Orientalles qu'Occidentales. : où ",1606,no,,,,,Acosta French
+71,vidadovenerauelp00vasc,"Vida do venerauel padre Ioseph de Anchieta da Companhia de Iesu, taumaturgo do N",1672,no,,,,,Anchieta bio
+72,voyagetowardssou02cook,"A voyage towards the South Pole, and round the world. : Performed in His Majesty",1777,yes,Otaheite,Tahitian,500+,likely known,Cook 2nd voyage vocab ch203-210
+73,discoursecontain00whit,"A discourse containing a louing inuitation both honourable, and profitable to al",1622,no,,,,,Whitbourne provisions
+74,dienievvevveerel00unkn,"Die nievve vveerelt der landtschappen ende eylanden, : die tot hier toe allen ou",1563,no,,,,,Dutch prose
+75,celebresviagensd00damp,"Celebres viagens do capitaõ Dampier, : com huma relacaõ dos buccaneiros, ou pira",1819,no,,,,,Dampier Portuguese
+76,nieuweontdekking00henn,"Nieuwe ontdekkinge van een groot land, gelegen in America, tusschen Nieuw Mexico",1702,no,,,,,Hennepin index
+77,historiaeclesias00fern,"Historia eclesiastica de nuestros tiempos, : que es compendio de los excelentes ",1611,no,,,,,Spanish prose
+78,iaiiiapartedelos02torq,Ia [-IIIa] parte de los Veynte y vn libros rituales y monarchia yndiana : con el,1615,no,,,,,Torquemada
+79,historicarelacio00oval_0,"Historica relacion del reyno de Chile, y de las missiones, y ministerios que exe",1646,no,,,,,Ovalle
+80,relationdecequis00leme_1,Relation de ce qui s'est passé de plus remarquable aux missions des peres de la ,1671,no,,,,,Jesuit prose
