@@ -1,0 +1,121 @@
+{
+ "wood": {
+  "ia": "newenglandsprosp01wood",
+  "leaf": 7,
+  "ok": true,
+  "restricted": false,
+  "n": "128"
+ },
+ "williams": {
+  "ia": "keyintolanguageo02will",
+  "leaf": 3,
+  "ok": true,
+  "restricted": false,
+  "n": "236"
+ },
+ "cartier": {
+  "ia": "shortebriefenarr00cart",
+  "leaf": 7,
+  "ok": true,
+  "restricted": false,
+  "n": "102"
+ },
+ "purchas4": {
+  "ia": "purchaspilgrimes04",
+  "leaf": 4,
+  "ok": true,
+  "restricted": false,
+  "n": "892"
+ },
+ "smith_map": {
+  "ia": "mapofvirginiavvi00smit",
+  "leaf": 9,
+  "ok": true,
+  "restricted": false,
+  "n": "178"
+ },
+ "rochefort": {
+  "ia": "historyofcaribby00roch",
+  "leaf": 5,
+  "ok": true,
+  "restricted": false,
+  "n": "404"
+ },
+ "scheffer": {
+  "ia": "historyoflapland02sche",
+  "leaf": 9,
+  "ok": true,
+  "restricted": false,
+  "n": "168"
+ },
+ "knox": {
+  "ia": "gpl_1730637",
+  "leaf": 13,
+  "ok": true,
+  "restricted": false,
+  "n": "264"
+ },
+ "olearius": {
+  "ia": "voyagestravellso00olea",
+  "leaf": 11,
+  "ok": true,
+  "restricted": false,
+  "n": "622"
+ },
+ "gthomas": {
+  "ia": "historicalgeogra01thom",
+  "leaf": 5,
+  "ok": true,
+  "restricted": false,
+  "n": "82"
+ },
+ "ogilby": {
+  "ia": "americabeinglate01mont",
+  "leaf": 7,
+  "ok": true,
+  "restricted": false,
+  "n": "880"
+ },
+ "ludolf": {
+  "ia": "bub_gb_buNBAQAAMAAJ",
+  "leaf": 3,
+  "ok": true,
+  "restricted": false,
+  "n": "400"
+ },
+ "herbert": {
+  "ia": "b30326825",
+  "leaf": 11,
+  "ok": true,
+  "restricted": false,
+  "n": "264"
+ },
+ "harriot": {
+  "ia": "briefetruereport00harr",
+  "leaf": 11,
+  "ok": true,
+  "restricted": false,
+  "n": "148"
+ },
+ "boothby": {
+  "ia": "bim_early-english-books-1641-1700_a-breife-discovery-or-de_boothby-richard_1647",
+  "leaf": 0,
+  "ok": true,
+  "restricted": false,
+  "n": "86"
+ },
+ "vanneck": {
+  "ia": "bim_early-english-books-1475-1640_the-journall-or-dayly-re_neck-jacob-van_1601",
+  "leaf": 8,
+  "ok": true,
+  "restricted": false,
+  "n": "133"
+ },
+ "pegu": {
+  "ia": "bim_early-english-books-1475-1640_a-true-and-large-discour_east-indies_1603",
+  "leaf": 2,
+  "ok": true,
+  "restricted": false,
+  "n": "37"
+ }
+}
