@@ -1,0 +1,195 @@
+{"id": 793, "scan": "NL-HaNA_1.04.02_3665_0200", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 794, "scan": "NL-HaNA_1.04.02_3791_0124", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 795, "scan": "NL-HaNA_1.04.02_3798_0649", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 796, "scan": "NL-HaNA_1.04.02_3811_0024", "relevant": false, "reason": "OCR/unrelated word match"}
+{"id": 797, "scan": "NL-HaNA_1.04.02_3848_0756", "relevant": false, "reason": "French-Dutch dictionary"}
+{"id": 798, "scan": "NL-HaNA_1.04.02_3848_0756", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 799, "scan": "NL-HaNA_1.04.02_3880_0084", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 800, "scan": "NL-HaNA_1.04.02_3886_0754", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 801, "scan": "NL-HaNA_1.04.02_3888_0522", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 802, "scan": "NL-HaNA_1.04.02_3888_0544", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 803, "scan": "NL-HaNA_1.04.02_3892_0836", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 804, "scan": "NL-HaNA_1.04.02_3941_0166", "relevant": false, "reason": "language teaching, no work named"}
+{"id": 805, "scan": "NL-HaNA_1.04.02_3979_0587", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 806, "scan": "NL-HaNA_1.04.02_3979_0606", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 807, "scan": "NL-HaNA_1.04.02_7915_0838", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 808, "scan": "NL-HaNA_1.04.02_8112_1399", "relevant": true, "language": "maleijdse spraakkursten", "modern_id": "Malay", "kind": "grammar", "compiler": "G.H. Werndly (probable)", "place": "Ternate/Moluccas", "year": "~1765", "status_in_text": "mentioned", "work_key": "werndly-malay-grammar-1736", "note": "10 Malay grammars listed as not received/short in a shipment invoice (with goods for king of Ternate)."}
+{"id": 809, "scan": "NL-HaNA_1.04.02_8112_1419", "relevant": true, "language": "maleijdse spraakkimnsten", "modern_id": "Malay", "kind": "grammar", "compiler": "G.H. Werndly (probable)", "place": "Moluccas", "year": "~1765", "status_in_text": "mentioned", "work_key": "werndly-malay-grammar-1736", "note": "Malay grammars listed (none) in book/stores account."}
+{"id": 810, "scan": "NL-HaNA_1.04.02_8114_0072", "relevant": true, "language": "Malaijdse spraakkunsten", "modern_id": "Malay", "kind": "grammar", "compiler": "G.H. Werndly (probable)", "place": "Moluccas", "year": "~1765", "status_in_text": "mentioned", "work_key": "werndly-malay-grammar-1736", "note": "Malay grammars in a list of books demanded/sent, with Caron's sermons."}
+{"id": 811, "scan": "NL-HaNA_1.04.02_8119_0098", "relevant": true, "language": "maleadsche spraakkunst", "modern_id": "Malay", "kind": "grammar", "compiler": "G.H. Werndly (probable)", "place": "Ternate/Tidore", "year": "~1765", "status_in_text": "mentioned", "work_key": "werndly-malay-grammar-1736", "note": "4 Malay grammars in an inventory of stores (also a Malay book from the king of Tidore)."}
+{"id": 812, "scan": "NL-HaNA_1.04.02_8143_0205", "relevant": true, "language": "Nederduits e Maleisch", "modern_id": "Malay", "kind": "dictionary", "compiler": null, "place": "Batavia (printed)", "year": "1782", "status_in_text": "mentioned", "work_key": "dutch-malay-woordenboek-1780s", "note": "Book demand list: 6 Spraakkonsten and 6 Woordeboek Nederduits-Maleisch / Maleisch-Nederduits (1782)."}
+{"id": 813, "scan": "NL-HaNA_1.04.02_8307_0150", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 814, "scan": "NL-HaNA_1.04.02_8549_0072", "relevant": false, "reason": "OCR/unrelated word match"}
+{"id": 815, "scan": "NL-HaNA_1.04.02_8660_0807", "relevant": true, "language": "Maleijdse", "modern_id": "Malay", "kind": "grammar", "compiler": "G.H. Werndly", "place": "Amsterdam", "year": "1736", "status_in_text": "requested", "work_key": "werndly-malay-grammar-1736", "note": "Scholarchs' notice of school books to be requested from Batavia curators: 20 copies of Werndly's Maleische Spraakkunst (Amst. 1736), alongside Portuguese catechisms."}
+{"id": 816, "scan": "NL-HaNA_1.04.02_8774_0675", "relevant": false, "reason": "OCR/unrelated word match"}
+{"id": 817, "scan": "NL-HaNA_1.04.02_9070_0647", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 818, "scan": "NL-HaNA_1.04.02_9584_0104", "relevant": true, "language": "Persiaansch", "modern_id": "Persian", "kind": "grammar", "compiler": "Casparus Leonardus Elbracht (translator)", "place": "Bengal/Coromandel", "year": "1778", "status_in_text": "sent as enclosure", "work_key": "elbracht-persian-grammar-1778", "note": "Margin note: offering of translated grammar, reward for translator; letter of 1778 (war news, Pondichery siege)."}
+{"id": 819, "scan": "NL-HaNA_1.04.02_9584_0104", "relevant": true, "language": "Persiaansch", "modern_id": "Persian", "kind": "grammar", "compiler": "Casparus Leonardus Elbracht (translator)", "place": "Bengal/Coromandel", "year": "1778", "status_in_text": "sent as enclosure", "work_key": "elbracht-persian-grammar-1778", "note": "Dutch translation of a Persian grammar from Persian and English (prob. W. Jones 1771) by Persian translator Elbracht, offered among enclosures to the Gentlemen XVII, asking reward."}
+{"id": 820, "scan": "NL-HaNA_1.04.02_9589_0735", "relevant": true, "language": "Persiaansch", "modern_id": "Persian", "kind": "grammar", "compiler": "Casparus Leonardus Elbracht (translator)", "place": "Bengal", "year": "1779", "status_in_text": "requested", "work_key": "elbracht-persian-grammar-1778", "note": "Asks that Elbracht's Persian grammar be printed for learners using the same Malay (Arabic-script) characters as Werndly's Grammaire; resolution of 18 Aug."}
+{"id": 821, "scan": "NL-HaNA_1.04.02_9929_0198", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 822, "scan": "NL-HaNA_1.04.02_9932_0013", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 823, "scan": "NL-HaNA_1.04.02_9932_0116", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 824, "scan": "NL-HaNA_1.04.02_9933_0071", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 825, "scan": "NL-HaNA_1.04.02_9934_0161", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 826, "scan": "NL-HaNA_1.04.02_9935_0012", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 827, "scan": "NL-HaNA_1.04.02_9935_0214", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 828, "scan": "NL-HaNA_1.04.02_9939_0013", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 829, "scan": "NL-HaNA_1.04.02_9939_0059", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 830, "scan": "NL-HaNA_1.04.02_9944_0011", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 831, "scan": "NL-HaNA_1.04.02_9946_0016", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 832, "scan": "NL-HaNA_1.04.02_9947_0470", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 833, "scan": "NL-HaNA_1.04.02_9947_0470", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 834, "scan": "NL-HaNA_1.04.02_9947_0470", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 835, "scan": "NL-HaNA_1.04.02_9950_0018", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 836, "scan": "NL-HaNA_1.04.02_9952_0302", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 837, "scan": "NL-HaNA_1.04.02_9952_0303", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 838, "scan": "NL-HaNA_1.04.02_9956_0235", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 839, "scan": "NL-HaNA_1.04.02_9958_0531", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 840, "scan": "NL-HaNA_1.04.02_9958_0542", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 841, "scan": "NL-HaNA_1.04.02_9958_0542", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 842, "scan": "NL-HaNA_1.04.02_9958_0613", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 843, "scan": "NL-HaNA_1.04.02_9958_0620", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 844, "scan": "NL-HaNA_1.04.02_9961_0297", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 845, "scan": "NL-HaNA_1.04.02_9962_0316", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 846, "scan": "NL-HaNA_1.04.02_9962_0324", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 847, "scan": "NL-HaNA_1.04.02_9966_0303", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 848, "scan": "NL-HaNA_1.04.02_9966_0433", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 849, "scan": "NL-HaNA_1.04.02_9969_0115", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 850, "scan": "NL-HaNA_1.04.02_9969_0253", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 851, "scan": "NL-HaNA_1.04.02_9973_0020", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 852, "scan": "NL-HaNA_1.04.02_9990_0366", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 853, "scan": "NL-HaNA_1.04.02_10008_0116", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 854, "scan": "NL-HaNA_1.04.02_10008_0128", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 855, "scan": "NL-HaNA_1.04.02_10026_0268", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 856, "scan": "NL-HaNA_1.04.02_10055_0785", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 857, "scan": "NL-HaNA_1.04.02_10059_0328", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 858, "scan": "NL-HaNA_1.04.02_10064_0654", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 859, "scan": "NL-HaNA_1.04.02_10196_0087", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 860, "scan": "NL-HaNA_1.04.02_10196_0087", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 861, "scan": "NL-HaNA_1.04.02_10205_0116", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 862, "scan": "NL-HaNA_1.04.02_1662_0465", "relevant": false, "reason": "OCR/unrelated word match"}
+{"id": 863, "scan": "NL-HaNA_1.04.02_1843_0333", "relevant": false, "reason": "OCR/unrelated word match"}
+{"id": 864, "scan": "NL-HaNA_1.04.02_3292_0059", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 865, "scan": "NL-HaNA_1.04.02_3292_0060", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 866, "scan": "NL-HaNA_1.04.02_3377_0251", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 867, "scan": "NL-HaNA_1.04.02_3377_0251", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 868, "scan": "NL-HaNA_1.04.02_3401_0022", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 869, "scan": "NL-HaNA_1.04.02_3837_0063", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 870, "scan": "NL-HaNA_1.04.02_8067_0354", "relevant": false, "reason": "OCR/unrelated word match"}
+{"id": 871, "scan": "NL-HaNA_1.04.02_9958_0265", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 872, "scan": "NL-HaNA_1.04.02_9958_0266", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 873, "scan": "NL-HaNA_1.04.02_9961_0153", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 874, "scan": "NL-HaNA_1.04.02_9967_0323", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 875, "scan": "NL-HaNA_1.04.02_9967_0323", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 876, "scan": "NL-HaNA_1.04.02_10020_0086", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 877, "scan": "NL-HaNA_1.04.02_1146_0323", "relevant": true, "language": "Arabic", "modern_id": "Arabic", "kind": "grammar", "compiler": "Thomas Erpenius", "place": null, "year": "~1643", "status_in_text": "mentioned", "work_key": "erpenius-arabic-grammar", "note": "Book list/account with prices: 'Erpeni Grammatica' among theological books."}
+{"id": 878, "scan": "NL-HaNA_1.04.02_1169_0593", "relevant": false, "reason": "language teaching, no work named"}
+{"id": 879, "scan": "NL-HaNA_1.04.02_1275_0826", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 880, "scan": "NL-HaNA_1.04.02_1544_0671", "relevant": true, "language": "Mallabaars, Singalees", "modern_id": "Tamil, Sinhala", "kind": "grammar", "compiler": null, "place": "Ceylon", "year": "1668", "status_in_text": "requested", "work_key": "ceylon-grammars-dictionaries-requested-1668", "note": "Ceylon church assembly 1668 wished ministers to learn local languages, provided with grammars and dictionaries in those languages; cited c.1694 re Jaffna Malabar seminary."}
+{"id": 881, "scan": "NL-HaNA_1.04.02_1588_0174", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 882, "scan": "NL-HaNA_1.04.02_1588_0174", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 883, "scan": "NL-HaNA_1.04.02_1588_0174", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 884, "scan": "NL-HaNA_1.04.02_1588_0179", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 885, "scan": "NL-HaNA_1.04.02_1591_0503", "relevant": true, "language": "Cingaleese (in Portuguese)", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Pedro de Borgim (1645); augmented by Simon Cat", "place": "Ceylon", "year": "1645 (copy 1694)", "status_in_text": "mentioned", "work_key": "borgim-sinhala-grammar-1645", "note": "Minister (prob. Ruell) received from Isaac de St Martin a copy of Pedro de Borgim's 1645 Sinhala grammar in Portuguese (defective), used 1694-95 to draft a Dutch Sinhala 'letterkonst'."}
+{"id": 886, "scan": "NL-HaNA_1.04.02_1614_0059", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 887, "scan": "NL-HaNA_1.04.02_1614_0059", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 888, "scan": "NL-HaNA_1.04.02_1614_0059", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 889, "scan": "NL-HaNA_1.04.02_1615A_0241", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "1699", "status_in_text": "sent as enclosure", "work_key": "ruell-sinhala-grammar", "note": "Ceylon government forwards Ruell's Sinhala grammar, dedicated to the Gentlemen XVII."}
+{"id": 890, "scan": "NL-HaNA_1.04.02_1616_0386", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "1699", "status_in_text": "copy appears on this page", "work_key": "ruell-sinhala-grammar", "note": "Ruell's dedicatory preface to his 'ontwerp van een grammatica' of Sinhala, addressed to the directors."}
+{"id": 891, "scan": "NL-HaNA_1.04.02_1616_0387", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "1699", "status_in_text": "copy appears on this page", "work_key": "ruell-sinhala-grammar", "note": "Page of Ruell's Sinhala grammar text: the 48 Sinhala letters, vowels and diphthongs; signed 'Grammatica 1699 J. Ruell'."}
+{"id": 892, "scan": "NL-HaNA_1.04.02_1616_0658", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "1699", "status_in_text": "sent as enclosure", "work_key": "ruell-sinhala-grammar", "note": "List of enclosures Colombo Dec 1699 (Ferreris): no. 26, the Sinhala grammar of predikant Ruell, sent outside the packet."}
+{"id": 893, "scan": "NL-HaNA_1.04.02_1616_0725", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "1699", "status_in_text": "sent as enclosure", "work_key": "ruell-sinhala-grammar", "note": "Letter of Gisbert Ferreris 8 Dec 1699: Ruell's grammar of the land language, dedicated to the directors, goes outside the packet as no. 26."}
+{"id": 894, "scan": "NL-HaNA_1.04.02_1629_0457", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 895, "scan": "NL-HaNA_1.04.02_1629_0458", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 896, "scan": "NL-HaNA_1.04.02_1632_0356", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "~1700", "status_in_text": "mentioned", "work_key": "ruell-sinhala-grammar", "note": "Ruell says he compiled a Sinhala grammar and sent it last year to the directors; also translating the Kort Begrip into Sinhala."}
+{"id": 897, "scan": "NL-HaNA_1.04.02_1639_0032", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "1699", "status_in_text": "sent as enclosure", "work_key": "ruell-sinhala-grammar", "note": "Duplicate of 889: Ruell's Sinhala grammar handed over to be sent to the XVII, dedicated to them."}
+{"id": 898, "scan": "NL-HaNA_1.04.02_1652_0178", "relevant": true, "language": "Cingaleese (in Portuguese)", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Pedro de Borgim (1645); augmented by Simon Cat", "place": "Ceylon", "year": "1695", "status_in_text": "mentioned", "work_key": "borgim-sinhala-grammar-1645", "note": "Simon Cat received a Sinhala grammar from Isaac de St Martin in 1695 and used it to revise the Sinhala Bible version."}
+{"id": 899, "scan": "NL-HaNA_1.04.02_1735_0420", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 900, "scan": "NL-HaNA_1.04.02_1824_0250", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Proponent Kramer questioned; means to learn the language include the dictionary here and the Malabar grammar."}
+{"id": 901, "scan": "NL-HaNA_1.04.02_1824_0254", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Report on Kramer's failure to learn Tamil: he bypassed the grammar, the prerequisite for language study."}
+{"id": 902, "scan": "NL-HaNA_1.04.02_1824_0258", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Kramer examination report (Jaffna, Tamil) referring to the grammar."}
+{"id": 903, "scan": "NL-HaNA_1.04.02_1824_0258", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Kramer examination report (Jaffna, Tamil) referring to the grammar."}
+{"id": 904, "scan": "NL-HaNA_1.04.02_1864_0951", "relevant": true, "language": "Mallabaars (in Portuguese)", "modern_id": "Tamil", "kind": "grammar", "compiler": null, "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "portuguese-tamil-grammar-1710s", "note": "Kramer returns the Malabar grammar written in Portuguese after having it copied for his own use."}
+{"id": 905, "scan": "NL-HaNA_1.04.02_1902_0694", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 906, "scan": "NL-HaNA_1.04.02_1902_0732", "relevant": true, "language": "Maleijs", "modern_id": "Malay", "kind": "grammar", "compiler": "anonymous", "place": "Batavia", "year": "~1718", "status_in_text": "mentioned", "work_key": "anonymous-malay-grammar-ms", "note": "Malay orthography treatise cites Erpenius (Arabic), Johannes Roman and Herbert de Jager (Malay), and an anonymous Malay grammatical specimen circulating in manuscript."}
+{"id": 907, "scan": "NL-HaNA_1.04.02_1902_0732", "relevant": true, "language": "Maleijs", "modern_id": "Malay", "kind": "grammar", "compiler": "anonymous", "place": "Batavia", "year": "~1718", "status_in_text": "mentioned", "work_key": "anonymous-malay-grammar-ms", "note": "Same as 906."}
+{"id": 908, "scan": "NL-HaNA_1.04.02_1902_0757", "relevant": true, "language": "Maleijs", "modern_id": "Malay", "kind": "grammar", "compiler": null, "place": "Batavia", "year": "~1718", "status_in_text": "copy appears on this page", "work_key": "malay-orthography-treatise-1718", "note": "Treatise text on Malay syllables (pure/mixed), referring reader to Erpenius's Arabic grammar."}
+{"id": 909, "scan": "NL-HaNA_1.04.02_1902_0766", "relevant": true, "language": "Maleijs", "modern_id": "Malay", "kind": "grammar", "compiler": null, "place": "Batavia", "year": "~1718", "status_in_text": "copy appears on this page", "work_key": "malay-orthography-treatise-1718", "note": "Treatise text: grammatical grounds of Malay orthography and prosody in Dutch letters, with pronoun examples."}
+{"id": 910, "scan": "NL-HaNA_1.04.02_1908_0938", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Ceylon", "year": "~1718", "status_in_text": "mentioned", "work_key": "ruell-sinhala-grammar", "note": "Stores list: 8 Singalese grammaticas among printed books."}
+{"id": 911, "scan": "NL-HaNA_1.04.02_1916_0147", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "1717", "status_in_text": "sent as enclosure", "work_key": "ruell-sinhala-grammar", "note": "6 printed copies of Ruell's Sinhala grammar received by fluit Gansenhoeff 1717; 6 copies sent on."}
+{"id": 912, "scan": "NL-HaNA_1.04.02_1992_0998", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Ceylon", "year": "~1722", "status_in_text": "mentioned", "work_key": "ruell-sinhala-grammar", "note": "Sales ledger: 1 Chingaleese grammatica with cost/sale price."}
+{"id": 913, "scan": "NL-HaNA_1.04.02_1998_1250", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Ceylon", "year": "~1722", "status_in_text": "mentioned", "work_key": "ruell-sinhala-grammar", "note": "Sales ledger: 1 Chingaleese grammatica."}
+{"id": 914, "scan": "NL-HaNA_1.04.02_2008_0971", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 915, "scan": "NL-HaNA_1.04.02_2026_0914", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 916, "scan": "NL-HaNA_1.04.02_2032_1434", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 917, "scan": "NL-HaNA_1.04.02_2046_0518", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 918, "scan": "NL-HaNA_1.04.02_2046_0571", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Ceylon", "year": "~1725", "status_in_text": "mentioned", "work_key": "ruell-sinhala-grammar", "note": "Sales ledger: Chingaleese grammatica."}
+{"id": 919, "scan": "NL-HaNA_1.04.02_2046_0645", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 920, "scan": "NL-HaNA_1.04.02_2053_1766", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 921, "scan": "NL-HaNA_1.04.02_2401_0766", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "~1737", "status_in_text": "mentioned", "work_key": "ruell-sinhala-grammar", "note": "Ruell's grammar printed at Company expense in Amsterdam 1707; further dictionaries needed for learning Sinhala."}
+{"id": 922, "scan": "NL-HaNA_1.04.02_2464_1018", "relevant": true, "language": "Maleijs", "modern_id": "Malay", "kind": "dictionary", "compiler": null, "place": "Batavia", "year": "~1739", "status_in_text": "mentioned", "work_key": "malay-dictionary-grammar-batavia-printing-1730s", "note": "Book demand list: newly printed dictionaries and grammars among Malay catechisms and testaments."}
+{"id": 923, "scan": "NL-HaNA_1.04.02_2464_1018", "relevant": true, "language": "Maleijs", "modern_id": "Malay", "kind": "grammar", "compiler": null, "place": "Batavia", "year": "~1739", "status_in_text": "mentioned", "work_key": "malay-dictionary-grammar-batavia-printing-1730s", "note": "Same list as 922."}
+{"id": 924, "scan": "NL-HaNA_1.04.02_2491_0858", "relevant": false, "reason": "language teaching, no work named"}
+{"id": 925, "scan": "NL-HaNA_1.04.02_2493_0937", "relevant": false, "reason": "legal citations, not linguistic"}
+{"id": 926, "scan": "NL-HaNA_1.04.02_2493_0974", "relevant": false, "reason": "legal citations, not linguistic"}
+{"id": 927, "scan": "NL-HaNA_1.04.02_2493_0980", "relevant": false, "reason": "legal citations, not linguistic"}
+{"id": 928, "scan": "NL-HaNA_1.04.02_2524_0049", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 929, "scan": "NL-HaNA_1.04.02_2903_0479", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "~1758", "status_in_text": "mentioned", "work_key": "ruell-sinhala-grammar", "note": "Colombo book stock count: grammaticas 406 per restant, 379 present (listed after Sinhala books); Blaauwesteijn and Potken."}
+{"id": 930, "scan": "NL-HaNA_1.04.02_2904_0387", "relevant": false, "reason": "Vossius Latin grammar"}
+{"id": 931, "scan": "NL-HaNA_1.04.02_3174_0194", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 932, "scan": "NL-HaNA_1.04.02_3174_0195", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 933, "scan": "NL-HaNA_1.04.02_3201_0239", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 934, "scan": "NL-HaNA_1.04.02_3203_0019", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 935, "scan": "NL-HaNA_1.04.02_3203_0021", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 936, "scan": "NL-HaNA_1.04.02_3262_0583", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 937, "scan": "NL-HaNA_1.04.02_3263_0440", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 938, "scan": "NL-HaNA_1.04.02_3291_0373", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 939, "scan": "NL-HaNA_1.04.02_3348_0597", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 940, "scan": "NL-HaNA_1.04.02_3516_0650", "relevant": true, "language": "Singaleeze", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Philipsz", "place": "Colombo", "year": "1778", "status_in_text": "mentioned", "work_key": "philipsz-sinhala-grammar", "note": "Notice of Sinhala books in store: 25 copies of Philipsz's Grammatica held by him; Colombo 29 April, J.G. Manger."}
+{"id": 941, "scan": "NL-HaNA_1.04.02_3639_0242", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 942, "scan": "NL-HaNA_1.04.02_3664_0420", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 943, "scan": "NL-HaNA_1.04.02_3664_0420", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 944, "scan": "NL-HaNA_1.04.02_3664_0420", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 945, "scan": "NL-HaNA_1.04.02_3845_0844", "relevant": false, "reason": "general remarks on grammar"}
+{"id": 946, "scan": "NL-HaNA_1.04.02_4201_0054", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 947, "scan": "NL-HaNA_1.04.02_8938_0386", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Ceylon", "year": "~1722", "status_in_text": "mentioned", "work_key": "ruell-sinhala-grammar", "note": "Sales ledger: 1 Cingaleese grammatica."}
+{"id": 948, "scan": "NL-HaNA_1.04.02_8945_0962", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 949, "scan": "NL-HaNA_1.04.02_9366_0279", "relevant": false, "reason": "legal citations, not linguistic"}
+{"id": 950, "scan": "NL-HaNA_1.04.02_9380_0220", "relevant": false, "reason": "legal citations, not linguistic"}
+{"id": 951, "scan": "NL-HaNA_1.04.02_9421_0431", "relevant": false, "reason": "legal citations, not linguistic"}
+{"id": 952, "scan": "NL-HaNA_1.04.02_9463_1248", "relevant": false, "reason": "legal citations, not linguistic"}
+{"id": 953, "scan": "NL-HaNA_1.04.02_9495_0699", "relevant": false, "reason": "legal citations, not linguistic"}
+{"id": 954, "scan": "NL-HaNA_1.04.02_9780_0607", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Duplicate of 901 (Kramer report)."}
+{"id": 955, "scan": "NL-HaNA_1.04.02_9780_0607", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Duplicate of 901 (Kramer report)."}
+{"id": 956, "scan": "NL-HaNA_1.04.02_9780_0610", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Kramer report referring to grammar."}
+{"id": 957, "scan": "NL-HaNA_1.04.02_9780_0610", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Kramer report referring to grammar."}
+{"id": 958, "scan": "NL-HaNA_1.04.02_9791_0497", "relevant": true, "language": "Mallabaars (in Portuguese)", "modern_id": "Tamil", "kind": "grammar", "compiler": null, "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "portuguese-tamil-grammar-1710s", "note": "Kramer returns Portuguese-language Malabar grammar after copying it; his teacher Manuel Mailwaganam recommends the Tivakaram."}
+{"id": 959, "scan": "NL-HaNA_1.04.02_9791_0509", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Kramer took the Tiwagaram instead of the dictionary and grammar compiled for the Jaffna seminary with great effort."}
+{"id": 960, "scan": "NL-HaNA_1.04.02_9791_0510", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Kramer should have made the grammar his main work."}
+{"id": 961, "scan": "NL-HaNA_1.04.02_9791_0510", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Kramer could have made a grammar himself in ten years."}
+{"id": 962, "scan": "NL-HaNA_1.04.02_9791_0511", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Any linguist could draw up a Malabar grammar; the grammar given him."}
+{"id": 963, "scan": "NL-HaNA_1.04.02_9791_0511", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Same as 962."}
+{"id": 964, "scan": "NL-HaNA_1.04.02_9791_0511", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "The grammar given to Kramer; he learned only 5 chapters (5102 words) of Tiwagaram in 3 years."}
+{"id": 965, "scan": "NL-HaNA_1.04.02_9791_0512", "relevant": false, "reason": "OCR/unrelated word match"}
+{"id": 966, "scan": "NL-HaNA_1.04.02_9791_0512", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "dictionary", "compiler": "traditional (Tivakaram nikandu)", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "tivakaram-tamil-lexicon", "note": "Tiwagaram (sub Lit. A) judged useless for learning common Tamil; grammar."}
+{"id": 967, "scan": "NL-HaNA_1.04.02_9791_0512", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "dictionary", "compiler": "traditional (Tivakaram nikandu)", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "tivakaram-tamil-lexicon", "note": "Same as 966."}
+{"id": 968, "scan": "NL-HaNA_1.04.02_9791_0522", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1713", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Attestation by Anthonisz, Fransisz, Dias, Paulusz: Tiwagaram unfit; only grammar and dictionary teach the language."}
+{"id": 969, "scan": "NL-HaNA_1.04.02_9796_0159", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Tuticorin/Colombo", "year": "1716", "status_in_text": "sent as enclosure", "work_key": "ruell-sinhala-grammar", "note": "Fluit Gansenhoef (Texel Nov 1715) arrived with ducats and some Sinhala grammars."}
+{"id": 970, "scan": "NL-HaNA_1.04.02_9825_0445", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 971, "scan": "NL-HaNA_1.04.02_9825_0446", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 972, "scan": "NL-HaNA_1.04.02_9873_0373", "relevant": false, "reason": "legal citations, not linguistic"}
+{"id": 973, "scan": "NL-HaNA_1.04.02_9873_0376", "relevant": false, "reason": "legal citations, not linguistic"}
+{"id": 974, "scan": "NL-HaNA_1.04.02_9876_0327", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 975, "scan": "NL-HaNA_1.04.02_9925_0204", "relevant": true, "language": "Cingaleese (in Portuguese)", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Pedro de Borgim (1645); augmented by Simon Cat", "place": "Ceylon", "year": "~1752", "status_in_text": "mentioned", "work_key": "borgim-sinhala-grammar-1645", "note": "Church council to examine Borgim's Sinhala grammar as augmented by Simon Cat, and a quadrilingual Portuguese-Tamil-Sinhala-Dutch lexicon, both MSS in estate of rector Wermelskircher (produced by Potken)."}
+{"id": 976, "scan": "NL-HaNA_1.04.02_9925_0204", "relevant": true, "language": "Zingaleese", "modern_id": "Sinhala", "kind": "dictionary", "compiler": null, "place": "Colombo", "year": "~1752", "status_in_text": "printed/printing", "work_key": "sinhala-dictionary-colombo-1750s", "note": "Request to print the whole Sinhala dictionary, of which only part revised and printed; directors' letter 7 Jan 1751 praised it. Same page mentions Wermelskircher quadrilingual lexicon."}
+{"id": 977, "scan": "NL-HaNA_1.04.02_9956_0236", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 978, "scan": "NL-HaNA_1.04.02_9991_0251", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 979, "scan": "NL-HaNA_1.04.02_9991_0251", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 980, "scan": "NL-HaNA_1.04.02_10034_0052", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1715", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Kramer told to use the grammar and dictionary compiled by former Jaffna ministers; letter refers to exam of 14 Dec 1712."}
+{"id": 981, "scan": "NL-HaNA_1.04.02_10034_0054", "relevant": true, "language": "Mallabaars", "modern_id": "Tamil", "kind": "grammar", "compiler": "Jaffnapatnam predikanten", "place": "Jaffnapatnam", "year": "~1715", "status_in_text": "mentioned", "work_key": "jaffna-tamil-grammar-dictionary-1710s", "note": "Kramer learned Tiwagaram by heart rather than the dictionary and grammar."}
+{"id": 982, "scan": "NL-HaNA_1.04.02_10036_0188", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 983, "scan": "NL-HaNA_1.04.02_10036_0243", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Ceylon", "year": "~1725", "status_in_text": "mentioned", "work_key": "ruell-sinhala-grammar", "note": "Ledger: Chingaleese grammatica."}
+{"id": 984, "scan": "NL-HaNA_1.04.02_10055_0007", "relevant": true, "language": "Singalees", "modern_id": "Sinhala", "kind": "grammar", "compiler": "Johannes Ruell", "place": "Colombo", "year": "~1758", "status_in_text": "mentioned", "work_key": "ruell-sinhala-grammar", "note": "Duplicate of 929 stock count."}
+{"id": 985, "scan": "NL-HaNA_1.04.02_10657_0396", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 986, "scan": "NL-HaNA_1.04.02_1837_0535", "relevant": false, "reason": "Dutch grammar/school use"}
+{"id": 987, "scan": "NL-HaNA_1.04.02_2981_0117", "relevant": false, "reason": "OCR/unrelated word match"}
