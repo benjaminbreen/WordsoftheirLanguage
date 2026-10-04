@@ -1,0 +1,13 @@
+# IA full-text search log (source "ia")
+Endpoint that works: https://archive.org/services/search/beta/page_production/?user_query=Q AND year:[1500 TO 1850]&service_backend=fts&page_type=collection_details&page_target=texts&hits_per_page=N
+(The `date:[..]` filter returns 400. `title:"..."` filters work. Hits are mostly book-level with {{{highlight}}} snippets. Date metadata for periodicals = first year of the run, so it is unreliable.) Verification was done by grepping the _djvu.txt files.
+
+Batches run:
+1. Generic phrases (mots de leur langue, en su lengua llaman, woorden in hunne taal, Wörter in ihrer Sprache, nomi nella loro lingua, lista de palavras, vocabula linguae, manner of counting) plus about 30 ethnonyms (Etchemin, Meherrin, Bidai, Adai, Pimenteira, Masacara, Tonocote, Sanaviron, Panche, Guamo, Kamchadal, Koryak, Yukagir, Chuvan, Arin, Assan, Kott, Pumpokol, Coroados, Puri, Patacho, Bororo, Guato, Ketangalan, Tasmanian, Michigamea, Natchez, Yamasee). Results were dominated by Mithridates, Hervás, Latham, Klaproth and gazetteers, all known. Stemming makes them noisy.
+2. Basic-gloss phrases in Danish, Swedish, Dutch, Italian, Portuguese, Czech, Polish, Russian, German, French and English ("Sol Maane", "Zon Maan", "слонце луна", etc.): only dictionaries and bibles.
+3. "woordenlijst", "Wörterverzeichniss", "vocaboli/voci della lingua", "vocabulario da lingua", "few words of their language", "quelques mots de leur langue", "Verzeichniss einiger Wörter": leads to the Phayre JASB 1841 appendix.
+4. Gap-language ethnonym combined with OR-list of vocabulary words, ~65 names: noise.
+5. Title-filtered periodical searches (the productive method): Annales des voyages, Nouv. annales des voyages, Bull. Soc. Géographie, Büsching Magazin, Allg. geogr. Ephemeriden, Vetenskaps Academiens Handlingar, Propagation de la foi, Archiv f. wiss. Kunde Russlands, Severnyi arkhiv, Chinese Repository, Nautical Magazine, Missionary Register, JRGS, Asiatic Researches, J. Indian Archipelago, MHS Collections, Port Folio, United Service Journal, Edinburgh New Phil. J., Basel Missions-Magazin, Periodical Accounts. Found: Timor 1809/1779, Oyampi 1834, Bornabi 1848, Yap/Palau 1849, Murray Island 1834. Also seen: Cormack's Beothuk vocabulary mentioned in Edinburgh New Phil. J. 1829 (known), Galindo's Carib (Garifuna) list in JRGS iii (known).
+6. Numeral phrases ("tellen zij", "räkna de", "they count thus", etc.): nothing.
+
+Unpursued leads: Neue Allg. Geogr. Ephemeriden 1831 ("wenigen Wörter der ...-Sprache"); Allg. Geogr. Ephemeriden c.1798 Wolof numerals; JRGS ix 1839 Jebel Nuba short vocabulary; Annales des voyages has more Bataviaasch Genootschap extracts (Borneo, Celebes).
