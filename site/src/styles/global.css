@@ -117,3 +117,7 @@ kbd { font-family: var(--f-mono); font-size: 11px; border: 1px solid var(--rule)
   .searchbox { display: none; }
   .header-tools .search-icon { display: inline-grid; }
 }
+
+.archive-note p { margin: 0 0 1.5rem; padding: .75rem 1rem; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--bg-2); color: var(--ink-2); font-size: var(--s-1); }
+.archive-note .mono { font-size: var(--s-0); color: var(--accent); margin-right: .5rem; text-transform: uppercase; letter-spacing: .04em; }
+.archive-note a { color: var(--ink); }

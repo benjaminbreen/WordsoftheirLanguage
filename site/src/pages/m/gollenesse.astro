@@ -1,0 +1,144 @@
+---
+import Base from "../../layouts/Base.astro";
+import g from "../../data/manuscripts/gollenesse.json";
+
+const doubts = g.entries.filter((e) => e.doubt).length;
+const first = g.pages[0];
+const letters = [...new Set(g.entries.map((e) => e.hw.replace(/^[^A-Za-z]+/, "").charAt(0).toUpperCase()))].filter(Boolean);
+const payload = { pages: g.pages, scanUrl: g.archive.scan_url, entries: g.entries.map((e) => ({ n: e.n, page: e.page, pages: e.pages })) };
+---
+<Base title={`${g.title}: Malabar glossary (${g.year})`} nav="tables"
+  description={`An unpublished 1743 manuscript glossary of ${g.entries.length} Malabar (Kerala) terms by the VOC commander of Cochin, J. V. Stein van Gollenesse, shown beside its page images with transcription and translation.`}>
+  <article class="ms">
+    <header class="wrap ms-head">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Tables</a><span aria-hidden="true">/</span><span>Manuscripts</span></nav>
+      <div class="ms-title">
+        <div>
+          <h1 class="print">Mallabars woordenboek</h1>
+          <p class="ms-sub">Malabar terms explained in Dutch · <span>{g.author}</span> · Cochin, {g.year}</p>
+        </div>
+        <dl class="ms-stats mono">
+          <div><dt>Entries</dt><dd>{g.entries.length}</dd></div>
+          <div><dt>Pages</dt><dd>{g.pages.length}</dd></div>
+          <div><dt>Uncertain</dt><dd>{doubts}</dd></div>
+        </dl>
+      </div>
+      <div class="prose ms-intro">
+        <p>In 1743 the departing commander of the Dutch East India Company at Cochin, Julius Valentijn Stein van Gollenesse, left his successor a long memoir on the Malabar Coast. He ended it with “some notes in the form of a dictionary of the chief kingdoms, lands, towns, bazaars, pagodas, rivers, festivals and names in Malabar arranged in alphabetical order”, so that a new chief meeting an unknown word in letters and palm-leaf <i>olas</i> would not have to ask people “who might sometimes inform him wrong”.</p>
+        <p>The memoir was printed at Madras in 1908 from the copy kept in India, but the glossary was not: in his 1911 translation A. Galletti marked it “[missing]”. The copy sent to the Netherlands survives in the Company's archive at The Hague, and is shown here for the first time, page by page, with a transcription and an English translation.</p>
+      </div>
+      <p class="notice soft"><strong>Draft edition.</strong> Transcribed from the page images and checked against them once. Readings marked [?] are uncertain; Malabar names in particular need review by specialists in Malayalam and Kerala history. Corrections are welcome.</p>
+    </header>
+
+    <div class="wrap ms-work">
+      <section class="ms-scan" aria-label="Page images">
+        <div class="ms-scan-tools mono">
+          <button type="button" data-prev aria-label="Previous page">←</button>
+          <span data-pagelabel>Scan {first.scan}</span>
+          <button type="button" data-next aria-label="Next page">→</button>
+          <a data-archive href={g.archive.scan_url + first.scan} target="_blank" rel="noopener">Nationaal Archief ↗</a>
+        </div>
+        <img class="ms-img" data-img src={first.sm} srcset={`${first.sm} 900w, ${first.lg} 1800w`} sizes="(max-width: 1000px) 92vw, 46vw"
+          width={first.w} height={first.h} alt={`Scan ${first.scan} of the manuscript`} />
+      </section>
+
+      <section class="ms-list" aria-label="Entries">
+        <div class="ms-filter">
+          <input type="search" placeholder="Filter headwords, Dutch or English" data-filter aria-label="Filter entries" />
+          <nav class="ms-letters mono" aria-label="Jump to letter">{letters.map((l) => <a href={`#l-${l}`}>{l}</a>)}</nav>
+        </div>
+        <ol class="ms-entries">
+          {g.entries.map((e, i) => {
+            const l = e.hw.replace(/^[^A-Za-z]+/, "").charAt(0).toUpperCase();
+            const prev = i ? g.entries[i - 1].hw.replace(/^[^A-Za-z]+/, "").charAt(0).toUpperCase() : "";
+            return (
+              <li id={`e${e.n}`} data-n={e.n} class="ms-e" data-text={`${e.hw} ${e.nl} ${e.en}`.toLowerCase()}>
+                {l !== prev && <span id={`l-${l}`} class="ms-anchor" />}
+                <button type="button" class="ms-hw print" data-goto={e.n}>{e.hw}{e.doubt && <span class="ms-doubt mono" title="Contains uncertain readings">?</span>}</button>
+                <p class="ms-nl">{e.nl}</p>
+                <p class="ms-en">{e.en}</p>
+                <p class="ms-meta mono"><a href={`#e${e.n}`}>№ {e.n}</a>{e.folio && <span>fol. {e.folio}</span>}</p>
+              </li>
+            );
+          })}
+        </ol>
+      </section>
+    </div>
+
+    <footer class="wrap prose ms-foot">
+      <h2>Source and citation</h2>
+      <p>{g.archive.holder}, {g.archive.ref}: “Een Mallabars woordenboek, behorende tot voorsz. Memorie”, appended to the memoir of J. V. Stein van Gollenesse for Reinicus Siersma, Cochin, 1743. The copy ends with a collation note (“Accordeert”) and signature. Page images: Nationaal Archief, via the GLOBALISE project's IIIF manifests. The glossary was found by searching the GLOBALISE machine transcriptions of the VOC archive (CC0).</p>
+      <p>Printed editions of the memoir: <i>Memoir on the Malabar Coast by J. V. Stein van Gollenesse, composed in the year 1743</i>, Selections from the Records of the Madras Government, Dutch Records No. 1 (Madras, 1908); A. Galletti, A. J. van der Burg and P. Groot, <i>The Dutch in Malabar</i>, Dutch Records No. 13 (Madras, 1911), where the glossary is marked “[missing]”.</p>
+    </footer>
+  </article>
+</Base>
+
+<script is:inline define:vars={{ D: payload }}>
+  const img = document.querySelector("[data-img]");
+  const label = document.querySelector("[data-pagelabel]");
+  const arch = document.querySelector("[data-archive]");
+  let cur = 0;
+  function show(i) {
+    cur = Math.max(0, Math.min(D.pages.length - 1, i));
+    const p = D.pages[cur];
+    img.srcset = `${p.sm} 900w, ${p.lg} 1800w`; img.src = p.sm; img.width = p.w; img.height = p.h;
+    img.alt = `Scan ${p.scan} of the manuscript`;
+    label.textContent = `Scan ${p.scan}`;
+    arch.href = D.scanUrl + p.scan;
+  }
+  document.querySelector("[data-prev]").onclick = () => show(cur - 1);
+  document.querySelector("[data-next]").onclick = () => show(cur + 1);
+  const byN = Object.fromEntries(D.entries.map((e) => [e.n, e]));
+  document.querySelectorAll("[data-goto]").forEach((b) => b.addEventListener("click", () => {
+    document.querySelectorAll(".ms-e.on").forEach((x) => x.classList.remove("on"));
+    b.closest(".ms-e").classList.add("on");
+    show(byN[b.dataset.goto].page);
+    if (matchMedia("(max-width: 1000px)").matches) img.scrollIntoView({ behavior: "smooth", block: "start" });
+  }));
+  const items = [...document.querySelectorAll(".ms-e")];
+  document.querySelector("[data-filter]").addEventListener("input", (ev) => {
+    const q = ev.target.value.trim().toLowerCase();
+    for (const li of items) li.hidden = q && !li.dataset.text.includes(q);
+  });
+  const h = location.hash.match(/^#e(\d+)$/);
+  if (h && byN[h[1]]) { show(byN[h[1]].page); document.getElementById(`e${h[1]}`)?.classList.add("on"); }
+</script>
+
+<style>
+  .ms-head { padding-block: 1.5rem 1rem; }
+  .ms-title { display: flex; flex-wrap: wrap; gap: 1rem 2rem; align-items: end; justify-content: space-between; margin-top: .5rem; }
+  .ms-title h1 { margin: 0; font-size: var(--s-4); line-height: 1.1; }
+  .ms-sub { color: var(--ink-2); margin: .35rem 0 0; }
+  .ms-stats { display: flex; gap: 1.5rem; margin: 0; }
+  .ms-stats dt { font-size: var(--s-0); color: var(--ink-3); }
+  .ms-stats dd { margin: 0; font-size: var(--s-2); }
+  .ms-intro { margin-top: 1.25rem; max-width: 46rem; }
+  .ms-head .notice { max-width: 46rem; margin: 1rem 0 0; padding: .7rem 1rem; border: 1px solid var(--rule); border-left: 3px solid var(--accent); border-radius: var(--radius); background: var(--bg-2); color: var(--ink-2); font-size: var(--s-1); }
+  .ms-head .notice strong { color: var(--ink); }
+  .ms-work { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 2rem; align-items: start; padding-bottom: 2rem; }
+  .ms-scan { position: sticky; top: 1rem; }
+  .ms-scan-tools { display: flex; gap: .75rem; align-items: center; font-size: var(--s-0); margin-bottom: .5rem; color: var(--ink-2); }
+  .ms-scan-tools button { border: 1px solid var(--rule); background: var(--surface); color: var(--ink); border-radius: var(--radius); padding: .2rem .6rem; cursor: pointer; }
+  .ms-scan-tools a { margin-left: auto; color: var(--accent); }
+  .ms-img { width: 100%; height: auto; max-height: calc(100vh - 5rem); object-fit: contain; background: var(--bg-2); border-radius: var(--radius); }
+  .ms-filter { position: sticky; top: 0; background: var(--bg); padding-block: .5rem; z-index: 1; border-bottom: 1px solid var(--rule); }
+  .ms-filter input { width: 100%; padding: .5rem .7rem; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--surface); color: var(--ink); font: inherit; }
+  .ms-letters { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .5rem; font-size: var(--s-0); }
+  .ms-letters a { color: var(--accent); text-decoration: none; }
+  .ms-entries { list-style: none; margin: 0; padding: 0; }
+  .ms-e { padding: .9rem .5rem; border-bottom: 1px solid var(--rule-2); border-radius: 4px; }
+  .ms-e.on { background: var(--accent-soft); }
+  .ms-anchor { display: block; position: relative; top: -7rem; }
+  .ms-hw { all: unset; cursor: pointer; font-size: var(--s-3); color: var(--ink); }
+  .ms-hw:hover, .ms-hw:focus-visible { color: var(--accent); text-decoration: underline; }
+  .ms-doubt { font-size: var(--s-0); color: var(--ink-3); margin-left: .35rem; vertical-align: super; }
+  .ms-nl { margin: .35rem 0 0; color: var(--ink); }
+  .ms-en { margin: .35rem 0 0; color: var(--ink-2); }
+  .ms-meta { margin: .4rem 0 0; font-size: var(--s-0); color: var(--ink-3); display: flex; gap: 1rem; }
+  .ms-meta a { color: inherit; }
+  .ms-foot { padding-block: 1rem 3rem; max-width: 46rem; }
+  @media (max-width: 1000px) {
+    .ms-work { grid-template-columns: minmax(0, 1fr); }
+    .ms-scan { position: static; }
+  }
+</style>
