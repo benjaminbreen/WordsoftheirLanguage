@@ -33,3 +33,10 @@ works in `data/work/voc_register/fates.json` (light pass; "unknown" = nothing fo
 ## Copies transcribed in the archive (besides the glossary)
 - Ruell's Sinhala grammar (1699 MS): inv. 1616, scans 0386-0387, 0451 (printed Amsterdam 1708).
 - Malay orthography/prosody treatise, Batavia ~1718: inv. 1902, scans 0757, 0766.
+
+## Update 2026-10-04: edition, second copy, identifications, literature
+- Edition: 391 entries (fol. 161-191v), proofread against images; site page /m/gollenesse.
+- Inv. 4451 is a register volume (indexes of papers); scan 0163 only lists the glossary. No second copy in 1.04.02.
+- Madras copy (Tamil Nadu Archives, Dutch Records vol. 371) apparently never had the glossary (press list records no attachment) - inference.
+- Literature (`data/work/voc_register/gollenesse/lit_check.md`): no edition or translation found, but the glossary is CITED from the Hague copy in J.B. Mailaparambil, The Ali Rajas of Cannanore (PhD Leiden 2007), p. 55 n. 122 (Lords of the Sea, Brill 2012). Not checked: Koshy, Singh, de Lannoy, Malekandathil, Kurup, KCHR Malayalam translations.
+- Modern identifications (`ids_reviewed.jsonl`): 187 high / 62 medium / 123 low / 19 none. Proposed from knowledge + entry context; adversarial review checked internal consistency, only 2 web verifications. Malayalam script shown for high only. Needs specialist review.

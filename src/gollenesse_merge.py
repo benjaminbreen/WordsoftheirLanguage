@@ -38,10 +38,25 @@ def main():
 SITE = "site/src/data/manuscripts/gollenesse.json"
 
 
+def ident(x):
+    """Proposed modern identification; Malayalam script shown only at high confidence."""
+    if not x or not (x.get("modern") or "").strip():
+        return None
+    return dict(modern=x["modern"].strip(), cat=x.get("category") or "", where=x.get("location") or "",
+                conf=x.get("confidence") or "low", basis=x.get("basis") or "",
+                ml=(x.get("malayalam") or "") if x.get("confidence") == "high" else "")
+
+
 def build_site(records):
     import os
     pages = json.load(open(f"{D}/web_pages.json"))
     idx = {p["scan"]: i for i, p in enumerate(pages)}
+    ids = {}
+    if os.path.exists(f"{D}/ids_reviewed.jsonl"):
+        for l in open(f"{D}/ids_reviewed.jsonl", encoding="utf-8"):
+            if l.strip():
+                x = json.loads(l)
+                ids[x["n"]] = x
     entries = []
     for r in records:
         if r["kind"] != "entry":
@@ -56,7 +71,8 @@ def build_site(records):
             n=len(entries) + 1, hw=r["headword"].strip().rstrip(","), nl=r["dutch"].replace(" | ", " "),
             en=(r.get("translation_en") or "").strip(), folio=r.get("folio") or "",
             page=idx.get(r["scan"], 0), pages=[idx[s] for s in scans if s in idx],
-            refs=r.get("cross_refs") or [], doubt="[?]" in r["dutch"] or "[...]" in r["dutch"]))
+            refs=r.get("cross_refs") or [], doubt="[?]" in r["dutch"] or "[...]" in r["dutch"],
+            id=ident(ids.get(r["n"]))))
     data = dict(
         id="gollenesse", title="Mallabars woordenboek",
         subtitle="An alphabetical glossary of Malabar, appended to the memoir of J. V. Stein van Gollenesse",
