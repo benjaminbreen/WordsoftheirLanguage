@@ -107,6 +107,37 @@ T = {
                     region="North America", lang="Pidgin Delaware", glotto="pidg1246",
                     short="An Historical and Geographical Account of Pensilvania", author="Gabriel Thomas", collector="Gabriel Thomas",
                     place="Pennsylvania and West New Jersey", heard="1680s–90s", printed=1698, tcp="A64548"),
+    "meriam": dict(csv="data/work/extract3/meriam_usj1834", ann=None, ident=None, cover="meriam",
+                   region="Australia & Pacific", lang="Meriam Mir", glotto="meri1244",
+                   heading="The following is a vocabulary of some of the words of the language of the Murray islanders.",
+                   short="Some Account of the Natives of Murray's Island", author="a Naval Officer",
+                   collector="a Naval Officer", place="Murray Island (Mer), Torres Strait", heard="1833", printed=1834, tcp="",
+                   title="Some Account of the Natives of Murray's Island in Torres' Straits. From the Journal of a Naval Officer",
+                   imprint="The United Service Journal and Naval and Military Magazine, 1834, part II, pp. 194–202",
+                   transcription="Transcribed from the scan; spellings kept as printed"),
+    "timor": dict(csv="data/work/extract3/timor_hogendorp", ann=None, ident=None, cover="timor",
+                  region="Asia", lang="Uab Meto (Timorese)", glotto="uabm1237",
+                  heading="Verzameling van eenige Timoreesche woorden",
+                  short="Vervolg der Beschryving van het Eiland Timor", author="W. van Hogendorp",
+                  collector="W. van Hogendorp", place="Timor (Kupang)", heard="1770s", printed=1780, tcp="",
+                  title="Vervolg der Beschryving van het Eiland Timor, voor zoo verre het tot nog toe bekend is",
+                  imprint="Verhandelingen van het Bataviaasch Genootschap der Konsten en Wetenschappen, deel 2, Batavia, 1780, pp. 102–105",
+                  transcription="Transcribed from the scan; spellings kept as printed (long s as s)"),
+    "pope": dict(csv="data/work/extract3/pope_creek1792", ann=None, ident=None, cover="pope",
+                 region="North America", lang="Muskogee (Creek)", glotto="cree1270",
+                 heading="The following Catalogue of Indian Words, with a literal Translation to each",
+                 short="A Tour through the Southern and Western Territories", author="John Pope",
+                 collector="John Pope, from the Little King of the Broken Arrow, translated by Mr. Darisoux", place="Lower Creek country",
+                 heard="1791", printed=1792, tcp="", title="A Tour through the Southern and Western Territories of the United States of North-America",
+                 imprint="Richmond, 1792", transcription="Transcribed from the scan; spellings kept as printed"),
+    "gollenesse": dict(kind="manuscript", src="data/site/manuscripts/gollenesse.json", cover="gollenesse",
+                       region="Asia", lang="Malayalam", glotto="mala1464", heading="Een Mallabars woordenboek",
+                       short="Mallabars woordenboek", author="Julius Valentijn Stein van Gollenesse",
+                       collector="J. V. Stein van Gollenesse", place="Cochin, Malabar Coast", heard="1734–43",
+                       printed=1743, tcp="", title="Een Mallabars woordenboek, behorende tot voorsz. Memorie",
+                       imprint="Manuscript, Cochin, 1743",
+                       holder="Nationaal Archief, The Hague", archive="VOC 1.04.02, inv. 2601, fol. 161–191",
+                       transcription="Transcribed from the manuscript; spellings kept as written"),
 }
 
 CAT_LABEL = {"loan": "Loanword", "ostension": "Related meaning", "interactional": "Phrase taken for a word",
@@ -188,6 +219,24 @@ def interpolate(entries, pages):
                                      w=max(A["w"], B["w"]), h=A["h"], approx=True)
 
 
+def manuscript(tid, c):
+    """Entries and pages for a manuscript table from its edition file (see src/gollenesse_merge.py)."""
+    g = json.load(open(c["src"], encoding="utf-8"))
+    url = g["archive"]["scan_url"]
+    pages = [dict(leaf=i, w=p["w"], h=p["h"], sm=p["sm"], lg=p["lg"], href=url + p["scan"],
+                  label=f"scan {p['scan']}") for i, p in enumerate(g["pages"])]
+    entries = []
+    for e in g["entries"]:
+        idn = e.get("id") or {}
+        short = idn.get("modern") or re.split(r"(?<=[;.])\s", e["en"])[0]
+        rec = dict(n=e["n"], form=e["hw"], gloss=short, section="", p=e["page"], text=e["nl"], trans=e["en"])
+        if idn.get("modern"):
+            rec["modern"] = dict(name=idn["modern"], where=idn.get("where") or "", ml=idn.get("ml") or "",
+                                 conf=idn.get("conf") or "")
+        entries.append(rec)
+    return entries, pages, g
+
+
 def main():
     os.makedirs(f"{OUT}/tables", exist_ok=True)
     cm = ConceptMapper()
@@ -198,6 +247,28 @@ def main():
     md = {r["tcp_id"]: r for r in meta.iter_rows(named=True)}
     catalog, search = [], []
     for tid, c in T.items():
+        if c.get("kind") == "manuscript":
+            entries, pages, g = manuscript(tid, c)
+            fam = glottolog.path_names(c["glotto"]) if c.get("glotto") else []
+            rec = dict(
+                schema=SCHEMA_VERSION, id=tid, wtl=f"WTL-{list(T).index(tid) + 1:04d}", heading=c["heading"], headings=[],
+                language=dict(name=c["lang"], glottocode=c.get("glotto"), family=fam[0] if fam and fam[0] != c.get("glotto") else None,
+                              path=fam[:-1] if len(fam) > 1 else [], labels=["Mallabaars"]),
+                region=c["region"],
+                book=dict(short=c["short"], title=c["title"], author=c["author"], printed=c["printed"], imprint=c["imprint"],
+                          tcp="", cover=c["cover"], kind="manuscript"),
+                provenance=dict(collector=c["collector"], place=c["place"], heard=c["heard"]),
+                scan=dict(ia="", url=g["archive"]["url"], holder=c["holder"], note=c["archive"], source="Nationaal Archief",
+                          rights="Images: Nationaal Archief, via GLOBALISE IIIF"),
+                transcription=c["transcription"],
+                pages=pages, entries=entries, identification=None,
+                stats=dict(entries=len(entries), notes=0, located=0), partial=None, relation=None)
+            json.dump(rec, open(f"{OUT}/tables/{tid}.json", "w"), ensure_ascii=False, indent=1)
+            catalog.append(dict(id=tid, wtl=rec["wtl"], heading=c["heading"], language=c["lang"], family=rec["language"]["family"],
+                                region=c["region"], short=c["short"], author=c["author"], collector=c["collector"],
+                                printed=c["printed"], heard=c["heard"], entries=len(entries), notes=0, cover=c["cover"],
+                                relation=None, partial=False, status=None))
+            continue
         rows = list(csv.DictReader(open(c["csv"] + ".entries.csv", encoding="utf-8")))
         scan = json.load(open(f"data/site/scans/{tid}.json"))
         boxes = scan["boxes"]
@@ -271,11 +342,12 @@ def main():
             language=dict(name=c["lang"], glottocode=c.get("glotto"), family=fam[0] if fam and fam[0] != c.get("glotto") else None,
                           path=fam[:-1] if len(fam) > 1 else [], labels=sorted(labels)),
             region=c["region"],
-            book=dict(short=c["short"], title=m.get("title"), author=c["author"], printed=c["printed"],
-                      imprint=m.get("date"), tcp=c["tcp"], cover=c["cover"]),
+            book=dict(short=c["short"], title=c.get("title") or m.get("title"), author=c["author"], printed=c["printed"],
+                      imprint=c.get("imprint") or m.get("date"), tcp=c["tcp"], cover=c["cover"]),
             provenance=dict(collector=c["collector"], place=c["place"], heard=c["heard"]),
             scan=dict(ia=scan["ia"], url=f"https://archive.org/details/{scan['ia']}", holder=scan.get("contributor"),
                       note=scan.get("scan_note") or None, rights="Public domain scan; image via Internet Archive"),
+            transcription=c.get("transcription"),
             pages=pages, entries=entries, identification=idn,
             stats=dict(entries=len(entries), notes=notes_n, located=sum(1 for e in entries if e.get("box"))),
             partial=c.get("partial"), relation=c.get("relation"))

@@ -49,6 +49,9 @@ TABLES = {
     "gthomas": ("historicalgeogra01thom", "data/work/extract2/gthomas_A64548", None, ""),
     "chile": ("americabeinglate01mont", "data/work/extract2/chilesian_ogilby_A53222", None, ""),
     "tupi": ("americabeinglate01mont", "data/work/extract2/tupi_ogilby_A53222", None, ""),
+    "meriam": ("in.ernet.dli.2015.21628", "data/work/extract3/meriam_usj1834", None, ""),
+    "pope": ("cf-00001558", "data/work/extract3/pope_creek1792", None, "1888 reprint"),
+    "timor": ("verhandelingenva21780bata", "data/work/extract3/timor_hogendorp", None, ""),
     "ludolf": ("bub_gb_buNBAQAAMAAJ", "data/work/extract2/ludolf_gallan_A49450", None, "1684 edition"),
 }
 
@@ -67,10 +70,16 @@ def meta(ia):
     return json.load(open(p))
 
 
+def ia_file(ia, suffix):
+    """Name of the item's file ending in `suffix` (some items name files differently from their id)."""
+    names = [f["name"] for f in meta(ia).get("files", [])]
+    return f"{ia}{suffix}" if f"{ia}{suffix}" in names else next((n for n in names if n.endswith(suffix)), f"{ia}{suffix}")
+
+
 def pages(ia):
     p = f"{RAW}/{ia}_djvu.xml"
     if not os.path.exists(p):
-        r = requests.get(f"https://archive.org/download/{ia}/{ia}_djvu.xml", timeout=300)
+        r = requests.get(f"https://archive.org/download/{ia}/{ia_file(ia, '_djvu.xml')}", timeout=300)
         r.raise_for_status()
         open(p, "wb").write(r.content)
     out = []
@@ -271,8 +280,9 @@ def fetch_image(ia, leaf, md, outdir):
     out = {s: f"{outdir}/{leaf:04d}-{s}.webp" for s in SIZES}
     if all(os.path.exists(v) for v in out.values()):
         return out
-    url = (f"https://{md['server']}/BookReader/BookReaderImages.php?zip={md['dir']}/{ia}_jp2.zip"
-           f"&file={ia}_jp2/{ia}_{leaf:04d}.jp2&id={ia}&scale=1&rotate=0")
+    z = ia_file(ia, "_jp2.zip")[:-len("_jp2.zip")]
+    url = (f"https://{md['server']}/BookReader/BookReaderImages.php?zip={md['dir']}/{z}_jp2.zip"
+           f"&file={z}_jp2/{z}_{leaf:04d}.jp2&id={ia}&scale=1&rotate=0")
     im = Image.open(io.BytesIO(requests.get(url, timeout=300).content)).convert("RGB")
     for s in SIZES:
         c = im.copy()
@@ -281,12 +291,18 @@ def fetch_image(ia, leaf, md, outdir):
     return out
 
 
+# Tables whose pages the OCR cannot find on its own (poorly recognised forms): leaves fixed by hand.
+LEAVES = {"pope": [59, 60]}
+
+
 def run(tid):
     ia, path, filt, scan_note = TABLES[tid]
     md = meta(ia)
     pgs = pages(ia)
     ents = entries(path, filt)
     idxs, scores = locate(pgs, ents)
+    if tid in LEAVES:
+        idxs = [i for i, p in enumerate(pgs) if p["leaf"] in LEAVES[tid]]
     boxes = align(pgs, idxs, ents)
     outdir = f"{OUT_IMG}/{tid}"
     os.makedirs(outdir, exist_ok=True)

@@ -1,0 +1,1509 @@
+{
+ "schema": 1,
+ "id": "timor",
+ "wtl": "WTL-0021",
+ "heading": "Verzameling van eenige Timoreesche woorden",
+ "headings": [
+  "Verzameling van eenige Timoreesche woorden"
+ ],
+ "language": {
+  "name": "Uab Meto (Timorese)",
+  "glottocode": "uabm1237",
+  "family": "Austronesian",
+  "path": [
+   "Austronesian",
+   "Malayo-Polynesian",
+   "Timor-Babar",
+   "Rote-Meto",
+   "West Rote",
+   "Dengka-Meto",
+   "Meto",
+   "Central Meto"
+  ],
+  "labels": [
+   "Timoreesche"
+  ]
+ },
+ "region": "Asia",
+ "book": {
+  "short": "Vervolg der Beschryving van het Eiland Timor",
+  "title": "Vervolg der Beschryving van het Eiland Timor, voor zoo verre het tot nog toe bekend is",
+  "author": "W. van Hogendorp",
+  "printed": 1780,
+  "imprint": "Verhandelingen van het Bataviaasch Genootschap der Konsten en Wetenschappen, deel 2, Batavia, 1780, pp. 102–105",
+  "tcp": "",
+  "cover": "timor"
+ },
+ "provenance": {
+  "collector": "W. van Hogendorp",
+  "place": "Timor (Kupang)",
+  "heard": "1770s"
+ },
+ "scan": {
+  "ia": "verhandelingenva21780bata",
+  "url": "https://archive.org/details/verhandelingenva21780bata",
+  "holder": "Harvard University, Museum of Comparative Zoology, Ernst Mayr Library",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed (long s as s)",
+ "pages": [
+  {
+   "leaf": 162,
+   "w": 2232,
+   "h": 3964,
+   "sm": "/scans/timor/0162-900.webp",
+   "lg": "/scans/timor/0162-1800.webp"
+  },
+  {
+   "leaf": 163,
+   "w": 2066,
+   "h": 3964,
+   "sm": "/scans/timor/0163-900.webp",
+   "lg": "/scans/timor/0163-1800.webp"
+  },
+  {
+   "leaf": 164,
+   "w": 2066,
+   "h": 3964,
+   "sm": "/scans/timor/0164-900.webp",
+   "lg": "/scans/timor/0164-1800.webp"
+  },
+  {
+   "leaf": 165,
+   "w": 2066,
+   "h": 3964,
+   "sm": "/scans/timor/0165-900.webp",
+   "lg": "/scans/timor/0165-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Essa.",
+   "gloss": "Eén",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.4305,
+    "y": 0.1305,
+    "w": 0.2098,
+    "h": 0.0244,
+    "approx": true
+   }
+  },
+  {
+   "n": 2,
+   "form": "Noua.",
+   "gloss": "Twéé",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2491,
+    "y": 0.2558,
+    "w": 0.1475,
+    "h": 0.0244,
+    "approx": true
+   }
+  },
+  {
+   "n": 3,
+   "form": "Fenou.",
+   "gloss": "Drie",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "concepts": [
+    "DRY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.573,
+    "y": 0.2731,
+    "w": 0.1233,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 4,
+   "form": "Haa.",
+   "gloss": "Vier",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2491,
+    "y": 0.3025,
+    "w": 0.4248,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 5,
+   "form": "Nima.",
+   "gloss": "Vyf",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.5743,
+    "y": 0.322,
+    "w": 0.122,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 6,
+   "form": "Ney.",
+   "gloss": "Zes",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2509,
+    "y": 0.3749,
+    "w": 0.4172,
+    "h": 0.0244,
+    "approx": true
+   }
+  },
+  {
+   "n": 7,
+   "form": "Itou.",
+   "gloss": "Zeven",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2509,
+    "y": 0.3749,
+    "w": 0.4172,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 8,
+   "form": "Fanou.",
+   "gloss": "Acht",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.5743,
+    "y": 0.3929,
+    "w": 0.1264,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 9,
+   "form": "Senauu",
+   "gloss": "Negen",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2517,
+    "y": 0.4243,
+    "w": 0.4562,
+    "h": 0.0244,
+    "approx": true
+   }
+  },
+  {
+   "n": 10,
+   "form": "Boua essa.",
+   "gloss": "Tien",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.5766,
+    "y": 0.4681,
+    "w": 0.2841,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 11,
+   "form": "Boua essa messa:",
+   "gloss": "Elf",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.5766,
+    "y": 0.4681,
+    "w": 0.2841,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 12,
+   "form": "Boua essa noua &c.",
+   "gloss": "Twaalf",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2526,
+    "y": 0.4893,
+    "w": 0.6632,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 13,
+   "form": "Boua noua.",
+   "gloss": "Twintig",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2544,
+    "y": 0.5169,
+    "w": 0.527,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 14,
+   "form": "Boua Fenou.",
+   "gloss": "Dertig",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2531,
+    "y": 0.541,
+    "w": 0.5682,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 15,
+   "form": "Natou messa.",
+   "gloss": "Honderd",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2455,
+    "y": 0.5685,
+    "w": 0.5646,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 16,
+   "form": "Nissou.",
+   "gloss": "Duizend",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.254,
+    "y": 0.5929,
+    "w": 0.4589,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 17,
+   "form": "Oussi nenou.",
+   "gloss": "God,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2562,
+    "y": 0.6121,
+    "w": 0.5409,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 18,
+   "form": "Nenou.",
+   "gloss": "De Zon,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2522,
+    "y": 0.6363,
+    "w": 0.458,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 19,
+   "form": "Founan.",
+   "gloss": "De Maan,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2553,
+    "y": 0.6604,
+    "w": 0.4692,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 20,
+   "form": "Fioun.",
+   "gloss": "De Sterren,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2535,
+    "y": 0.6849,
+    "w": 0.4432,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 21,
+   "form": "Neyn.",
+   "gloss": "De Aarde,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2531,
+    "y": 0.7084,
+    "w": 0.4409,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 22,
+   "form": "Ayi.",
+   "gloss": "Het Vuur,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2535,
+    "y": 0.7321,
+    "w": 0.4159,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 23,
+   "form": "Nalotto.",
+   "gloss": "De Donder,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 0,
+    "x": 0.2526,
+    "y": 0.7564,
+    "w": 0.4746,
+    "h": 0.0244
+   }
+  },
+  {
+   "n": 24,
+   "form": "Onlan.",
+   "gloss": "De Regen,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0482,
+    "y": 0.0956,
+    "w": 0.5473,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 25,
+   "form": "Manas.",
+   "gloss": "Warm,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "concepts": [
+    "WARM"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0569,
+    "y": 0.1188,
+    "w": 0.5512,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 26,
+   "form": "Maniki.",
+   "gloss": "Koud,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.4577,
+    "y": 0.1423,
+    "w": 0.1582,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 27,
+   "form": "Tassi.",
+   "gloss": "De Zee,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.3546,
+    "y": 0.1757,
+    "w": 0.2192,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 28,
+   "form": "Noé.",
+   "gloss": "Een Rivier,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.1967,
+    "w": 0.5149,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 29,
+   "form": "Noussa.",
+   "gloss": "Een Eiland,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0506,
+    "y": 0.2162,
+    "w": 0.5585,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 30,
+   "form": "Ikan.",
+   "gloss": "Visch,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0506,
+    "y": 0.2449,
+    "w": 0.5178,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 31,
+   "form": "Ney bessy.",
+   "gloss": "Een Kaaiman,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0516,
+    "y": 0.2635,
+    "w": 0.6059,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 32,
+   "form": "Nay Sussa.",
+   "gloss": "Een Koning,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0501,
+    "y": 0.2896,
+    "w": 0.6335,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 33,
+   "form": "Sisi maka toua.",
+   "gloss": "Een Bestierder,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0492,
+    "y": 0.3125,
+    "w": 0.7172,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 34,
+   "form": "Oessi.",
+   "gloss": "Een Heer,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0211,
+    "y": 0.3369,
+    "w": 0.253,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 35,
+   "form": "Atoni.",
+   "gloss": "Een Gem: man,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0443,
+    "y": 0.3603,
+    "w": 0.3421,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 36,
+   "form": "Ate.",
+   "gloss": "Een Slaaf,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.3903,
+    "w": 0.5057,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 37,
+   "form": "Bifein.",
+   "gloss": "Eene Vrouw,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0516,
+    "y": 0.4151,
+    "w": 0.5565,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 38,
+   "form": "Liakalyko.",
+   "gloss": "Een Kind,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.4339,
+    "w": 0.6141,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 39,
+   "form": "Atony mnassi.",
+   "gloss": "Een oud Man,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.4579,
+    "w": 0.6804,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 40,
+   "form": "Kasse mouty.",
+   "gloss": "Een Europeesch,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.4069,
+    "y": 0.4843,
+    "w": 0.3015,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 41,
+   "form": "Méo ouss.",
+   "gloss": "Een Vyand,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.5085,
+    "w": 0.5938,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 42,
+   "form": "Auk bekenou.",
+   "gloss": "Een Vriend,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0521,
+    "y": 0.5331,
+    "w": 0.6558,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 43,
+   "form": "Maté.",
+   "gloss": "De Dood,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.5568,
+    "w": 0.5362,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 44,
+   "form": "Naméen.",
+   "gloss": "Ziek,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.5807,
+    "w": 0.5759,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "Mnaani.",
+   "gloss": "Een Toveraar,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.6046,
+    "w": 0.5759,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 46,
+   "form": "Baaf.",
+   "gloss": "Een Wortel,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.6305,
+    "w": 0.5338,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 47,
+   "form": "Au ouf.",
+   "gloss": "Een Boom,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.655,
+    "w": 0.5662,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 48,
+   "form": "Haunau.",
+   "gloss": "Een Blad,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.679,
+    "w": 0.5836,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 49,
+   "form": "Au fona.",
+   "gloss": "Fruit,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "concepts": [
+    "FRUIT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0511,
+    "y": 0.7027,
+    "w": 0.5836,
+    "h": 0.025,
+    "approx": true
+   }
+  },
+  {
+   "n": 50,
+   "form": "Nassi.",
+   "gloss": "Een Bosch,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.0516,
+    "y": 0.7264,
+    "w": 0.5323,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 51,
+   "form": "Poua.",
+   "gloss": "Betel,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.4606,
+    "y": 0.7505,
+    "w": 0.1214,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 52,
+   "form": "Manous.",
+   "gloss": "Sirie,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 1,
+    "x": 0.3318,
+    "y": 0.7806,
+    "w": 0.2971,
+    "h": 0.025
+   }
+  },
+  {
+   "n": 53,
+   "form": "Noa.",
+   "gloss": "Coco,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.3872,
+    "y": 0.0893,
+    "w": 0.2851,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 54,
+   "form": "Oupon.",
+   "gloss": "Mangas-boom,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1689,
+    "y": 0.1105,
+    "w": 0.5392,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 55,
+   "form": "Moukí.",
+   "gloss": "Limoen boom,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1665,
+    "y": 0.1334,
+    "w": 0.5421,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 56,
+   "form": "Lakou.",
+   "gloss": "Aardappelen,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.168,
+    "y": 0.1615,
+    "w": 0.5402,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 57,
+   "form": "Sbaut.",
+   "gloss": "Tabak,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1684,
+    "y": 0.1815,
+    "w": 0.3267,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 58,
+   "form": "Onnors.",
+   "gloss": "Lange Peper,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1655,
+    "y": 0.2068,
+    "w": 0.5571,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 59,
+   "form": "Massé",
+   "gloss": "Zout,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.5682,
+    "y": 0.2316,
+    "w": 0.1234,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 60,
+   "form": "Touak k ssi.",
+   "gloss": "Brandewyn,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1641,
+    "y": 0.2585,
+    "w": 0.6317,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 61,
+   "form": "Oony.",
+   "gloss": "Siroop van touak,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1631,
+    "y": 0.2795,
+    "w": 0.5247,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 62,
+   "form": "Ooni au.",
+   "gloss": "Honing,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1626,
+    "y": 0.3029,
+    "w": 0.2449,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 63,
+   "form": "Pnauw ousl.",
+   "gloss": "Een Vaartuig,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1621,
+    "y": 0.3281,
+    "w": 0.636,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 64,
+   "form": "Pnauw kalyko.",
+   "gloss": "Een Caroot,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1636,
+    "y": 0.3511,
+    "w": 0.6849,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 65,
+   "form": "O uny.",
+   "gloss": "Een Huis,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1631,
+    "y": 0.3791,
+    "w": 0.5431,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 66,
+   "form": "Ana euy.",
+   "gloss": "Een Rystveld,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1631,
+    "y": 0.4053,
+    "w": 0.3819,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 67,
+   "form": "Euy.",
+   "gloss": "Water,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1621,
+    "y": 0.4236,
+    "w": 0.2178,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 68,
+   "form": "Au.",
+   "gloss": "Hout,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.136,
+    "y": 0.4487,
+    "w": 0.2294,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 69,
+   "form": "Bekasi.",
+   "gloss": "Een Paard,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1617,
+    "y": 0.4719,
+    "w": 0.3301,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 70,
+   "form": "Byjaé.",
+   "gloss": "Een Buffel,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1646,
+    "y": 0.4954,
+    "w": 0.2754,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 71,
+   "form": "Fasi.",
+   "gloss": "Een Varken,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1646,
+    "y": 0.52,
+    "w": 0.2754,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 72,
+   "form": "Assou.",
+   "gloss": "Een Hond,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1646,
+    "y": 0.5445,
+    "w": 0.2754,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 73,
+   "form": "Meouk.",
+   "gloss": "Eene Kat,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1617,
+    "y": 0.5691,
+    "w": 0.2565,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 74,
+   "form": "Kolok.",
+   "gloss": "Eene Vogel,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1641,
+    "y": 0.5948,
+    "w": 0.3248,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 75,
+   "form": "Bibi.",
+   "gloss": "Eene Geit,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1602,
+    "y": 0.6182,
+    "w": 0.2793,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 76,
+   "form": "Any.",
+   "gloss": "Ryst,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1602,
+    "y": 0.6425,
+    "w": 0.3059,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 77,
+   "form": "Pena.",
+   "gloss": "Turksch koorn,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1583,
+    "y": 0.6668,
+    "w": 0.3059,
+    "h": 0.0237,
+    "approx": true
+   }
+  },
+  {
+   "n": 78,
+   "form": "Liling.",
+   "gloss": "Wasch,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1583,
+    "y": 0.6936,
+    "w": 0.5402,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 79,
+   "form": "Aumeni.",
+   "gloss": "Sandelhout,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1568,
+    "y": 0.7147,
+    "w": 0.5663,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 80,
+   "form": "Lapea.",
+   "gloss": "Eene Munt,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.1549,
+    "y": 0.7408,
+    "w": 0.5436,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 81,
+   "form": "Tanoni manatou.",
+   "gloss": "Goud,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 2,
+    "x": 0.5392,
+    "y": 0.764,
+    "w": 0.3156,
+    "h": 0.0237
+   }
+  },
+  {
+   "n": 82,
+   "form": "Tanoni Pouti.",
+   "gloss": "Zilver,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4418,
+    "y": 0.0875,
+    "w": 0.2911,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 83,
+   "form": "Netimera.",
+   "gloss": "Koper,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4699,
+    "y": 0.1094,
+    "w": 0.1962,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 84,
+   "form": "Bessi.",
+   "gloss": "Yzer,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4699,
+    "y": 0.1386,
+    "w": 0.2267,
+    "h": 0.0249,
+    "approx": true
+   }
+  },
+  {
+   "n": 85,
+   "form": "Noopens.",
+   "gloss": "Lood,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4147,
+    "y": 0.1679,
+    "w": 0.2267,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 86,
+   "form": "Mina.",
+   "gloss": "Oly,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.0643,
+    "y": 0.1898,
+    "w": 0.1139,
+    "h": 0.0249,
+    "approx": true
+   }
+  },
+  {
+   "n": 87,
+   "form": "Kenak.",
+   "gloss": "Een Snaphaan,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.467,
+    "y": 0.2054,
+    "w": 0.141,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 88,
+   "form": "Oupak.",
+   "gloss": "Kruid,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4665,
+    "y": 0.2325,
+    "w": 0.1488,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 89,
+   "form": "Sonmi.",
+   "gloss": "Een Sabel,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.0957,
+    "y": 0.2574,
+    "w": 0.5045,
+    "h": 0.0249,
+    "approx": true
+   }
+  },
+  {
+   "n": 90,
+   "form": "Aoni.",
+   "gloss": "Eene Piek,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.0594,
+    "y": 0.2799,
+    "w": 0.5234,
+    "h": 0.0249,
+    "approx": true
+   }
+  },
+  {
+   "n": 91,
+   "form": "Anit.",
+   "gloss": "Eene Boog,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.0493,
+    "y": 0.3056,
+    "w": 0.5326,
+    "h": 0.0249,
+    "approx": true
+   }
+  },
+  {
+   "n": 92,
+   "form": "Betas.",
+   "gloss": "Eene Pyl,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4631,
+    "y": 0.3269,
+    "w": 0.128,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 93,
+   "form": "Fena.",
+   "gloss": "Een Snoeimes,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.057,
+    "y": 0.3534,
+    "w": 0.3835,
+    "h": 0.0249,
+    "approx": true
+   }
+  },
+  {
+   "n": 94,
+   "form": "Faany.",
+   "gloss": "Een Byl,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4646,
+    "y": 0.3785,
+    "w": 0.1425,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 95,
+   "form": "Bessi.",
+   "gloss": "Een Mes,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.0599,
+    "y": 0.4017,
+    "w": 0.5128,
+    "h": 0.0249,
+    "approx": true
+   }
+  },
+  {
+   "n": 96,
+   "form": "Taa",
+   "gloss": "Eeten,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.0565,
+    "y": 0.4259,
+    "w": 0.2195,
+    "h": 0.0249,
+    "approx": true
+   }
+  },
+  {
+   "n": 97,
+   "form": "Minum euy.",
+   "gloss": "Drinken,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4617,
+    "y": 0.4548,
+    "w": 0.2291,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 98,
+   "form": "Toupa.",
+   "gloss": "Slaapen,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4655,
+    "y": 0.4756,
+    "w": 0.1333,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 99,
+   "form": "Kana leko.",
+   "gloss": "Kwaad,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4588,
+    "y": 0.4975,
+    "w": 0.202,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 100,
+   "form": "Naaek.",
+   "gloss": "Groot,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4621,
+    "y": 0.522,
+    "w": 0.1449,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 101,
+   "form": "Kalyko.",
+   "gloss": "Kleen,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4592,
+    "y": 0.5491,
+    "w": 0.1541,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 102,
+   "form": "Mouti.",
+   "gloss": "Wit,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.4583,
+    "y": 0.5711,
+    "w": 0.1386,
+    "h": 0.0249
+   }
+  },
+  {
+   "n": 103,
+   "form": "Metom.",
+   "gloss": "Zwart,",
+   "section": "Verzameling van eenige Timoreesche woorden"
+  },
+  {
+   "n": 104,
+   "form": "Tassa.",
+   "gloss": "Rood,",
+   "section": "Verzameling van eenige Timoreesche woorden"
+  },
+  {
+   "n": 105,
+   "form": "Ouki.",
+   "gloss": "Geel,",
+   "section": "Verzameling van eenige Timoreesche woorden"
+  },
+  {
+   "n": 106,
+   "form": "Mate.",
+   "gloss": "Groen,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.0575,
+    "y": 0.6692,
+    "w": 0.159,
+    "h": 0.0249,
+    "approx": true
+   }
+  },
+  {
+   "n": 107,
+   "form": "Itam.",
+   "gloss": "Blaauw,",
+   "section": "Verzameling van eenige Timoreesche woorden",
+   "box": {
+    "page": 3,
+    "x": 0.0536,
+    "y": 0.6944,
+    "w": 0.2195,
+    "h": 0.0249,
+    "approx": true
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 107,
+  "notes": 0,
+  "located": 104
+ },
+ "partial": null,
+ "relation": null
+}

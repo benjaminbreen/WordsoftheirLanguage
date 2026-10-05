@@ -1,0 +1,1335 @@
+{
+ "schema": 1,
+ "id": "pope",
+ "wtl": "WTL-0022",
+ "heading": "The following Catalogue of Indian Words, with a literal Translation to each",
+ "headings": [
+  "Catalogue of Indian Words",
+  "River and creek names near Pensacola"
+ ],
+ "language": {
+  "name": "Muskogee (Creek)",
+  "glottocode": "cree1270",
+  "family": "Muskogean",
+  "path": [
+   "Muskogean"
+  ],
+  "labels": [
+   "Indian"
+  ]
+ },
+ "region": "North America",
+ "book": {
+  "short": "A Tour through the Southern and Western Territories",
+  "title": "A Tour through the Southern and Western Territories of the United States of North-America",
+  "author": "John Pope",
+  "printed": 1792,
+  "imprint": "Richmond, 1792",
+  "tcp": "",
+  "cover": "pope"
+ },
+ "provenance": {
+  "collector": "John Pope, from the Little King of the Broken Arrow, translated by Mr. Darisoux",
+  "place": "Lower Creek country",
+  "heard": "1791"
+ },
+ "scan": {
+  "ia": "cf-00001558",
+  "url": "https://archive.org/details/cf-00001558",
+  "holder": null,
+  "note": "1888 reprint",
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "pages": [
+  {
+   "leaf": 59,
+   "w": 5313,
+   "h": 6876,
+   "sm": "/scans/pope/0059-900.webp",
+   "lg": "/scans/pope/0059-1800.webp"
+  },
+  {
+   "leaf": 60,
+   "w": 5313,
+   "h": 6876,
+   "sm": "/scans/pope/0060-900.webp",
+   "lg": "/scans/pope/0060-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Sawgee Putchehaſſe",
+   "gloss": "God, or the Giver and Taker of Breath",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 0,
+    "x": 0.2716,
+    "y": 0.651,
+    "w": 0.1077,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 2,
+   "form": "Hippo ilk Meco",
+   "gloss": "M'Gillivray, or the good Child King",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 0,
+    "x": 0.2716,
+    "y": 0.6678,
+    "w": 0.1201,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 3,
+   "form": "Honuntauchee",
+   "gloss": "Do. or the great Man",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "DO",
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2716,
+    "y": 0.6845,
+    "w": 0.1201,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 4,
+   "form": "Chuloehawſo",
+   "gloss": "the mad Lightwood",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 0,
+    "x": 0.2592,
+    "y": 0.7013,
+    "w": 0.1201,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 5,
+   "form": "Chukeetawbe",
+   "gloss": "the dry Pine",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 0,
+    "x": 0.2592,
+    "y": 0.722,
+    "w": 0.1201,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 6,
+   "form": "Mecohawſo",
+   "gloss": "the mad King",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 0,
+    "x": 0.2575,
+    "y": 0.7319,
+    "w": 0.1218,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 7,
+   "form": "Sow a ki gee",
+   "gloss": "Lie by his Side",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 0,
+    "x": 0.5329,
+    "y": 0.6414,
+    "w": 0.1002,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 8,
+   "form": "Cowawigee",
+   "gloss": "Mr. Thomas Kerr, or the Little Partridge",
+   "section": "Catalogue of Indian Words"
+  },
+  {
+   "n": 9,
+   "form": "Illeſenehaw",
+   "gloss": "the Baboon",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "BABOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4521,
+    "y": 0.6714,
+    "w": 0.1528,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 10,
+   "form": "Chuleſenekaw",
+   "gloss": "the mad Dog",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 0,
+    "x": 0.4521,
+    "y": 0.6814,
+    "w": 0.1607,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 11,
+   "form": "Ninewaw",
+   "gloss": "lie in the Path",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 0,
+    "x": 0.4521,
+    "y": 0.6914,
+    "w": 0.1607,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 12,
+   "form": "Senetehawgo",
+   "gloss": "wait for the Day",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 0,
+    "x": 0.4521,
+    "y": 0.7014,
+    "w": 0.2053,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 13,
+   "form": "Iuletiga",
+   "gloss": "he eſcaped from his Enemy",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 0,
+    "x": 0.4514,
+    "y": 0.7114,
+    "w": 0.2053,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 14,
+   "form": "Miſs Sukee",
+   "gloss": "",
+   "section": "Catalogue of Indian Words"
+  },
+  {
+   "n": 15,
+   "form": "Putcheſua",
+   "gloss": "An axe",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "AXE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3576,
+    "y": 0.226,
+    "w": 0.0205,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 16,
+   "form": "Waweaw Nunnowaw",
+   "gloss": "a Bull",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "BULL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3615,
+    "y": 0.2356,
+    "w": 0.0165,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 17,
+   "form": "Chutkſacvu",
+   "gloss": "a Bridle",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.3593,
+    "y": 0.2453,
+    "w": 0.0188,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 18,
+   "form": "Hatchee",
+   "gloss": "a Creek",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "CREEK (TIDAL)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.2553,
+    "w": 0.0212,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 19,
+   "form": "Atchee",
+   "gloss": "Corn",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.2647,
+    "w": 0.0212,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 20,
+   "form": "Hocuſſee",
+   "gloss": "a Child",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.2753,
+    "w": 0.0212,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 21,
+   "form": "Etchoo",
+   "gloss": "a Deer",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "DEER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.2853,
+    "w": 0.0212,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 22,
+   "form": "Toatloa",
+   "gloss": "an Eye",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.36,
+    "y": 0.295,
+    "w": 0.018,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 23,
+   "form": "Ah Hiſſee",
+   "gloss": "my Friend",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "FRIEND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.3047,
+    "w": 0.0212,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 24,
+   "form": "Cappo tooka",
+   "gloss": "an Hat",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "HAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3593,
+    "y": 0.315,
+    "w": 0.0188,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 25,
+   "form": "Chatto",
+   "gloss": "Iron",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3593,
+    "y": 0.3247,
+    "w": 0.0188,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 26,
+   "form": "Meco",
+   "gloss": "a King",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "KING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.3344,
+    "w": 0.0212,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 27,
+   "form": "Ocunna",
+   "gloss": "Land",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "LAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3585,
+    "y": 0.3441,
+    "w": 0.0195,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 28,
+   "form": "Iſte Hatkee",
+   "gloss": "a white Man",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.3539,
+    "w": 0.0212,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 29,
+   "form": "Iſte Chautee",
+   "gloss": "an Indian or red Man",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "MAN",
+    "RED"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.3647,
+    "w": 0.0212,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 30,
+   "form": "Iſtee Luſte",
+   "gloss": "a negro or black Man",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "BLACK",
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.3844,
+    "w": 0.0212,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 31,
+   "form": "Hoakta",
+   "gloss": "a Woman",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.4038,
+    "w": 0.0212,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 32,
+   "form": "Stignee",
+   "gloss": "an Owl",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "OWL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3576,
+    "y": 0.4139,
+    "w": 0.0205,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 33,
+   "form": "Catcha",
+   "gloss": "a Panter",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.3576,
+    "y": 0.4238,
+    "w": 0.0205,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 34,
+   "form": "Chitloc",
+   "gloss": "an Horſe",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.3576,
+    "y": 0.4335,
+    "w": 0.0205,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 35,
+   "form": "Itchca",
+   "gloss": "a Gun",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "GUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3561,
+    "y": 0.4435,
+    "w": 0.022,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 36,
+   "form": "Slauſcau",
+   "gloss": "a Knife",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3576,
+    "y": 0.4538,
+    "w": 0.0205,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 37,
+   "form": "Cappo",
+   "gloss": "a Coat",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "COAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3576,
+    "y": 0.4635,
+    "w": 0.0205,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 38,
+   "form": "Cappo Lauco",
+   "gloss": "a great Coat",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "COAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3576,
+    "y": 0.4744,
+    "w": 0.0205,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 39,
+   "form": "Chautee",
+   "gloss": "Blood",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3576,
+    "y": 0.4832,
+    "w": 0.0205,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 40,
+   "form": "Stillipiga",
+   "gloss": "a Moccoſon or Shoe",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "ONE",
+    "SHOE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3576,
+    "y": 0.4935,
+    "w": 0.0205,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 41,
+   "form": "Ittee",
+   "gloss": "a tree",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3561,
+    "y": 0.5029,
+    "w": 0.022,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 42,
+   "form": "Toatka",
+   "gloss": "Fire",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3585,
+    "y": 0.5119,
+    "w": 0.0195,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 43,
+   "form": "Toſeena",
+   "gloss": "Bacon",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.3585,
+    "y": 0.5229,
+    "w": 0.0195,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 44,
+   "form": "Wawcaw Piſſee",
+   "gloss": "Milk",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "MILK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3593,
+    "y": 0.5323,
+    "w": 0.0188,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 45,
+   "form": "Wawcaw Piſſee Nehaw",
+   "gloss": "Butter",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "BUTTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3593,
+    "y": 0.5429,
+    "w": 0.0188,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 46,
+   "form": "WawcawPiſſee Tuckaliga",
+   "gloss": "Cheeſe",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.3593,
+    "y": 0.5527,
+    "w": 0.0188,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 47,
+   "form": "Tuckaliga",
+   "gloss": "Bread",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3585,
+    "y": 0.5626,
+    "w": 0.0195,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 48,
+   "form": "Ockchaunſwaw",
+   "gloss": "Salt",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "SALT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3568,
+    "y": 0.5723,
+    "w": 0.0212,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 49,
+   "form": "Haſwaw",
+   "gloss": "Penes",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "PEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3553,
+    "y": 0.5823,
+    "w": 0.0227,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 50,
+   "form": "Haſnilcaw",
+   "gloss": "Teſticuli",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.3553,
+    "y": 0.592,
+    "w": 0.0227,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 51,
+   "form": "Chulua",
+   "gloss": "Pudendum Muliebre",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.549,
+    "y": 0.2265,
+    "w": 0.1842,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 52,
+   "form": "Hieſka",
+   "gloss": "Fœminam ſubagitare",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.549,
+    "y": 0.2359,
+    "w": 0.1842,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 53,
+   "form": "Piſſee",
+   "gloss": "the Breaſt",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5545,
+    "y": 0.2454,
+    "w": 0.1096,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 54,
+   "form": "Epha",
+   "gloss": "a Dog",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5545,
+    "y": 0.2562,
+    "w": 0.2662,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 55,
+   "form": "Epha Hoakata",
+   "gloss": "a Bitch",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5545,
+    "y": 0.2662,
+    "w": 0.1426,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 56,
+   "form": "Nawenſſee",
+   "gloss": "a Bear",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "BEAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5545,
+    "y": 0.2759,
+    "w": 0.1143,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 57,
+   "form": "Chawcawcaw",
+   "gloss": "a Gooſe",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5561,
+    "y": 0.2859,
+    "w": 0.1362,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 58,
+   "form": "Futchu",
+   "gloss": "a Duck",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "DUCK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5545,
+    "y": 0.2956,
+    "w": 0.101,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 59,
+   "form": "Pinnua",
+   "gloss": "a Turkey",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "TURKEY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5545,
+    "y": 0.3059,
+    "w": 0.1153,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 60,
+   "form": "Ilklo",
+   "gloss": "a Squirrel",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "SQUIRREL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5545,
+    "y": 0.3156,
+    "w": 0.101,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 61,
+   "form": "Fuſwaw",
+   "gloss": "a Bird",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5545,
+    "y": 0.3254,
+    "w": 0.1034,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 62,
+   "form": "Choſee",
+   "gloss": "a Sheep",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "SHEEP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5561,
+    "y": 0.3356,
+    "w": 0.0978,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 63,
+   "form": "Choſochee",
+   "gloss": "a Hare or little Sheep",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "HARE",
+    "SHEEP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5561,
+    "y": 0.3459,
+    "w": 0.1973,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 64,
+   "form": "Wootcoo",
+   "gloss": "a Racoon",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5577,
+    "y": 0.3553,
+    "w": 0.1143,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 65,
+   "form": "Suka",
+   "gloss": "a Hog",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5577,
+    "y": 0.3684,
+    "w": 0.1143,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 66,
+   "form": "Suka Hatkee",
+   "gloss": "an Opoſſum or white Hog",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5577,
+    "y": 0.3816,
+    "w": 0.1143,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 67,
+   "form": "Telaſo",
+   "gloss": "a Town",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "TOWN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5569,
+    "y": 0.3947,
+    "w": 0.0978,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 68,
+   "form": "Ponunga",
+   "gloss": "an Indian Talk",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5537,
+    "y": 0.4051,
+    "w": 0.1599,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 69,
+   "form": "Ninnce Hee Mattee?",
+   "gloss": "is this the Way?",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5545,
+    "y": 0.4151,
+    "w": 0.199,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 70,
+   "form": "Iſte na aſtcha?",
+   "gloss": "where are you going?",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5537,
+    "y": 0.4347,
+    "w": 0.1998,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 71,
+   "form": "Na aſtcha Penſacola",
+   "gloss": "I am going to Penſacola",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5671,
+    "y": 0.4638,
+    "w": 0.1042,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 72,
+   "form": "Iſte nata iſca?",
+   "gloss": "where did you come from?",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5671,
+    "y": 0.4836,
+    "w": 0.1183,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 73,
+   "form": "Nata eſca New Orleans",
+   "gloss": "I came from New-Orleans",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5663,
+    "y": 0.5035,
+    "w": 0.1183,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 74,
+   "form": "Wee Hummee",
+   "gloss": "Rum, or ſtrong Water",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5569,
+    "y": 0.5141,
+    "w": 0.1966,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 75,
+   "form": "Fo in Chumba",
+   "gloss": "a Bee, or a Fly in Sweetneſs",
+   "section": "Catalogue of Indian Words",
+   "box": {
+    "page": 1,
+    "x": 0.5569,
+    "y": 0.5307,
+    "w": 0.1966,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 76,
+   "form": "Netta Haſſee",
+   "gloss": "the Sun",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5569,
+    "y": 0.5473,
+    "w": 0.1966,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 77,
+   "form": "Netlee Haſſee",
+   "gloss": "the Moon",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5529,
+    "y": 0.5639,
+    "w": 0.1497,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 78,
+   "form": "Cocheechumba",
+   "gloss": "a Star",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5552,
+    "y": 0.5735,
+    "w": 0.1286,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 79,
+   "form": "Tuſtaniga",
+   "gloss": "a Warrior",
+   "section": "Catalogue of Indian Words",
+   "concepts": [
+    "WARRIOR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5561,
+    "y": 0.5839,
+    "w": 0.1315,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 80,
+   "form": "Telawgo Hatchee",
+   "gloss": "Pea Creek",
+   "section": "River and creek names near Pensacola"
+  },
+  {
+   "n": 81,
+   "form": "Chaulee Hatchee",
+   "gloss": "Red River",
+   "section": "River and creek names near Pensacola",
+   "box": {
+    "page": 1,
+    "x": 0.3734,
+    "y": 0.6556,
+    "w": 0.4422,
+    "h": 0.01,
+    "approx": true
+   }
+  },
+  {
+   "n": 82,
+   "form": "Wee launco Hatchee",
+   "gloss": "yellow water River",
+   "section": "River and creek names near Pensacola",
+   "box": {
+    "page": 1,
+    "x": 0.3734,
+    "y": 0.6556,
+    "w": 0.4422,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 83,
+   "form": "Wee Luſtee",
+   "gloss": "black Water Creek",
+   "section": "River and creek names near Pensacola",
+   "box": {
+    "page": 1,
+    "x": 0.3734,
+    "y": 0.6805,
+    "w": 0.3778,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 84,
+   "form": "Wee Hatkee",
+   "gloss": "white Water Creek",
+   "section": "River and creek names near Pensacola",
+   "box": {
+    "page": 1,
+    "x": 0.3726,
+    "y": 0.705,
+    "w": 0.3786,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 85,
+   "form": "Wee Cuſſappee",
+   "gloss": "Cold Water Creek",
+   "section": "River and creek names near Pensacola",
+   "box": {
+    "page": 1,
+    "x": 0.3726,
+    "y": 0.705,
+    "w": 0.3786,
+    "h": 0.01
+   }
+  },
+  {
+   "n": 86,
+   "form": "Conakee Hatchee",
+   "gloss": "",
+   "section": "River and creek names near Pensacola"
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 86,
+  "notes": 0,
+  "located": 82
+ },
+ "partial": null,
+ "relation": null
+}

@@ -15,7 +15,7 @@ The title comes from Stephen Burrough's 1557 account of the Kola coast, printed 
 
 ## What is here now
 
-19 tables in 18 languages (3,298 entries), printed between 1580 and 1698.
+23 tables in 22 languages (3,559 entries), 1580–1834.
 
 | Language | Source | Printed |
 |---|---|---|
@@ -38,6 +38,10 @@ The title comes from Stephen Burrough's 1557 account of the Kola coast, printed 
 | Sinhala | Robert Knox, *An Historical Relation of the Island Ceylon* | 1681 |
 | Ge'ez, Amharic and Oromo | Hiob Ludolf, *A New History of Ethiopia* | 1682 |
 | Pidgin Delaware | Gabriel Thomas, *An Account of Pensilvania* | 1698 |
+| Malayalam (Malabar terms) | J. V. Stein van Gollenesse, *Mallabars woordenboek* (manuscript, Nationaal Archief, VOC 2601) | 1743 |
+| Uab Meto (Timorese) | W. van Hogendorp, in *Verhandelingen van het Bataviaasch Genootschap*, deel 2 | 1780 |
+| Muskogee (Creek) | John Pope, *A Tour through the Southern and Western Territories* | 1792 |
+| Meriam Mir | "Some Account of the Natives of Murray's Island", *United Service Journal* | 1834 |
 
 Each table has a page with the scanned pages, the transcription, and a panel for the selected
 entry. Clicking a line on the scan finds its entry, and the reverse. Entries have permanent links

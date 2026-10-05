@@ -7,7 +7,10 @@ export function getStaticPaths() {
 }
 const t: Table = byId[Astro.params.id!];
 const first = t.entries.find((e) => e.box) || t.entries[0];
-const fp = first.box ? t.pages[first.box.page] : t.pages[0];
+const fp = first.box ? t.pages[first.box.page] : t.pages[first.p ?? 0];
+const source = t.scan.source || "Internet Archive";
+const pageHref = (p: { leaf: number; href?: string }) => p.href || `https://archive.org/details/${t.scan.ia}/page/n${p.leaf}`;
+const ms = t.book.kind === "manuscript";
 const title = t.heading || `${t.language.name} vocabulary`;
 const idn = t.identification;
 
@@ -20,9 +23,10 @@ for (const e of t.entries) for (const c of e.concepts || []) {
 }
 const payload = {
   id: t.id, wtl: t.wtl, ia: t.scan.ia, cite: citation(t),
-  pages: t.pages.map((p) => ({ w: p.w, h: p.h, sm: p.sm, lg: p.lg, leaf: p.leaf })),
+  pages: t.pages.map((p) => ({ w: p.w, h: p.h, sm: p.sm, lg: p.lg, leaf: p.leaf, href: pageHref(p) })),
   entries: t.entries.map((e) => ({ n: e.n, f: e.form, g: e.gloss, b: e.box ? [e.box.page, e.box.x, e.box.y, e.box.w, e.box.h, e.box.approx ? 1 : 0] : null,
-    note: e.note || null, c: (e.concepts || []).map((c) => [c, conceptLabel(c)]), s: e.section || "", col: e.col || "" })),
+    note: e.note || null, c: (e.concepts || []).map((c) => [c, conceptLabel(c)]), s: e.section || "", col: e.col || "",
+    p: e.p ?? null, t: e.text || "", tr: e.trans || "", m: e.modern || null })),
   elsewhere, langs: Object.fromEntries(tables.map((x) => [x.id, x.language.name])),
 };
 const notesN = t.stats.notes;
@@ -64,7 +68,7 @@ const relTable = t.relation ? byId[t.relation.table] : null;
               <button type="button" class="icon-btn" data-zoom aria-label="Enlarge page (z)" title="Enlarge page (z)">
                 <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5M11 8v6M8 11h6"/></svg>
               </button>
-              <a class="icon-btn" data-ia href={`https://archive.org/details/${t.scan.ia}/page/n${fp.leaf}`} target="_blank" rel="noopener" aria-label="Open this page at the Internet Archive" title="Open at the Internet Archive">
+              <a class="icon-btn" data-ia href={pageHref(fp)} target="_blank" rel="noopener" aria-label={`Open this page at the ${source}`} title={`Open at the ${source}`}>
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>
               </a>
             </div>
@@ -76,11 +80,11 @@ const relTable = t.relation ? byId[t.relation.table] : null;
               <span class="band" data-band hidden></span>
             </div>
           </figure>
-          <div class="loupe-box">
+          <div class="loupe-box" hidden={t.stats.located === 0}>
             <div class="loupe-head"><span>Printed line, enlarged</span><span class="mono faint" data-loupe-label></span></div>
             <div class="loupe" data-loupe role="img" aria-label="The selected printed line, enlarged"></div>
           </div>
-          <p class="scan-credit faint">{t.scan.holder ? `${t.scan.holder} copy` : "Scan"} via the <a href={t.scan.url} target="_blank" rel="noopener">Internet Archive</a>{t.scan.note ? ` · ${t.scan.note}` : ""}</p>
+          <p class="scan-credit faint">{ms ? <a href={t.scan.url} target="_blank" rel="noopener">{t.scan.holder}</a> : <>{t.scan.holder ? `${t.scan.holder} copy` : "Scan"} via the <a href={t.scan.url} target="_blank" rel="noopener">{source}</a></>}{t.scan.note ? ` · ${t.scan.note}` : ""}</p>
         </section>
 
         <section class="pane list-pane" aria-label="Entries">
@@ -127,6 +131,12 @@ const relTable = t.relation ? byId[t.relation.table] : null;
           </div>
           <p class="i-form print" data-i-form>{first.form}</p>
           <p class="i-gloss" data-i-gloss>“{first.gloss}”</p>
+          <p class="i-modern" data-i-modern hidden></p>
+          <div class="i-block" data-i-text-box hidden>
+            <span class="i-label">{ms ? "As written" : "Text"}</span>
+            <p class="i-text print" data-i-text></p>
+            <p class="i-trans" data-i-trans></p>
+          </div>
           <div class="i-block">
             <span class="i-label">As printed</span>
             <div class="i-crop" data-i-crop role="img" aria-label="The printed line"></div>
@@ -157,14 +167,14 @@ const relTable = t.relation ? byId[t.relation.table] : null;
         <h2 id="about-h">About this table</h2>
         <dl class="facts">
           <dt>Language</dt><dd>{t.language.name}{t.language.path.length ? <span class="faint"> · {t.language.path.slice(0, 3).join(" › ")}</span> : null}</dd>
-          <dt>Printed in</dt><dd><i class="print">{t.book.title || t.book.short}</i> ({t.book.imprint || t.book.printed})</dd>
+          <dt>{ms ? "Source" : "Printed in"}</dt><dd><i class="print">{t.book.title || t.book.short}</i> ({t.book.imprint || t.book.printed})</dd>
           <dt>Author</dt><dd>{t.book.author}</dd>
           <dt>Collected by</dt><dd>{t.provenance.collector}</dd>
           <dt>Where</dt><dd>{t.provenance.place}</dd>
           <dt>When heard</dt><dd>{t.provenance.heard}</dd>
           {t.language.labels.length > 0 && <><dt>Called in the source</dt><dd>{t.language.labels.join("; ")}</dd></>}
-          <dt>Transcription</dt><dd>EEBO-TCP <span class="mono">{t.book.tcp}</span>, re-checked against the scan; spellings kept as printed</dd>
-          <dt>Page images</dt><dd>{t.scan.holder || "Scan"}, via the <a href={t.scan.url} target="_blank" rel="noopener">Internet Archive</a>{t.scan.note ? ` (${t.scan.note})` : ""}</dd>
+          <dt>Transcription</dt><dd>{t.transcription || <>EEBO-TCP <span class="mono">{t.book.tcp}</span>, re-checked against the scan; spellings kept as printed</>}</dd>
+          <dt>Page images</dt><dd>{t.scan.holder || "Scan"}, via the <a href={t.scan.url} target="_blank" rel="noopener">{source}</a>{t.scan.note ? ` (${t.scan.note})` : ""}</dd>
           <dt>Located on the page</dt><dd>{t.stats.located} of {t.stats.entries} entries</dd>
         </dl>
       </section>
@@ -286,6 +296,9 @@ const relTable = t.relation ? byId[t.relation.table] : null;
   .insp-nav { display: flex; gap: 2px; }
   .i-form { font-size: clamp(2rem, 3.3vw, 2.9rem); line-height: 1.02; overflow-wrap: anywhere; }
   .i-gloss { font-size: 18px; color: var(--ink-2); margin-top: -8px; }
+  .i-modern { font-size: 16px; color: var(--ink); margin-top: -8px; }
+  .i-text { font-size: 17px; line-height: 1.45; margin: 6px 0 0; }
+  .i-trans { color: var(--ink-2); line-height: 1.5; margin: 8px 0 0; }
   .i-block { display: grid; gap: 6px; }
   .i-label { font-size: 12px; color: var(--ink-3); }
   .i-crop { width: 100%; border-radius: 6px; border: 1px solid var(--rule); background-color: var(--rule-2); background-repeat: no-repeat; min-height: 28px; }
@@ -372,7 +385,7 @@ const relTable = t.relation ? byId[t.relation.table] : null;
   const img = q<HTMLImageElement>("[data-pageimg]"), frame = q(".page-frame"), band = q("[data-band]"), ghost = q("[data-ghost]");
   const loupe = q("[data-loupe]"), insp = q("[data-inspector]"), list = q("[data-entries]");
   const mobile = () => matchMedia("(max-width: 1100px)").matches;
-  let cur = 0, page = D.entries[0].b ? D.entries[0].b[0] : 0;
+  let cur = 0, page = D.entries[0].b ? D.entries[0].b[0] : (D.entries[0].p ?? 0);
 
   const fold = (s: string) => (s || "").toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/ſ/g, "s").replace(/vv/g, "w").replace(/v/g, "u").replace(/j/g, "i").replace(/y/g, "i").replace(/ck/g, "k").replace(/ph/g, "f");
   const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]!));
@@ -391,7 +404,7 @@ const relTable = t.relation ? byId[t.relation.table] : null;
     frame.style.aspectRatio = `${p.w}/${p.h}`;
     img.alt = `Page ${i + 1} of the table`;
     qa<HTMLButtonElement>("[data-page]").forEach((b) => b.setAttribute("aria-pressed", String(+b.dataset.page! === i)));
-    q<HTMLAnchorElement>("[data-ia]").href = `https://archive.org/details/${D.ia}/page/n${p.leaf}`;
+    q<HTMLAnchorElement>("[data-ia]").href = p.href;
   }
   function place(el: HTMLElement, b: B) {
     if (!b) { el.hidden = true; return; }
@@ -416,7 +429,7 @@ const relTable = t.relation ? byId[t.relation.table] : null;
     row.setAttribute("aria-selected", "true");
     list.setAttribute("aria-activedescendant", row.id);
     if (opts.scroll !== false) ensureVisible(row, !!opts.center);
-    if (e.b) { setPage(e.b[0]); }
+    if (e.b) { setPage(e.b[0]); } else if (e.p != null) { setPage(e.p); }
     place(band, e.b && e.b[0] === page ? e.b : null);
     const p = D.pages[e.b ? e.b[0] : page];
     const lc = cropCss(p, e.b, true, 0.004, 0.0015);
@@ -426,10 +439,15 @@ const relTable = t.relation ? byId[t.relation.table] : null;
     // inspector
     q("[data-i-pos]").textContent = `Entry ${e.n} · ${i + 1} of ${D.entries.length}`;
     q("[data-i-form]").textContent = e.f;
-    q("[data-i-gloss]").textContent = e.g ? `“${e.g}”` : "";
+    q("[data-i-gloss]").textContent = e.g && !e.m ? `“${e.g}”` : "";
+    const im = q("[data-i-modern]");
+    if (e.m) { im.hidden = false; im.textContent = [e.m.name, e.m.ml, e.m.where].filter(Boolean).join(" · "); } else { im.hidden = true; }
+    const tb = q("[data-i-text-box]");
+    if (e.t) { tb.hidden = false; q("[data-i-text]").textContent = e.t; q("[data-i-trans]").textContent = e.tr; } else { tb.hidden = true; }
     const ic = q("[data-i-crop]"); const cc = cropCss(p, e.b, true, 0.006, 0.0015);
     if (cc) { ic.style.backgroundImage = cc.bg; ic.style.backgroundSize = cc.size; ic.style.backgroundPosition = cc.pos; ic.style.aspectRatio = String(cc.ratio); ic.hidden = false; }
     else { ic.hidden = true; }
+    ic.closest<HTMLElement>(".i-block")!.hidden = !cc && !e.b;
     q("[data-i-approx]").hidden = !(e.b && e.b[5]);
     const nb = q("[data-i-note]");
     if (e.note) {

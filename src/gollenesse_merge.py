@@ -35,7 +35,7 @@ def main():
 
 
 
-SITE = "site/src/data/manuscripts/gollenesse.json"
+SITE = "data/site/manuscripts/gollenesse.json"
 
 
 def ident(x):

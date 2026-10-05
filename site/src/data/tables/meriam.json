@@ -1,0 +1,1083 @@
+{
+ "schema": 1,
+ "id": "meriam",
+ "wtl": "WTL-0020",
+ "heading": "The following is a vocabulary of some of the words of the language of the Murray islanders.",
+ "headings": [],
+ "language": {
+  "name": "Meriam Mir",
+  "glottocode": "meri1244",
+  "family": "Eastern Trans-Fly",
+  "path": [
+   "Eastern Trans-Fly",
+   "Binaturi",
+   "Kura"
+  ],
+  "labels": []
+ },
+ "region": "Australia & Pacific",
+ "book": {
+  "short": "Some Account of the Natives of Murray's Island",
+  "title": "Some Account of the Natives of Murray's Island in Torres' Straits. From the Journal of a Naval Officer",
+  "author": "a Naval Officer",
+  "printed": 1834,
+  "imprint": "The United Service Journal and Naval and Military Magazine, 1834, part II, pp. 194–202",
+  "tcp": "",
+  "cover": "meriam"
+ },
+ "provenance": {
+  "collector": "a Naval Officer",
+  "place": "Murray Island (Mer), Torres Strait",
+  "heard": "1833"
+ },
+ "scan": {
+  "ia": "in.ernet.dli.2015.21628",
+  "url": "https://archive.org/details/in.ernet.dli.2015.21628",
+  "holder": null,
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "pages": [
+  {
+   "leaf": 210,
+   "w": 3016,
+   "h": 5000,
+   "sm": "/scans/meriam/0210-900.webp",
+   "lg": "/scans/meriam/0210-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Madeau",
+   "gloss": "a head man or respected person",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1308,
+    "y": 0.3149,
+    "w": 0.7603,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 2,
+   "form": "Camear",
+   "gloss": "father",
+   "section": "",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1308,
+    "y": 0.3149,
+    "w": 0.7603,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 3,
+   "form": "Coskera",
+   "gloss": "mother",
+   "section": "",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1308,
+    "y": 0.3149,
+    "w": 0.7603,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 4,
+   "form": "Garri",
+   "gloss": "a woman",
+   "section": "",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1036,
+    "y": 0.3306,
+    "w": 0.7879,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 5,
+   "form": "Neoura",
+   "gloss": "a child",
+   "section": "",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1036,
+    "y": 0.3306,
+    "w": 0.7879,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 6,
+   "form": "Neoura garri",
+   "gloss": "a little girl",
+   "section": "",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1036,
+    "y": 0.3306,
+    "w": 0.7879,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 7,
+   "form": "Peka",
+   "gloss": "a fish",
+   "section": "",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.3474,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 8,
+   "form": "Eboura",
+   "gloss": "a bird",
+   "section": "",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.3474,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 9,
+   "form": "Eboura mera",
+   "gloss": "a singing bird",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.3474,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 10,
+   "form": "Chess",
+   "gloss": "a dog,—and Madeau could not find any other name for any four-footed animal, the likenesses of many of which were shown to him",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.3474,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 11,
+   "form": "Ilmere",
+   "gloss": "thunder",
+   "section": "",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1042,
+    "y": 0.3792,
+    "w": 0.7872,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 12,
+   "form": "Oura",
+   "gloss": "lightning, light, a red colour",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1039,
+    "y": 0.3968,
+    "w": 0.7879,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 13,
+   "form": "Lema",
+   "gloss": "the sun",
+   "section": "",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1039,
+    "y": 0.3968,
+    "w": 0.7879,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 14,
+   "form": "Meba",
+   "gloss": "the moon",
+   "section": "",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1039,
+    "y": 0.3968,
+    "w": 0.7879,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 15,
+   "form": "Vera",
+   "gloss": "a star",
+   "section": "",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.4134,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 16,
+   "form": "May",
+   "gloss": "the sky",
+   "section": "",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.4134,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 17,
+   "form": "Waga",
+   "gloss": "the wind",
+   "section": "",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.4134,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 18,
+   "form": "Mat",
+   "gloss": "the forehead",
+   "section": "",
+   "concepts": [
+    "FOREHEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.4134,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 19,
+   "form": "Peeta",
+   "gloss": "nose",
+   "section": "",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.43,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 20,
+   "form": "Erecap",
+   "gloss": "the eye",
+   "section": "",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.43,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 21,
+   "form": "Kerim",
+   "gloss": "the head",
+   "section": "",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.43,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 22,
+   "form": "Tereé",
+   "gloss": "the teeth",
+   "section": "",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1036,
+    "y": 0.4457,
+    "w": 0.7882,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 23,
+   "form": "Eruse",
+   "gloss": "the mouth",
+   "section": "",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1036,
+    "y": 0.4457,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 24,
+   "form": "Eruta",
+   "gloss": "the tongue",
+   "section": "",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1036,
+    "y": 0.4457,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 25,
+   "form": "Pella",
+   "gloss": "the ear",
+   "section": "",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1036,
+    "y": 0.4457,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 26,
+   "form": "Crimo",
+   "gloss": "the hair",
+   "section": "",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.4628,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 27,
+   "form": "Emoura",
+   "gloss": "the chin",
+   "section": "",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.4628,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 28,
+   "form": "Gam",
+   "gloss": "the body",
+   "section": "",
+   "concepts": [
+    "BODY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.4628,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 29,
+   "form": "Toga",
+   "gloss": "the arm",
+   "section": "",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.4628,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 30,
+   "form": "Tal",
+   "gloss": "the hand",
+   "section": "",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1032,
+    "y": 0.4801,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 31,
+   "form": "Tetera",
+   "gloss": "the foot or leg",
+   "section": "",
+   "concepts": [
+    "FOOT",
+    "LEG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1032,
+    "y": 0.4801,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 32,
+   "form": "Apper per Kerim",
+   "gloss": "a hat or cap",
+   "section": "",
+   "concepts": [
+    "CAP",
+    "HAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1032,
+    "y": 0.4801,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 33,
+   "form": "Top",
+   "gloss": "the upper part of any thing",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1039,
+    "y": 0.4966,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 34,
+   "form": "Isera",
+   "gloss": "a shell",
+   "section": "",
+   "concepts": [
+    "SHELL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1039,
+    "y": 0.4966,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 35,
+   "form": "Macaise",
+   "gloss": "a turtle",
+   "section": "",
+   "concepts": [
+    "TURTLE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1039,
+    "y": 0.4966,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 36,
+   "form": "Kaiso",
+   "gloss": "tortoise-shell",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.5129,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 37,
+   "form": "Idago",
+   "gloss": "the nautilus",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.5129,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 38,
+   "form": "Suga",
+   "gloss": "tobacco",
+   "section": "",
+   "concepts": [
+    "TOBACCO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.5129,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 39,
+   "form": "Klimsick",
+   "gloss": "a fork (wooden)",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.5129,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 40,
+   "form": "Turi",
+   "gloss": "iron,—every sort of metal, and everything made of metal is called Turi, as they know no metal but iron",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1059,
+    "y": 0.5637,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 41,
+   "form": "Demorupick or Turi",
+   "gloss": "an axe",
+   "section": "",
+   "concepts": [
+    "AXE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1059,
+    "y": 0.5637,
+    "w": 0.7875,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 42,
+   "form": "Owmis",
+   "gloss": "a mat",
+   "section": "",
+   "concepts": [
+    "MAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1059,
+    "y": 0.5637,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 43,
+   "form": "Lagar",
+   "gloss": "a rope",
+   "section": "",
+   "concepts": [
+    "ROPE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1059,
+    "y": 0.5637,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 44,
+   "form": "Gulli gulli lagar",
+   "gloss": "a thread",
+   "section": "",
+   "concepts": [
+    "THREAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1059,
+    "y": 0.5637,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 45,
+   "form": "Epe",
+   "gloss": "a plate,—in reference, probably, to a piece of slate, stone, or shell, used as such",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1039,
+    "y": 0.58,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 46,
+   "form": "Opoita",
+   "gloss": "a pistol, all sorts of fire-arms; but they have none",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.5963,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 47,
+   "form": "Gïode",
+   "gloss": "salt",
+   "section": "",
+   "concepts": [
+    "SALT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1042,
+    "y": 0.6127,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 48,
+   "form": "Cawka",
+   "gloss": "a yam",
+   "section": "",
+   "concepts": [
+    "YAM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1042,
+    "y": 0.6127,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 49,
+   "form": "Dawdaw",
+   "gloss": "grease or fat",
+   "section": "",
+   "concepts": [
+    "FAT (OILY)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1042,
+    "y": 0.6127,
+    "w": 0.7882,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 50,
+   "form": "Lara",
+   "gloss": "flesh",
+   "section": "",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1052,
+    "y": 0.6294,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 51,
+   "form": "Oragaw",
+   "gloss": "a potato (sweet)",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1052,
+    "y": 0.6294,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 52,
+   "form": "Ney",
+   "gloss": "water",
+   "section": "",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1052,
+    "y": 0.6294,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 53,
+   "form": "Wobba",
+   "gloss": "drink",
+   "section": "",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1052,
+    "y": 0.6294,
+    "w": 0.7875,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 54,
+   "form": "Isimere",
+   "gloss": "bread; probably they make yams or plantains into a sort of bread",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1062,
+    "y": 0.6463,
+    "w": 0.7892,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 55,
+   "form": "Wara",
+   "gloss": "a ship",
+   "section": "",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.6631,
+    "w": 0.7885,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 56,
+   "form": "Peraperé",
+   "gloss": "a looking-glass; probably every thing having a shining or polished surface",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.6631,
+    "w": 0.7885,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 57,
+   "form": "Tarpole",
+   "gloss": "a bottle; in reference, probably, to a calabash of that shape",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1049,
+    "y": 0.6793,
+    "w": 0.7879,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 58,
+   "form": "Walli",
+   "gloss": "clothes; all sorts of clothing are called walli",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1056,
+    "y": 0.7121,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 59,
+   "form": "Mam mam walli",
+   "gloss": "red cloth",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1056,
+    "y": 0.7121,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 60,
+   "form": "Gulli gulli walli",
+   "gloss": "blue cloth",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1056,
+    "y": 0.7121,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 61,
+   "form": "Caka caka walli",
+   "gloss": "white cloth",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.7275,
+    "w": 0.7885,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 62,
+   "form": "Oukus",
+   "gloss": "more",
+   "section": "",
+   "concepts": [
+    "MORE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.7275,
+    "w": 0.7885,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 63,
+   "form": "Ippeouka",
+   "gloss": "plenty",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1046,
+    "y": 0.7275,
+    "w": 0.7885,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 64,
+   "form": "Assai",
+   "gloss": "come here, or, I say",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1039,
+    "y": 0.7456,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 65,
+   "form": "Powta",
+   "gloss": "safe, free from danger",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1039,
+    "y": 0.7456,
+    "w": 0.7869,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 66,
+   "form": "Coco",
+   "gloss": "a bow",
+   "section": "",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1052,
+    "y": 0.7624,
+    "w": 0.7908,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 67,
+   "form": "Sarick",
+   "gloss": "an arrow or arrows",
+   "section": "",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1052,
+    "y": 0.7624,
+    "w": 0.7908,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 68,
+   "form": "Mera",
+   "gloss": "the native name of the island",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1052,
+    "y": 0.7624,
+    "w": 0.7908,
+    "h": 0.0166
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 68,
+  "notes": 0,
+  "located": 68
+ },
+ "partial": null,
+ "relation": null
+}

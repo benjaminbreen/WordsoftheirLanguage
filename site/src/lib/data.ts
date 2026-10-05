@@ -5,8 +5,9 @@ export interface Note { kind: string; label: string; text: string; compare: stri
 export interface Entry {
   n: number; form: string; gloss: string; section?: string; col?: string;
   concepts?: string[]; box?: Box; note?: Note;
+  p?: number; text?: string; trans?: string; modern?: { name: string; where: string; ml: string; conf: string };
 }
-export interface Page { leaf: number; w: number; h: number; sm: string; lg: string }
+export interface Page { leaf: number; w: number; h: number; sm: string; lg: string; href?: string; label?: string }
 export interface Candidate { name: string; db: string; family: string; path: string[]; z: number; n: number }
 export interface Identification {
   status: "resolved" | "abstain"; path: string[]; support: number[]; concepts: number; excluded: string[];
@@ -17,9 +18,10 @@ export interface Table {
   schema: number; id: string; wtl: string; heading: string | null; headings: string[];
   language: { name: string; glottocode: string | null; family: string | null; path: string[]; labels: string[] };
   region: string;
-  book: { short: string; title: string | null; author: string; printed: number; imprint: string | null; tcp: string; cover: string };
+  book: { short: string; title: string | null; author: string; printed: number; imprint: string | null; tcp: string; cover: string; kind?: string };
   provenance: { collector: string; place: string; heard: string };
-  scan: { ia: string; url: string; holder: string | null; note: string | null; rights: string };
+  scan: { ia: string; url: string; holder: string | null; note: string | null; rights: string; source?: string };
+  transcription?: string;
   pages: Page[]; entries: Entry[]; identification: Identification | null;
   stats: { entries: number; notes: number; located: number };
   partial: string | null; relation: { kind: string; table: string; text: string } | null;
@@ -29,7 +31,7 @@ const mods = import.meta.glob<{ default: Table }>("../data/tables/*.json", { eag
 export const tables: Table[] = Object.values(mods).map((m) => m.default).sort((a, b) => a.book.printed - b.book.printed);
 export const byId: Record<string, Table> = Object.fromEntries(tables.map((t) => [t.id, t]));
 
-export const REGIONS = ["North America", "Caribbean & South America", "Arctic & North", "Africa & Indian Ocean", "Asia"];
+export const REGIONS = ["North America", "Caribbean & South America", "Arctic & North", "Africa & Indian Ocean", "Asia", "Australia & Pacific"];
 
 export const totals = {
   tables: tables.length,
