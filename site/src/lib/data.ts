@@ -21,7 +21,7 @@ export interface Table {
   book: { short: string; title: string | null; author: string; printed: number; imprint: string | null; tcp: string; cover: string; kind?: string };
   provenance: { collector: string; place: string; heard: string };
   scan: { ia: string; url: string; holder: string | null; note: string | null; rights: string; source?: string };
-  transcription?: string;
+  transcription?: string; about?: string;
   pages: Page[]; entries: Entry[]; identification: Identification | null;
   stats: { entries: number; notes: number; located: number };
   partial: string | null; relation: { kind: string; table: string; text: string } | null;

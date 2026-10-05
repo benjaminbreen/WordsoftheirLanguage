@@ -49,6 +49,7 @@
   "rights": "Public domain scan; image via Internet Archive"
  },
  "transcription": null,
+ "about": null,
  "pages": [
   {
    "leaf": 123,
@@ -134,7 +135,7 @@
    "gloss": "Aske it",
    "section": "Some words of the Malish speech, which language is vsed throughout the East Indies, as French is in our Countrie, wherewith a man may trauell ouer all the Land. The Portugals speech is apt and profitable in these Islands, for there are many Interpreters which speake Portugall.",
    "concepts": [
-    "ASK (REQUEST)"
+    "ASK (INQUIRE)"
    ],
    "box": {
     "page": 0,
@@ -2407,7 +2408,7 @@
    "gloss": "a Néedle",
    "section": "Some words of the Malish speech, which language is vsed throughout the East Indies, as French is in our Countrie, wherewith a man may trauell ouer all the Land. The Portugals speech is apt and profitable in these Islands, for there are many Interpreters which speake Portugall.",
    "concepts": [
-    "NEEDLE (FOR SEWING)"
+    "NEEDLE (CLASSIFIER)"
    ],
    "box": {
     "page": 4,

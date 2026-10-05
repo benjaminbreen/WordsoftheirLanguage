@@ -42,6 +42,7 @@
   "rights": "Public domain scan; image via Internet Archive"
  },
  "transcription": null,
+ "about": null,
  "pages": [
   {
    "leaf": 89,
@@ -1256,7 +1257,7 @@
    "gloss": "a Needle",
    "section": "",
    "concepts": [
-    "NEEDLE (FOR SEWING)"
+    "NEEDLE (CLASSIFIER)"
    ]
   },
   {

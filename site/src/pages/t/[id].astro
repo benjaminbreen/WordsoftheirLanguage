@@ -166,6 +166,7 @@ const relTable = t.relation ? byId[t.relation.table] : null;
       <section class="block" aria-labelledby="about-h">
         <h2 id="about-h">About this table</h2>
         <dl class="facts">
+          {t.about && <><dt>About this source</dt><dd>{t.about}</dd></>}
           <dt>Language</dt><dd>{t.language.name}{t.language.path.length ? <span class="faint"> · {t.language.path.slice(0, 3).join(" › ")}</span> : null}</dd>
           <dt>{ms ? "Source" : "Printed in"}</dt><dd><i class="print">{t.book.title || t.book.short}</i> ({t.book.imprint || t.book.printed})</dd>
           <dt>Author</dt><dd>{t.book.author}</dd>

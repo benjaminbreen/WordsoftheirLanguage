@@ -53,6 +53,7 @@
   "rights": "Public domain scan; image via Internet Archive"
  },
  "transcription": null,
+ "about": null,
  "pages": [
   {
    "leaf": 383,
@@ -5408,7 +5409,7 @@
    "gloss": "A needle",
    "section": "V. Things relating to HOUSE-KEEPING and TRADE.",
    "concepts": [
-    "NEEDLE (FOR SEWING)"
+    "NEEDLE (CLASSIFIER)"
    ],
    "box": {
     "page": 6,

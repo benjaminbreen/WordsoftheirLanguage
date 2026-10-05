@@ -48,6 +48,7 @@
   "rights": "Public domain scan; image via Internet Archive"
  },
  "transcription": null,
+ "about": null,
  "pages": [
   {
    "leaf": 220,
@@ -925,7 +926,7 @@
    "gloss": "A Needle",
    "section": "The Malayan Tongue.",
    "concepts": [
-    "NEEDLE (FOR SEWING)"
+    "NEEDLE (CLASSIFIER)"
    ],
    "box": {
     "page": 0,

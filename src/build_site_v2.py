@@ -107,7 +107,7 @@ T = {
                     region="North America", lang="Pidgin Delaware", glotto="pidg1246",
                     short="An Historical and Geographical Account of Pensilvania", author="Gabriel Thomas", collector="Gabriel Thomas",
                     place="Pennsylvania and West New Jersey", heard="1680s–90s", printed=1698, tcp="A64548"),
-    "meriam": dict(csv="data/work/extract3/meriam_usj1834", ann=None, ident=None, cover="meriam",
+    "meriam": dict(about="From the journal of a naval officer whose ship left Port Jackson on 4 June 1833.", csv="data/work/extract3/meriam_usj1834", ann=None, ident=None, cover="meriam",
                    region="Australia & Pacific", lang="Meriam Mir", glotto="meri1244",
                    heading="The following is a vocabulary of some of the words of the language of the Murray islanders.",
                    short="Some Account of the Natives of Murray's Island", author="a Naval Officer",
@@ -115,7 +115,7 @@ T = {
                    title="Some Account of the Natives of Murray's Island in Torres' Straits. From the Journal of a Naval Officer",
                    imprint="The United Service Journal and Naval and Military Magazine, 1834, part II, pp. 194–202",
                    transcription="Transcribed from the scan; spellings kept as printed"),
-    "timor": dict(csv="data/work/extract3/timor_hogendorp", ann=None, ident=None, cover="timor",
+    "timor": dict(about="Printed at the end of van Hogendorp's description of Timor, continued from volume 1 of the Verhandelingen.", csv="data/work/extract3/timor_hogendorp", ann=None, ident=None, cover="timor",
                   region="Asia", lang="Uab Meto (Timorese)", glotto="uabm1237",
                   heading="Verzameling van eenige Timoreesche woorden",
                   short="Vervolg der Beschryving van het Eiland Timor", author="W. van Hogendorp",
@@ -123,14 +123,14 @@ T = {
                   title="Vervolg der Beschryving van het Eiland Timor, voor zoo verre het tot nog toe bekend is",
                   imprint="Verhandelingen van het Bataviaasch Genootschap der Konsten en Wetenschappen, deel 2, Batavia, 1780, pp. 102–105",
                   transcription="Transcribed from the scan; spellings kept as printed (long s as s)"),
-    "pope": dict(csv="data/work/extract3/pope_creek1792", ann=None, ident=None, cover="pope",
+    "pope": dict(about="Given to Pope on 29 June 1791 by the Little King of the Broken Arrow, translated by Mr. Darisoux, ‘Linguist to the Lower Creeks’.", csv="data/work/extract3/pope_creek1792", ann=None, ident=None, cover="pope",
                  region="North America", lang="Muskogee (Creek)", glotto="cree1270",
                  heading="The following Catalogue of Indian Words, with a literal Translation to each",
                  short="A Tour through the Southern and Western Territories", author="John Pope",
                  collector="John Pope, from the Little King of the Broken Arrow, translated by Mr. Darisoux", place="Lower Creek country",
                  heard="1791", printed=1792, tcp="", title="A Tour through the Southern and Western Territories of the United States of North-America",
                  imprint="Richmond, 1792", transcription="Transcribed from the scan; spellings kept as printed"),
-    "gollenesse": dict(kind="manuscript", src="data/site/manuscripts/gollenesse.json", cover="gollenesse",
+    "gollenesse": dict(about="Appended to Stein van Gollenesse's memoir for his successor at Cochin, Reinicus Siersma, 1743: ‘some notes in the form of a dictionary of the chief kingdoms, lands, towns, bazaars, pagodas, rivers, festivals and names in Malabar arranged in alphabetical order.’ Left out of the Madras printing of the memoir (1908); marked ‘[missing]’ in Galletti's translation (1911). This copy ends ‘Accordeert’ with a signature.", kind="manuscript", src="data/site/manuscripts/gollenesse.json", cover="gollenesse",
                        region="Asia", lang="Malayalam", glotto="mala1464", heading="Een Mallabars woordenboek",
                        short="Mallabars woordenboek", author="Julius Valentijn Stein van Gollenesse",
                        collector="J. V. Stein van Gollenesse", place="Cochin, Malabar Coast", heard="1734–43",
@@ -228,7 +228,11 @@ def manuscript(tid, c):
     entries = []
     for e in g["entries"]:
         idn = e.get("id") or {}
-        short = idn.get("modern") or re.split(r"(?<=[;.])\s", e["en"])[0]
+        name = (idn.get("modern") or "").strip()
+        if name and idn.get("conf") == "low" and "?" not in name:
+            name += "?"
+        idn = dict(idn, modern=name) if name else idn
+        short = name or re.split(r"(?<=[;.])\s", e["en"])[0]
         rec = dict(n=e["n"], form=e["hw"], gloss=short, section="", p=e["page"], text=e["nl"], trans=e["en"])
         if idn.get("modern"):
             rec["modern"] = dict(name=idn["modern"], where=idn.get("where") or "", ml=idn.get("ml") or "",
@@ -260,7 +264,7 @@ def main():
                 provenance=dict(collector=c["collector"], place=c["place"], heard=c["heard"]),
                 scan=dict(ia="", url=g["archive"]["url"], holder=c["holder"], note=c["archive"], source="Nationaal Archief",
                           rights="Images: Nationaal Archief, via GLOBALISE IIIF"),
-                transcription=c["transcription"],
+                transcription=c["transcription"], about=c.get("about"),
                 pages=pages, entries=entries, identification=None,
                 stats=dict(entries=len(entries), notes=0, located=0), partial=None, relation=None)
             json.dump(rec, open(f"{OUT}/tables/{tid}.json", "w"), ensure_ascii=False, indent=1)
@@ -347,7 +351,7 @@ def main():
             provenance=dict(collector=c["collector"], place=c["place"], heard=c["heard"]),
             scan=dict(ia=scan["ia"], url=f"https://archive.org/details/{scan['ia']}", holder=scan.get("contributor"),
                       note=scan.get("scan_note") or None, rights="Public domain scan; image via Internet Archive"),
-            transcription=c.get("transcription"),
+            transcription=c.get("transcription"), about=c.get("about"),
             pages=pages, entries=entries, identification=idn,
             stats=dict(entries=len(entries), notes=notes_n, located=sum(1 for e in entries if e.get("box"))),
             partial=c.get("partial"), relation=c.get("relation"))

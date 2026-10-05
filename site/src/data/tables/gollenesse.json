@@ -49,6 +49,7 @@
   "rights": "Images: Nationaal Archief, via GLOBALISE IIIF"
  },
  "transcription": "Transcribed from the manuscript; spellings kept as written",
+ "about": "Appended to Stein van Gollenesse's memoir for his successor at Cochin, Reinicus Siersma, 1743: ‘some notes in the form of a dictionary of the chief kingdoms, lands, towns, bazaars, pagodas, rivers, festivals and names in Malabar arranged in alphabetical order.’ Left out of the Madras printing of the memoir (1908); marked ‘[missing]’ in Galletti's translation (1911). This copy ends ‘Accordeert’ with a signature.",
  "pages": [
   {
    "leaf": 0,
@@ -1222,13 +1223,13 @@
   {
    "n": 41,
    "form": "Baloon",
-   "gloss": "Pulaya village headman (title uncertain)",
+   "gloss": "Pulaya village headman (title uncertain)?",
    "section": "",
    "p": 10,
    "text": "hoofd der Poelias van De Dorpen;",
    "trans": "Head of the Pulayas of the villages.",
    "modern": {
-    "name": "Pulaya village headman (title uncertain)",
+    "name": "Pulaya village headman (title uncertain)?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -1252,13 +1253,13 @@
   {
    "n": 43,
    "form": "Tecken Bardella",
-   "gloss": "Southern counterpart of 44 (unclear)",
+   "gloss": "Southern counterpart of 44 (unclear)?",
    "section": "",
    "p": 10,
    "text": "een stuk land van Cochim, zijn land is versprijt door geheel malabaar:",
    "trans": "[Southern Bardella,] a piece of land of Cochin; its land is scattered throughout Malabar.",
    "modern": {
-    "name": "Southern counterpart of 44 (unclear)",
+    "name": "Southern counterpart of 44 (unclear)?",
     "where": "Ernakulam district, Kerala",
     "ml": "",
     "conf": "low"
@@ -1312,13 +1313,13 @@
   {
    "n": 47,
    "form": "Barietta Poela",
-   "gloss": "Pillai of Attingal (Ettuveetil Pillamar survivor)",
+   "gloss": "Pillai of Attingal (Ettuveetil Pillamar survivor)?",
    "section": "",
    "p": 10,
    "text": "de Erf veldheer van atinga, die nog alleen maar overschiet vande 8 vermogende poelas die voor desen in het rijk van Trevancoor geweest zijn, zijn hof legt ¼ mijl van Coilan, hij heeft in desen oorlog zijne Landen moeten verlaten, die ten eenemaal geruineert sijn;",
    "trans": "The hereditary commander of Attingal, the only one remaining of the 8 powerful Pillais formerly in the kingdom of Travancore; his court is a quarter mile from Quilon. In this war he had to abandon his lands, which are entirely ruined.",
    "modern": {
-    "name": "Pillai of Attingal (Ettuveetil Pillamar survivor)",
+    "name": "Pillai of Attingal (Ettuveetil Pillamar survivor)?",
     "where": "Thiruvananthapuram district, Kerala",
     "ml": "",
     "conf": "low"
@@ -1492,13 +1493,13 @@
   {
    "n": 59,
    "form": "Betimene",
-   "gloss": "Karunagappally (Martha)",
+   "gloss": "Karunagappally (Martha)?",
    "section": "",
    "p": 13,
    "text": "een Rijkje vide Carimbalicoer,",
    "trans": "A petty kingdom; see Carimbalicoer.",
    "modern": {
-    "name": "Karunagappally (Martha)",
+    "name": "Karunagappally (Martha)?",
     "where": "Kollam district, Kerala",
     "ml": "",
     "conf": "low"
@@ -1507,13 +1508,13 @@
   {
    "n": 60,
    "form": "Bettemenij",
-   "gloss": "unidentified farm in Karunagappally",
+   "gloss": "unidentified farm in Karunagappally?",
    "section": "",
    "p": 13,
    "text": "een Pagt vande E:Comp: in de martha.",
    "trans": "A Company revenue farm ('pacht') in Martha (Karunagappally).",
    "modern": {
-    "name": "unidentified farm in Karunagappally",
+    "name": "unidentified farm in Karunagappally?",
     "where": "Kollam district, Kerala",
     "ml": "",
     "conf": "low"
@@ -1582,13 +1583,13 @@
   {
    "n": 65,
    "form": "Codda Bitsjoer",
-   "gloss": "Vechoor (lesser post)",
+   "gloss": "Vechoor (lesser post)?",
    "section": "",
    "p": 14,
    "text": "een Pagger een mijl aan dese kant gelegen in het Berkencoerse.",
    "trans": "A stockade a mile on this side, in Vadakkumkur.",
    "modern": {
-    "name": "Vechoor (lesser post)",
+    "name": "Vechoor (lesser post)?",
     "where": "Kottayam district, Kerala",
     "ml": "",
     "conf": "low"
@@ -1642,13 +1643,13 @@
   {
    "n": 69,
    "form": "Bawanaporam",
-   "gloss": "unidentified pepper district (Travancore)",
+   "gloss": "unidentified pepper district (Travancore)?",
    "section": "",
    "p": 14,
    "text": "een provintie tussen Peritallij, Climanoer en attingen gelegen, die veel pper: uijtlevert. —",
    "trans": "A province between Peritallij, Climanoer and Attingal, producing much pepper.",
    "modern": {
-    "name": "unidentified pepper district (Travancore)",
+    "name": "unidentified pepper district (Travancore)?",
     "where": "Travancore",
     "ml": "",
     "conf": "low"
@@ -1717,13 +1718,13 @@
   {
    "n": 74,
    "form": "Cacattoe Elledam",
-   "gloss": "Kakkattu Edam",
+   "gloss": "Kakkattu Edam?",
    "section": "",
    "p": 15,
    "text": "een der vier stamhuijsen van Coenattoenaddoe angecaijmaal;",
    "trans": "One of the four lineages (stamhuizen) of Coenattoenaddoe, [one of the] Angicaimals.",
    "modern": {
-    "name": "Kakkattu Edam",
+    "name": "Kakkattu Edam?",
     "where": "Ernakulam district",
     "ml": "",
     "conf": "low"
@@ -1867,13 +1868,13 @@
   {
    "n": 84,
    "form": "Callatil Elledam",
-   "gloss": "Kallattil Edam",
+   "gloss": "Kallattil Edam?",
    "section": "",
    "p": 17,
    "text": "een der stamhuijsen van Coenattoe naddoe angicaijmaal:",
    "trans": "One of the lineages of Coenattoenaddoe, Angicaimal.",
    "modern": {
-    "name": "Kallattil Edam",
+    "name": "Kallattil Edam?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -1912,13 +1913,13 @@
   {
    "n": 87,
    "form": "Calipara [?]",
-   "gloss": "unidentified district of Purakkad",
+   "gloss": "unidentified district of Purakkad?",
    "section": "",
    "p": 17,
    "text": "een Landstreek 5. mijlen van Porca toebehorende aan Repolim, levert 80. Candijlen peper uijt;",
    "trans": "A district 5 miles from Porca belonging to Repolim; yields 80 candies of pepper.",
    "modern": {
-    "name": "unidentified district of Purakkad",
+    "name": "unidentified district of Purakkad?",
     "where": "Alappuzha district",
     "ml": "",
     "conf": "low"
@@ -2062,13 +2063,13 @@
   {
    "n": 97,
    "form": "Cariapatnam",
-   "gloss": "unidentified headland near Colachel",
+   "gloss": "unidentified headland near Colachel?",
    "section": "",
    "p": 19,
    "text": "is een uijthoek 2 mijlen van Colletje, en ook soo verre van de Caab Commorijn men rekent deselve voor het begin van de west Caab;",
    "trans": "Is a headland 2 miles from Colletje and as far from Cape Comorin; it is reckoned the beginning of the West Cape.",
    "modern": {
-    "name": "unidentified headland near Colachel",
+    "name": "unidentified headland near Colachel?",
     "where": "Kanyakumari district",
     "ml": "",
     "conf": "low"
@@ -2077,13 +2078,13 @@
   {
    "n": 98,
    "form": "Caricottij",
-   "gloss": "see Toddopole (unidentified)",
+   "gloss": "see Toddopole (unidentified)?",
    "section": "",
    "p": 19,
    "text": "vide Toddopole,",
    "trans": "See Toddopole.",
    "modern": {
-    "name": "see Toddopole (unidentified)",
+    "name": "see Toddopole (unidentified)?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -2347,13 +2348,13 @@
   {
    "n": 116,
    "form": "Chaloer",
-   "gloss": "Perumpadappu (Cochin royal house)",
+   "gloss": "Perumpadappu (Cochin royal house)?",
    "section": "",
    "p": 21,
    "text": "het stamhuijs der thans regeerende koningen van Cochim, is het Laaste van alle, dog tot nog overvloedig voorsien van princen en princessen;",
    "trans": "The lineage of the currently reigning kings of Cochin; it is the last of all, but still abundantly provided with princes and princesses.",
    "modern": {
-    "name": "Perumpadappu (Cochin royal house)",
+    "name": "Perumpadappu (Cochin royal house)?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -2557,13 +2558,13 @@
   {
    "n": 130,
    "form": "Cheremagalam",
-   "gloss": "unidentified post near Vembanad (Cheremagalam)",
+   "gloss": "unidentified post near Vembanad (Cheremagalam)?",
    "section": "",
    "p": 25,
    "text": "legt voor aan op de breede revier van Porca over het Berkencoerse in het land van Cochim, de E: Comp: heeft hier een Post, om op de sluijkers te passen;",
    "trans": "Lies at the front on the broad river of Porca opposite Berkencoer territory in the land of Cochin; the Company has a post here to watch for smugglers.",
    "modern": {
-    "name": "unidentified post near Vembanad (Cheremagalam)",
+    "name": "unidentified post near Vembanad (Cheremagalam)?",
     "where": "Kottayam/Alappuzha",
     "ml": "",
     "conf": "low"
@@ -2572,13 +2573,13 @@
   {
    "n": 131,
    "form": "Cherletta",
-   "gloss": "unidentified bazaar",
+   "gloss": "unidentified bazaar?",
    "section": "",
    "p": 25,
    "text": "een basaar geleegen in't land van aijnecoettij, alwaar de EComp: een araadja houd met 16. lascorijns, om op de sluijkers te passen,",
    "trans": "A bazaar in the land of Aijnecoettij, where the Company keeps an araadja [watch-post?] with 16 lascarins to watch for smugglers.",
    "modern": {
-    "name": "unidentified bazaar",
+    "name": "unidentified bazaar?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -2617,13 +2618,13 @@
   {
    "n": 134,
    "form": "Chinen Chatten",
-   "gloss": "unidentified Madurai lord",
+   "gloss": "unidentified Madurai lord?",
    "section": "",
    "p": 26,
    "text": "een aansienlijk Landheer in het Land van Dandij [?], dog van minder aansien als.",
    "trans": "A distinguished lord in the land of Dandij [?], but of less standing than [the following].",
    "modern": {
-    "name": "unidentified Madurai lord",
+    "name": "unidentified Madurai lord?",
     "where": "Tamil Nadu",
     "ml": "",
     "conf": "low"
@@ -2632,13 +2633,13 @@
   {
    "n": 135,
    "form": "Chinen ananja Dewer",
-   "gloss": "unidentified Poligar",
+   "gloss": "unidentified Poligar?",
    "section": "",
    "p": 26,
    "text": "een van de aansienlijkste Palliagers in dat uijtgestrekte Rijk.",
    "trans": "One of the most distinguished Poligars in that extensive realm.",
    "modern": {
-    "name": "unidentified Poligar",
+    "name": "unidentified Poligar?",
     "where": "Tamil Nadu",
     "ml": "",
     "conf": "low"
@@ -2707,13 +2708,13 @@
   {
    "n": 140,
    "form": "Clapene Belian",
-   "gloss": "unidentified Kayamkulam lord",
+   "gloss": "unidentified Kayamkulam lord?",
    "section": "",
    "p": 26,
    "text": "een aansienlijk Landheer van Calicoilan;",
    "trans": "A distinguished lord of Calicoilan.",
    "modern": {
-    "name": "unidentified Kayamkulam lord",
+    "name": "unidentified Kayamkulam lord?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -2782,13 +2783,13 @@
   {
    "n": 145,
    "form": "Coddamaloer",
-   "gloss": "unidentified residence near Kottayam",
+   "gloss": "unidentified residence near Kottayam?",
    "section": "",
    "p": 28,
    "text": "een residentie plaats van Porca voor het vrouw getimmer legt in het Teckencoerse agter Cottatte;",
    "trans": "A residence of [the king of] Porca for the women's quarters; lies in Tekkumkur territory behind Kottayam.",
    "modern": {
-    "name": "unidentified residence near Kottayam",
+    "name": "unidentified residence near Kottayam?",
     "where": "Kottayam district",
     "ml": "",
     "conf": "low"
@@ -2842,13 +2843,13 @@
   {
    "n": 149,
    "form": "Coenaterij",
-   "gloss": "unidentified Kaimal",
+   "gloss": "unidentified Kaimal?",
    "section": "",
    "p": 29,
    "text": "een Caijmaal onder Cochim gehorende, heeft 300 naijros, desselfs landen grensen aan de brug Coeloerpala;",
    "trans": "A Caimal belonging under Cochin, has 300 Nairs; his lands border the bridge Coeloerpala.",
    "modern": {
-    "name": "unidentified Kaimal",
+    "name": "unidentified Kaimal?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -2902,13 +2903,13 @@
   {
    "n": 153,
    "form": "Coericattij",
-   "gloss": "unidentified pleasure-house",
+   "gloss": "unidentified pleasure-house?",
    "section": "",
    "p": 29,
    "text": "een Lusthuijs van den koning van Cochim 3 mijlen vande stad Cochim, waar den presenten koning zig de meeste tijd ophoud;",
    "trans": "A pleasure house of the King of Cochin 3 miles from the town of Cochin, where the present king stays most of the time.",
    "modern": {
-    "name": "unidentified pleasure-house",
+    "name": "unidentified pleasure-house?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -2917,13 +2918,13 @@
   {
    "n": 154,
    "form": "Coericattij Tawasij",
-   "gloss": "unidentified Kaimal lineage",
+   "gloss": "unidentified Kaimal lineage?",
    "section": "",
    "p": 29,
    "text": "een der seven stamhuijsen van Coeroemalacoer angicaimaal.",
    "trans": "One of the seven lineages of Coeroemalacoer, Angicaimal.",
    "modern": {
-    "name": "unidentified Kaimal lineage",
+    "name": "unidentified Kaimal lineage?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -2932,13 +2933,13 @@
   {
    "n": 155,
    "form": "Coettamagalam",
-   "gloss": "unidentified Kaimal lineage",
+   "gloss": "unidentified Kaimal lineage?",
    "section": "",
    "p": 29,
    "text": "een der 2 stamhuijsen van Cherallij, angicaijmaal",
    "trans": "One of the 2 lineages of Cherallij, Angicaimal.",
    "modern": {
-    "name": "unidentified Kaimal lineage",
+    "name": "unidentified Kaimal lineage?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -2947,13 +2948,13 @@
   {
    "n": 156,
    "form": "Coenenaddoe Coilan",
-   "gloss": "see Chittera Caddam",
+   "gloss": "see Chittera Caddam?",
    "section": "",
    "p": 29,
    "text": "vide Chittera Caddam;",
    "trans": "See Chittera Caddam.",
    "modern": {
-    "name": "see Chittera Caddam",
+    "name": "see Chittera Caddam?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -3097,13 +3098,13 @@
   {
    "n": 166,
    "form": "Coota",
-   "gloss": "see Dessam",
+   "gloss": "see Dessam?",
    "section": "",
    "p": 31,
    "text": "Vide Dessam,",
    "trans": "See Dessam.",
    "modern": {
-    "name": "see Dessam",
+    "name": "see Dessam?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -3292,13 +3293,13 @@
   {
    "n": 179,
    "form": "D'Tembij",
-   "gloss": "unidentified island",
+   "gloss": "unidentified island?",
    "section": "",
    "p": 34,
    "text": "een soort van een Eijland in het Berkencoerse aan dese kant van Caijkan en Badeattij, alwaar 's Comp:s volk eerst Post gevat heeft, wanneer men 1740. dit Rijk veroverde; —",
    "trans": "A sort of island in Berkencoer on this side of Caijkan and Badeattij, where the Company's men first took up position when this kingdom was conquered in 1740.",
    "modern": {
-    "name": "unidentified island",
+    "name": "unidentified island?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -3367,13 +3368,13 @@
   {
    "n": 184,
    "form": "Elledam",
-   "gloss": "Edam",
+   "gloss": "Edam?",
    "section": "",
    "p": 34,
    "text": "beduijd een aansienlijk Landheer zijnde omtrent als een graaf;",
    "trans": "Means a distinguished landlord, roughly equivalent to a count.",
    "modern": {
-    "name": "Edam",
+    "name": "Edam?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -3502,13 +3503,13 @@
   {
    "n": 193,
    "form": "Feredalve",
-   "gloss": "unidentified bathing place",
+   "gloss": "unidentified bathing place?",
    "section": "",
    "p": 36,
    "text": "word genaamt een plaats tussen Warapolij en Mangattij geleegen alwaar veele menschen gaan wassen, om dewille van het heerlijke water; die plaats gehoort aan Mangattij;",
    "trans": "Name of a place between Varapuzha and Mangattij where many people go to bathe because of the splendid water; it belongs to Mangattij.",
    "modern": {
-    "name": "unidentified bathing place",
+    "name": "unidentified bathing place?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -3661,13 +3662,13 @@
   {
    "n": 204,
    "form": "Irratta Peda",
-   "gloss": "Erattupetta",
+   "gloss": "Erattupetta?",
    "section": "",
    "p": 37,
    "text": "een voorname Peper Basaar in Oddewaga toebehorende Nawaijcattij Caijmaal;",
    "trans": "An important pepper bazaar in Oddewaga belonging to Nawaijcattij Kaimal.",
    "modern": {
-    "name": "Erattupetta",
+    "name": "Erattupetta?",
     "where": "Kottayam district, Kerala",
     "ml": "",
     "conf": "low"
@@ -3799,13 +3800,13 @@
   {
    "n": 214,
    "form": "Madiramcherij Elledam",
-   "gloss": "Madiramcheri Illam",
+   "gloss": "Madiramcheri Illam?",
    "section": "",
    "p": 38,
    "text": "een der 7. stamhuijsen van Baddercoer angecaimaal.",
    "trans": "One of the 7 lineages of Baddercoer Ange-kaimal.",
    "modern": {
-    "name": "Madiramcheri Illam",
+    "name": "Madiramcheri Illam?",
     "where": "Ernakulam district, Kerala",
     "ml": "",
     "conf": "low"
@@ -4444,13 +4445,13 @@
   {
    "n": 259,
    "form": "Nandiattoe Caimaal",
-   "gloss": "Nandiyattu Kaimal",
+   "gloss": "Nandiyattu Kaimal?",
    "section": "",
    "p": 45,
    "text": "legt in het Teckencoerse, heeft 1000: naijros, levert mede veel peper uijt;",
    "trans": "Lies in Teckencoer, has 1000 Nairs, also produces much pepper.",
    "modern": {
-    "name": "Nandiyattu Kaimal",
+    "name": "Nandiyattu Kaimal?",
     "where": "Kottayam district, Kerala",
     "ml": "",
     "conf": "low"
@@ -4513,13 +4514,13 @@
   {
    "n": 264,
    "form": "Nawaij Cattoe Caimaal",
-   "gloss": "Navaikkattu Kaimal",
+   "gloss": "Navaikkattu Kaimal?",
    "section": "",
    "p": 46,
    "text": "een magtig vasaal van Teckencoer, dien hij Egter weijnig agt, zijn land legt digt bij het gebergte en levert seer veel peper en areek uijt, die na het Pandijse word vervoert;",
    "trans": "A powerful vassal of Teckencoer, whom he however little regards; his land lies close to the mountains and produces very much pepper and areca, which is carried to the Pandi country.",
    "modern": {
-    "name": "Navaikkattu Kaimal",
+    "name": "Navaikkattu Kaimal?",
     "where": "Kottayam district, Kerala",
     "ml": "",
     "conf": "low"
@@ -5020,13 +5021,13 @@
   {
    "n": 299,
    "form": "Paponettij",
-   "gloss": "Pappinivattam",
+   "gloss": "Pappinivattam?",
    "section": "",
    "p": 49,
    "text": "een Dorp geleegen inde veroverde Landen van den Sammorijn en waar van het gantsche Conquest somtijds gen=t word Paponettij.",
    "trans": "A village in the conquered lands of the Zamorin, after which the whole conquest is sometimes called Paponettij.",
    "modern": {
-    "name": "Pappinivattam",
+    "name": "Pappinivattam?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -5050,13 +5051,13 @@
   {
    "n": 301,
    "form": "Parra Elledam",
-   "gloss": "Para Illam",
+   "gloss": "Para Illam?",
    "section": "",
    "p": 50,
    "text": "een der seven stamhuijsen van Baddercoer angie Caijmaal;",
    "trans": "One of the seven houses of the Baddercoer angie Caijmaal.",
    "modern": {
-    "name": "Para Illam",
+    "name": "Para Illam?",
     "where": "Kerala",
     "ml": "",
     "conf": "low"
@@ -5200,13 +5201,13 @@
   {
    "n": 311,
    "form": "Peritallij",
-   "gloss": "Peritalli (Elayadathu swarupam / Kottarakkara)",
+   "gloss": "Peritalli (Elayadathu swarupam / Kottarakkara)?",
    "section": "",
    "p": 51,
    "text": "een koningrijk tussen Trevancoor, Coilan, en het Pandijse Land geleegen agter Elleda soroewam, bestaat uijt de rijken Peritallij en Elleda soerowam, waar van het laatste het grootste is, en na dese kant van Coilan legt, vide Elledasoerowam, daar zijn 4 stamhuijsen Elledasoerowam, Peritallij, Coenoemelij, en Coerisoworam, die onder de naam van Peritallij begrepen zijn, waarvan niemand meer in wesen is, als die van Elleda soerowam;",
    "trans": "A kingdom between Travancore, Quilon and the Pandya land, lying behind Elleda soerowam; it consists of the kingdoms Peritallij and Elleda soerowam, of which the latter is the larger and lies on this side of Quilon (see Elledasoerowam). There are 4 houses, Elledasoerowam, Peritallij, Coenoemelij and Coerisoworam, comprised under the name Peritallij, of which none still exists except that of Elleda soerowam.",
    "modern": {
-    "name": "Peritalli (Elayadathu swarupam / Kottarakkara)",
+    "name": "Peritalli (Elayadathu swarupam / Kottarakkara)?",
     "where": "Kollam district, Kerala",
     "ml": "",
     "conf": "low"
@@ -5482,13 +5483,13 @@
   {
    "n": 331,
    "form": "Ramendra",
-   "gloss": "Samantha / Kshatriya rank (Ramendra paroesa)",
+   "gloss": "Samantha / Kshatriya rank (Ramendra paroesa)?",
    "section": "",
    "p": 53,
    "text": "paroesa vide nairos, wil zeggen Edeler als een nairos, gelijk de Samorijn, Signattij, Calicoilan, Tek, en Berkencoer, Peritallij, Arangoea, Colastrij, Cranganoor, en Aijroer;",
    "trans": "Ramendra paroesa: see Nairs; means nobler than a Nair, such as the Zamorin, Signattij, Calicoilan, Teck- and Berkencoer, Peritallij, Arangoea, Colastrij, Cranganore and Aijroer.",
    "modern": {
-    "name": "Samantha / Kshatriya rank (Ramendra paroesa)",
+    "name": "Samantha / Kshatriya rank (Ramendra paroesa)?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -5938,13 +5939,13 @@
   {
    "n": 363,
    "form": "Tiroemoenbenmaare",
-   "gloss": "Thirumumbu / Vaidika Namboodiri",
+   "gloss": "Thirumumbu / Vaidika Namboodiri?",
    "section": "",
    "p": 58,
    "text": "is een vande hoogste Bramines en haar ampt is als dat van een bisschop zij bemoeijen haar alleen met den gods Dienst, en mogen zoodra zij tot die waardigheijd verheeven zijn geen vrouwen meer zien;",
    "trans": "Is one of the highest Brahmins, and their office is like that of a bishop; they concern themselves only with divine service and, as soon as they are raised to that dignity, may no longer see women.",
    "modern": {
-    "name": "Thirumumbu / Vaidika Namboodiri",
+    "name": "Thirumumbu / Vaidika Namboodiri?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -6193,13 +6194,13 @@
   {
    "n": 380,
    "form": "Tsjeraiwaij of Tjerai Soerowan",
-   "gloss": "Cheraiswarupam (Kayamkulam group)",
+   "gloss": "Cheraiswarupam (Kayamkulam group)?",
    "section": "",
    "p": 61,
    "text": "worden de landen van Calicoilan, Pannapellij, Martha, en Bettemenij genoemt;",
    "trans": "The lands of Calicoilan, Pannapellij, Martha and Bettemenij are so called.",
    "modern": {
-    "name": "Cheraiswarupam (Kayamkulam group)",
+    "name": "Cheraiswarupam (Kayamkulam group)?",
     "where": "",
     "ml": "",
     "conf": "low"
@@ -6208,13 +6209,13 @@
   {
    "n": 381,
    "form": "Vreland",
-   "gloss": "Vreland (Dutch name)",
+   "gloss": "Vreland (Dutch name)?",
    "section": "",
    "p": 61,
    "text": "een Eijland door den Ragia van Calicoilan ten tijde vanden Commandeur van Rheede aande E: Comp: gegeven, legt tussen de Revieren van Coilan en Calicoilan regt in het gemeene vaarwater;",
    "trans": "An island given to the Company by the Raja of Calicoilan in the time of Commander van Rheede; lies between the rivers of Quilon and Calicoilan, right in the common fairway.",
    "modern": {
-    "name": "Vreland (Dutch name)",
+    "name": "Vreland (Dutch name)?",
     "where": "Kollam district, Kerala",
     "ml": "",
     "conf": "low"
@@ -6268,13 +6269,13 @@
   {
    "n": 385,
    "form": "Wattacaden",
-   "gloss": "Vannan / Veluthedathu (washermen)",
+   "gloss": "Vannan / Veluthedathu (washermen)?",
    "section": "",
    "p": 62,
    "text": "Reijnigers;",
    "trans": "Washermen/cleaners.",
    "modern": {
-    "name": "Vannan / Veluthedathu (washermen)",
+    "name": "Vannan / Veluthedathu (washermen)?",
     "where": "",
     "ml": "",
     "conf": "low"
