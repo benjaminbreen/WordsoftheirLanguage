@@ -50,3 +50,25 @@ Biblioteca, Calames, Bodleian, BnF Archives et manuscrits, Leiden. None of these
   Yamasee, Meherrin, Erie, Etchemin, Michigamea and others.
 - Method: generic phrase searches drown in known compilations (Hervás, Adelung, Klaproth); periodical-title
   restriction and manuscript catalogues were the only productive routes.
+
+## Round 2 (2026-10-10): old bibliographies read in reverse; TNA Discovery
+Files: `data/work/biblio/` (Ludewig 1858, Vater/Jülg 1847, Marsden 1796/1827), `data/work/discovery/`.
+Helper: `src/glotto_refs.py` (Glottolog references per language, for novelty checks).
+
+- Meriam Mir check: Wilson 1835 (cited by Glottolog) describes an 1822 visit from memory, with none of the
+  1834 list's words; the 1834 *United Service Journal* list is a separate record, earlier than Jukes 1847.
+- Discovery: RGS JMS/13/27, Mate Vallack's Port Essington vocabulary (1840, 9 pp.), sent by Owen Stanley,
+  recommended for publication, never printed; not in Glottolog's Iwaidja references.
+  Lancashire Archives DDHK 9/2/13 (c. 1662): "Malayan numbers and phrases" and "Cambrian speech used in
+  America" on a reused wrapper. TNA C 106/170-171: Scattergood's Chinese and Spanish commercial
+  vocabularies (1698-1719). Admiralty Library MSS 23 etc.: HMS Herald journal with Pacific vocabularies
+  (1852-55). UKHO LP1857 D/289: De Horsey and Montgomerie's Columbia River vocabulary (1848).
+- Marsden 1827 manuscripts (probably SOAS Marsden Collection, unverified): Palauan-Malay-English
+  vocabulary; English-Moroccan Arabic-Shilha vocabulary via Consul Matra, Tangier 1788; d'Entrecasteaux
+  expedition vocabularies of Van Diemen's Land and Tonga (1793); vocabularies of Assam dialects.
+  Neither Marsden catalogue mentions Rev. Samuel Marsden.
+- Ludewig 1858, lost manuscripts: Ucayali vocabularies (Conibo, Setebo, Campa) from the Chaumette des
+  Fossés sale, Paris 1842 (nos. 581-584); Siona "Diccionario y Doctrina en Lengua Zeona" (416 pp.) owned
+  by Joaquín Acosta; Michilimackinac French-Algonquin vocabulary 1740-48 (582 pp.) owned by Hugh Ramsay.
+- Vater/Jülg 1847: almost no manuscripts; minor printed orphans (Balfour 1844 Bauria etc.; Brumund on Aru;
+  Kilham's "Appa" and "Rungo").
