@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
+import vercel from "@astrojs/vercel";
 
 // Set SITE_URL in Vercel's environment once the domain is known.
 export default defineConfig({
@@ -8,4 +9,9 @@ export default defineConfig({
   build: { format: "file" },
   integrations: [sitemap()],
   prefetch: { prefetchAll: false, defaultStrategy: "hover" },
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
 });
