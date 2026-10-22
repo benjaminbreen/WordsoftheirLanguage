@@ -133,7 +133,7 @@ const relTable = t.relation ? byId[t.relation.table] : null;
           <p class="i-gloss" data-i-gloss>“{first.gloss}”</p>
           <p class="i-modern" data-i-modern hidden></p>
           <div class="i-block" data-i-text-box hidden>
-            <span class="i-label">{ms ? "As written" : "Text"}</span>
+            <span class="i-label" data-i-text-label>{ms ? "As written" : "Text"}</span>
             <p class="i-text print" data-i-text></p>
             <p class="i-trans" data-i-trans></p>
           </div>
@@ -444,7 +444,7 @@ const relTable = t.relation ? byId[t.relation.table] : null;
     const im = q("[data-i-modern]");
     if (e.m) { im.hidden = false; im.textContent = [e.m.name, e.m.ml, e.m.where].filter(Boolean).join(" · "); } else { im.hidden = true; }
     const tb = q("[data-i-text-box]");
-    if (e.t) { tb.hidden = false; q("[data-i-text]").textContent = e.t; q("[data-i-trans]").textContent = e.tr; } else { tb.hidden = true; }
+    if (e.t || e.tr) { tb.hidden = false; const te = q("[data-i-text]"); te.hidden = !e.t; q("[data-i-text-label]").textContent = e.t ? "As written" : "In English"; te.textContent = e.t; q("[data-i-trans]").textContent = e.tr; } else { tb.hidden = true; }
     const ic = q("[data-i-crop]"); const cc = cropCss(p, e.b, true, 0.006, 0.0015);
     if (cc) { ic.style.backgroundImage = cc.bg; ic.style.backgroundSize = cc.size; ic.style.backgroundPosition = cc.pos; ic.style.aspectRatio = String(cc.ratio); ic.hidden = false; }
     else { ic.hidden = true; }
@@ -456,7 +456,7 @@ const relTable = t.relation ? byId[t.relation.table] : null;
       q("[data-i-note-label]").textContent = e.note.label;
       q("[data-i-note-text]").textContent = e.note.text;
       q("[data-i-note-compare]").textContent = e.note.compare ? `Compare: ${e.note.compare}` : "";
-      q("[data-i-note-status]").textContent = e.note.checked ? "Draft note · confirmed by a second reading" : "Draft note · not yet reviewed";
+      q("[data-i-note-status]").textContent = e.note.kind === "compare" ? "" : e.note.checked ? "Draft note · confirmed by a second reading" : "Draft note · not yet reviewed";
     } else nb.hidden = true;
     const el: string[] = [];
     for (const [c, label] of e.c) for (const o of (D.elsewhere[c] || [])) {

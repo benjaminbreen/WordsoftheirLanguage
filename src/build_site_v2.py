@@ -130,7 +130,53 @@ T = {
                  collector="John Pope, from the Little King of the Broken Arrow, translated by Mr. Darisoux", place="Lower Creek country",
                  heard="1791", printed=1792, tcp="", title="A Tour through the Southern and Western Territories of the United States of North-America",
                  imprint="Richmond, 1792", transcription="Transcribed from the scan; spellings kept as printed"),
-    "gollenesse": dict(about="Appended to Stein van Gollenesse's memoir for his successor at Cochin, Reinicus Siersma, 1743: ‘some notes in the form of a dictionary of the chief kingdoms, lands, towns, bazaars, pagodas, rivers, festivals and names in Malabar arranged in alphabetical order.’ Left out of the Madras printing of the memoir (1908); marked ‘[missing]’ in Galletti's translation (1911). This copy ends ‘Accordeert’ with a signature.", kind="manuscript", src="data/site/manuscripts/gollenesse.json", cover="gollenesse",
+    "kavalan": dict(about="Collected by Collingwood at a Kavalan village on Sau-o Bay on 13 June 1866; printed as an appendix to his paper, which arrived too late to print with it.",
+                    csv="data/work/extract3/kavalan_collingwood1868", ann=None, ident=None, cover="kavalan",
+                    region="Asia", lang="Kavalan", glotto="kava1241",
+                    heading="Vocabulary of words used by the native inhabitants of Sau-o Bay, East Coast of Formosa.",
+                    short="Visit to the Kibalan Village of Sano Bay", author="Cuthbert Collingwood",
+                    collector="Cuthbert Collingwood", place="Sau-o Bay (Su'ao), north-east Formosa", heard="1866", printed=1868, tcp="",
+                    title="Visit to the Kibalan Village of Sano Bay, North-East Coast of Formosa. Including a Vocabulary of the Dialect",
+                    imprint="Transactions of the Ethnological Society of London, new series, vol. 6, 1868, pp. 362–363",
+                    transcription="Transcribed from the scan; spellings kept as printed"),
+    "tobi": dict(about="Compiled by Pickering from Horace Holden, an American seaman held on the island with Benjamin Nute from December 1832 to November 1834 after a shipwreck.",
+                 csv="data/work/extract3/tobian_pickering1846", ann=None, ident=None, cover="tobi",
+                 region="Australia & Pacific", lang="Tobian", glotto="tobi1238",
+                 heading="A Vocabulary of the Language of Lord North's Island, called by the Natives Tóbi",
+                 short="Remarks on the Language and Inhabitants of Lord North's Island", author="John Pickering",
+                 collector="John Pickering, from Horace Holden", place="Lord North's Island (Tobi)", heard="1832–34", printed=1846, tcp="",
+                 title="Remarks on the Language and Inhabitants of Lord North's Island, in the Indian Archipelago; with a Vocabulary",
+                 imprint="Memoirs of the American Academy of Arts and Sciences, new series, vol. 2, 1846, pp. 235–242",
+                 transcription="Transcribed from the scan; spellings kept as printed"),
+    "ngarigu": dict(about="Collected by Lhotsky on the Menero (Monaro) Downs; printed beside his Van Diemen's Land words.",
+                    csv="data/work/extract3/lhotsky1839", filt="ero downs", ann=None, ident=None, cover="lhotsky",
+                    region="Australia & Pacific", lang="Ngarigu", glotto="ngar1297",
+                    heading="A Short Vocabulary of the Natives of Van Diemen Land; and also of the Menero Downs",
+                    short="A Short Vocabulary of the Natives of Van Diemen Land", author="John Lhotsky",
+                    collector="John Lhotsky", place="Menero (Monaro) Downs, New South Wales", heard="1830s", printed=1839, tcp="",
+                    title="A Short Vocabulary of the Natives of Van Diemen Land; and also of the Menero Downs, in Australia",
+                    imprint="Journal of the Royal Geographical Society of London, vol. 9, 1839, pp. 157–162",
+                    transcription="Transcribed from the scan; spellings kept as printed"),
+    "tasmania": dict(about="Two columns: words collected by Lhotsky in 1835, and a list of 1803 from Péron's expedition, obtained by Robert Brown and added by the editors. E. and W. mark the east and west sides of the island.",
+                     csv="data/work/extract3/lhotsky1839", filt="land", cols=True, ann=None, ident=None, cover="lhotsky",
+                     region="Australia & Pacific", lang="Tasmanian", glotto="tasm1247",
+                     heading="A Short Vocabulary of the Natives of Van Diemen Land",
+                     short="A Short Vocabulary of the Natives of Van Diemen Land", author="John Lhotsky",
+                     collector="John Lhotsky (1835); Péron's expedition (1803)", place="Van Diemen's Land", heard="1803; 1835", printed=1839, tcp="",
+                     title="A Short Vocabulary of the Natives of Van Diemen Land; and also of the Menero Downs, in Australia",
+                     imprint="Journal of the Royal Geographical Society of London, vol. 9, 1839, pp. 157–162",
+                     transcription="Transcribed from the scan; spellings kept as printed"),
+    "dudley": dict(kind="manuscript", src="data/site/manuscripts/dudley.json", cover="dudley",
+                   about="Dudley's Italian version of the words he collected on Trinidad and the Orinoco in 1595, written into the draft of his sea atlas; the English list was printed by Hakluyt in 1600 (see the Lokono table). Four words are not in Hakluyt's list.",
+                   region="Caribbean & South America", lang="Lokono (Arawak)", glotto="araw1276",
+                   heading="Seque d'Alcune Parole della lingua Indiana ditta Trinidada et di Guiana",
+                   short="Arcano del mare, autograph draft", author="Robert Dudley",
+                   collector="Robert Dudley", place="Trinidad and Guiana", heard="1595",
+                   printed=1636, tcp="", title="Arcano del mare, vol. III (autograph draft), fol. 74v",
+                   imprint="Manuscript, before 1636",
+                   holder="Bayerische Staatsbibliothek, Munich", archive="Cod.icon. 140, fol. 74v",
+                   transcription="Transcribed from the manuscript; spellings kept as written"),
+    "gollenesse": dict(about="Appended to Stein van Gollenesse's memoir for his successor at Cochin, Reinicus Siersma, 1743: ‘some notes in the form of a dictionary of the chief kingdoms, lands, towns, bazaars, pagodas, rivers, festivals and names in Malabar arranged in alphabetical order.’ Left out of the Madras printing of the memoir (1908); marked ‘[missing]’ in Galletti's translation (1911). This copy ends ‘Accordeert’ with a signature.", kind="manuscript", labels=["Mallabaars"], src="data/site/manuscripts/gollenesse.json", cover="gollenesse",
                        region="Asia", lang="Malayalam", glotto="mala1464", heading="Een Mallabars woordenboek",
                        short="Mallabars woordenboek", author="Julius Valentijn Stein van Gollenesse",
                        collector="J. V. Stein van Gollenesse", place="Cochin, Malabar Coast", heard="1734–43",
@@ -139,6 +185,10 @@ T = {
                        holder="Nationaal Archief, The Hague", archive="VOC 1.04.02, inv. 2601, fol. 161–191",
                        transcription="Transcribed from the manuscript; spellings kept as written"),
 }
+
+# Permanent ids for tables added after the first 23 (dict order is not a stable source of ids).
+WTL = {"gollenesse": "WTL-0023", "kavalan": "WTL-0024", "tobi": "WTL-0025", "ngarigu": "WTL-0026",
+       "tasmania": "WTL-0027", "dudley": "WTL-0028"}
 
 CAT_LABEL = {"loan": "Loanword", "ostension": "Related meaning", "interactional": "Phrase taken for a word",
              "inflected": "Possessed or inflected form", "wrong_language": "Another language",
@@ -233,6 +283,13 @@ def manuscript(tid, c):
             name += "?"
         idn = dict(idn, modern=name) if name else idn
         short = name or re.split(r"(?<=[;.])\s", e["en"])[0]
+        if e.get("gloss") is not None:  # simple word list: gloss as written, English translation alongside
+            rec = dict(n=e["n"], form=e["hw"], gloss=e["gloss"], section=e.get("section", ""), p=e["page"],
+                       trans=e.get("en", ""))
+            if e.get("note"):
+                rec["note"] = dict(kind="compare", label="Note", text=e["note"], compare=None, checked=False)
+            entries.append(rec)
+            continue
         rec = dict(n=e["n"], form=e["hw"], gloss=short, section="", p=e["page"], text=e["nl"], trans=e["en"])
         if idn.get("modern"):
             rec["modern"] = dict(name=idn["modern"], where=idn.get("where") or "", ml=idn.get("ml") or "",
@@ -255,18 +312,18 @@ def main():
             entries, pages, g = manuscript(tid, c)
             fam = glottolog.path_names(c["glotto"]) if c.get("glotto") else []
             rec = dict(
-                schema=SCHEMA_VERSION, id=tid, wtl=f"WTL-{list(T).index(tid) + 1:04d}", heading=c["heading"], headings=[],
+                schema=SCHEMA_VERSION, id=tid, wtl=WTL.get(tid) or f"WTL-{list(T).index(tid) + 1:04d}", heading=c["heading"], headings=[],
                 language=dict(name=c["lang"], glottocode=c.get("glotto"), family=fam[0] if fam and fam[0] != c.get("glotto") else None,
-                              path=fam[:-1] if len(fam) > 1 else [], labels=["Mallabaars"]),
+                              path=fam[:-1] if len(fam) > 1 else [], labels=c.get("labels", [])),
                 region=c["region"],
                 book=dict(short=c["short"], title=c["title"], author=c["author"], printed=c["printed"], imprint=c["imprint"],
                           tcp="", cover=c["cover"], kind="manuscript"),
                 provenance=dict(collector=c["collector"], place=c["place"], heard=c["heard"]),
-                scan=dict(ia="", url=g["archive"]["url"], holder=c["holder"], note=c["archive"], source="Nationaal Archief",
-                          rights="Images: Nationaal Archief, via GLOBALISE IIIF"),
+                scan=dict(ia="", url=g["archive"]["url"], holder=c["holder"], note=c["archive"],
+                          source=g["archive"].get("source", "Nationaal Archief"), rights=g["archive"].get("rights", "")),
                 transcription=c["transcription"], about=c.get("about"),
                 pages=pages, entries=entries, identification=None,
-                stats=dict(entries=len(entries), notes=0, located=0), partial=None, relation=None)
+                stats=dict(entries=len(entries), notes=sum(1 for e in entries if e.get("note")), located=0), partial=None, relation=None)
             json.dump(rec, open(f"{OUT}/tables/{tid}.json", "w"), ensure_ascii=False, indent=1)
             catalog.append(dict(id=tid, wtl=rec["wtl"], heading=c["heading"], language=c["lang"], family=rec["language"]["family"],
                                 region=c["region"], short=c["short"], author=c["author"], collector=c["collector"],
@@ -293,7 +350,7 @@ def main():
             lab = (r.get("form_language_label_as_printed") or "").strip()
             if lab:
                 labels.add(lab)
-                if tid == "ludolf":
+                if tid == "ludolf" or c.get("cols"):
                     e["col"] = lab
             sec = re.sub(r"\s*\|.*$", "", e["section"]).strip()
             printed_head = sec and not sec.startswith("(") and len(sec) > 2 and not sec.lower().startswith("alphabet of")
@@ -341,7 +398,7 @@ def main():
         m = md.get(c["tcp"], {})
         notes_n = sum(1 for e in entries if e.get("note"))
         rec = dict(
-            schema=SCHEMA_VERSION, id=tid, wtl=f"WTL-{list(T).index(tid) + 1:04d}",
+            schema=SCHEMA_VERSION, id=tid, wtl=WTL.get(tid) or f"WTL-{list(T).index(tid) + 1:04d}",
             heading=c["heading"] if "heading" in c else (heads[0] if heads else None), headings=heads[:12],
             language=dict(name=c["lang"], glottocode=c.get("glotto"), family=fam[0] if fam and fam[0] != c.get("glotto") else None,
                           path=fam[:-1] if len(fam) > 1 else [], labels=sorted(labels)),

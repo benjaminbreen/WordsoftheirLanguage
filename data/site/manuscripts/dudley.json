@@ -1,0 +1,579 @@
+{
+ "archive": {
+  "url": "https://www.digitale-sammlungen.de/view/bsb00084102?page=159",
+  "scan_url": "https://www.digitale-sammlungen.de/view/bsb00084102?page=",
+  "source": "Bayerische Staatsbibliothek",
+  "rights": "Images: Bayerische Staatsbibliothek, MDZ"
+ },
+ "pages": [
+  {
+   "scan": "159",
+   "w": 2000,
+   "h": 2507,
+   "sm": "/scans/dudley/0159-900.webp",
+   "lg": "/scans/dudley/0159-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "hw": "Guttemock",
+   "gloss": "un huomo",
+   "en": "a man",
+   "note": "Hakluyt: GVttemock",
+   "page": 0
+  },
+  {
+   "n": 2,
+   "hw": "Dabarah ò Dabarra",
+   "gloss": "li Capelli della testa",
+   "en": "the hair of the head",
+   "note": "struck through after gloss: lo chiamano anco Tabairo",
+   "page": 0
+  },
+  {
+   "n": 3,
+   "hw": "Dessie",
+   "gloss": "la fronte",
+   "en": "the forehead",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 4,
+   "hw": "Dasereth ò Dacossi",
+   "gloss": "un occhio",
+   "en": "an eye",
+   "note": "Hakluyt: Dasereth, or Dacosi",
+   "page": 0
+  },
+  {
+   "n": 5,
+   "hw": "Dalacoack",
+   "gloss": "la Bocca",
+   "en": "the mouth",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 6,
+   "hw": "Areheh",
+   "gloss": "li Denti",
+   "en": "the teeth",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 7,
+   "hw": "Daria",
+   "gloss": "le gingie",
+   "en": "the gums",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 8,
+   "hw": "Besire",
+   "gloss": "le labre",
+   "en": "the lips",
+   "note": "Hakluyt: Desire",
+   "page": 0
+  },
+  {
+   "n": 9,
+   "hw": "Dill",
+   "gloss": "la lingua",
+   "en": "the tongue",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 10,
+   "hw": "Dudica",
+   "gloss": "l'orecchie",
+   "en": "the ears",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 11,
+   "hw": "Dacan",
+   "gloss": "la mano",
+   "en": "the hand",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 12,
+   "hw": "Dacabbo",
+   "gloss": "il Palmo della mano",
+   "en": "the palm of the hand",
+   "note": "'il' interlined",
+   "page": 0
+  },
+  {
+   "n": 13,
+   "hw": "Dadena",
+   "gloss": "il Polso",
+   "en": "the wrist/pulse",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 14,
+   "hw": "Dacurle",
+   "gloss": "il Genochio",
+   "en": "the knee",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 15,
+   "hw": "Daddano",
+   "gloss": "la Pulpa della Gamba",
+   "en": "the calf of the leg",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 16,
+   "hw": "Dabodda",
+   "gloss": "le dette di Piede",
+   "en": "the toes",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 17,
+   "hw": "Dacutti",
+   "gloss": "il Piede",
+   "en": "the foot",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 18,
+   "hw": "Cattie",
+   "gloss": "la Luna",
+   "en": "the moon",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 19,
+   "hw": "Tauraroth",
+   "gloss": "un Funio o Corda",
+   "en": "a rope or cord",
+   "note": "Hakluyt: Tauraroth (same)",
+   "page": 0
+  },
+  {
+   "n": 20,
+   "hw": "Archeano ò Arquecona",
+   "gloss": "un paio di Sizoia",
+   "en": "a pair of scissors",
+   "note": "Hakluyt: Arkeano and Arguecona as two entries",
+   "page": 0
+  },
+  {
+   "n": 21,
+   "hw": "Weenah",
+   "gloss": "Il Celo",
+   "en": "the sky/heaven",
+   "note": "n/u ambiguous; Hakluyt: Weeuah",
+   "page": 0
+  },
+  {
+   "n": 22,
+   "hw": "Harowa",
+   "gloss": "una Pietra che è buono p il dolore di testa",
+   "en": "a stone that is good for headache",
+   "note": "deleted stroke after form",
+   "page": 0
+  },
+  {
+   "n": 23,
+   "hw": "Momtiman",
+   "gloss": "è Ferro o accaio",
+   "en": "it is iron or steel",
+   "note": "minims ambiguous (Momtiman/Mointiman); Hakluyt: Mointiman",
+   "page": 0
+  },
+  {
+   "n": 24,
+   "hw": "Howa",
+   "gloss": "un Gatta mamona",
+   "en": "a monkey (gatto mammone)",
+   "note": "Hakluyt gloss: Munkeis in generall",
+   "page": 0
+  },
+  {
+   "n": 25,
+   "hw": "Carotta",
+   "gloss": "minestra ò Pappa",
+   "en": "soup or pap",
+   "note": "'minestra ò' interlined",
+   "page": 0
+  },
+  {
+   "n": 26,
+   "hw": "Sakel",
+   "gloss": "Sto bene",
+   "en": "I am well",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 27,
+   "hw": "Techir",
+   "gloss": "sono maniglie p il Braccio",
+   "en": "they are bracelets for the arm",
+   "note": "'sono' interlined",
+   "page": 0
+  },
+  {
+   "n": 28,
+   "hw": "Bodad",
+   "gloss": "una cassa ò casetta",
+   "en": "a box or chest",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 29,
+   "hw": "Mentinie",
+   "gloss": "Un Arbore",
+   "en": "a tree",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 30,
+   "hw": "Addele hegaeno",
+   "gloss": "un specchio",
+   "en": "a mirror",
+   "note": "Hakluyt: Addehegaeno",
+   "page": 0
+  },
+  {
+   "n": 31,
+   "hw": "Calcuri",
+   "gloss": "oro",
+   "en": "gold",
+   "note": "Hakluyt: Calcouri",
+   "page": 0
+  },
+  {
+   "n": 32,
+   "hw": "Perota",
+   "gloss": "Argento",
+   "en": "silver",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 33,
+   "hw": "Tacorao",
+   "gloss": "una Pietra verdiccia",
+   "en": "a greenish stone",
+   "note": "struck through after gloss: buona p[er] la ranella (?)",
+   "page": 0
+  },
+  {
+   "n": 34,
+   "hw": "Arara",
+   "gloss": "Rame",
+   "en": "copper",
+   "note": "Hakluyt: Arrara",
+   "page": 0
+  },
+  {
+   "n": 35,
+   "hw": "Caulpire",
+   "gloss": "una pietra Bianca",
+   "en": "a white stone",
+   "note": "Hakluyt: Caulpiri",
+   "page": 0
+  },
+  {
+   "n": 36,
+   "hw": "Casparo",
+   "gloss": "una spada",
+   "en": "a sword",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 37,
+   "hw": "Tibetebe",
+   "gloss": "Cochighe ò nicchi",
+   "en": "cockles or shells",
+   "note": "'ò nicchi' interlined",
+   "page": 0
+  },
+  {
+   "n": 38,
+   "hw": "Marrahabo",
+   "gloss": "un Arco",
+   "en": "a bow",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 39,
+   "hw": "Semara",
+   "gloss": "una freccia",
+   "en": "an arrow",
+   "note": "Hakluyt: Semaro",
+   "page": 0
+  },
+  {
+   "n": 40,
+   "hw": "Huculle",
+   "gloss": "la corda dell'Arco",
+   "en": "the bowstring",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 41,
+   "hw": "Halete",
+   "gloss": "la radice Patata",
+   "en": "the potato root",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 42,
+   "hw": "Caerwoda",
+   "gloss": "un altra radice molto dolce",
+   "en": "another very sweet root",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 43,
+   "hw": "Maurisse",
+   "gloss": "grano ò Maiz",
+   "en": "grain or maize",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 44,
+   "hw": "Yeddola",
+   "gloss": "un Coltello",
+   "en": "a knife",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 45,
+   "hw": "Beyou",
+   "gloss": "un Pifero ò flaute",
+   "en": "a fife or flute",
+   "note": "Hakluyt gloss: A pipe",
+   "page": 0
+  },
+  {
+   "n": 46,
+   "hw": "Queca",
+   "gloss": "una Paniera",
+   "en": "a basket",
+   "note": "Hakluyt: Qucca",
+   "page": 0
+  },
+  {
+   "n": 47,
+   "hw": "Samboler",
+   "gloss": "un Capello",
+   "en": "a hat",
+   "note": "Hakluyt: Sambolers",
+   "page": 0
+  },
+  {
+   "n": 48,
+   "hw": "Callit",
+   "gloss": "Pane",
+   "en": "bread",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 49,
+   "hw": "Oronuie ò Bara",
+   "gloss": "Aqua",
+   "en": "water",
+   "note": "'ò Bara' interlined; Hakluyt: Oronuie and Bara as two entries",
+   "page": 0
+  },
+  {
+   "n": 50,
+   "hw": "Heldaro",
+   "gloss": "un Cocaio",
+   "en": "a spoon",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 51,
+   "hw": "Hemachugh",
+   "gloss": "Pane di Cassava come mangiano loro",
+   "en": "cassava bread as they eat it",
+   "note": "'di Biscotto' struck through before 'di Cassava'; Hakluyt: Hemachug•",
+   "page": 0
+  },
+  {
+   "n": 52,
+   "hw": "Canoa",
+   "gloss": "una Barchetta",
+   "en": "a small boat",
+   "note": "not in Hakluyt",
+   "page": 0
+  },
+  {
+   "n": 53,
+   "hw": "Cassique",
+   "gloss": "Un Capitano",
+   "en": "a captain/chief",
+   "note": "not in Hakluyt",
+   "page": 0
+  },
+  {
+   "n": 54,
+   "hw": "Hicket",
+   "gloss": "fuoco",
+   "en": "fire",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 55,
+   "hw": "Walrowa",
+   "gloss": "un Popogaio",
+   "en": "a parrot",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 56,
+   "hw": "Vreit",
+   "gloss": "Tobacco",
+   "en": "tobacco",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 57,
+   "hw": "Baruddo",
+   "gloss": "un Pettine",
+   "en": "a comb",
+   "note": "Hakluyt: Batudda",
+   "page": 0
+  },
+  {
+   "n": 58,
+   "hw": "Addoth",
+   "gloss": "una Bachetta",
+   "en": "a stick/rod",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 59,
+   "hw": "Barennaipre",
+   "gloss": "Buttoni di vetro",
+   "en": "glass buttons (beads)",
+   "note": "'di vetro' interlined; Hakluyt: Barrennaire",
+   "page": 0
+  },
+  {
+   "n": 60,
+   "hw": "Curaballa",
+   "gloss": "un certa Pietra",
+   "en": "a certain stone",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 61,
+   "hw": "Sibath",
+   "gloss": "una pietra commune",
+   "en": "a common stone",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 62,
+   "hw": "Tolletillero",
+   "gloss": "una Sonaglia",
+   "en": "a (hawk's) bell",
+   "note": "'Campanella' struck through, 'Sonaglia' interlined; Hakluyt: Tolletille•o",
+   "page": 0
+  },
+  {
+   "n": 63,
+   "hw": "Vllasso",
+   "gloss": "il pesce Tonino",
+   "en": "the tuna fish",
+   "note": "Hakluyt: Vllas•o",
+   "page": 0
+  },
+  {
+   "n": 64,
+   "hw": "Bohey",
+   "gloss": "una pesce che vola",
+   "en": "a flying fish",
+   "note": "Hakluyt: Bohery",
+   "page": 0
+  },
+  {
+   "n": 65,
+   "hw": "Haddalle",
+   "gloss": "il Sole",
+   "en": "the sun",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 66,
+   "hw": "Non quo",
+   "gloss": "Non lo so",
+   "en": "I don't know",
+   "note": "",
+   "page": 0
+  },
+  {
+   "n": 67,
+   "hw": "Non quapo",
+   "gloss": "non lo posso dire",
+   "en": "I can't say",
+   "note": "Hakluyt: Non quapa",
+   "page": 0
+  },
+  {
+   "n": 68,
+   "hw": "Babage Canoasee",
+   "gloss": "quando chiamano o salutano un nave p comercio o di entrare dentro",
+   "en": "when they hail or greet a ship for trade or to come in",
+   "note": "Hakluyt: Babage-Canoaseen",
+   "page": 0
+  },
+  {
+   "n": 69,
+   "hw": "Wapototo",
+   "gloss": "il sugo d'un radice o herba con quale velenano lor flecci o saiette",
+   "en": "the juice of a root or herb with which they poison their arrows or darts",
+   "note": "reading of form uncertain (Wapototo/Waprotto); not in Hakluyt",
+   "page": 0
+  },
+  {
+   "n": 70,
+   "hw": "Babage",
+   "gloss": "p Come state ò quando salutano l'uno al Altro",
+   "en": "for 'how are you', or when they greet one another",
+   "note": "written 'Dicono anco Babage'; not separately in Hakluyt",
+   "page": 0
+  }
+ ]
+}

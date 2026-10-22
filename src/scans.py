@@ -50,6 +50,10 @@ TABLES = {
     "chile": ("americabeinglate01mont", "data/work/extract2/chilesian_ogilby_A53222", None, ""),
     "tupi": ("americabeinglate01mont", "data/work/extract2/tupi_ogilby_A53222", None, ""),
     "meriam": ("in.ernet.dli.2015.21628", "data/work/extract3/meriam_usj1834", None, ""),
+    "kavalan": ("jstor-3014253", "data/work/extract3/kavalan_collingwood1868", None, ""),
+    "ngarigu": ("jstor-1797719", "data/work/extract3/lhotsky1839", "ero downs", ""),
+    "tasmania": ("jstor-1797719", "data/work/extract3/lhotsky1839", "land", ""),
+    "tobi": ("jstor-25057933", "data/work/extract3/tobian_pickering1846", None, ""),
     "pope": ("cf-00001558", "data/work/extract3/pope_creek1792", None, "1888 reprint"),
     "timor": ("verhandelingenva21780bata", "data/work/extract3/timor_hogendorp", None, ""),
     "ludolf": ("bub_gb_buNBAQAAMAAJ", "data/work/extract2/ludolf_gallan_A49450", None, "1684 edition"),
@@ -292,7 +296,8 @@ def fetch_image(ia, leaf, md, outdir):
 
 
 # Tables whose pages the OCR cannot find on its own (poorly recognised forms): leaves fixed by hand.
-LEAVES = {"pope": [59, 60]}
+LEAVES = {"pope": [59, 60], "kavalan": [10, 11], "tobi": list(range(31, 39)),
+          "ngarigu": [3, 4, 5, 6], "tasmania": [3, 4, 5, 6]}
 
 
 def run(tid):

@@ -1,0 +1,2486 @@
+{
+ "schema": 1,
+ "id": "ngarigu",
+ "wtl": "WTL-0026",
+ "heading": "A Short Vocabulary of the Natives of Van Diemen Land; and also of the Menero Downs",
+ "headings": [
+  "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+  "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+  "English. / Menero Downs.",
+  "English. / Monero Downs."
+ ],
+ "language": {
+  "name": "Ngarigu",
+  "glottocode": "ngar1297",
+  "family": "Pama-Nyungan",
+  "path": [
+   "Pama-Nyungan",
+   "Southeastern Pama-Nyungan",
+   "New South Wales Pama-Nyungan",
+   "Yuin-Kuri",
+   "Yuin",
+   "Southern Inland Yuin"
+  ],
+  "labels": [
+   "Menero Downs",
+   "Monero Downs"
+  ]
+ },
+ "region": "Australia & Pacific",
+ "book": {
+  "short": "A Short Vocabulary of the Natives of Van Diemen Land",
+  "title": "A Short Vocabulary of the Natives of Van Diemen Land; and also of the Menero Downs, in Australia",
+  "author": "John Lhotsky",
+  "printed": 1839,
+  "imprint": "Journal of the Royal Geographical Society of London, vol. 9, 1839, pp. 157–162",
+  "tcp": "",
+  "cover": "lhotsky"
+ },
+ "provenance": {
+  "collector": "John Lhotsky",
+  "place": "Menero (Monaro) Downs, New South Wales",
+  "heard": "1830s"
+ },
+ "scan": {
+  "ia": "jstor-1797719",
+  "url": "https://archive.org/details/jstor-1797719",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Collected by Lhotsky on the Menero (Monaro) Downs; printed beside his Van Diemen's Land words.",
+ "pages": [
+  {
+   "leaf": 3,
+   "w": 1610,
+   "h": 2570,
+   "sm": "/scans/ngarigu/0003-900.webp",
+   "lg": "/scans/ngarigu/0003-1800.webp"
+  },
+  {
+   "leaf": 4,
+   "w": 1610,
+   "h": 2570,
+   "sm": "/scans/ngarigu/0004-900.webp",
+   "lg": "/scans/ngarigu/0004-1800.webp"
+  },
+  {
+   "leaf": 5,
+   "w": 1610,
+   "h": 2570,
+   "sm": "/scans/ngarigu/0005-900.webp",
+   "lg": "/scans/ngarigu/0005-1800.webp"
+  },
+  {
+   "leaf": 6,
+   "w": 1610,
+   "h": 2570,
+   "sm": "/scans/ngarigu/0006-900.webp",
+   "lg": "/scans/ngarigu/0006-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 4,
+   "form": "Yarang",
+   "gloss": "Beard",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "BEARD"
+   ]
+  },
+  {
+   "n": 7,
+   "form": "Gundungela",
+   "gloss": "Ear",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "EAR"
+   ]
+  },
+  {
+   "n": 11,
+   "form": "Yongra",
+   "gloss": "Elbow ?",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "ELBOW"
+   ]
+  },
+  {
+   "n": 14,
+   "form": "Mekeleit ?",
+   "gloss": "Eye",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "EYE"
+   ]
+  },
+  {
+   "n": 18,
+   "form": "Mondeng",
+   "gloss": "Foot",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "FOOT"
+   ]
+  },
+  {
+   "n": 21,
+   "form": "Yarang",
+   "gloss": "Hair",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4984,
+    "y": 0.1961,
+    "w": 0.1491,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 25,
+   "form": "Moranga",
+   "gloss": "Hand",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "HAND"
+   ]
+  },
+  {
+   "n": 29,
+   "form": "Karagarab",
+   "gloss": "Knee",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "KNEE"
+   ]
+  },
+  {
+   "n": 33,
+   "form": "Dara",
+   "gloss": "Leg",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "LEG"
+   ]
+  },
+  {
+   "n": 36,
+   "form": "Nurnana",
+   "gloss": "Nose",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "NOSE"
+   ]
+  },
+  {
+   "n": 40,
+   "form": "Uranganabili",
+   "gloss": "Teeth",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "TOOTH"
+   ]
+  },
+  {
+   "n": 44,
+   "form": "Talang",
+   "gloss": "Tongue",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "TONGUE"
+   ]
+  },
+  {
+   "n": 48,
+   "form": "Dara",
+   "gloss": "Thigh",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "concepts": [
+    "THIGH"
+   ]
+  },
+  {
+   "n": 52,
+   "form": "Bindi",
+   "gloss": "Belly",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1388,
+    "y": 0.1967,
+    "w": 0.2391,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 54,
+   "form": "Pinenana",
+   "gloss": "Breast",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.2078,
+    "w": 0.2696,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 57,
+   "form": "Undogera",
+   "gloss": "Chin",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1394,
+    "y": 0.22,
+    "w": 0.272,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 60,
+   "form": "Mimorung",
+   "gloss": "Eyebrow",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "EYEBROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1394,
+    "y": 0.234,
+    "w": 0.2814,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 68,
+   "form": "Tambamba",
+   "gloss": "Lips",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1394,
+    "y": 0.2965,
+    "w": 0.2845,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 70,
+   "form": "Ulinala",
+   "gloss": "Nails",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1388,
+    "y": 0.3078,
+    "w": 0.2528,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 72,
+   "form": "Niurung",
+   "gloss": "Navel",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "NAVEL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.3204,
+    "w": 0.2627,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 74,
+   "form": "Unanana",
+   "gloss": "Neck",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3239,
+    "y": 0.334,
+    "w": 0.2466,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 75,
+   "form": "Wadyidya",
+   "gloss": "Neck",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3252,
+    "y": 0.3473,
+    "w": 0.2826,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 78,
+   "form": "Tumun",
+   "gloss": "Posteriora",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 0,
+    "x": 0.1419,
+    "y": 0.3576,
+    "w": 0.2503,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 80,
+   "form": "Jabijang*",
+   "gloss": "Virilia",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 0,
+    "x": 0.1413,
+    "y": 0.37,
+    "w": 0.2745,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 82,
+   "form": "Kulumbeo",
+   "gloss": "Clouds",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "CLOUD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1419,
+    "y": 0.3947,
+    "w": 0.2789,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 84,
+   "form": "Nangeri",
+   "gloss": "Day",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1419,
+    "y": 0.4086,
+    "w": 0.2584,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 86,
+   "form": "Kembi",
+   "gloss": "Fire",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.4196,
+    "w": 0.246,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 89,
+   "form": "Kurungeran",
+   "gloss": "Lightning",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1413,
+    "y": 0.4337,
+    "w": 0.2944,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 91,
+   "form": "Kabatá",
+   "gloss": "Moon",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.4447,
+    "w": 0.2491,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 93,
+   "form": "Direit. Wallund",
+   "gloss": "Night",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.4582,
+    "w": 0.3286,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 95,
+   "form": "Gunyimá",
+   "gloss": "Snow",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1401,
+    "y": 0.4695,
+    "w": 0.2665,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 97,
+   "form": "Jinji",
+   "gloss": "Star",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.4821,
+    "w": 0.2273,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 99,
+   "form": "Mamadi",
+   "gloss": "Sun",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1413,
+    "y": 0.4947,
+    "w": 0.259,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 102,
+   "form": "Meibi",
+   "gloss": "Thunder",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1401,
+    "y": 0.5072,
+    "w": 0.2398,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 104,
+   "form": "Bring",
+   "gloss": "Earth",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1401,
+    "y": 0.5323,
+    "w": 0.241,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 106,
+   "form": "Taura",
+   "gloss": "Ground",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "GROUND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.5447,
+    "w": 0.241,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 108,
+   "form": "Kurrubang",
+   "gloss": "Rock",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "ROCK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1401,
+    "y": 0.5576,
+    "w": 0.2857,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 110,
+   "form": "Tunung. Gibba",
+   "gloss": "Stone",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1394,
+    "y": 0.5704,
+    "w": 0.3255,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 113,
+   "form": "Wadyang",
+   "gloss": "Water (fresh)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.584,
+    "w": 0.2752,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 116,
+   "form": "Nirwan",
+   "gloss": "Acacia",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.6078,
+    "w": 0.2522,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 117,
+   "form": "Parrunga",
+   "gloss": "Bark",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "BARK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1425,
+    "y": 0.62,
+    "w": 0.2683,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 119,
+   "form": "Palluk",
+   "gloss": "Branch",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "BRANCH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.6329,
+    "w": 0.2453,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 124,
+   "form": "Kundika",
+   "gloss": "Leaf",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "LEAF"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.6702,
+    "w": 0.2646,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 126,
+   "form": "Waddi",
+   "gloss": "Tree",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1401,
+    "y": 0.6827,
+    "w": 0.2478,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 128,
+   "form": "Kayora†",
+   "gloss": "Wood",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.6955,
+    "w": 0.2627,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 131,
+   "form": "Mundaith",
+   "gloss": ",, charcoal",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "CHARCOAL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1537,
+    "y": 0.7103,
+    "w": 0.2609,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 133,
+   "form": "Bubel",
+   "gloss": "Boy",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1401,
+    "y": 0.7346,
+    "w": 0.2422,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 135,
+   "form": "Didya",
+   "gloss": "Brother",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1401,
+    "y": 0.7455,
+    "w": 0.2422,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 137,
+   "form": "Yong",
+   "gloss": "Old man",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 0,
+    "x": 0.1401,
+    "y": 0.7593,
+    "w": 0.236,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 139,
+   "form": "Manyoc",
+   "gloss": "Bandicoot",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "BANDICOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.7825,
+    "w": 0.2584,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 141,
+   "form": "Warragulmongi",
+   "gloss": "Dog (native)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 0,
+    "x": 0.1401,
+    "y": 0.7971,
+    "w": 0.4957,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 143,
+   "form": "Biddibang",
+   "gloss": "Emu",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "EMU"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1413,
+    "y": 0.808,
+    "w": 0.2807,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 145,
+   "form": "Kunimein",
+   "gloss": "Kangaroo rat",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 0,
+    "x": 0.1407,
+    "y": 0.8218,
+    "w": 0.2752,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 147,
+   "form": "Buckani",
+   "gloss": "Opossum",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "OPOSSUM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1413,
+    "y": 0.834,
+    "w": 0.2615,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 149,
+   "form": "Wagulin",
+   "gloss": "Crow",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "CROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1413,
+    "y": 0.8453,
+    "w": 0.2658,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 151,
+   "form": "Miuro",
+   "gloss": "Hawk",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "HAWK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1401,
+    "y": 0.8578,
+    "w": 0.2416,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 153,
+   "form": "Goniak",
+   "gloss": "Swan",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "SWAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1376,
+    "y": 0.1794,
+    "w": 0.2528,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 155,
+   "form": "Kulitkat",
+   "gloss": "Parrot",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "PARROT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1382,
+    "y": 0.1918,
+    "w": 0.2609,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 157,
+   "form": "Nako",
+   "gloss": "Fly",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "FLY (INSECT)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1376,
+    "y": 0.2181,
+    "w": 0.2354,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 159,
+   "form": "Taralangana",
+   "gloss": "Oyster",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 1,
+    "x": 0.1376,
+    "y": 0.2309,
+    "w": 0.2981,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 161,
+   "form": "Yerrigereit",
+   "gloss": "Frog",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "FROG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3177,
+    "y": 0.2436,
+    "w": 0.2602,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 163,
+   "form": "Tidyuka",
+   "gloss": "Snake",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "SNAKE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1388,
+    "y": 0.2545,
+    "w": 0.2596,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 167,
+   "form": "Droyoyelak",
+   "gloss": "Beads",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "BEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1382,
+    "y": 0.2918,
+    "w": 0.2882,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 169,
+   "form": "Uikimá",
+   "gloss": "Drink (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1401,
+    "y": 0.3183,
+    "w": 0.2516,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 174,
+   "form": "Brigang",
+   "gloss": "Laugh (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "LAUGH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1376,
+    "y": 0.3436,
+    "w": 0.2609,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 176,
+   "form": "Viribinela",
+   "gloss": "Call (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "CALL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3177,
+    "y": 0.3543,
+    "w": 0.0957,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 178,
+   "form": "Monri",
+   "gloss": "Run (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "RUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3177,
+    "y": 0.3667,
+    "w": 0.3217,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 180,
+   "form": "Malaki",
+   "gloss": "Sit down (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 1,
+    "x": 0.3171,
+    "y": 0.379,
+    "w": 0.2571,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 183,
+   "form": "Wabmalanga",
+   "gloss": "Weep (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 1,
+    "x": 0.1357,
+    "y": 0.3928,
+    "w": 0.305,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 185,
+   "form": "Birraganya",
+   "gloss": "Die (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "DIE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1376,
+    "y": 0.4053,
+    "w": 0.2863,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 187,
+   "form": "Kumong",
+   "gloss": "Sleep (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.137,
+    "y": 0.4179,
+    "w": 0.2627,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 189,
+   "form": "Narang. Miti",
+   "gloss": "Little",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "box": {
+    "page": 1,
+    "x": 0.1363,
+    "y": 0.4286,
+    "w": 0.3043,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 191,
+   "form": "Mivan yalla",
+   "gloss": "One",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1363,
+    "y": 0.4412,
+    "w": 0.2919,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 193,
+   "form": "Mivan bulla",
+   "gloss": "Two",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1363,
+    "y": 0.4537,
+    "w": 0.2944,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 195,
+   "form": "Mubiak",
+   "gloss": "Three",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1363,
+    "y": 0.4661,
+    "w": 0.2596,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 197,
+   "form": "Kungun",
+   "gloss": "Back",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "BACK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1363,
+    "y": 0.5037,
+    "w": 0.259,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 198,
+   "form": "Daran",
+   "gloss": "Eye-lid",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 1,
+    "x": 0.1357,
+    "y": 0.5179,
+    "w": 0.2398,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 199,
+   "form": "Mobeva",
+   "gloss": "Eye-lash",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 1,
+    "x": 0.1351,
+    "y": 0.5302,
+    "w": 0.2534,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 200,
+   "form": "Ullo",
+   "gloss": "Forehead",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "FOREHEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1357,
+    "y": 0.5414,
+    "w": 0.2261,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 201,
+   "form": "Tuntungeran",
+   "gloss": "Heart",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1351,
+    "y": 0.5539,
+    "w": 0.3006,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 202,
+   "form": "Nako",
+   "gloss": "Liver",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "LIVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1345,
+    "y": 0.5661,
+    "w": 0.2354,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 203,
+   "form": "Yabu",
+   "gloss": "Mouth",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1351,
+    "y": 0.5788,
+    "w": 0.2354,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 204,
+   "form": "Galonénana",
+   "gloss": "Shoulder",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "SHOULDER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1351,
+    "y": 0.5914,
+    "w": 0.2894,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 205,
+   "form": "Wangula lula",
+   "gloss": "Temples",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "TEMPLES"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1351,
+    "y": 0.6058,
+    "w": 0.3093,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 206,
+   "form": "Mokmok",
+   "gloss": "Windpipe",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 1,
+    "x": 0.1345,
+    "y": 0.6181,
+    "w": 0.2652,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 207,
+   "form": "Gonéna",
+   "gloss": "Wrist",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "WRIST"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1376,
+    "y": 0.6294,
+    "w": 0.2534,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 208,
+   "form": "Karet",
+   "gloss": "Cold",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1363,
+    "y": 0.6418,
+    "w": 0.2385,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 209,
+   "form": "Dondola",
+   "gloss": "Hail",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "HAIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1345,
+    "y": 0.6539,
+    "w": 0.2615,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 210,
+   "form": "Quidong",
+   "gloss": "Ice",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1345,
+    "y": 0.6665,
+    "w": 0.2652,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 211,
+   "form": "Pogrein",
+   "gloss": "Sky",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1351,
+    "y": 0.6805,
+    "w": 0.2553,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 212,
+   "form": "Tawerong.Warrineh",
+   "gloss": "Wind",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1345,
+    "y": 0.6918,
+    "w": 0.4292,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 213,
+   "form": "Kurubmang",
+   "gloss": ",, strong",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "STRONG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3171,
+    "y": 0.7054,
+    "w": 0.2236,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 214,
+   "form": "Kanea Yarma",
+   "gloss": "Box tree",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 1,
+    "x": 0.1351,
+    "y": 0.7296,
+    "w": 0.3118,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 215,
+   "form": "Pirruka",
+   "gloss": "Banksia",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 1,
+    "x": 0.1351,
+    "y": 0.7416,
+    "w": 0.2559,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 216,
+   "form": ",, Atyango",
+   "gloss": ",, fruit",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "FRUIT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1556,
+    "y": 0.7554,
+    "w": 0.2925,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 217,
+   "form": ",, Goa",
+   "gloss": ",, honey",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "HONEY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.155,
+    "y": 0.7687,
+    "w": 0.2553,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 218,
+   "form": ",, Yua",
+   "gloss": ",, seed",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "SEED"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.155,
+    "y": 0.7819,
+    "w": 0.2565,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 219,
+   "form": "Nirwan",
+   "gloss": "Gum tree",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 1,
+    "x": 0.1351,
+    "y": 0.7922,
+    "w": 0.2528,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 220,
+   "form": "Bridgaong",
+   "gloss": ",, white",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1543,
+    "y": 0.8068,
+    "w": 0.2634,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 221,
+   "form": "Mallak",
+   "gloss": "Kangaroo grass",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 1,
+    "x": 0.3158,
+    "y": 0.8165,
+    "w": 0.0696,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 222,
+   "form": "Gambar",
+   "gloss": "Tea tree",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 1,
+    "x": 0.1339,
+    "y": 0.83,
+    "w": 0.2596,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 223,
+   "form": "Warrambel",
+   "gloss": "Lad",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 1,
+    "x": 0.1339,
+    "y": 0.8545,
+    "w": 0.287,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 224,
+   "form": "Yereng",
+   "gloss": "Young man",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 1,
+    "x": 0.1339,
+    "y": 0.8683,
+    "w": 0.2522,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 225,
+   "form": "Nama",
+   "gloss": "Sister",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1353,
+    "y": 0.1682,
+    "w": 0.2412,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 226,
+   "form": "Mundu",
+   "gloss": "Bird's bill",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1353,
+    "y": 0.1931,
+    "w": 0.2493,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 227,
+   "form": "Gino",
+   "gloss": ",, claw",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "CLAW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1564,
+    "y": 0.2081,
+    "w": 0.2083,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 228,
+   "form": "Kiligila",
+   "gloss": ",, feather",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "FEATHER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1558,
+    "y": 0.2192,
+    "w": 0.2332,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 229,
+   "form": "Pembingo",
+   "gloss": ",, tail",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "TAIL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1583,
+    "y": 0.232,
+    "w": 0.2518,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 230,
+   "form": "Gungudulongo",
+   "gloss": ",, wing",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "WING"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.157,
+    "y": 0.246,
+    "w": 0.2922,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 231,
+   "form": "Hannal",
+   "gloss": "Cockatoo",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1371,
+    "y": 0.2559,
+    "w": 0.2518,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 232,
+   "form": "Gnina",
+   "gloss": ",, black",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.157,
+    "y": 0.2693,
+    "w": 0.2201,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 233,
+   "form": "Ger",
+   "gloss": ",, white",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1558,
+    "y": 0.2834,
+    "w": 0.1996,
+    "h": 0.0125,
+    "approx": true
+   }
+  },
+  {
+   "n": 234,
+   "form": "Kurariga",
+   "gloss": "Duck",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "DUCK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1365,
+    "y": 0.2933,
+    "w": 0.2655,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 235,
+   "form": "Wabangla",
+   "gloss": "Pigeon",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1359,
+    "y": 0.3075,
+    "w": 0.2779,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 236,
+   "form": "Urrugagan",
+   "gloss": "Beetle",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "BEETLE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1365,
+    "y": 0.3306,
+    "w": 0.2829,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 237,
+   "form": "Jiribal",
+   "gloss": "Butterfly",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "BUTTERFLY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1365,
+    "y": 0.3448,
+    "w": 0.2443,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 238,
+   "form": "Moga",
+   "gloss": "Lizard",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "LIZARD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1371,
+    "y": 0.3557,
+    "w": 0.2381,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 239,
+   "form": "Mottu",
+   "gloss": "Snake (black)",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1378,
+    "y": 0.3692,
+    "w": 0.2412,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 240,
+   "form": "Mallavah",
+   "gloss": ",, (diamond)",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1583,
+    "y": 0.3816,
+    "w": 0.3878,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 241,
+   "form": "Marrar",
+   "gloss": "Spider",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "SPIDER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1378,
+    "y": 0.3946,
+    "w": 0.2487,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 242,
+   "form": "Amagnang",
+   "gloss": "Kangaroo milk",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1378,
+    "y": 0.4195,
+    "w": 0.2816,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 243,
+   "form": "Marrangaong",
+   "gloss": ",, paw",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "PAW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1763,
+    "y": 0.4334,
+    "w": 0.2661,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 244,
+   "form": "Kumiango",
+   "gloss": ",, tail",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "TAIL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1763,
+    "y": 0.4442,
+    "w": 0.2388,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 245,
+   "form": "Chitiba",
+   "gloss": "Rat (species of)",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1359,
+    "y": 0.4567,
+    "w": 0.253,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 246,
+   "form": "Kumel",
+   "gloss": "Belt",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "BELT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1365,
+    "y": 0.4802,
+    "w": 0.2475,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 247,
+   "form": "Tibiribi",
+   "gloss": "Dance (native)",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1371,
+    "y": 0.4942,
+    "w": 0.2537,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 248,
+   "form": "Bolombang",
+   "gloss": "Frontlet",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1365,
+    "y": 0.5057,
+    "w": 0.2878,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 249,
+   "form": "Bayken",
+   "gloss": "Net",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "NET"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1365,
+    "y": 0.518,
+    "w": 0.2568,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 250,
+   "form": "Bunumerang",
+   "gloss": "Ornaments",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "ORNAMENT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1378,
+    "y": 0.5308,
+    "w": 0.3021,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 251,
+   "form": "Miridni. Kobat",
+   "gloss": "Pipe-clay",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1365,
+    "y": 0.5446,
+    "w": 0.4586,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 252,
+   "form": "Neir",
+   "gloss": "Red ochre",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1371,
+    "y": 0.5559,
+    "w": 0.2294,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 253,
+   "form": "Yangang",
+   "gloss": "Song",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "SONG"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1378,
+    "y": 0.5697,
+    "w": 0.2698,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 254,
+   "form": "Bindugang",
+   "gloss": "Shell for spoon",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1384,
+    "y": 0.5804,
+    "w": 0.2841,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 255,
+   "form": "Jivim",
+   "gloss": "Spear",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "SPEAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1384,
+    "y": 0.5944,
+    "w": 0.2375,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 256,
+   "form": "Kutma",
+   "gloss": ",, rest for",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1583,
+    "y": 0.6053,
+    "w": 0.2294,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 257,
+   "form": "Maruyerang",
+   "gloss": "Tatoo marks",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1378,
+    "y": 0.6182,
+    "w": 0.2953,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 258,
+   "form": "Kuliman",
+   "gloss": "Vessel for water",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1378,
+    "y": 0.6306,
+    "w": 0.263,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 259,
+   "form": "Bumering*",
+   "gloss": "Weapon (half moon)",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1371,
+    "y": 0.6446,
+    "w": 0.4779,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 260,
+   "form": "Hiliman",
+   "gloss": ",, another",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1694,
+    "y": 0.6583,
+    "w": 0.2288,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 261,
+   "form": "Budgony Narrak",
+   "gloss": "Good",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.139,
+    "y": 0.6806,
+    "w": 0.3332,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 262,
+   "form": "Hogeila",
+   "gloss": "White",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1378,
+    "y": 0.6933,
+    "w": 0.2574,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 263,
+   "form": "Tussi. Baka",
+   "gloss": "Wicked",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1378,
+    "y": 0.7057,
+    "w": 0.3034,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 264,
+   "form": "Kabon",
+   "gloss": "Large",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1384,
+    "y": 0.7199,
+    "w": 0.2475,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 265,
+   "form": "Marei",
+   "gloss": "Very",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1384,
+    "y": 0.7322,
+    "w": 0.24,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 266,
+   "form": "Nalanko",
+   "gloss": "Four",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1384,
+    "y": 0.7431,
+    "w": 0.263,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 267,
+   "form": "Guba",
+   "gloss": "Five",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.139,
+    "y": 0.7557,
+    "w": 0.2344,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 268,
+   "form": "Par",
+   "gloss": "Break (to)",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "BREAK (CLEAVE)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1384,
+    "y": 0.782,
+    "w": 0.222,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 269,
+   "form": "Walta",
+   "gloss": "Burn (to)",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "BURN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1396,
+    "y": 0.7946,
+    "w": 0.2425,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 270,
+   "form": "Kundeit",
+   "gloss": "Bury (to be)",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1396,
+    "y": 0.8073,
+    "w": 0.2593,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 271,
+   "form": "Diutmenei",
+   "gloss": "Charm for rain (to)",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.1409,
+    "y": 0.818,
+    "w": 0.4127,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 272,
+   "form": "Nimili",
+   "gloss": "Cry (to)",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "CRY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1396,
+    "y": 0.8322,
+    "w": 0.245,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 273,
+   "form": "Wadyembuli",
+   "gloss": "Cry out (to)",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.139,
+    "y": 0.8444,
+    "w": 0.3002,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 274,
+   "form": "Patta",
+   "gloss": "Eat (to)",
+   "section": "English. / Menero Downs.",
+   "concepts": [
+    "EAT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1384,
+    "y": 0.8573,
+    "w": 0.2369,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 275,
+   "form": "Dubi !",
+   "gloss": "Get up !",
+   "section": "English. / Menero Downs.",
+   "box": {
+    "page": 2,
+    "x": 0.139,
+    "y": 0.8684,
+    "w": 0.2412,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 276,
+   "form": "Abili !",
+   "gloss": "It is right !",
+   "section": "English. / Monero Downs.",
+   "concepts": [
+    "RIGHT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1384,
+    "y": 0.1655,
+    "w": 0.2431,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 277,
+   "form": "Gamburimi",
+   "gloss": "Lie down (to)",
+   "section": "English. / Monero Downs.",
+   "box": {
+    "page": 3,
+    "x": 0.1396,
+    "y": 0.1781,
+    "w": 0.2866,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 278,
+   "form": "Kokoi ! Barabanay !",
+   "gloss": "Make haste !",
+   "section": "English. / Monero Downs.",
+   "box": {
+    "page": 3,
+    "x": 0.1396,
+    "y": 0.1906,
+    "w": 0.4363,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 279,
+   "form": "Murugembeli",
+   "gloss": "Paint (to)",
+   "section": "English. / Monero Downs.",
+   "concepts": [
+    "PAINT (PIGMENTS)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1402,
+    "y": 0.2048,
+    "w": 0.2996,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 280,
+   "form": "Nolonyula",
+   "gloss": "Quarrel (to)",
+   "section": "English. / Monero Downs.",
+   "concepts": [
+    "QUARREL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1396,
+    "y": 0.2172,
+    "w": 0.2742,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 281,
+   "form": "Takumilin",
+   "gloss": "Scrape (to)",
+   "section": "English. / Monero Downs.",
+   "concepts": [
+    "SCRAPE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1402,
+    "y": 0.2299,
+    "w": 0.276,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 282,
+   "form": "Bugel. Kayar",
+   "gloss": "Sick (to be)",
+   "section": "English. / Monero Downs.",
+   "box": {
+    "page": 3,
+    "x": 0.139,
+    "y": 0.2419,
+    "w": 0.3214,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 283,
+   "form": "Payola",
+   "gloss": "Speak (to)",
+   "section": "English. / Monero Downs.",
+   "concepts": [
+    "SPEAK"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.2549,
+    "w": 0.2487,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 284,
+   "form": "Takayá !",
+   "gloss": "The fire is out !",
+   "section": "English. / Monero Downs.",
+   "box": {
+    "page": 3,
+    "x": 0.139,
+    "y": 0.266,
+    "w": 0.263,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 285,
+   "form": "Bundat !",
+   "gloss": "This will do !",
+   "section": "English. / Monero Downs.",
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.2785,
+    "w": 0.263,
+    "h": 0.0125
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 164,
+  "notes": 0,
+  "located": 152
+ },
+ "partial": null,
+ "relation": null
+}

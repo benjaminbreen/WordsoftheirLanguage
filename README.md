@@ -15,7 +15,7 @@ The title comes from Stephen Burrough's 1557 account of the Kola coast, printed 
 
 ## What is here now
 
-23 tables in 22 languages (3,559 entries), 1580–1834.
+28 tables in 26 languages (4,319 entries), 1580–1868.
 
 | Language | Source | Printed |
 |---|---|---|
@@ -42,6 +42,11 @@ The title comes from Stephen Burrough's 1557 account of the Kola coast, printed 
 | Uab Meto (Timorese) | W. van Hogendorp, in *Verhandelingen van het Bataviaasch Genootschap*, deel 2 | 1780 |
 | Muskogee (Creek) | John Pope, *A Tour through the Southern and Western Territories* | 1792 |
 | Meriam Mir | "Some Account of the Natives of Murray's Island", *United Service Journal* | 1834 |
+| Lokono (Arawak), Italian version | Robert Dudley, *Arcano del mare*, autograph draft (manuscript, BSB Cod.icon. 140) | before 1636 |
+| Tobian | John Pickering, in *Memoirs of the American Academy* | 1846 |
+| Ngarigu | John Lhotsky, in *Journal of the Royal Geographical Society* | 1839 |
+| Tasmanian | John Lhotsky (1835) and Péron's expedition (1803), in *Journal of the Royal Geographical Society* | 1839 |
+| Kavalan | Cuthbert Collingwood, in *Transactions of the Ethnological Society* | 1868 |
 
 Each table has a page with the scanned pages, the transcription, and a panel for the selected
 entry. Clicking a line on the scan finds its entry, and the reverse. Entries have permanent links

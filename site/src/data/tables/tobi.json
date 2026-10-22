@@ -1,0 +1,3352 @@
+{
+ "schema": 1,
+ "id": "tobi",
+ "wtl": "WTL-0025",
+ "heading": "A Vocabulary of the Language of Lord North's Island, called by the Natives Tóbi",
+ "headings": [
+  "Numerals",
+  "Numerals (cocoa-nuts)",
+  "Numerals (fishes)",
+  "Numerals (other)",
+  "Pronouns"
+ ],
+ "language": {
+  "name": "Tobian",
+  "glottocode": "tobi1238",
+  "family": "Austronesian",
+  "path": [
+   "Austronesian",
+   "Malayo-Polynesian",
+   "Eastern Malayo-Polynesian",
+   "Oceanic",
+   "Micronesian",
+   "Central Micronesian",
+   "Western Micronesian",
+   "Chuukic-Ponapeic",
+   "Trukic",
+   "Western Trukic",
+   "Sonsorol-Tobi"
+  ],
+  "labels": []
+ },
+ "region": "Australia & Pacific",
+ "book": {
+  "short": "Remarks on the Language and Inhabitants of Lord North's Island",
+  "title": "Remarks on the Language and Inhabitants of Lord North's Island, in the Indian Archipelago; with a Vocabulary",
+  "author": "John Pickering",
+  "printed": 1846,
+  "imprint": "Memoirs of the American Academy of Arts and Sciences, new series, vol. 2, 1846, pp. 235–242",
+  "tcp": "",
+  "cover": "tobi"
+ },
+ "provenance": {
+  "collector": "John Pickering, from Horace Holden",
+  "place": "Lord North's Island (Tobi)",
+  "heard": "1832–34"
+ },
+ "scan": {
+  "ia": "jstor-25057933",
+  "url": "https://archive.org/details/jstor-25057933",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Compiled by Pickering from Horace Holden, an American seaman held on the island with Benjamin Nute from December 1832 to November 1834 after a shipwreck.",
+ "pages": [
+  {
+   "leaf": 32,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/tobi/0032-900.webp",
+   "lg": "/scans/tobi/0032-1800.webp"
+  },
+  {
+   "leaf": 33,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/tobi/0033-900.webp",
+   "lg": "/scans/tobi/0033-1800.webp"
+  },
+  {
+   "leaf": 34,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/tobi/0034-900.webp",
+   "lg": "/scans/tobi/0034-1800.webp"
+  },
+  {
+   "leaf": 35,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/tobi/0035-900.webp",
+   "lg": "/scans/tobi/0035-1800.webp"
+  },
+  {
+   "leaf": 36,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/tobi/0036-900.webp",
+   "lg": "/scans/tobi/0036-1800.webp"
+  },
+  {
+   "leaf": 37,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/tobi/0037-900.webp",
+   "lg": "/scans/tobi/0037-1800.webp"
+  },
+  {
+   "leaf": 38,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/tobi/0038-900.webp",
+   "lg": "/scans/tobi/0038-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "ma",
+   "gloss": "And",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0937,
+    "y": 0.3412,
+    "w": 0.1019,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 2,
+   "form": "tŭkkalek′",
+   "gloss": "Back",
+   "section": "",
+   "concepts": [
+    "BACK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0913,
+    "y": 0.4144,
+    "w": 0.1743,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 3,
+   "form": "tŭmma′",
+   "gloss": "Bad",
+   "section": "",
+   "concepts": [
+    "BAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0919,
+    "y": 0.4324,
+    "w": 0.1425,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 4,
+   "form": "shil",
+   "gloss": "Bamboo",
+   "section": "",
+   "concepts": [
+    "BAMBOO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0913,
+    "y": 0.4504,
+    "w": 0.2888,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 5,
+   "form": "kusŭm",
+   "gloss": "Beard",
+   "section": "",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0895,
+    "y": 0.541,
+    "w": 0.273,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 6,
+   "form": "mish′ium",
+   "gloss": "Belly",
+   "section": "",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0913,
+    "y": 0.561,
+    "w": 0.1707,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 7,
+   "form": "yennŭp",
+   "gloss": "Big",
+   "section": "",
+   "concepts": [
+    "BIG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0901,
+    "y": 0.5797,
+    "w": 0.2701,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 8,
+   "form": "karrŭm",
+   "gloss": "Bird (in general)",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.0895,
+    "y": 0.5973,
+    "w": 0.2906,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 9,
+   "form": "waïzerris",
+   "gloss": "Black",
+   "section": "",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0901,
+    "y": 0.8187,
+    "w": 0.1778,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 10,
+   "form": "prau",
+   "gloss": "Boat",
+   "section": "",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0889,
+    "y": 0.8397,
+    "w": 0.1196,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 11,
+   "form": "chil",
+   "gloss": "Bone",
+   "section": "",
+   "concepts": [
+    "BONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0889,
+    "y": 0.8555,
+    "w": 0.1208,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 12,
+   "form": "mara bara",
+   "gloss": "Brass (or copper)",
+   "section": "",
+   "concepts": [
+    "BRASS",
+    "COPPER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0901,
+    "y": 0.8926,
+    "w": 0.29,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 13,
+   "form": "vitching′",
+   "gloss": "Break (to break as a stick)",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.322,
+    "w": 0.3882,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 14,
+   "form": "arau, or rau",
+   "gloss": "Breakers",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5011,
+    "y": 0.3408,
+    "w": 0.2383,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 15,
+   "form": "tut",
+   "gloss": "Breast (of a female)",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5011,
+    "y": 0.3589,
+    "w": 0.2571,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 16,
+   "form": "bizzhim",
+   "gloss": "Brother",
+   "section": "",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5011,
+    "y": 0.3775,
+    "w": 0.4065,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 17,
+   "form": "tapuï a tŭrt",
+   "gloss": "By and by",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5022,
+    "y": 0.4142,
+    "w": 0.246,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 18,
+   "form": "wohogi api",
+   "gloss": "to carry sand",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5016,
+    "y": 0.4879,
+    "w": 0.4024,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 19,
+   "form": "wohogi avas",
+   "gloss": "to carry stone",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5016,
+    "y": 0.4879,
+    "w": 0.4024,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 20,
+   "form": "wohogi a mara",
+   "gloss": "to carry a man",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5234,
+    "y": 0.5248,
+    "w": 0.383,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 21,
+   "form": "labo",
+   "gloss": "Child (of two, three, or four years old)",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5228,
+    "y": 0.5797,
+    "w": 0.3824,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 22,
+   "form": "yisse",
+   "gloss": "Child-birth",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5228,
+    "y": 0.6193,
+    "w": 0.3824,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 23,
+   "form": "bŭtch′ibŭtch",
+   "gloss": "Clean",
+   "section": "",
+   "concepts": [
+    "CLEAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5228,
+    "y": 0.6588,
+    "w": 0.3824,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 24,
+   "form": "kŏtcho",
+   "gloss": "Clouds",
+   "section": "",
+   "concepts": [
+    "CLOUD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5228,
+    "y": 0.6984,
+    "w": 0.3824,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 25,
+   "form": "sub",
+   "gloss": "Cocoa-nut, in a very young state",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5228,
+    "y": 0.738,
+    "w": 0.3824,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 26,
+   "form": "ub",
+   "gloss": "Cocoa-nut, when about four months old",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5228,
+    "y": 0.7775,
+    "w": 0.3824,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 27,
+   "form": "tchau",
+   "gloss": "Cocoa-nut, when the husk is so hard as to require breaking with a stone",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5216,
+    "y": 0.8171,
+    "w": 0.3824,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 28,
+   "form": "karapa",
+   "gloss": "Cocoa-nut, when it is at the hardest, but still green outside",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1148,
+    "y": 0.1246,
+    "w": 0.2653,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 29,
+   "form": "karapa waïzerris",
+   "gloss": "a black or old cocoa-nut",
+   "section": "",
+   "concepts": [
+    "BLACK",
+    "OLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1148,
+    "y": 0.1246,
+    "w": 0.2653,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 30,
+   "form": "lu",
+   "gloss": "Cocoa-nut tree, (specific name)",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.0913,
+    "y": 0.1614,
+    "w": 0.2888,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 31,
+   "form": "makkrazm′",
+   "gloss": "Cold",
+   "section": "",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0919,
+    "y": 0.1981,
+    "w": 0.1866,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 32,
+   "form": "morabitu",
+   "gloss": "Come, or arrive (the same as to go)",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1142,
+    "y": 0.2895,
+    "w": 0.2659,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 33,
+   "form": "taï tu",
+   "gloss": "come to me",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1154,
+    "y": 0.4004,
+    "w": 0.2647,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 34,
+   "form": "atang, or zatang",
+   "gloss": "Crying",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.0931,
+    "y": 0.4895,
+    "w": 0.2624,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 35,
+   "form": "klowaïzerris",
+   "gloss": "very great darkness, or very dark",
+   "section": "",
+   "concepts": [
+    "DARK",
+    "DARKNESS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0931,
+    "y": 0.5475,
+    "w": 0.2871,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 36,
+   "form": "yaro",
+   "gloss": "Day",
+   "section": "",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0925,
+    "y": 0.5991,
+    "w": 0.2876,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 37,
+   "form": "mati",
+   "gloss": "Dead",
+   "section": "",
+   "concepts": [
+    "DEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0919,
+    "y": 0.6175,
+    "w": 0.2882,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 38,
+   "form": "yŭbŭr",
+   "gloss": "Dirt, dirty",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.0931,
+    "y": 0.6359,
+    "w": 0.2871,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 39,
+   "form": "lima",
+   "gloss": "Drink",
+   "section": "",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0919,
+    "y": 0.672,
+    "w": 0.129,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 40,
+   "form": "bŭr",
+   "gloss": "Earth (or dirt)",
+   "section": "",
+   "concepts": [
+    "DIRT",
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0948,
+    "y": 0.7459,
+    "w": 0.2072,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 41,
+   "form": "mŭkka",
+   "gloss": "Eat (to)",
+   "section": "",
+   "concepts": [
+    "EAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0931,
+    "y": 0.7655,
+    "w": 0.2871,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 42,
+   "form": "yatau",
+   "gloss": "Far, afar off",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4999,
+    "y": 0.1804,
+    "w": 0.4035,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 43,
+   "form": "yatauva",
+   "gloss": "a very great distance off, or hardly in sight",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4999,
+    "y": 0.1804,
+    "w": 0.4035,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 44,
+   "form": "wŭr′timŭm",
+   "gloss": "Father",
+   "section": "",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4999,
+    "y": 0.2323,
+    "w": 0.4035,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "yeppŭk",
+   "gloss": "Fæces",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4999,
+    "y": 0.2843,
+    "w": 0.4035,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 46,
+   "form": "suligi (?)",
+   "gloss": "Feel (to)",
+   "section": "",
+   "concepts": [
+    "FEEL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4999,
+    "y": 0.3362,
+    "w": 0.4035,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 47,
+   "form": "ka′ïmŭk",
+   "gloss": "Fingers",
+   "section": "",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4999,
+    "y": 0.3881,
+    "w": 0.4035,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 48,
+   "form": "ya, or yaf",
+   "gloss": "Fire",
+   "section": "",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4999,
+    "y": 0.4401,
+    "w": 0.4035,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 49,
+   "form": "ika",
+   "gloss": "Fish",
+   "section": "",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5016,
+    "y": 0.492,
+    "w": 0.2566,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 50,
+   "form": "kaŭ, kaŭ ika",
+   "gloss": "Fish-hook",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5016,
+    "y": 0.492,
+    "w": 0.2566,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 51,
+   "form": "shibbo′",
+   "gloss": "Fishing-net",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5011,
+    "y": 0.5114,
+    "w": 0.2078,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 52,
+   "form": "lang",
+   "gloss": "Fly (a)",
+   "section": "",
+   "concepts": [
+    "FLY (INSECT)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5005,
+    "y": 0.5297,
+    "w": 0.1443,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 53,
+   "form": "petchem′",
+   "gloss": "Foot",
+   "section": "",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5246,
+    "y": 0.5659,
+    "w": 0.3806,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 54,
+   "form": "patchik vaïva",
+   "gloss": "Girl (a small one)",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5011,
+    "y": 0.6549,
+    "w": 0.4041,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 55,
+   "form": "kuzzito",
+   "gloss": "give me those fish",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.524,
+    "y": 0.7475,
+    "w": 0.3794,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 56,
+   "form": "morabitu",
+   "gloss": "Go (to), (the same as to come,)",
+   "section": ""
+  },
+  {
+   "n": 57,
+   "form": "Yar′ris",
+   "gloss": "God, or a divinity",
+   "section": "",
+   "concepts": [
+    "GOD"
+   ]
+  },
+  {
+   "n": 58,
+   "form": "Verri Yarris",
+   "gloss": "God's Ground",
+   "section": ""
+  },
+  {
+   "n": 59,
+   "form": "yissŭng, or yissŭn",
+   "gloss": "Good",
+   "section": "",
+   "concepts": [
+    "GOOD"
+   ]
+  },
+  {
+   "n": 60,
+   "form": "yenno",
+   "gloss": "good (when applied to the taste)",
+   "section": ""
+  },
+  {
+   "n": 61,
+   "form": "wŏrri",
+   "gloss": "Grass",
+   "section": "",
+   "concepts": [
+    "GRASS"
+   ]
+  },
+  {
+   "n": 62,
+   "form": "tchim",
+   "gloss": "Hair (of the head)",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1125,
+    "y": 0.1065,
+    "w": 0.2677,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 63,
+   "form": "ka′ïmuk",
+   "gloss": "Hand",
+   "section": "",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1125,
+    "y": 0.1065,
+    "w": 0.2677,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 64,
+   "form": "mi′tchimŭm",
+   "gloss": "Head",
+   "section": "",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1125,
+    "y": 0.1065,
+    "w": 0.2677,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 65,
+   "form": "atidi, or etidi",
+   "gloss": "Here",
+   "section": "",
+   "concepts": [
+    "HERE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1125,
+    "y": 0.1244,
+    "w": 0.2677,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 66,
+   "form": "shat′tĕri maŭ",
+   "gloss": "Hungry",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1125,
+    "y": 0.2349,
+    "w": 0.2677,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 67,
+   "form": "yim",
+   "gloss": "Hut, or house",
+   "section": "",
+   "concepts": [
+    "HOUSE",
+    "HUT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1119,
+    "y": 0.2532,
+    "w": 0.2682,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 68,
+   "form": "mora gŭttŭm",
+   "gloss": "out of doors",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.0895,
+    "y": 0.2908,
+    "w": 0.2906,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 69,
+   "form": "nang",
+   "gloss": "I (myself)",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1148,
+    "y": 0.3648,
+    "w": 0.2653,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 70,
+   "form": "pang-ŭl; also pishu",
+   "gloss": "Iron",
+   "section": "",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1136,
+    "y": 0.3836,
+    "w": 0.2665,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 71,
+   "form": "chipa",
+   "gloss": "Iron-hoop",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1119,
+    "y": 0.4014,
+    "w": 0.2682,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 72,
+   "form": "yakilah",
+   "gloss": "Labor",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1148,
+    "y": 0.4769,
+    "w": 0.2653,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 73,
+   "form": "yennŭp",
+   "gloss": "Large",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1148,
+    "y": 0.4946,
+    "w": 0.2653,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 74,
+   "form": "mimi",
+   "gloss": "Laugh (to)",
+   "section": "",
+   "concepts": [
+    "LAUGH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1136,
+    "y": 0.5144,
+    "w": 0.2665,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 75,
+   "form": "vizhik",
+   "gloss": "Lightning",
+   "section": "",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.116,
+    "y": 0.5879,
+    "w": 0.2641,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 76,
+   "form": "pilil",
+   "gloss": "Lizard",
+   "section": "",
+   "concepts": [
+    "LIZARD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4999,
+    "y": 0.6265,
+    "w": 0.1343,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 77,
+   "form": "Tobi",
+   "gloss": "Lord North's Island",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.5011,
+    "y": 0.643,
+    "w": 0.273,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 78,
+   "form": "ma, or mari, or mara",
+   "gloss": "Man",
+   "section": "",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5263,
+    "y": 0.8848,
+    "w": 0.3806,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 79,
+   "form": "patchit ma, or patchik ma",
+   "gloss": "a boy",
+   "section": "",
+   "concepts": [
+    "BOY"
+   ]
+  },
+  {
+   "n": 80,
+   "form": "werriwagi mari",
+   "gloss": "a young man",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.5263,
+    "y": 0.8848,
+    "w": 0.3806,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 81,
+   "form": "mara",
+   "gloss": "a male bird, or other animal",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.123,
+    "y": 0.1034,
+    "w": 0.2571,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 82,
+   "form": "vaïva",
+   "gloss": "a female",
+   "section": "",
+   "concepts": [
+    "FEMALE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.123,
+    "y": 0.1228,
+    "w": 0.2571,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 83,
+   "form": "pipi",
+   "gloss": "Many, a great many, several",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.1001,
+    "y": 0.1426,
+    "w": 0.28,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 84,
+   "form": "kŭttŭf",
+   "gloss": "Man-of-war bird",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.0995,
+    "y": 0.1595,
+    "w": 0.2806,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 85,
+   "form": "tivetti′",
+   "gloss": "Mat (worn by the women)",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.1001,
+    "y": 0.214,
+    "w": 0.28,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 86,
+   "form": "vitivvit",
+   "gloss": "Mat (worn by the men)",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.1242,
+    "y": 0.2338,
+    "w": 0.2559,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 87,
+   "form": "tut",
+   "gloss": "Milk (of the breast)",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.1001,
+    "y": 0.2504,
+    "w": 0.28,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 88,
+   "form": "tcho igŏmut",
+   "gloss": "the cocoa-nuts are mine",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.0989,
+    "y": 0.2689,
+    "w": 0.2812,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 89,
+   "form": "mŭkkŭm",
+   "gloss": "Moon",
+   "section": "",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.0995,
+    "y": 0.3622,
+    "w": 0.1748,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 90,
+   "form": "lam",
+   "gloss": "Mosquitoes",
+   "section": "",
+   "concepts": [
+    "MOSQUITO"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.0995,
+    "y": 0.3808,
+    "w": 0.1784,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 91,
+   "form": "ya petetto",
+   "gloss": "Near to",
+   "section": "",
+   "concepts": [
+    "NEAR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.0984,
+    "y": 0.4553,
+    "w": 0.2083,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 92,
+   "form": "nibo′",
+   "gloss": "Night (and by night)",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.0984,
+    "y": 0.4734,
+    "w": 0.2818,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 93,
+   "form": "taw",
+   "gloss": "No",
+   "section": "",
+   "concepts": [
+    "NO"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.0989,
+    "y": 0.4916,
+    "w": 0.0961,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 94,
+   "form": "yat",
+   "gloss": "1, one",
+   "section": "Numerals",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1595,
+    "y": 0.5304,
+    "w": 0.2206,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 95,
+   "form": "gŭh-lu",
+   "gloss": "2, two",
+   "section": "Numerals",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1571,
+    "y": 0.5475,
+    "w": 0.223,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 96,
+   "form": "ya",
+   "gloss": "3, three",
+   "section": "Numerals",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1566,
+    "y": 0.5663,
+    "w": 0.2236,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 97,
+   "form": "van",
+   "gloss": "4, four",
+   "section": "Numerals",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1566,
+    "y": 0.5846,
+    "w": 0.2236,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 98,
+   "form": "ni",
+   "gloss": "5, five",
+   "section": "Numerals",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1554,
+    "y": 0.6028,
+    "w": 0.2247,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 99,
+   "form": "wŏr",
+   "gloss": "6, six",
+   "section": "Numerals",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1566,
+    "y": 0.6212,
+    "w": 0.2236,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 100,
+   "form": "vish",
+   "gloss": "7, seven",
+   "section": "Numerals",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1566,
+    "y": 0.6408,
+    "w": 0.2236,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 101,
+   "form": "wawr",
+   "gloss": "8, eight",
+   "section": "Numerals",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1566,
+    "y": 0.6581,
+    "w": 0.2236,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 102,
+   "form": "tiŭ′",
+   "gloss": "9, nine",
+   "section": "Numerals",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1566,
+    "y": 0.6765,
+    "w": 0.2236,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 103,
+   "form": "se, or sek",
+   "gloss": "10, ten",
+   "section": "Numerals",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1466,
+    "y": 0.6951,
+    "w": 0.2336,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 104,
+   "form": "sekŭm asu′",
+   "gloss": "11, eleven",
+   "section": "Numerals",
+   "concepts": [
+    "ELEVEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1471,
+    "y": 0.7132,
+    "w": 0.233,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 105,
+   "form": "sekŭm guo′",
+   "gloss": "12, twelve",
+   "section": "Numerals",
+   "concepts": [
+    "TWELVE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1483,
+    "y": 0.731,
+    "w": 0.2318,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 106,
+   "form": "sekŭm saru′",
+   "gloss": "13, thirteen",
+   "section": "Numerals",
+   "concepts": [
+    "THIRTEEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1477,
+    "y": 0.7497,
+    "w": 0.2324,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 107,
+   "form": "sekŭm vaŭ",
+   "gloss": "14, fourteen",
+   "section": "Numerals",
+   "concepts": [
+    "FOURTEEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1477,
+    "y": 0.7683,
+    "w": 0.2324,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 108,
+   "form": "sekŭm limo′",
+   "gloss": "15, fifteen",
+   "section": "Numerals",
+   "concepts": [
+    "FIFTEEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1471,
+    "y": 0.7863,
+    "w": 0.233,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 109,
+   "form": "sekŭm waru′",
+   "gloss": "16, sixteen",
+   "section": "Numerals",
+   "concepts": [
+    "SIXTEEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1477,
+    "y": 0.8053,
+    "w": 0.2324,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 110,
+   "form": "sekŭm vishu′",
+   "gloss": "17, seventeen",
+   "section": "Numerals",
+   "concepts": [
+    "SEVENTEEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1483,
+    "y": 0.8232,
+    "w": 0.2318,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 111,
+   "form": "sekŭm waru′",
+   "gloss": "18, eighteen",
+   "section": "Numerals",
+   "concepts": [
+    "EIGHTEEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1477,
+    "y": 0.8416,
+    "w": 0.2324,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 112,
+   "form": "sekŭm tiŭ′",
+   "gloss": "19, nineteen",
+   "section": "Numerals",
+   "concepts": [
+    "NINETEEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1495,
+    "y": 0.8599,
+    "w": 0.2306,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 113,
+   "form": "sekŭm gluo′",
+   "gloss": "20, twenty",
+   "section": "Numerals",
+   "concepts": [
+    "TWENTY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1454,
+    "y": 0.8789,
+    "w": 0.2347,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 114,
+   "form": "guwaïk",
+   "gloss": "30, thirty",
+   "section": "Numerals",
+   "concepts": [
+    "THIRTY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1448,
+    "y": 0.8965,
+    "w": 0.2353,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 115,
+   "form": "serik′",
+   "gloss": "40, forty",
+   "section": "Numerals",
+   "concepts": [
+    "FORTY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5534,
+    "y": 0.1046,
+    "w": 0.2777,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 116,
+   "form": "vaïk",
+   "gloss": "50, fifty",
+   "section": "Numerals",
+   "concepts": [
+    "FIFTY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5534,
+    "y": 0.123,
+    "w": 0.2648,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 117,
+   "form": "limaïk",
+   "gloss": "60, sixty",
+   "section": "Numerals",
+   "concepts": [
+    "SIXTY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.554,
+    "y": 0.1416,
+    "w": 0.2836,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 118,
+   "form": "vishik",
+   "gloss": "70, seventy",
+   "section": "Numerals",
+   "concepts": [
+    "SEVENTY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.554,
+    "y": 0.1608,
+    "w": 0.2807,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 119,
+   "form": "warik",
+   "gloss": "80, eighty",
+   "section": "Numerals",
+   "concepts": [
+    "EIGHTY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5546,
+    "y": 0.1785,
+    "w": 0.276,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 120,
+   "form": "tuwik",
+   "gloss": "90, ninety",
+   "section": "Numerals",
+   "concepts": [
+    "NINETY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5551,
+    "y": 0.1967,
+    "w": 0.2771,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 121,
+   "form": "surbŭng",
+   "gloss": "100, one hundred",
+   "section": "Numerals",
+   "box": {
+    "page": 3,
+    "x": 0.544,
+    "y": 0.2149,
+    "w": 0.313,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 122,
+   "form": "gurbŭng",
+   "gloss": "200, two hundred",
+   "section": "Numerals",
+   "box": {
+    "page": 3,
+    "x": 0.5416,
+    "y": 0.2326,
+    "w": 0.3195,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 123,
+   "form": "sururbŭng",
+   "gloss": "300, three hundred",
+   "section": "Numerals",
+   "box": {
+    "page": 3,
+    "x": 0.5416,
+    "y": 0.2522,
+    "w": 0.3377,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 124,
+   "form": "vabŭng",
+   "gloss": "400, four hundred",
+   "section": "Numerals",
+   "box": {
+    "page": 3,
+    "x": 0.5422,
+    "y": 0.271,
+    "w": 0.3065,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 125,
+   "form": "nimibŭng",
+   "gloss": "500, five hundred",
+   "section": "Numerals",
+   "box": {
+    "page": 3,
+    "x": 0.541,
+    "y": 0.2893,
+    "w": 0.3265,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 126,
+   "form": "wari-bŭng",
+   "gloss": "600, six hundred",
+   "section": "Numerals",
+   "box": {
+    "page": 3,
+    "x": 0.5416,
+    "y": 0.3075,
+    "w": 0.3342,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 127,
+   "form": "vishi-bŭng",
+   "gloss": "700, seven hundred",
+   "section": "Numerals",
+   "box": {
+    "page": 3,
+    "x": 0.5422,
+    "y": 0.3265,
+    "w": 0.3377,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 128,
+   "form": "wari-bŭng",
+   "gloss": "800, eight hundred",
+   "section": "Numerals",
+   "box": {
+    "page": 3,
+    "x": 0.5428,
+    "y": 0.3449,
+    "w": 0.3336,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 129,
+   "form": "tu-i-bŭng",
+   "gloss": "900, nine hundred",
+   "section": "Numerals",
+   "box": {
+    "page": 3,
+    "x": 0.5422,
+    "y": 0.363,
+    "w": 0.3259,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 130,
+   "form": "se′kabŭng",
+   "gloss": "1000, one thousand",
+   "section": "Numerals",
+   "box": {
+    "page": 3,
+    "x": 0.5322,
+    "y": 0.3816,
+    "w": 0.3547,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 131,
+   "form": "su",
+   "gloss": "1",
+   "section": "Numerals (cocoa-nuts)",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5322,
+    "y": 0.4442,
+    "w": 0.3547,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 132,
+   "form": "guo′",
+   "gloss": "2",
+   "section": "Numerals (cocoa-nuts)",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5322,
+    "y": 0.5068,
+    "w": 0.3547,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 133,
+   "form": "saru′",
+   "gloss": "3",
+   "section": "Numerals (cocoa-nuts)",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5322,
+    "y": 0.5694,
+    "w": 0.3547,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 134,
+   "form": "vao",
+   "gloss": "4",
+   "section": "Numerals (cocoa-nuts)",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5322,
+    "y": 0.632,
+    "w": 0.3547,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 135,
+   "form": "limo′",
+   "gloss": "5",
+   "section": "Numerals (cocoa-nuts)",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.544,
+    "y": 0.6946,
+    "w": 0.2489,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 136,
+   "form": "waru",
+   "gloss": "6",
+   "section": "Numerals (cocoa-nuts)",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3288,
+    "y": 0.2478,
+    "w": 0.0513,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 137,
+   "form": "vishu′",
+   "gloss": "7",
+   "section": "Numerals (cocoa-nuts)",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3294,
+    "y": 0.266,
+    "w": 0.0507,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 138,
+   "form": "tiŭ",
+   "gloss": "8",
+   "section": "Numerals (cocoa-nuts)",
+   "concepts": [
+    "EIGHT"
+   ]
+  },
+  {
+   "n": 139,
+   "form": "sek",
+   "gloss": "10",
+   "section": "Numerals (cocoa-nuts)",
+   "concepts": [
+    "TEN"
+   ]
+  },
+  {
+   "n": 140,
+   "form": "simŭl ika",
+   "gloss": "one fish",
+   "section": "Numerals (fishes)",
+   "box": {
+    "page": 4,
+    "x": 0.1524,
+    "y": 0.4084,
+    "w": 0.2101,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 141,
+   "form": "gwimŭl ika",
+   "gloss": "two fishes",
+   "section": "Numerals (fishes)",
+   "box": {
+    "page": 4,
+    "x": 0.1636,
+    "y": 0.4268,
+    "w": 0.2165,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 142,
+   "form": "srimŭl ika",
+   "gloss": "three fishes",
+   "section": "Numerals (fishes)",
+   "box": {
+    "page": 4,
+    "x": 0.1636,
+    "y": 0.4268,
+    "w": 0.2165,
+    "h": 0.014,
+    "approx": true
+   }
+  },
+  {
+   "n": 143,
+   "form": "vamŭl ika",
+   "gloss": "four fishes",
+   "section": "Numerals (fishes)",
+   "box": {
+    "page": 4,
+    "x": 0.1636,
+    "y": 0.4268,
+    "w": 0.2165,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 144,
+   "form": "nimŭl ika",
+   "gloss": "five fishes",
+   "section": "Numerals (fishes)",
+   "box": {
+    "page": 4,
+    "x": 0.1642,
+    "y": 0.4805,
+    "w": 0.1531,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 145,
+   "form": "wawrimŭl ika",
+   "gloss": "six fishes",
+   "section": "Numerals (fishes)",
+   "box": {
+    "page": 4,
+    "x": 0.1624,
+    "y": 0.4988,
+    "w": 0.2177,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 146,
+   "form": "vishi-emŭl ika",
+   "gloss": "seven fishes",
+   "section": "Numerals (fishes)",
+   "box": {
+    "page": 4,
+    "x": 0.1618,
+    "y": 0.5184,
+    "w": 0.2183,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 147,
+   "form": "wawrimŭl ika",
+   "gloss": "eight fishes",
+   "section": "Numerals (fishes)",
+   "box": {
+    "page": 4,
+    "x": 0.1613,
+    "y": 0.537,
+    "w": 0.2189,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 148,
+   "form": "tuïmŭl ika",
+   "gloss": "nine fishes",
+   "section": "Numerals (fishes)",
+   "box": {
+    "page": 4,
+    "x": 0.1607,
+    "y": 0.5541,
+    "w": 0.166,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 149,
+   "form": "sek ika",
+   "gloss": "ten fishes",
+   "section": "Numerals (fishes)",
+   "box": {
+    "page": 4,
+    "x": 0.1624,
+    "y": 0.5729,
+    "w": 0.1255,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 150,
+   "form": "suavas",
+   "gloss": "one stone",
+   "section": "Numerals (other)",
+   "box": {
+    "page": 4,
+    "x": 0.1389,
+    "y": 0.7505,
+    "w": 0.1866,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 151,
+   "form": "guo karŭm",
+   "gloss": "two birds",
+   "section": "Numerals (other)",
+   "box": {
+    "page": 4,
+    "x": 0.1383,
+    "y": 0.7684,
+    "w": 0.226,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 152,
+   "form": "su yarŭ",
+   "gloss": "one sun, i. e. one day",
+   "section": "Numerals (other)",
+   "box": {
+    "page": 4,
+    "x": 0.1389,
+    "y": 0.7882,
+    "w": 0.2412,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 153,
+   "form": "guo yarŭ",
+   "gloss": "two days",
+   "section": "Numerals (other)",
+   "box": {
+    "page": 4,
+    "x": 0.1383,
+    "y": 0.806,
+    "w": 0.2042,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 154,
+   "form": "simŭl a mari",
+   "gloss": "one man",
+   "section": "Numerals (other)",
+   "box": {
+    "page": 4,
+    "x": 0.1377,
+    "y": 0.8239,
+    "w": 0.2372,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 155,
+   "form": "srimŭl vaïva",
+   "gloss": "three women",
+   "section": "Numerals (other)",
+   "box": {
+    "page": 4,
+    "x": 0.1383,
+    "y": 0.8423,
+    "w": 0.2418,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 156,
+   "form": "mazuï",
+   "gloss": "Old (that is, from twenty years upwards)",
+   "section": ""
+  },
+  {
+   "n": 157,
+   "form": "mazuï ava′",
+   "gloss": "very old",
+   "section": "",
+   "concepts": [
+    "OLD"
+   ]
+  },
+  {
+   "n": 158,
+   "form": "bŭtch′ibŭtch tchim",
+   "gloss": "the hair is white",
+   "section": ""
+  },
+  {
+   "n": 159,
+   "form": "pipi a mari",
+   "gloss": "many men",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.5269,
+    "y": 0.3111,
+    "w": 0.3794,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 160,
+   "form": "pipi a vaïva",
+   "gloss": "many women",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.5269,
+    "y": 0.3111,
+    "w": 0.3794,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 161,
+   "form": "nang",
+   "gloss": "I, myself",
+   "section": "Pronouns",
+   "box": {
+    "page": 4,
+    "x": 0.5269,
+    "y": 0.3481,
+    "w": 0.3794,
+    "h": 0.014,
+    "approx": true
+   }
+  },
+  {
+   "n": 162,
+   "form": "gŭr",
+   "gloss": "thou, or you",
+   "section": "Pronouns",
+   "concepts": [
+    "THOU",
+    "YOU"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.524,
+    "y": 0.3852,
+    "w": 0.1937,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 163,
+   "form": "gŭr nang",
+   "gloss": "we (you and I, or they and I)",
+   "section": "Pronouns",
+   "box": {
+    "page": 4,
+    "x": 0.3811,
+    "y": 0.4417,
+    "w": 0.5246,
+    "h": 0.014,
+    "approx": true
+   }
+  },
+  {
+   "n": 164,
+   "form": "ut",
+   "gloss": "it rains",
+   "section": "",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4993,
+    "y": 0.5266,
+    "w": 0.4041,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 165,
+   "form": "taw ut",
+   "gloss": "it does not rain, or it is done raining",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.5222,
+    "y": 0.5456,
+    "w": 0.2859,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 166,
+   "form": "tŭm′miŭm",
+   "gloss": "Rats",
+   "section": "",
+   "concepts": [
+    "RAT"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4987,
+    "y": 0.5637,
+    "w": 0.1737,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 167,
+   "form": "araŭ",
+   "gloss": "Reef (of rocks)",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.4993,
+    "y": 0.5827,
+    "w": 0.2272,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 168,
+   "form": "pi",
+   "gloss": "Sand (of a shoal in the sea)",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.4993,
+    "y": 0.6351,
+    "w": 0.2272,
+    "h": 0.014,
+    "approx": true
+   }
+  },
+  {
+   "n": 169,
+   "form": "tat",
+   "gloss": "Sea (salt water)",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.4993,
+    "y": 0.6874,
+    "w": 0.2131,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 170,
+   "form": "oma′ïga, or miägi",
+   "gloss": "See (to)",
+   "section": "",
+   "concepts": [
+    "SEE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4993,
+    "y": 0.7161,
+    "w": 0.2131,
+    "h": 0.014,
+    "approx": true
+   }
+  },
+  {
+   "n": 171,
+   "form": "po",
+   "gloss": "Shark",
+   "section": "",
+   "concepts": [
+    "SHARK"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4987,
+    "y": 0.7447,
+    "w": 0.1102,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 172,
+   "form": "yĕ ka′ïla",
+   "gloss": "it is sharpened",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.4987,
+    "y": 0.7617,
+    "w": 0.4041,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 173,
+   "form": "waw-wia",
+   "gloss": "Ship",
+   "section": "",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4987,
+    "y": 0.8348,
+    "w": 0.1619,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 174,
+   "form": "yŭ-mot, or yă-mot",
+   "gloss": "Short",
+   "section": "",
+   "concepts": [
+    "SHORT"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4981,
+    "y": 0.8535,
+    "w": 0.4041,
+    "h": 0.014
+   }
+  },
+  {
+   "n": 175,
+   "form": "makakes",
+   "gloss": "Sick",
+   "section": "",
+   "concepts": [
+    "SICK"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0972,
+    "y": 0.1059,
+    "w": 0.2829,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 176,
+   "form": "nang yŭ-kaïl",
+   "gloss": "I am well, or strong",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.1183,
+    "y": 0.1249,
+    "w": 0.2618,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 177,
+   "form": "nang taï kaïl",
+   "gloss": "I am weak, or not strong",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.1183,
+    "y": 0.1616,
+    "w": 0.2618,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 178,
+   "form": "miangŭm",
+   "gloss": "Sister",
+   "section": "",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0966,
+    "y": 0.18,
+    "w": 0.2835,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 179,
+   "form": "mŭssi",
+   "gloss": "Sleep",
+   "section": "",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.096,
+    "y": 0.2171,
+    "w": 0.2841,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 180,
+   "form": "mŭmma tidi",
+   "gloss": "to sleep",
+   "section": "",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.096,
+    "y": 0.2171,
+    "w": 0.2841,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 181,
+   "form": "patchik",
+   "gloss": "Small",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.0966,
+    "y": 0.2542,
+    "w": 0.2835,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 182,
+   "form": "patchi gĭt-tchi-gi",
+   "gloss": "very small",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.0966,
+    "y": 0.2542,
+    "w": 0.2835,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 183,
+   "form": "bugis-baichu",
+   "gloss": "(a grain of sand, a mote in one's eye, &c.)",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.1172,
+    "y": 0.2908,
+    "w": 0.2629,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 184,
+   "form": "labo nang",
+   "gloss": "my son, my daughter",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.1166,
+    "y": 0.3651,
+    "w": 0.2635,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 185,
+   "form": "titri",
+   "gloss": "Speak (to)",
+   "section": "",
+   "concepts": [
+    "SPEAK"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0942,
+    "y": 0.3987,
+    "w": 0.2859,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 186,
+   "form": "vish",
+   "gloss": "Stars",
+   "section": "",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0948,
+    "y": 0.4365,
+    "w": 0.1213,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 187,
+   "form": "vas",
+   "gloss": "Stone",
+   "section": "",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0937,
+    "y": 0.4551,
+    "w": 0.2471,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 188,
+   "form": "pipi ut",
+   "gloss": "Storm",
+   "section": "",
+   "concepts": [
+    "STORM"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0937,
+    "y": 0.5285,
+    "w": 0.2865,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 189,
+   "form": "yaro",
+   "gloss": "Sun",
+   "section": "",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0937,
+    "y": 0.5673,
+    "w": 0.1096,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 190,
+   "form": "Tabu′",
+   "gloss": "Tabu′ (as a substantive), the taboo",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.0919,
+    "y": 0.6214,
+    "w": 0.2882,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 191,
+   "form": "titri",
+   "gloss": "Talk (to)",
+   "section": "",
+   "concepts": [
+    "TALK"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0919,
+    "y": 0.7122,
+    "w": 0.2882,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 192,
+   "form": "titri Inglish",
+   "gloss": "talk English",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.0919,
+    "y": 0.7122,
+    "w": 0.2882,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 193,
+   "form": "titri Tobi",
+   "gloss": "talk Tobi",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.1154,
+    "y": 0.732,
+    "w": 0.2647,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 194,
+   "form": "Yárris titri",
+   "gloss": "Yarris (God) talks",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.1148,
+    "y": 0.7865,
+    "w": 0.2653,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 195,
+   "form": "verri verri",
+   "gloss": "Tattoo (to)",
+   "section": "",
+   "concepts": [
+    "TATTOO"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0925,
+    "y": 0.8248,
+    "w": 0.2876,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 196,
+   "form": "amana",
+   "gloss": "That",
+   "section": "",
+   "concepts": [
+    "THAT"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0919,
+    "y": 0.86,
+    "w": 0.1407,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 197,
+   "form": "etŭrna",
+   "gloss": "There",
+   "section": "",
+   "concepts": [
+    "THERE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0919,
+    "y": 0.8773,
+    "w": 0.1549,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 198,
+   "form": "atia, or tia",
+   "gloss": "This",
+   "section": "",
+   "concepts": [
+    "THIS"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.0919,
+    "y": 0.8955,
+    "w": 0.2882,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 199,
+   "form": "pa",
+   "gloss": "Thunder",
+   "section": "",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.504,
+    "y": 0.1624,
+    "w": 0.4029,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 200,
+   "form": "paza titri",
+   "gloss": "it thunders, or, literally, the thunder speaks",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.504,
+    "y": 0.1624,
+    "w": 0.4029,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 201,
+   "form": "bŭzhanet′",
+   "gloss": "Tie (to)",
+   "section": "",
+   "concepts": [
+    "TIE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5011,
+    "y": 0.4195,
+    "w": 0.2178,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 202,
+   "form": "shat′tĕri raïmŭs",
+   "gloss": "Tired",
+   "section": "",
+   "concepts": [
+    "TIRED"
+   ]
+  },
+  {
+   "n": 203,
+   "form": "tebŭrra ika",
+   "gloss": "Tree, or Wood",
+   "section": "",
+   "concepts": [
+    "TREE",
+    "WOOD"
+   ]
+  },
+  {
+   "n": 204,
+   "form": "lew or lu",
+   "gloss": "Tree (one of the seamen gave)",
+   "section": ""
+  },
+  {
+   "n": 205,
+   "form": "wari",
+   "gloss": "Turtle",
+   "section": "",
+   "concepts": [
+    "TURTLE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5011,
+    "y": 0.4195,
+    "w": 0.2178,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 206,
+   "form": "kuru kul",
+   "gloss": "Urine (to)",
+   "section": "",
+   "concepts": [
+    "URINE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5011,
+    "y": 0.4195,
+    "w": 0.2178,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 207,
+   "form": "wŭrbŭtch",
+   "gloss": "Warm",
+   "section": "",
+   "concepts": [
+    "WARM"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5011,
+    "y": 0.4504,
+    "w": 0.2178,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 208,
+   "form": "tat",
+   "gloss": "Water (salt)",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.5011,
+    "y": 0.4813,
+    "w": 0.2178,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 209,
+   "form": "taru",
+   "gloss": "Water (fresh)",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.5305,
+    "y": 0.5122,
+    "w": 0.1795,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 210,
+   "form": "kas",
+   "gloss": "Whale",
+   "section": "",
+   "concepts": [
+    "WHALE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5016,
+    "y": 0.5497,
+    "w": 0.1296,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 211,
+   "form": "matamen a menno?",
+   "gloss": "what is that?",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.5016,
+    "y": 0.5675,
+    "w": 0.4029,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 212,
+   "form": "wonap",
+   "gloss": "a wonap, or the fish called a skip-jack",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.5246,
+    "y": 0.5883,
+    "w": 0.3794,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 213,
+   "form": "h'ng or h'n",
+   "gloss": "what",
+   "section": "",
+   "concepts": [
+    "WHAT"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.524,
+    "y": 0.6049,
+    "w": 0.3818,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 214,
+   "form": "ama′",
+   "gloss": "Where",
+   "section": "",
+   "concepts": [
+    "WHERE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5005,
+    "y": 0.6969,
+    "w": 0.4029,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 215,
+   "form": "bŭtchi",
+   "gloss": "White",
+   "section": "",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5005,
+    "y": 0.6969,
+    "w": 0.4029,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 216,
+   "form": "ba",
+   "gloss": "Why",
+   "section": "",
+   "concepts": [
+    "WHY"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5005,
+    "y": 0.6969,
+    "w": 0.4029,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 217,
+   "form": "yang",
+   "gloss": "Wind",
+   "section": "",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5005,
+    "y": 0.8081,
+    "w": 0.4047,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 218,
+   "form": "vaïva",
+   "gloss": "Woman",
+   "section": "",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5005,
+    "y": 0.8081,
+    "w": 0.4047,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 219,
+   "form": "yessi",
+   "gloss": "a lying-in woman",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.5005,
+    "y": 0.8081,
+    "w": 0.4047,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 220,
+   "form": "werri-wagi vaïva",
+   "gloss": "a young woman",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.5005,
+    "y": 0.8081,
+    "w": 0.4047,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 221,
+   "form": "tŭmmŭtch",
+   "gloss": "Wood",
+   "section": "",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4987,
+    "y": 0.8616,
+    "w": 0.3059,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 222,
+   "form": "nang taï rava a praŭ wŏrra-zura",
+   "gloss": "I shall not work on the canoe to-morrow",
+   "section": ""
+  },
+  {
+   "n": 223,
+   "form": "arreng′",
+   "gloss": "Yellow",
+   "section": "",
+   "concepts": [
+    "YELLOW"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0994,
+    "y": 0.1974,
+    "w": 0.1687,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 224,
+   "form": "ira, or ila",
+   "gloss": "Yes",
+   "section": "",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0982,
+    "y": 0.2147,
+    "w": 0.1605,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 225,
+   "form": "rollo",
+   "gloss": "Yesterday",
+   "section": "",
+   "concepts": [
+    "YESTERDAY"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.0976,
+    "y": 0.2519,
+    "w": 0.2827,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 226,
+   "form": "rollo nibo′",
+   "gloss": "Yesterday night",
+   "section": "",
+   "box": {
+    "page": 6,
+    "x": 0.0976,
+    "y": 0.2519,
+    "w": 0.2827,
+    "h": 0.0158
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 226,
+  "notes": 0,
+  "located": 210
+ },
+ "partial": null,
+ "relation": null
+}

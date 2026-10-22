@@ -1,0 +1,1733 @@
+{
+ "schema": 1,
+ "id": "kavalan",
+ "wtl": "WTL-0024",
+ "heading": "Vocabulary of words used by the native inhabitants of Sau-o Bay, East Coast of Formosa.",
+ "headings": [
+  "NUMERALS",
+  "PARTS OF THE BODY",
+  "ARTICLES OF DRESS AND FURNITURE",
+  "ANIMALS",
+  "ARTICLES OF FOOD",
+  "ELEMENTS, ETC.",
+  "MISCELLANEOUS",
+  "NAMES OF MEN",
+  "NAMES OF WOMEN"
+ ],
+ "language": {
+  "name": "Kavalan",
+  "glottocode": "kava1241",
+  "family": "Austronesian",
+  "path": [
+   "Austronesian",
+   "East Formosan",
+   "Northern East Formosan"
+  ],
+  "labels": []
+ },
+ "region": "Asia",
+ "book": {
+  "short": "Visit to the Kibalan Village of Sano Bay",
+  "title": "Visit to the Kibalan Village of Sano Bay, North-East Coast of Formosa. Including a Vocabulary of the Dialect",
+  "author": "Cuthbert Collingwood",
+  "printed": 1868,
+  "imprint": "Transactions of the Ethnological Society of London, new series, vol. 6, 1868, pp. 362–363",
+  "tcp": "",
+  "cover": "kavalan"
+ },
+ "provenance": {
+  "collector": "Cuthbert Collingwood",
+  "place": "Sau-o Bay (Su'ao), north-east Formosa",
+  "heard": "1866"
+ },
+ "scan": {
+  "ia": "jstor-3014253",
+  "url": "https://archive.org/details/jstor-3014253",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Collected by Collingwood at a Kavalan village on Sau-o Bay on 13 June 1866; printed as an appendix to his paper, which arrived too late to print with it.",
+ "pages": [
+  {
+   "leaf": 10,
+   "w": 1508,
+   "h": 2346,
+   "sm": "/scans/kavalan/0010-900.webp",
+   "lg": "/scans/kavalan/0010-1800.webp"
+  },
+  {
+   "leaf": 11,
+   "w": 1508,
+   "h": 2346,
+   "sm": "/scans/kavalan/0011-900.webp",
+   "lg": "/scans/kavalan/0011-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "E-tah (or Issah) [M. & J.]",
+   "gloss": "1",
+   "section": "NUMERALS",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1418,
+    "y": 0.2624,
+    "w": 0.1635,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 2,
+   "form": "Lú-sah [M. & J.]",
+   "gloss": "2",
+   "section": "NUMERALS",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1412,
+    "y": 0.2771,
+    "w": 0.1642,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 3,
+   "form": "Too-roo [J.]",
+   "gloss": "3",
+   "section": "NUMERALS",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1405,
+    "y": 0.2922,
+    "w": 0.1606,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 4,
+   "form": "Soó-pah",
+   "gloss": "4",
+   "section": "NUMERALS",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1405,
+    "y": 0.307,
+    "w": 0.1655,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 5,
+   "form": "Lémah (or Emah) [M. & J.]",
+   "gloss": "5",
+   "section": "NUMERALS",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1399,
+    "y": 0.3218,
+    "w": 0.1655,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 6,
+   "form": "In-um [M. & J.]",
+   "gloss": "6",
+   "section": "NUMERALS",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1405,
+    "y": 0.3368,
+    "w": 0.1649,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 7,
+   "form": "Pē-tou [J.]",
+   "gloss": "7",
+   "section": "NUMERALS",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1412,
+    "y": 0.3515,
+    "w": 0.1467,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 8,
+   "form": "Ah-roo (or Ah-loo) [J.]",
+   "gloss": "8",
+   "section": "NUMERALS",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1405,
+    "y": 0.367,
+    "w": 0.1649,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 9,
+   "form": "Sē-wa [J.]",
+   "gloss": "9",
+   "section": "NUMERALS",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1399,
+    "y": 0.3815,
+    "w": 0.1401,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 10,
+   "form": "Stĕ-reī",
+   "gloss": "10",
+   "section": "NUMERALS",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1399,
+    "y": 0.4182,
+    "w": 0.1761,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 11,
+   "form": "Wôn-ei",
+   "gloss": "Ten (also)",
+   "section": "NUMERALS",
+   "box": {
+    "page": 0,
+    "x": 0.1292,
+    "y": 0.4548,
+    "w": 0.1761,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 12,
+   "form": "Wôn-ei is-sah",
+   "gloss": "11",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 13,
+   "form": "Won-ei lu-sah",
+   "gloss": "12",
+   "section": "NUMERALS",
+   "box": {
+    "page": 0,
+    "x": 0.1292,
+    "y": 0.4548,
+    "w": 0.1761,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 14,
+   "form": "Won-ei too-roo",
+   "gloss": "13",
+   "section": "NUMERALS",
+   "box": {
+    "page": 0,
+    "x": 0.1306,
+    "y": 0.4704,
+    "w": 0.1748,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 15,
+   "form": "Won-ei se-wa",
+   "gloss": "19",
+   "section": "NUMERALS",
+   "box": {
+    "page": 0,
+    "x": 0.1273,
+    "y": 0.4857,
+    "w": 0.1781,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 16,
+   "form": "Lú-sah stĕ-reī",
+   "gloss": "20",
+   "section": "NUMERALS",
+   "concepts": [
+    "TWENTY"
+   ]
+  },
+  {
+   "n": 17,
+   "form": "Lú-sah stĕ-reī issah",
+   "gloss": "21",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 18,
+   "form": "Lú-sah stĕ-reī lú-sah",
+   "gloss": "22",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 19,
+   "form": "Lú-sah stĕ-reī sē-wa",
+   "gloss": "29",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 20,
+   "form": "Too-roo stĕ-reī",
+   "gloss": "30",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 21,
+   "form": "Soó-pah stĕ-reī",
+   "gloss": "40",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 22,
+   "form": "see-voo [J.]",
+   "gloss": "Hundred",
+   "section": "NUMERALS",
+   "concepts": [
+    "HUNDRED"
+   ]
+  },
+  {
+   "n": 23,
+   "form": "issah see-voo [J.]",
+   "gloss": "100",
+   "section": "NUMERALS",
+   "concepts": [
+    "HUNDRED"
+   ]
+  },
+  {
+   "n": 24,
+   "form": "Lú-sah see-voo [J.]",
+   "gloss": "200",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 25,
+   "form": "Too-roo see-voo [J.]",
+   "gloss": "300",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 26,
+   "form": "Soó-pah see-voo",
+   "gloss": "400",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 27,
+   "form": "Issah ra-ra-ran",
+   "gloss": "1000",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 28,
+   "form": "Issah ra-ra-ran ah-loo see-voo in-um stĕ-reī in-um",
+   "gloss": "1866",
+   "section": "NUMERALS"
+  },
+  {
+   "n": 29,
+   "form": "hoo-roo [M. & J.]",
+   "gloss": "Head",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1186,
+    "y": 0.5252,
+    "w": 0.1867,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 30,
+   "form": "roo-kahp",
+   "gloss": "Hand",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.116,
+    "y": 0.5403,
+    "w": 0.1672,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 31,
+   "form": "mah-tah (Malay) [M.]",
+   "gloss": "Eye",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.116,
+    "y": 0.5554,
+    "w": 0.1894,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 32,
+   "form": "hoo-nôong [M.]",
+   "gloss": "Nose",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1147,
+    "y": 0.5704,
+    "w": 0.1907,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 33,
+   "form": "bun-ga-rôu [M.]",
+   "gloss": "Teeth",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.5846,
+    "w": 0.1901,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 34,
+   "form": "moo-koōse",
+   "gloss": "Hair",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.5993,
+    "w": 0.1686,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 35,
+   "form": "moo-moōse",
+   "gloss": "Whiskers (also beard)",
+   "section": "PARTS OF THE BODY",
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.6149,
+    "w": 0.1901,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 36,
+   "form": "rah-pan",
+   "gloss": "Calf of leg",
+   "section": "PARTS OF THE BODY",
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.6243,
+    "w": 0.1901,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 37,
+   "form": "poo-noon",
+   "gloss": "Buttock",
+   "section": "PARTS OF THE BODY",
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.6336,
+    "w": 0.1901,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 38,
+   "form": "ta-roo-nah",
+   "gloss": "Breast",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1173,
+    "y": 0.643,
+    "w": 0.1881,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 39,
+   "form": "ree-mah",
+   "gloss": "Arm",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "ARM"
+   ]
+  },
+  {
+   "n": 40,
+   "form": "too-sol",
+   "gloss": "Knee",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "KNEE"
+   ]
+  },
+  {
+   "n": 41,
+   "form": "pa-na-ni-yan",
+   "gloss": "Thigh",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "THIGH"
+   ]
+  },
+  {
+   "n": 42,
+   "form": "ree-kan",
+   "gloss": "Foot",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "FOOT"
+   ]
+  },
+  {
+   "n": 43,
+   "form": "ma-roo-nah-nee",
+   "gloss": "Man (male)",
+   "section": "PARTS OF THE BODY",
+   "box": {
+    "page": 0,
+    "x": 0.1173,
+    "y": 0.643,
+    "w": 0.1881,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 44,
+   "form": "ta-roo-ang",
+   "gloss": "Woman (the female)",
+   "section": "PARTS OF THE BODY",
+   "box": {
+    "page": 0,
+    "x": 0.1173,
+    "y": 0.6592,
+    "w": 0.1881,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 45,
+   "form": "soo-niss",
+   "gloss": "Children (boys or girls)",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "BOY",
+    "GIRL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1173,
+    "y": 0.7038,
+    "w": 0.1881,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 46,
+   "form": "na-ka-lan",
+   "gloss": "Old man",
+   "section": "PARTS OF THE BODY",
+   "box": {
+    "page": 0,
+    "x": 0.116,
+    "y": 0.717,
+    "w": 0.1894,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 47,
+   "form": "vai-va-lam",
+   "gloss": "Old woman",
+   "section": "PARTS OF THE BODY",
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.7323,
+    "w": 0.1901,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 48,
+   "form": "ka-ba-lan",
+   "gloss": "Themselves (i.e., the tame aborigines)",
+   "section": "PARTS OF THE BODY",
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.7402,
+    "w": 0.1901,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 49,
+   "form": "bo-soos",
+   "gloss": "The Chinese",
+   "section": "PARTS OF THE BODY",
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.7482,
+    "w": 0.1901,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 50,
+   "form": "ma-too-mal",
+   "gloss": "The wild aborigines of the hills",
+   "section": "PARTS OF THE BODY",
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.7561,
+    "w": 0.1901,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 51,
+   "form": "te-na",
+   "gloss": "Mother",
+   "section": "PARTS OF THE BODY",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1153,
+    "y": 0.7641,
+    "w": 0.1901,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 52,
+   "form": "hoo-loōse",
+   "gloss": "Coat",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "COAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.114,
+    "y": 0.772,
+    "w": 0.1553,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 53,
+   "form": "baa-ram",
+   "gloss": "Stick",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "STICK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.114,
+    "y": 0.788,
+    "w": 0.1593,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 54,
+   "form": "bar-oon",
+   "gloss": "Belt (either round waist or fillet round head)",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 0,
+    "x": 0.1379,
+    "y": 0.8167,
+    "w": 0.1675,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 55,
+   "form": "ro-co",
+   "gloss": "Hat (native bamboo)",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 0,
+    "x": 0.1127,
+    "y": 0.8331,
+    "w": 0.1927,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 56,
+   "form": "koo-boo",
+   "gloss": "European hat",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 0,
+    "x": 0.114,
+    "y": 0.8476,
+    "w": 0.1914,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 57,
+   "form": "hoo-loōse",
+   "gloss": "Jacket",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 0,
+    "x": 0.1127,
+    "y": 0.8623,
+    "w": 0.1772,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 58,
+   "form": "ku-un or kwun",
+   "gloss": "Trousers",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "TROUSERS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1127,
+    "y": 0.8773,
+    "w": 0.1927,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 59,
+   "form": "la-po",
+   "gloss": "Shoe",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "SHOE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1113,
+    "y": 0.8926,
+    "w": 0.1215,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 60,
+   "form": "lappi-yan",
+   "gloss": "Petticoat",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 0,
+    "x": 0.1113,
+    "y": 0.9077,
+    "w": 0.194,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 61,
+   "form": "ma-san",
+   "gloss": "——",
+   "section": "ARTICLES OF DRESS AND FURNITURE"
+  },
+  {
+   "n": 62,
+   "form": "roo-boōse",
+   "gloss": "Bag or pocket",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "BAG",
+    "POCKET"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5046,
+    "y": 0.7901,
+    "w": 0.2495,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 63,
+   "form": "rai-poot",
+   "gloss": "Cigar",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 0,
+    "x": 0.5046,
+    "y": 0.8047,
+    "w": 0.2495,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 64,
+   "form": "e-toose",
+   "gloss": "Beads",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "BEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5046,
+    "y": 0.8193,
+    "w": 0.142,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 65,
+   "form": "bras-co",
+   "gloss": "Bottle",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "BOTTLE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.8342,
+    "w": 0.152,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 66,
+   "form": "broo-oor",
+   "gloss": "Wood",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5059,
+    "y": 0.8493,
+    "w": 0.1593,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 67,
+   "form": "see-reet",
+   "gloss": "Silk",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "SILK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5032,
+    "y": 0.8638,
+    "w": 0.1314,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 68,
+   "form": "tchú-e",
+   "gloss": "Fishing net",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 0,
+    "x": 0.5032,
+    "y": 0.8788,
+    "w": 0.2004,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 69,
+   "form": "rah-poo",
+   "gloss": "Roof of house",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 0,
+    "x": 0.5032,
+    "y": 0.8945,
+    "w": 0.2382,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 70,
+   "form": "see-u",
+   "gloss": "Linen",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "LINEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5026,
+    "y": 0.9094,
+    "w": 0.1288,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 71,
+   "form": "tou-ear",
+   "gloss": "Pearl button",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.0949,
+    "w": 0.1901,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 72,
+   "form": "nee",
+   "gloss": "Merino",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 1,
+    "x": 0.1147,
+    "y": 0.1104,
+    "w": 0.1248,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 73,
+   "form": "trang-e-tang",
+   "gloss": "Red tape",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.126,
+    "w": 0.1901,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 74,
+   "form": "sa-rick",
+   "gloss": "Knife",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.1401,
+    "w": 0.1467,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 75,
+   "form": "ong-lee-pee",
+   "gloss": "Worsted",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.1552,
+    "w": 0.1894,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 76,
+   "form": "see-rah",
+   "gloss": "Cotton",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "COTTON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.1624,
+    "w": 0.1894,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 77,
+   "form": "tim-re-an",
+   "gloss": "Thread (native manufacture)",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.1695,
+    "w": 0.1894,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 78,
+   "form": "rap-pou",
+   "gloss": "Hut",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "concepts": [
+    "HUT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.1767,
+    "w": 0.1894,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 79,
+   "form": "ha-bah",
+   "gloss": "Native cloth",
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.1838,
+    "w": 0.1894,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 80,
+   "form": "ah-lárm",
+   "gloss": "Paddy bird (heron)",
+   "section": "ANIMALS",
+   "box": {
+    "page": 1,
+    "x": 0.1166,
+    "y": 0.191,
+    "w": 0.1887,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 81,
+   "form": "wah soo [J.]",
+   "gloss": "Dog",
+   "section": "ANIMALS",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.2061,
+    "w": 0.1891,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 82,
+   "form": "drach-hook (guttural)",
+   "gloss": "Cock",
+   "section": "ANIMALS",
+   "box": {
+    "page": 1,
+    "x": 0.1173,
+    "y": 0.2206,
+    "w": 0.1881,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 83,
+   "form": "tec-na-na",
+   "gloss": "Hen",
+   "section": "ANIMALS",
+   "concepts": [
+    "HEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.2353,
+    "w": 0.1573,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 84,
+   "form": "soo-soo-see-na",
+   "gloss": "Hen's eggs",
+   "section": "ANIMALS",
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.2507,
+    "w": 0.1894,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 85,
+   "form": "ka-na-sow",
+   "gloss": "Echinus",
+   "section": "ANIMALS",
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.2654,
+    "w": 0.1894,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 86,
+   "form": "wah-rang",
+   "gloss": "Crab",
+   "section": "ANIMALS",
+   "concepts": [
+    "CRAB"
+   ]
+  },
+  {
+   "n": 87,
+   "form": "boo-row",
+   "gloss": "Butterfly",
+   "section": "ANIMALS",
+   "concepts": [
+    "BUTTERFLY"
+   ]
+  },
+  {
+   "n": 88,
+   "form": "ma-woo-nee",
+   "gloss": "Pig",
+   "section": "ANIMALS",
+   "concepts": [
+    "PIG"
+   ]
+  },
+  {
+   "n": 89,
+   "form": "vow-hoot",
+   "gloss": "Fish",
+   "section": "ANIMALS",
+   "concepts": [
+    "FISH"
+   ]
+  },
+  {
+   "n": 90,
+   "form": "ta-pong-i-tchue",
+   "gloss": "Fishing",
+   "section": "ANIMALS",
+   "concepts": [
+    "FISHING"
+   ]
+  },
+  {
+   "n": 91,
+   "form": "koo-loo-boo-lan",
+   "gloss": "Goat",
+   "section": "ANIMALS",
+   "concepts": [
+    "GOAT"
+   ]
+  },
+  {
+   "n": 92,
+   "form": "wan-ing",
+   "gloss": "Sugar (loaf)",
+   "section": "ARTICLES OF FOOD",
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.3033,
+    "w": 0.1894,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 93,
+   "form": "mai-ee",
+   "gloss": "Boiled rice",
+   "section": "ARTICLES OF FOOD",
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.3169,
+    "w": 0.1901,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 94,
+   "form": "brass (Malay)",
+   "gloss": "Rice",
+   "section": "ARTICLES OF FOOD",
+   "concepts": [
+    "RICE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.3169,
+    "w": 0.1901,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 95,
+   "form": "oo-rahn",
+   "gloss": "Rain",
+   "section": "ELEMENTS, ETC.",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.3564,
+    "w": 0.1487,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 96,
+   "form": "var-lee",
+   "gloss": "Wind",
+   "section": "ELEMENTS, ETC.",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.3715,
+    "w": 0.144,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 97,
+   "form": "ner-lun [M. & J.]",
+   "gloss": "Sun",
+   "section": "ELEMENTS, ETC.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1173,
+    "y": 0.3858,
+    "w": 0.1881,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 98,
+   "form": "nar-een [M.]",
+   "gloss": "Surf (on beach)",
+   "section": "ELEMENTS, ETC.",
+   "box": {
+    "page": 1,
+    "x": 0.1166,
+    "y": 0.4016,
+    "w": 0.1887,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 99,
+   "form": "ra-mah",
+   "gloss": "Fire",
+   "section": "ELEMENTS, ETC.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1147,
+    "y": 0.4163,
+    "w": 0.1401,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 100,
+   "form": "moo-zan",
+   "gloss": "Rain",
+   "section": "ELEMENTS, ETC.",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1166,
+    "y": 0.4542,
+    "w": 0.1887,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 101,
+   "form": "pa-oo",
+   "gloss": "Brass",
+   "section": "ELEMENTS, ETC.",
+   "concepts": [
+    "BRASS"
+   ]
+  },
+  {
+   "n": 102,
+   "form": "bah-lis",
+   "gloss": "Iron",
+   "section": "ELEMENTS, ETC.",
+   "concepts": [
+    "IRON"
+   ]
+  },
+  {
+   "n": 103,
+   "form": "pe-lah",
+   "gloss": "Silver coin",
+   "section": "ELEMENTS, ETC."
+  },
+  {
+   "n": 104,
+   "form": "wah-koo-par-in",
+   "gloss": "Reed pipe",
+   "section": "MISCELLANEOUS",
+   "box": {
+    "page": 1,
+    "x": 0.1166,
+    "y": 0.4542,
+    "w": 0.1887,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 105,
+   "form": "kwa-ko",
+   "gloss": "Wood pipe",
+   "section": "MISCELLANEOUS",
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.4681,
+    "w": 0.1894,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 106,
+   "form": "kai-sing",
+   "gloss": "Broom",
+   "section": "MISCELLANEOUS",
+   "concepts": [
+    "BROOM"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.4843,
+    "w": 0.1712,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 107,
+   "form": "rah-pil-sa",
+   "gloss": "Matchlock",
+   "section": "MISCELLANEOUS",
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.4994,
+    "w": 0.1901,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 108,
+   "form": "ba-rin",
+   "gloss": "Tree",
+   "section": "MISCELLANEOUS",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1147,
+    "y": 0.5139,
+    "w": 0.1314,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 109,
+   "form": "va-vow",
+   "gloss": "Slate",
+   "section": "MISCELLANEOUS",
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.529,
+    "w": 0.1434,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 110,
+   "form": "ta-kerr",
+   "gloss": "Hills",
+   "section": "MISCELLANEOUS",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.5435,
+    "w": 0.1401,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 111,
+   "form": "wa-pi",
+   "gloss": "Junk",
+   "section": "MISCELLANEOUS",
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.5584,
+    "w": 0.1354,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 112,
+   "form": "ka-ri-sew",
+   "gloss": "Copper cash",
+   "section": "MISCELLANEOUS",
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.5729,
+    "w": 0.1894,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 113,
+   "form": "rra-mi",
+   "gloss": "Rice straw (thatch)",
+   "section": "MISCELLANEOUS",
+   "box": {
+    "page": 1,
+    "x": 0.1166,
+    "y": 0.5874,
+    "w": 0.1887,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 114,
+   "form": "soo-a-yee",
+   "gloss": "Lily",
+   "section": "MISCELLANEOUS",
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.6051,
+    "w": 0.154,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 115,
+   "form": "brun",
+   "gloss": "Grass (or dried plant of same)",
+   "section": "MISCELLANEOUS",
+   "box": {
+    "page": 1,
+    "x": 0.116,
+    "y": 0.6177,
+    "w": 0.1894,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 116,
+   "form": "ai-e",
+   "gloss": "Yes",
+   "section": "MISCELLANEOUS",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1153,
+    "y": 0.6328,
+    "w": 0.1003,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 117,
+   "form": "mo (Chinese)",
+   "gloss": "No",
+   "section": "MISCELLANEOUS",
+   "concepts": [
+    "NO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1147,
+    "y": 0.6477,
+    "w": 0.1825,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 118,
+   "form": "Sai-ah-nee",
+   "gloss": "",
+   "section": "NAMES OF MEN",
+   "box": {
+    "page": 1,
+    "x": 0.5052,
+    "y": 0.4749,
+    "w": 0.1175,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 119,
+   "form": "Mah-now",
+   "gloss": "",
+   "section": "NAMES OF MEN",
+   "box": {
+    "page": 1,
+    "x": 0.5052,
+    "y": 0.49,
+    "w": 0.1042,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 120,
+   "form": "Too-bah",
+   "gloss": "",
+   "section": "NAMES OF MEN",
+   "box": {
+    "page": 1,
+    "x": 0.5046,
+    "y": 0.5049,
+    "w": 0.0923,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 121,
+   "form": "Pah-keek",
+   "gloss": "",
+   "section": "NAMES OF MEN",
+   "box": {
+    "page": 1,
+    "x": 0.5052,
+    "y": 0.5201,
+    "w": 0.1049,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 122,
+   "form": "E-pai-ee",
+   "gloss": "",
+   "section": "NAMES OF WOMEN",
+   "box": {
+    "page": 1,
+    "x": 0.5052,
+    "y": 0.5729,
+    "w": 0.0963,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 123,
+   "form": "Kin-lee-yán",
+   "gloss": "",
+   "section": "NAMES OF WOMEN",
+   "box": {
+    "page": 1,
+    "x": 0.5066,
+    "y": 0.588,
+    "w": 0.1308,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 124,
+   "form": "Moo-hoot",
+   "gloss": "",
+   "section": "NAMES OF WOMEN",
+   "box": {
+    "page": 1,
+    "x": 0.5052,
+    "y": 0.6013,
+    "w": 0.1049,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 125,
+   "form": "Sing-ow",
+   "gloss": "",
+   "section": "NAMES OF WOMEN",
+   "box": {
+    "page": 1,
+    "x": 0.5052,
+    "y": 0.6171,
+    "w": 0.2269,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 126,
+   "form": "Ar-pée",
+   "gloss": "(a young girl)",
+   "section": "NAMES OF WOMEN",
+   "box": {
+    "page": 1,
+    "x": 0.5046,
+    "y": 0.633,
+    "w": 0.2269,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 127,
+   "form": "Sow-bahn",
+   "gloss": "",
+   "section": "NAMES OF WOMEN",
+   "box": {
+    "page": 1,
+    "x": 0.5052,
+    "y": 0.6458,
+    "w": 0.1082,
+    "h": 0.0152
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 127,
+  "notes": 0,
+  "located": 99
+ },
+ "partial": null,
+ "relation": null
+}

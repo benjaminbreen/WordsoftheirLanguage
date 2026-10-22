@@ -1,0 +1,3892 @@
+{
+ "schema": 1,
+ "id": "tasmania",
+ "wtl": "WTL-0027",
+ "heading": "A Short Vocabulary of the Natives of Van Diemen Land",
+ "headings": [
+  "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+  "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+  "English. / V. D. Land, 1835.",
+  "Names of Natives in Van Diemen Land (1835)",
+  "English. / V. D. Land, 1803."
+ ],
+ "language": {
+  "name": "Tasmanian",
+  "glottocode": "tasm1247",
+  "family": "Bookkeeping",
+  "path": [
+   "Bookkeeping"
+  ],
+  "labels": [
+   "V. D. Land, 1803",
+   "V. D. Land, 1835",
+   "Van Diemen Land, 1803",
+   "Van Diemen Land, 1835"
+  ]
+ },
+ "region": "Australia & Pacific",
+ "book": {
+  "short": "A Short Vocabulary of the Natives of Van Diemen Land",
+  "title": "A Short Vocabulary of the Natives of Van Diemen Land; and also of the Menero Downs, in Australia",
+  "author": "John Lhotsky",
+  "printed": 1839,
+  "imprint": "Journal of the Royal Geographical Society of London, vol. 9, 1839, pp. 157–162",
+  "tcp": "",
+  "cover": "lhotsky"
+ },
+ "provenance": {
+  "collector": "John Lhotsky (1835); Péron's expedition (1803)",
+  "place": "Van Diemen's Land",
+  "heard": "1803; 1835"
+ },
+ "scan": {
+  "ia": "jstor-1797719",
+  "url": "https://archive.org/details/jstor-1797719",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Two columns: words collected by Lhotsky in 1835, and a list of 1803 from Péron's expedition, obtained by Robert Brown and added by the editors. E. and W. mark the east and west sides of the island.",
+ "pages": [
+  {
+   "leaf": 3,
+   "w": 1610,
+   "h": 2570,
+   "sm": "/scans/tasmania/0003-900.webp",
+   "lg": "/scans/tasmania/0003-1800.webp"
+  },
+  {
+   "leaf": 4,
+   "w": 1610,
+   "h": 2570,
+   "sm": "/scans/tasmania/0004-900.webp",
+   "lg": "/scans/tasmania/0004-1800.webp"
+  },
+  {
+   "leaf": 5,
+   "w": 1610,
+   "h": 2570,
+   "sm": "/scans/tasmania/0005-900.webp",
+   "lg": "/scans/tasmania/0005-1800.webp"
+  },
+  {
+   "leaf": 6,
+   "w": 1610,
+   "h": 2570,
+   "sm": "/scans/tasmania/0006-900.webp",
+   "lg": "/scans/tasmania/0006-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Abri (W.)",
+   "gloss": "Arms",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "ARM"
+   ]
+  },
+  {
+   "n": 2,
+   "form": "Guna-lia *",
+   "gloss": "Arms",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "ARM"
+   ]
+  },
+  {
+   "n": 5,
+   "form": "Kongine",
+   "gloss": "Beard",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "BEARD"
+   ]
+  },
+  {
+   "n": 8,
+   "form": "Pitserata",
+   "gloss": "Ear",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "EAR"
+   ]
+  },
+  {
+   "n": 9,
+   "form": "Cuengi-lia",
+   "gloss": "Ear",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "EAR"
+   ]
+  },
+  {
+   "n": 12,
+   "form": "Rowella (W.)",
+   "gloss": "Elbow ?",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "ELBOW"
+   ]
+  },
+  {
+   "n": 15,
+   "form": "Lepina",
+   "gloss": "Eye",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1394,
+    "y": 0.234,
+    "w": 0.0839,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 16,
+   "form": "Nubere",
+   "gloss": "Eye",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1394,
+    "y": 0.234,
+    "w": 0.0839,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 19,
+   "form": "Langana",
+   "gloss": "Foot",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1394,
+    "y": 0.2612,
+    "w": 0.0839,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 22,
+   "form": "Zitina",
+   "gloss": "Hair",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1394,
+    "y": 0.2884,
+    "w": 0.0839,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 23,
+   "form": "Cililogení",
+   "gloss": "Hair",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1394,
+    "y": 0.3156,
+    "w": 0.0839,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 26,
+   "form": "Anamana",
+   "gloss": "Hand",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1394,
+    "y": 0.3428,
+    "w": 0.0839,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 27,
+   "form": "`Ri-lia",
+   "gloss": "Hand",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1413,
+    "y": 0.37,
+    "w": 0.0646,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 30,
+   "form": "Minebana",
+   "gloss": "Knee",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "KNEE"
+   ]
+  },
+  {
+   "n": 31,
+   "form": "Ranga-lia",
+   "gloss": "Knee",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "KNEE"
+   ]
+  },
+  {
+   "n": 34,
+   "form": "Latanama",
+   "gloss": "Leg",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "LEG"
+   ]
+  },
+  {
+   "n": 37,
+   "form": "Minarara",
+   "gloss": "Nose",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "NOSE"
+   ]
+  },
+  {
+   "n": 38,
+   "form": "Mugid",
+   "gloss": "Nose",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "NOSE"
+   ]
+  },
+  {
+   "n": 41,
+   "form": "Yana",
+   "gloss": "Teeth",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2519,
+    "y": 0.8753,
+    "w": 0.0778,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 42,
+   "form": "Pegi",
+   "gloss": "Teeth",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2519,
+    "y": 0.8753,
+    "w": 0.0778,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "Mina",
+   "gloss": "Tongue",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "TONGUE"
+   ]
+  },
+  {
+   "n": 46,
+   "form": "Mene",
+   "gloss": "Tongue",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3711,
+    "y": 0.1387,
+    "w": 0.0714,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 49,
+   "form": "Tula",
+   "gloss": "Thigh",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803. / Adelaide, S. Australia.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "THIGH"
+   ]
+  },
+  {
+   "n": 51,
+   "form": "Lure",
+   "gloss": "Ankle",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "ANKLE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6786,
+    "y": 0.1815,
+    "w": 0.0491,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 53,
+   "form": "Kaviranára (W.)",
+   "gloss": "Belly",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4984,
+    "y": 0.1961,
+    "w": 0.1491,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 55,
+   "form": "Voyeni",
+   "gloss": "Breast",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4991,
+    "y": 0.2088,
+    "w": 0.2267,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 56,
+   "form": "Lere",
+   "gloss": "Breast",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4991,
+    "y": 0.2088,
+    "w": 0.2267,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 58,
+   "form": "Kamnina",
+   "gloss": "Chin",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5003,
+    "y": 0.2198,
+    "w": 0.2435,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 59,
+   "form": "Onaba",
+   "gloss": "Chin",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6798,
+    "y": 0.2196,
+    "w": 0.064,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 61,
+   "form": "Tipla (W.)",
+   "gloss": "Eyebrow",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "EYEBROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4997,
+    "y": 0.234,
+    "w": 0.2944,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 62,
+   "form": "Line nubera",
+   "gloss": "Eyebrow",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "EYEBROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4997,
+    "y": 0.234,
+    "w": 0.2944,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 63,
+   "form": "Niperina",
+   "gloss": "Face",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5016,
+    "y": 0.2481,
+    "w": 0.0944,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 64,
+   "form": "Manarabel (W.)",
+   "gloss": "Face",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5047,
+    "y": 0.2589,
+    "w": 0.1559,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 65,
+   "form": "Tibera",
+   "gloss": "Fœminina",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "box": {
+    "page": 0,
+    "x": 0.5003,
+    "y": 0.27,
+    "w": 0.2484,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 66,
+   "form": "Megua",
+   "gloss": "Fœminina",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "box": {
+    "page": 0,
+    "x": 0.5003,
+    "y": 0.27,
+    "w": 0.2484,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 67,
+   "form": "Laidoga",
+   "gloss": "Heel",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "HEEL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6823,
+    "y": 0.2829,
+    "w": 0.0783,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 69,
+   "form": "Mogudi lia",
+   "gloss": "Lips",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6823,
+    "y": 0.2955,
+    "w": 0.1012,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 71,
+   "form": "Toni lia",
+   "gloss": "Nails",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6811,
+    "y": 0.3066,
+    "w": 0.0795,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 73,
+   "form": "Liué",
+   "gloss": "Navel",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "NAVEL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6823,
+    "y": 0.3189,
+    "w": 0.0466,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 76,
+   "form": "Lepina",
+   "gloss": "Neck",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5009,
+    "y": 0.3335,
+    "w": 0.0696,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 77,
+   "form": "Denia (W.)",
+   "gloss": "Neck",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5022,
+    "y": 0.3461,
+    "w": 0.1056,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 79,
+   "form": "Wobrata",
+   "gloss": "Posteriora",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "box": {
+    "page": 0,
+    "x": 0.5009,
+    "y": 0.3576,
+    "w": 0.0839,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 81,
+   "form": "Lipi",
+   "gloss": "Virilia",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "box": {
+    "page": 0,
+    "x": 0.5022,
+    "y": 0.3714,
+    "w": 0.0435,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 83,
+   "form": "Limeri",
+   "gloss": "Clouds",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "CLOUD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5022,
+    "y": 0.3947,
+    "w": 0.0658,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 85,
+   "form": "Megra",
+   "gloss": "Day",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5016,
+    "y": 0.4086,
+    "w": 0.064,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 87,
+   "form": "Lope",
+   "gloss": "Fire",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5016,
+    "y": 0.421,
+    "w": 0.223,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 88,
+   "form": "Une",
+   "gloss": "Fire",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5016,
+    "y": 0.421,
+    "w": 0.223,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 90,
+   "form": "Une bura",
+   "gloss": "Lightning",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6817,
+    "y": 0.4309,
+    "w": 0.0882,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 92,
+   "form": "Vena",
+   "gloss": "Moon",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5003,
+    "y": 0.4447,
+    "w": 0.0522,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 94,
+   "form": "Burdunya",
+   "gloss": "Night",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6817,
+    "y": 0.457,
+    "w": 0.0994,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 96,
+   "form": "Oldina",
+   "gloss": "Snow",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5003,
+    "y": 0.4691,
+    "w": 0.0665,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 98,
+   "form": "Potena. Marama",
+   "gloss": "Star",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5003,
+    "y": 0.4817,
+    "w": 0.1528,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 100,
+   "form": "Piterina",
+   "gloss": "Sun",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5003,
+    "y": 0.4944,
+    "w": 0.2702,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 101,
+   "form": "Panubere",
+   "gloss": "Sun",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5003,
+    "y": 0.4944,
+    "w": 0.2702,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 103,
+   "form": "Bura",
+   "gloss": "Thunder",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6823,
+    "y": 0.5058,
+    "w": 0.0509,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 105,
+   "form": "Natta",
+   "gloss": "Earth",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5022,
+    "y": 0.5321,
+    "w": 0.0578,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 107,
+   "form": "Gonta",
+   "gloss": "Ground",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "GROUND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.5447,
+    "w": 0.0602,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 109,
+   "form": "Megog",
+   "gloss": "Rock",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "ROCK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.5586,
+    "w": 0.0671,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 111,
+   "form": "Nami",
+   "gloss": "Stone",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.5693,
+    "w": 0.2354,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 112,
+   "form": "Loine",
+   "gloss": "Stone",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.5764,
+    "w": 0.2354,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 114,
+   "form": "Lugana. Moga",
+   "gloss": "Water (fresh)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.5835,
+    "w": 0.2186,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 115,
+   "form": "Lia",
+   "gloss": "Water (fresh)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803"
+  },
+  {
+   "n": 118,
+   "form": "Une bura ?",
+   "gloss": "Bark",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "BARK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6817,
+    "y": 0.6183,
+    "w": 0.0988,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 120,
+   "form": "Porshi",
+   "gloss": "Branch",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "BRANCH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6817,
+    "y": 0.6307,
+    "w": 0.0646,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 121,
+   "form": "Rodedana. Publi",
+   "gloss": "Grass",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "GRASS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5009,
+    "y": 0.644,
+    "w": 0.2398,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 122,
+   "form": "Poene",
+   "gloss": "Grass",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "GRASS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5009,
+    "y": 0.644,
+    "w": 0.2398,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 123,
+   "form": "Lubada",
+   "gloss": "Casuarina, fruit of",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "box": {
+    "page": 0,
+    "x": 0.6823,
+    "y": 0.656,
+    "w": 0.0745,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 125,
+   "form": "Driué",
+   "gloss": "Leaf",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "LEAF"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6817,
+    "y": 0.6685,
+    "w": 0.0559,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 127,
+   "form": "Luparí",
+   "gloss": "Tree",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6817,
+    "y": 0.6825,
+    "w": 0.0677,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 129,
+   "form": "Mumanara (E.)",
+   "gloss": "Wood",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.6959,
+    "w": 0.2205,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 130,
+   "form": "Gui",
+   "gloss": "Wood",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.6959,
+    "w": 0.2205,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 132,
+   "form": "Loira",
+   "gloss": ",, charcoal",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "CHARCOAL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6823,
+    "y": 0.7062,
+    "w": 0.0553,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 134,
+   "form": "Plireni",
+   "gloss": "Boy",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.7319,
+    "w": 0.0683,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 136,
+   "form": "Pleaganana",
+   "gloss": "Brother",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5016,
+    "y": 0.7459,
+    "w": 0.1106,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 138,
+   "form": "Lalubegana",
+   "gloss": "Old man",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.7584,
+    "w": 0.113,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 140,
+   "form": "Padana",
+   "gloss": "Bandicoot",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "BANDICOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5016,
+    "y": 0.7823,
+    "w": 0.0739,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 142,
+   "form": "Leputalla (E.)",
+   "gloss": "Dog (native)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "box": {
+    "page": 0,
+    "x": 0.322,
+    "y": 0.7961,
+    "w": 0.3137,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 144,
+   "form": "Rakana",
+   "gloss": "Emu",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "EMU"
+   ]
+  },
+  {
+   "n": 146,
+   "form": "Riprinana",
+   "gloss": "Kangaroo rat",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "box": {
+    "page": 0,
+    "x": 0.504,
+    "y": 0.8208,
+    "w": 0.277,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 148,
+   "form": "Milabaina",
+   "gloss": "Opossum",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "OPOSSUM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.8319,
+    "w": 0.0938,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 150,
+   "form": "Kella-Katena",
+   "gloss": "Crow",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "CROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.8444,
+    "w": 0.1261,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 152,
+   "form": "Ingenana",
+   "gloss": "Hawk",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "HAWK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.504,
+    "y": 0.8584,
+    "w": 0.0888,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 154,
+   "form": "Rowendana",
+   "gloss": "Swan",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "SWAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4984,
+    "y": 0.18,
+    "w": 0.1062,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 156,
+   "form": "Girgra",
+   "gloss": "Parrot",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "PARROT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.678,
+    "y": 0.194,
+    "w": 0.064,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 158,
+   "form": "Oille",
+   "gloss": "Fly",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "FLY (INSECT)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6786,
+    "y": 0.2177,
+    "w": 0.0497,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 160,
+   "form": "Lonbodia",
+   "gloss": "Oyster",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "box": {
+    "page": 1,
+    "x": 0.6792,
+    "y": 0.2302,
+    "w": 0.0888,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 162,
+   "form": "Pulbena",
+   "gloss": "Frog",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "FROG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4997,
+    "y": 0.2426,
+    "w": 0.0783,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 164,
+   "form": "Katal",
+   "gloss": "Snake",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "SNAKE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5003,
+    "y": 0.2553,
+    "w": 0.0565,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 165,
+   "form": "Lukrapani",
+   "gloss": "Canoe",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "CANOE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5003,
+    "y": 0.2819,
+    "w": 0.2441,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 166,
+   "form": "Nenga",
+   "gloss": "Canoe",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "CANOE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6798,
+    "y": 0.2819,
+    "w": 0.0646,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 168,
+   "form": "Perelede",
+   "gloss": "Beads",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "BEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6792,
+    "y": 0.2936,
+    "w": 0.0826,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 170,
+   "form": "Lugana",
+   "gloss": "Drink (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5003,
+    "y": 0.3191,
+    "w": 0.2404,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 171,
+   "form": "Laina",
+   "gloss": "Drink (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6798,
+    "y": 0.3185,
+    "w": 0.0609,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 172,
+   "form": "Legard",
+   "gloss": "Evacuate (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "box": {
+    "page": 1,
+    "x": 0.5003,
+    "y": 0.3317,
+    "w": 0.2286,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 173,
+   "form": "Tere",
+   "gloss": "Evacuate (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "box": {
+    "page": 1,
+    "x": 0.6792,
+    "y": 0.3311,
+    "w": 0.0497,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 175,
+   "form": "Drohi",
+   "gloss": "Laugh (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "LAUGH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6792,
+    "y": 0.3435,
+    "w": 0.0497,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 177,
+   "form": "Toni",
+   "gloss": "Call (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "CALL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.678,
+    "y": 0.3558,
+    "w": 0.0491,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 179,
+   "form": "Moltena. Mella",
+   "gloss": "Run (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "concepts": [
+    "RUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4984,
+    "y": 0.3675,
+    "w": 0.141,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 181,
+   "form": "Mevana",
+   "gloss": "Sit down (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "box": {
+    "page": 1,
+    "x": 0.4972,
+    "y": 0.3798,
+    "w": 0.3068,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 182,
+   "form": "Medí. Meditó",
+   "gloss": "Sit down (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "box": {
+    "page": 1,
+    "x": 0.6786,
+    "y": 0.3809,
+    "w": 0.1255,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 184,
+   "form": "Tara",
+   "gloss": "Weep (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "box": {
+    "page": 1,
+    "x": 0.6786,
+    "y": 0.3934,
+    "w": 0.0503,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 186,
+   "form": "Mata",
+   "gloss": "Die (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "DIE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6798,
+    "y": 0.4054,
+    "w": 0.0547,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 188,
+   "form": "Makunya",
+   "gloss": "Sleep (to)",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6811,
+    "y": 0.4196,
+    "w": 0.0894,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 190,
+   "form": "Lavara",
+   "gloss": "Little",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1835",
+   "box": {
+    "page": 1,
+    "x": 0.4984,
+    "y": 0.4294,
+    "w": 0.0689,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 192,
+   "form": "Marai",
+   "gloss": "One",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6804,
+    "y": 0.4428,
+    "w": 0.0615,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 194,
+   "form": "Bura",
+   "gloss": "Two",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6804,
+    "y": 0.4553,
+    "w": 0.0509,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 196,
+   "form": "Alirí",
+   "gloss": "Three",
+   "section": "English. / Menero Downs. / Van Diemen Land. 1835. 1803.",
+   "col": "Van Diemen Land, 1803",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6804,
+    "y": 0.4677,
+    "w": 0.0491,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 286,
+   "form": "Lutragala",
+   "gloss": "Fine day",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 1,
+    "x": 0.4972,
+    "y": 0.5066,
+    "w": 0.2764,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 287,
+   "form": "Mina",
+   "gloss": "Fog",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "FOG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4978,
+    "y": 0.5187,
+    "w": 0.236,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 288,
+   "form": "Oltana",
+   "gloss": "Frost",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "FROST"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4984,
+    "y": 0.5296,
+    "w": 0.2491,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 289,
+   "form": "Levira",
+   "gloss": "Night",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4978,
+    "y": 0.5436,
+    "w": 0.246,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 290,
+   "form": "Walana-lanala",
+   "gloss": "Country",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "COUNTRY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4966,
+    "y": 0.5685,
+    "w": 0.3168,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 291,
+   "form": "Lirevigana",
+   "gloss": "Island",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "ISLAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4984,
+    "y": 0.579,
+    "w": 0.2851,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 292,
+   "form": "Tráwala",
+   "gloss": "Mountain",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "MOUNTAIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4966,
+    "y": 0.5918,
+    "w": 0.2609,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 293,
+   "form": "Waltomana",
+   "gloss": "River",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4978,
+    "y": 0.6043,
+    "w": 0.2901,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 294,
+   "form": "Montemana",
+   "gloss": "Rivulet",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 1,
+    "x": 0.4972,
+    "y": 0.6167,
+    "w": 0.2913,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 295,
+   "form": "Moahakali",
+   "gloss": "Water (salt)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 1,
+    "x": 0.4978,
+    "y": 0.6311,
+    "w": 0.282,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 296,
+   "form": "Komtenana",
+   "gloss": "Grass-tree*",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 1,
+    "x": 0.4978,
+    "y": 0.6422,
+    "w": 0.2913,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 297,
+   "form": "Lovregana",
+   "gloss": "Forest",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "FOREST"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4978,
+    "y": 0.6541,
+    "w": 0.2814,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 298,
+   "form": "Lemena",
+   "gloss": "Oak",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "OAK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4978,
+    "y": 0.6665,
+    "w": 0.2578,
+    "h": 0.0128,
+    "approx": true
+   }
+  },
+  {
+   "n": 299,
+   "form": "Mumlamána",
+   "gloss": "Father",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6804,
+    "y": 0.6928,
+    "w": 0.1155,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 300,
+   "form": "Sudinana",
+   "gloss": "Girl",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4978,
+    "y": 0.7043,
+    "w": 0.2702,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 301,
+   "form": "Lusivina",
+   "gloss": "Man",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4984,
+    "y": 0.7167,
+    "w": 0.2652,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 302,
+   "form": "Vaiba",
+   "gloss": ",, black",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.514,
+    "y": 0.7309,
+    "w": 0.2248,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 303,
+   "form": "Tattana (W)",
+   "gloss": "Mother",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.6804,
+    "y": 0.743,
+    "w": 0.118,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 304,
+   "form": "Pulbena",
+   "gloss": "Mother",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "MOTHER"
+   ]
+  },
+  {
+   "n": 305,
+   "form": "Napanrena",
+   "gloss": "Badger",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "BADGER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4991,
+    "y": 0.7815,
+    "w": 0.2857,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 306,
+   "form": "Lila (E)",
+   "gloss": "Cat (native)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 1,
+    "x": 0.4997,
+    "y": 0.794,
+    "w": 0.2745,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 307,
+   "form": "Lelagia (W)",
+   "gloss": "Cat (native)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 1,
+    "x": 0.6823,
+    "y": 0.8064,
+    "w": 0.1242,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 308,
+   "form": "Krigenana",
+   "gloss": ",, pouch",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "POUCH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5183,
+    "y": 0.82,
+    "w": 0.2627,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 309,
+   "form": "Tremana",
+   "gloss": "Porcupine",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "PORCUPINE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4991,
+    "y": 0.8317,
+    "w": 0.2677,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 310,
+   "form": "Kateila",
+   "gloss": "Seal",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "SEAL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4991,
+    "y": 0.8428,
+    "w": 0.2534,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 311,
+   "form": "Malbena",
+   "gloss": "Drake",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 1,
+    "x": 0.5003,
+    "y": 0.8675,
+    "w": 0.2646,
+    "h": 0.0128
+   }
+  },
+  {
+   "n": 312,
+   "form": "Robengana",
+   "gloss": "Goose",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "GOOSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4961,
+    "y": 0.1672,
+    "w": 0.2866,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 313,
+   "form": "Rowenana",
+   "gloss": "Gull",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4968,
+    "y": 0.1793,
+    "w": 0.2785,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 314,
+   "form": "Putuna",
+   "gloss": "Hawk (black)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4968,
+    "y": 0.1929,
+    "w": 0.2518,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 315,
+   "form": "Kenara",
+   "gloss": "Magpie",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "MAGPIE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4974,
+    "y": 0.2063,
+    "w": 0.2537,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 316,
+   "form": "Yavla",
+   "gloss": "Mutton bird",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4968,
+    "y": 0.217,
+    "w": 0.2394,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 317,
+   "form": "Trudena",
+   "gloss": "Pelican",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "PELICAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4974,
+    "y": 0.23,
+    "w": 0.2624,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 318,
+   "form": "Metaira",
+   "gloss": "All round",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4974,
+    "y": 0.2549,
+    "w": 0.2555,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 319,
+   "form": "Katea",
+   "gloss": "Bad",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "BAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4974,
+    "y": 0.2674,
+    "w": 0.2419,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 320,
+   "form": "Bungana",
+   "gloss": "Chief",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.498,
+    "y": 0.28,
+    "w": 0.268,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 321,
+   "form": "Comtana (E)",
+   "gloss": "Devil",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "DEVIL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6825,
+    "y": 0.2937,
+    "w": 0.1288,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 322,
+   "form": "Nama (W)",
+   "gloss": "Devil",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "DEVIL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4986,
+    "y": 0.3049,
+    "w": 0.2971,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 323,
+   "form": "Rediarapa (S)",
+   "gloss": "Devil",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "DEVIL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6831,
+    "y": 0.3186,
+    "w": 0.1381,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 324,
+   "form": "Katribiutana",
+   "gloss": "Dry",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "DRY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4993,
+    "y": 0.3316,
+    "w": 0.3034,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 325,
+   "form": "Pinega",
+   "gloss": "Flying",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4999,
+    "y": 0.3442,
+    "w": 0.2487,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 326,
+   "form": "Marakupa",
+   "gloss": "Handsome",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4999,
+    "y": 0.3551,
+    "w": 0.2773,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 327,
+   "form": "Vatina",
+   "gloss": "High",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "HIGH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5011,
+    "y": 0.369,
+    "w": 0.2456,
+    "h": 0.0125,
+    "approx": true
+   }
+  },
+  {
+   "n": 328,
+   "form": "Tavengana",
+   "gloss": "Less",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4999,
+    "y": 0.3802,
+    "w": 0.2835,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 329,
+   "form": "Liutece",
+   "gloss": "Low",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "LOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5005,
+    "y": 0.3925,
+    "w": 0.2524,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 330,
+   "form": "Petebela",
+   "gloss": "Old",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "OLD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4999,
+    "y": 0.4048,
+    "w": 0.263,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 331,
+   "form": "Canola",
+   "gloss": "Stout",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4986,
+    "y": 0.4172,
+    "w": 0.2493,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 332,
+   "form": "Ratavenina",
+   "gloss": "Sultry",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4986,
+    "y": 0.4312,
+    "w": 0.2872,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 333,
+   "form": "Mabea",
+   "gloss": "One side",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4993,
+    "y": 0.4423,
+    "w": 0.2481,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 334,
+   "form": "Vadaburena",
+   "gloss": "Ashamed (to be)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.4986,
+    "y": 0.4684,
+    "w": 0.2947,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 335,
+   "form": "Tipera",
+   "gloss": "Come (to)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "COME"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4993,
+    "y": 0.4816,
+    "w": 0.2481,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 336,
+   "form": "Menana",
+   "gloss": "Fight (to)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "FIGHT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4993,
+    "y": 0.4944,
+    "w": 0.2605,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 337,
+   "form": "Mengana",
+   "gloss": "Get (to)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "GET"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4999,
+    "y": 0.5067,
+    "w": 0.2698,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 338,
+   "form": "Kabieti !",
+   "gloss": "Go !",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "GO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5005,
+    "y": 0.5178,
+    "w": 0.2648,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 339,
+   "form": "Tunepi",
+   "gloss": "Know (to)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "KNOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5011,
+    "y": 0.5318,
+    "w": 0.2493,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 340,
+   "form": "Karni",
+   "gloss": "Shout (to)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "SHOUT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.321,
+    "y": 0.5431,
+    "w": 0.4195,
+    "h": 0.0125,
+    "approx": true
+   }
+  },
+  {
+   "n": 341,
+   "form": "Mekropani",
+   "gloss": "Stop (to)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.5005,
+    "y": 0.5571,
+    "w": 0.2816,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 342,
+   "form": "Tabelti",
+   "gloss": "Walk (to)",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "concepts": [
+    "WALK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5011,
+    "y": 0.5693,
+    "w": 0.2506,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 343,
+   "form": "Mena lageta",
+   "gloss": "I tell you",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.5017,
+    "y": 0.5802,
+    "w": 0.2934,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 344,
+   "form": "Mena malaga latia",
+   "gloss": "I will go and hunt",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.5011,
+    "y": 0.5931,
+    "w": 0.3518,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 345,
+   "form": "Pilni",
+   "gloss": "Cape Grimm",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.5011,
+    "y": 0.6193,
+    "w": 0.2307,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 346,
+   "form": "Malutá",
+   "gloss": "Circular head",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.5011,
+    "y": 0.6304,
+    "w": 0.2493,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 347,
+   "form": "Pirinápel",
+   "gloss": "Mersey river",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.5011,
+    "y": 0.6442,
+    "w": 0.2673,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 348,
+   "form": "Panataní",
+   "gloss": "Port Sorell",
+   "section": "English. / V. D. Land, 1835.",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.5005,
+    "y": 0.6557,
+    "w": 0.268,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 349,
+   "form": "Mena laprea lukrapaui tokari poveleta mavokarlena maunta.",
+   "gloss": "I see a vessel on the water sailing fast, but a long way off at sea.",
+   "section": "Names of Natives in Van Diemen Land (1835)",
+   "col": "V. D. Land, 1835",
+   "box": {
+    "page": 2,
+    "x": 0.5005,
+    "y": 0.6751,
+    "w": 0.268,
+    "h": 0.0125,
+    "approx": true
+   }
+  },
+  {
+   "n": 350,
+   "form": "Tara",
+   "gloss": "Eucalyptus",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 2,
+    "x": 0.5017,
+    "y": 0.6946,
+    "w": 0.2307,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 351,
+   "form": "Monodadro",
+   "gloss": ",, seed of",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "SEED"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5222,
+    "y": 0.7059,
+    "w": 0.2648,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 352,
+   "form": "Pirebe",
+   "gloss": ",, trunk of",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 2,
+    "x": 0.5204,
+    "y": 0.718,
+    "w": 0.2263,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 353,
+   "form": "Manura",
+   "gloss": "Moss",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "MOSS"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5024,
+    "y": 0.7308,
+    "w": 0.2561,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 354,
+   "form": "Rugona",
+   "gloss": "Fucus palmatus",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 2,
+    "x": 0.5024,
+    "y": 0.7446,
+    "w": 0.2568,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 355,
+   "form": "Roenan. Inu",
+   "gloss": "Seaweed",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 2,
+    "x": 0.5011,
+    "y": 0.7557,
+    "w": 0.3108,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 356,
+   "form": "Rori",
+   "gloss": ",, dried for eating",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 2,
+    "x": 0.5185,
+    "y": 0.7684,
+    "w": 0.2114,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 357,
+   "form": "Cuegi",
+   "gloss": "Head",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5011,
+    "y": 0.7935,
+    "w": 0.24,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 358,
+   "form": "Tagari-lia",
+   "gloss": "Family",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "FAMILY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5024,
+    "y": 0.8077,
+    "w": 0.2754,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 359,
+   "form": "Cuani",
+   "gloss": "Wife",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5017,
+    "y": 0.8186,
+    "w": 0.2419,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 360,
+   "form": "Muta-Muta",
+   "gloss": "Bird",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.503,
+    "y": 0.8431,
+    "w": 0.2891,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 361,
+   "form": "Mola",
+   "gloss": "Parrakeet",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 2,
+    "x": 0.5017,
+    "y": 0.8559,
+    "w": 0.2344,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 362,
+   "form": "Noki",
+   "gloss": "Give me !",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1384,
+    "y": 0.3166,
+    "w": 0.0884,
+    "h": 0.0125,
+    "approx": true
+   }
+  },
+  {
+   "n": 363,
+   "form": "Matgera",
+   "gloss": "Go and eat !",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1371,
+    "y": 0.3289,
+    "w": 0.1923,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 364,
+   "form": "Madegera",
+   "gloss": "I will eat it",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1371,
+    "y": 0.3415,
+    "w": 0.1923,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 365,
+   "form": "Rendera",
+   "gloss": "I see",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.3555,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 366,
+   "form": "Nideje",
+   "gloss": "I do not know",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.3664,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 367,
+   "form": "Nidejó",
+   "gloss": "I do not understand",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.3789,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 368,
+   "form": "Tangara",
+   "gloss": "Let us go away",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.3946,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 369,
+   "form": "Treni",
+   "gloss": "Put wood on the fire",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.4038,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 370,
+   "form": "Lone",
+   "gloss": "This way",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.3191,
+    "y": 0.416,
+    "w": 0.0103,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 371,
+   "form": "Paturana",
+   "gloss": "That belongs to me",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.4297,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 372,
+   "form": "Mata e nigo",
+   "gloss": "That kills",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1384,
+    "y": 0.4419,
+    "w": 0.1911,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 373,
+   "form": "Wanarana",
+   "gloss": "What do you call that } What is your name",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1589,
+    "y": 0.4666,
+    "w": 0.1706,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 374,
+   "form": "Canglonao",
+   "gloss": "Will you come",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.4939,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 375,
+   "form": "Laguana",
+   "gloss": "Burn oneself (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1384,
+    "y": 0.518,
+    "w": 0.1911,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 376,
+   "form": "Rogerí. Tordí",
+   "gloss": "Cut (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "CUT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.139,
+    "y": 0.5312,
+    "w": 0.1905,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 377,
+   "form": "Ledrae",
+   "gloss": "Dance (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "DANCE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.5437,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 378,
+   "form": "Bugure",
+   "gloss": "Dine (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1365,
+    "y": 0.5561,
+    "w": 0.193,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 379,
+   "form": "Midugiya",
+   "gloss": "Fall (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "FALL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.569,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 380,
+   "form": "Tane poere",
+   "gloss": "Grease the hair (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.1371,
+    "y": 0.5802,
+    "w": 0.1923,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 381,
+   "form": "Waragra",
+   "gloss": "Jump (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "JUMP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1371,
+    "y": 0.5941,
+    "w": 0.1923,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 382,
+   "form": "Vere",
+   "gloss": "Kick (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "KICK"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1371,
+    "y": 0.6065,
+    "w": 0.1923,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 383,
+   "form": "Guanera",
+   "gloss": "Kneel (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "KNEEL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.6192,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 384,
+   "form": "Pass",
+   "gloss": "Play (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "PLAY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1378,
+    "y": 0.6314,
+    "w": 0.1917,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 385,
+   "form": "Rina",
+   "gloss": "Polish (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "POLISH (SOMETHING)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1371,
+    "y": 0.6441,
+    "w": 0.1923,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 386,
+   "form": "Ledrani",
+   "gloss": "Sing (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "SING"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1384,
+    "y": 0.6567,
+    "w": 0.1911,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 387,
+   "form": "Renorarí",
+   "gloss": "Crab",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "CRAB"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4999,
+    "y": 0.1658,
+    "w": 0.2617,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 388,
+   "form": "Punerala",
+   "gloss": "Fish (gadus)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.4999,
+    "y": 0.18,
+    "w": 0.2661,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 389,
+   "form": "Caene",
+   "gloss": "Haliotis",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.6806,
+    "y": 0.1909,
+    "w": 0.0599,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 390,
+   "form": "Nuele",
+   "gloss": "Lobster",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "LOBSTER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5005,
+    "y": 0.2036,
+    "w": 0.2381,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 391,
+   "form": "Luba",
+   "gloss": "Oyster shell",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.5011,
+    "y": 0.2176,
+    "w": 0.2325,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 392,
+   "form": "Onerí",
+   "gloss": "Star-fish",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.4999,
+    "y": 0.2285,
+    "w": 0.2369,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 393,
+   "form": "Paroe",
+   "gloss": "Insect",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "INSECT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5005,
+    "y": 0.2536,
+    "w": 0.2375,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 394,
+   "form": "Nure",
+   "gloss": "Louse",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "LOUSE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5005,
+    "y": 0.266,
+    "w": 0.2325,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 395,
+   "form": "Terri",
+   "gloss": "Basket",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "BASKET"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5017,
+    "y": 0.2785,
+    "w": 0.2307,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 396,
+   "form": "Luga",
+   "gloss": "Bottle",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "BOTTLE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5017,
+    "y": 0.2911,
+    "w": 0.235,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 397,
+   "form": "Gune",
+   "gloss": "Sand",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "SAND"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3316,
+    "y": 0.3036,
+    "w": 0.404,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 398,
+   "form": "Le",
+   "gloss": "Weapon",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.5024,
+    "y": 0.3176,
+    "w": 0.2102,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 399,
+   "form": "Malane",
+   "gloss": "Yellow ochre",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.5011,
+    "y": 0.3287,
+    "w": 0.2512,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 400,
+   "form": "Boira",
+   "gloss": "Cloak of Kangaroo skins",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.6812,
+    "y": 0.3474,
+    "w": 0.0561,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 401,
+   "form": "Renene",
+   "gloss": "Afar off",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.4986,
+    "y": 0.366,
+    "w": 0.2518,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 402,
+   "form": "Mana",
+   "gloss": "I",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "I"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6806,
+    "y": 0.3783,
+    "w": 0.0561,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 403,
+   "form": "Pawahi",
+   "gloss": "Me",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "ME"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4993,
+    "y": 0.3909,
+    "w": 0.2524,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 404,
+   "form": "Nina",
+   "gloss": "You",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "YOU"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4999,
+    "y": 0.4036,
+    "w": 0.2332,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 405,
+   "form": "Nendi",
+   "gloss": "No",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "NO"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5005,
+    "y": 0.416,
+    "w": 0.2431,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 406,
+   "form": "Erre",
+   "gloss": "Yes ! good !",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.4999,
+    "y": 0.4289,
+    "w": 0.227,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 407,
+   "form": "Avere",
+   "gloss": "That",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "THAT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4993,
+    "y": 0.4413,
+    "w": 0.2394,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 408,
+   "form": "Lonoi",
+   "gloss": "This",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "THIS"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4986,
+    "y": 0.4536,
+    "w": 0.2388,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 409,
+   "form": "Kindrega",
+   "gloss": "Beat (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "BEAT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4993,
+    "y": 0.4802,
+    "w": 0.2717,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 410,
+   "form": "Bure",
+   "gloss": "Blow (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "BLOW (OF WIND)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4993,
+    "y": 0.4933,
+    "w": 0.2313,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 411,
+   "form": "Noeni",
+   "gloss": "Slap (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "SLAP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4993,
+    "y": 0.518,
+    "w": 0.2388,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 412,
+   "form": "Kie",
+   "gloss": "Spear (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "SPEAR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4993,
+    "y": 0.5304,
+    "w": 0.2201,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 413,
+   "form": "Lodamerede",
+   "gloss": "Strangle (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.4993,
+    "y": 0.5433,
+    "w": 0.2934,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 414,
+   "form": "Palere",
+   "gloss": "Tatoo (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.4993,
+    "y": 0.5555,
+    "w": 0.2437,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 415,
+   "form": "Nimere",
+   "gloss": "Tie (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "TIE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4993,
+    "y": 0.568,
+    "w": 0.2524,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 416,
+   "form": "Ure",
+   "gloss": "Tear (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "TEAR (SHRED)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5005,
+    "y": 0.5804,
+    "w": 0.2207,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 417,
+   "form": "Pegara",
+   "gloss": "Throw (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "THROW"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4993,
+    "y": 0.5931,
+    "w": 0.2499,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 418,
+   "form": "Laini",
+   "gloss": "Untie (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "UNTIE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5011,
+    "y": 0.6055,
+    "w": 0.235,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 419,
+   "form": "Moido-guna",
+   "gloss": "Upset (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.5017,
+    "y": 0.6184,
+    "w": 0.2909,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 420,
+   "form": "Gagvui",
+   "gloss": "Warm oneself (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "box": {
+    "page": 3,
+    "x": 0.5005,
+    "y": 0.6304,
+    "w": 0.2524,
+    "h": 0.0125
+   }
+  },
+  {
+   "n": 421,
+   "form": "Menne",
+   "gloss": "Whistle (to)",
+   "section": "English. / V. D. Land, 1803.",
+   "col": "V. D. Land, 1803",
+   "concepts": [
+    "WHISTLE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5011,
+    "y": 0.6431,
+    "w": 0.2462,
+    "h": 0.0125
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 243,
+  "notes": 0,
+  "located": 227
+ },
+ "partial": null,
+ "relation": null
+}

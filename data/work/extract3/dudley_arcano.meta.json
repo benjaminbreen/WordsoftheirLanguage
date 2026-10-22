@@ -1,0 +1,20 @@
+{
+ "source_url": "https://www.digitale-sammlungen.de/view/bsb00084102?page=159",
+ "manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00084102/manifest",
+ "pages": [
+  {
+   "mdz_page": 159,
+   "folio": "74v",
+   "iiif_image_service": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00084102_00159"
+  }
+ ],
+ "shelfmark": "Bayerische Staatsbibliothek, Cod.icon. 140",
+ "title_as_written": "Arcano del mare, vol. III (autograph draft)",
+ "author": "Robert Dudley",
+ "date": "before 1636",
+ "heading_as_written": "Seque d'Alcune Parole della lingua Indiana ditta Trinidada et di Guiana. dirimpetto. osservati dal Duca di Northumbria quando fu in detto Paese",
+ "place": "Trinidad and Guiana",
+ "collector": "Robert Dudley",
+ "language_of_glosses": "Italian",
+ "about": "Italian-glossed list of words of the Indian language of Trinidad and the facing coast of Guiana, written in Dudley's hand as observed by the 'Duca di Northumbria' (Dudley himself) when he was in that country."
+}
