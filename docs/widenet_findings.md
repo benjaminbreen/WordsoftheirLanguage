@@ -72,3 +72,16 @@ Helper: `src/glotto_refs.py` (Glottolog references per language, for novelty che
   by Joaquín Acosta; Michilimackinac French-Algonquin vocabulary 1740-48 (582 pp.) owned by Hugh Ramsay.
 - Vater/Jülg 1847: almost no manuscripts; minor printed orphans (Balfour 1844 Bauria etc.; Brumund on Aru;
   Kilham's "Appa" and "Rungo").
+
+## Round 3 (2026-10-22): Bavarian State Library (MDZ) and JSTOR Early Journal Content
+- MDZ full-text search API: `https://www.digitale-sammlungen.de/api/search?query=<q>&handler=simple-fulltext&ocrContext=1`.
+- Dudley's autograph draft of *Arcano del mare*, vol. III (BSB Cod.icon. 140, before 1636): "Alcune Parole della
+  lingua Indiana di Trinidada et de Guiana", 60-80 words with Italian glosses; an Italian version of the
+  1595 Trinidad list (the site's `trinidad` table). https://www.digitale-sammlungen.de/view/bsb00084102?page=159
+- Collingwood, Kavalan vocabulary, Sano Bay, Formosa (visit 1866; Trans. Ethnological Society 1868), 150-200
+  words; not in Glottolog. https://archive.org/details/jstor-3014253
+- Lhotsky, Van Diemen's Land and Menero (Monaro, probably Ngarigu) vocabulary, JRGS 1839.
+  https://archive.org/details/jstor-1797719
+- Pickering, Tobian vocabulary from Horace Holden's captivity, Memoirs American Academy 1846.
+  https://archive.org/details/jstor-25057933
+- Leads: Labarthe, Fante word list in the 1805 Leipzig German translation (p. 61); check the 1803 French.
