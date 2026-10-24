@@ -1,0 +1,3081 @@
+{
+ "schema": 1,
+ "id": "beothuk",
+ "wtl": "WTL-0029",
+ "heading": "Vocabulary of the Language of the Natives of Newfoundland; procured by the Rev. J. Leigh, from Mary March, a Native Woman, taken up the Bay of Exploits by Mr. Peyton, in March, 1818.",
+ "headings": [],
+ "language": {
+  "name": "Beothuk",
+  "glottocode": "beot1247",
+  "family": "Beothuk",
+  "path": [],
+  "labels": []
+ },
+ "region": "North America",
+ "book": {
+  "short": "Vocabulary of the Language of the Natives of Newfoundland",
+  "title": "Private Journal kept on board H.M.S. Favorite on the Newfoundland Station. By Captain H. Robinson, R.N. 1820.",
+  "author": "H. Robinson (journal); vocabulary by Rev. J. Leigh",
+  "printed": 1834,
+  "imprint": "Journal of the Royal Geographical Society of London, 4, 1834, pp. 207-220 (vocabulary pp. 218-220)",
+  "tcp": "",
+  "cover": "beothuk"
+ },
+ "provenance": {
+  "collector": "Rev. John Leigh, from Mary March (Demasduit)",
+  "place": "Bay of Exploits, Newfoundland",
+  "heard": "1818–19"
+ },
+ "scan": {
+  "ia": "jstor-1797690",
+  "url": "https://archive.org/details/jstor-1797690",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "The Rev. J. Leigh, Church Missionary, took down these words from Mary March, a Native woman of Newfoundland captured up the Bay of Exploits by Mr. Peyton in March 1818, who lived in his house.",
+ "pages": [
+  {
+   "leaf": 12,
+   "w": 1619,
+   "h": 2549,
+   "sm": "/scans/beothuk/0012-900.webp",
+   "lg": "/scans/beothuk/0012-1800.webp"
+  },
+  {
+   "leaf": 13,
+   "w": 1619,
+   "h": 2549,
+   "sm": "/scans/beothuk/0013-900.webp",
+   "lg": "/scans/beothuk/0013-1800.webp"
+  },
+  {
+   "leaf": 14,
+   "w": 1619,
+   "h": 2549,
+   "sm": "/scans/beothuk/0014-900.webp",
+   "lg": "/scans/beothuk/0014-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "memayet",
+   "gloss": "Arms",
+   "section": "",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1408,
+    "y": 0.3028,
+    "w": 0.2147,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 2,
+   "form": "dogemat",
+   "gloss": "Arrow",
+   "section": "",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.3189,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 3,
+   "form": "bukashamesh",
+   "gloss": "Boy",
+   "section": "",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1421,
+    "y": 0.3528,
+    "w": 0.2135,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 4,
+   "form": "begomot",
+   "gloss": "Breast",
+   "section": "",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1408,
+    "y": 0.3672,
+    "w": 0.2147,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 5,
+   "form": "abodonce",
+   "gloss": "Bonnet",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.3829,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 6,
+   "form": "mamshet",
+   "gloss": "Beaver",
+   "section": "",
+   "concepts": [
+    "BEAVER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1402,
+    "y": 0.3987,
+    "w": 0.2153,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 7,
+   "form": "adothe",
+   "gloss": "Boat or vessel",
+   "section": "",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.4146,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 8,
+   "form": "agamet",
+   "gloss": "Buttons or money,",
+   "section": "",
+   "concepts": [
+    "BUTTON",
+    "MONEY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.4329,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 9,
+   "form": "bebidigemidie",
+   "gloss": "Berries",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.4466,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 10,
+   "form": "manovorit",
+   "gloss": "Blankets",
+   "section": "",
+   "concepts": [
+    "BLANKET"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.4627,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 11,
+   "form": "gwashavet",
+   "gloss": "Bear",
+   "section": "",
+   "concepts": [
+    "BEAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1408,
+    "y": 0.4786,
+    "w": 0.2147,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 12,
+   "form": "izzobauth",
+   "gloss": "Blood",
+   "section": "",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.4943,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 13,
+   "form": "buhashowite",
+   "gloss": "Beat",
+   "section": "",
+   "concepts": [
+    "BEAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.5104,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 14,
+   "form": "bashudite",
+   "gloss": "Bite",
+   "section": "",
+   "concepts": [
+    "BITE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.5264,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 15,
+   "form": "shegamit",
+   "gloss": "Blow the nose",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1408,
+    "y": 0.5423,
+    "w": 0.2147,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 16,
+   "form": "bovish",
+   "gloss": "Birch rind",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1408,
+    "y": 0.5582,
+    "w": 0.2147,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 17,
+   "form": "haddabothie",
+   "gloss": "Body",
+   "section": "",
+   "concepts": [
+    "BODY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.5759,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 18,
+   "form": "possont",
+   "gloss": "Back",
+   "section": "",
+   "concepts": [
+    "BACK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.59,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 19,
+   "form": "abidemashick",
+   "gloss": "Baked apples",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1408,
+    "y": 0.6069,
+    "w": 0.2147,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 20,
+   "form": "ihingyam",
+   "gloss": "Clothes",
+   "section": "",
+   "concepts": [
+    "CLOTHES"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.6371,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 21,
+   "form": "bobboosoret",
+   "gloss": "Cod fish",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1414,
+    "y": 0.6534,
+    "w": 0.2141,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 22,
+   "form": "nethabeat",
+   "gloss": "Cattle, cows, & horses,",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1408,
+    "y": 0.6694,
+    "w": 0.2147,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 23,
+   "form": "abidesook",
+   "gloss": "Cat (domestic)",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1421,
+    "y": 0.6849,
+    "w": 0.2135,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 24,
+   "form": "abidish",
+   "gloss": "Cat (martin)",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1427,
+    "y": 0.7018,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 25,
+   "form": "japathook",
+   "gloss": "Canoe",
+   "section": "",
+   "concepts": [
+    "CANOE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1427,
+    "y": 0.7159,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 26,
+   "form": "motheryet",
+   "gloss": "Cream jug",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1427,
+    "y": 0.7332,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 27,
+   "form": "kooret",
+   "gloss": "Come hither",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1427,
+    "y": 0.7469,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 28,
+   "form": "shaboth",
+   "gloss": "Candle",
+   "section": "",
+   "concepts": [
+    "CANDLE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1427,
+    "y": 0.7628,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 29,
+   "form": "shamorh",
+   "gloss": "Caplin",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1427,
+    "y": 0.7799,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 30,
+   "form": "matheothice",
+   "gloss": "Cry",
+   "section": "",
+   "concepts": [
+    "CRY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1427,
+    "y": 0.7956,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 31,
+   "form": "edrathin",
+   "gloss": "Comb",
+   "section": "",
+   "concepts": [
+    "COMB"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1433,
+    "y": 0.8093,
+    "w": 0.2123,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 32,
+   "form": "moidewsee",
+   "gloss": "Cold",
+   "section": "",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1433,
+    "y": 0.825,
+    "w": 0.2123,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 33,
+   "form": "toun",
+   "gloss": "Chin",
+   "section": "",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1439,
+    "y": 0.8405,
+    "w": 0.2116,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 34,
+   "form": "odisuit",
+   "gloss": "Cut",
+   "section": "",
+   "concepts": [
+    "CUT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1439,
+    "y": 0.8562,
+    "w": 0.2116,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 35,
+   "form": "anin",
+   "gloss": "Comet",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1439,
+    "y": 0.8721,
+    "w": 0.2116,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 36,
+   "form": "shamye",
+   "gloss": "Currents",
+   "section": "",
+   "concepts": [
+    "CURRENT (STREAM)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1445,
+    "y": 0.8876,
+    "w": 0.211,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 37,
+   "form": "osweet",
+   "gloss": "Deer",
+   "section": "",
+   "concepts": [
+    "DEER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5096,
+    "y": 0.3026,
+    "w": 0.2681,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 38,
+   "form": "megorun",
+   "gloss": "Deer's horns",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5096,
+    "y": 0.3189,
+    "w": 0.2872,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 39,
+   "form": "mammasmeet",
+   "gloss": "Dog",
+   "section": "",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.509,
+    "y": 0.3366,
+    "w": 0.3354,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 40,
+   "form": "moeshwadet",
+   "gloss": "Drawing knife",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.6998,
+    "y": 0.3495,
+    "w": 0.1334,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 41,
+   "form": "emoethook",
+   "gloss": "Dog-wood (mountain ash)",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.7134,
+    "y": 0.373,
+    "w": 0.1069,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "gloss printed across two lines 'Dog-wood (moun- / tain ash)' with brace",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 42,
+   "form": "boodowit",
+   "gloss": "Duck",
+   "section": "",
+   "concepts": [
+    "DUCK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5096,
+    "y": 0.398,
+    "w": 0.2909,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 43,
+   "form": "howmeshet",
+   "gloss": "Ducks and drakes,",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5102,
+    "y": 0.4142,
+    "w": 0.3125,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 44,
+   "form": "budiseet",
+   "gloss": "Dancing",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5096,
+    "y": 0.4319,
+    "w": 0.2829,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 45,
+   "form": "methie",
+   "gloss": "Dirt",
+   "section": "",
+   "concepts": [
+    "DIRT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6998,
+    "y": 0.4446,
+    "w": 0.0778,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 46,
+   "form": "givinya",
+   "gloss": "Eye",
+   "section": "",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5096,
+    "y": 0.4794,
+    "w": 0.2767,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 47,
+   "form": "debine",
+   "gloss": "Egg",
+   "section": "",
+   "concepts": [
+    "EGG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5102,
+    "y": 0.4956,
+    "w": 0.2668,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 48,
+   "form": "odvit",
+   "gloss": "Eat",
+   "section": "",
+   "concepts": [
+    "EAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5102,
+    "y": 0.5094,
+    "w": 0.2483,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 49,
+   "form": "marmeuck",
+   "gloss": "Eyebrow",
+   "section": "",
+   "concepts": [
+    "EYEBROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5096,
+    "y": 0.527,
+    "w": 0.3039,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 50,
+   "form": "moocus",
+   "gloss": "Elbow",
+   "section": "",
+   "concepts": [
+    "ELBOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5096,
+    "y": 0.5413,
+    "w": 0.2749,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 51,
+   "form": "mooshaman",
+   "gloss": "Ear",
+   "section": "",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5102,
+    "y": 0.557,
+    "w": 0.3175,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 52,
+   "form": "woodrat",
+   "gloss": "Fire",
+   "section": "",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5096,
+    "y": 0.5884,
+    "w": 0.2817,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 53,
+   "form": "adothook",
+   "gloss": "Fish-hook",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5102,
+    "y": 0.6043,
+    "w": 0.2878,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 54,
+   "form": "abobidress",
+   "gloss": "Feathers",
+   "section": "",
+   "concepts": [
+    "FEATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5096,
+    "y": 0.6204,
+    "w": 0.3076,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 55,
+   "form": "hoshet",
+   "gloss": "Fall",
+   "section": "",
+   "concepts": [
+    "FALL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5102,
+    "y": 0.6365,
+    "w": 0.2674,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 56,
+   "form": "ethewroit",
+   "gloss": "Fork",
+   "section": "",
+   "concepts": [
+    "FORK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5102,
+    "y": 0.6522,
+    "w": 0.2959,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 57,
+   "form": "edat",
+   "gloss": "Fishing-line",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.7023,
+    "y": 0.6667,
+    "w": 0.0513,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 58,
+   "form": "meaoth",
+   "gloss": "Flying",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.512,
+    "y": 0.6857,
+    "w": 0.2699,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 59,
+   "form": "peatha",
+   "gloss": "Fur",
+   "section": "",
+   "concepts": [
+    "FUR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5114,
+    "y": 0.6995,
+    "w": 0.265,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 60,
+   "form": "emamooset",
+   "gloss": "Girl",
+   "section": "",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5114,
+    "y": 0.7299,
+    "w": 0.3113,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 61,
+   "form": "obsedek",
+   "gloss": "Gloves",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5127,
+    "y": 0.7457,
+    "w": 0.2786,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 62,
+   "form": "adamadret",
+   "gloss": "Gun",
+   "section": "",
+   "concepts": [
+    "GUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.512,
+    "y": 0.761,
+    "w": 0.3045,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 63,
+   "form": "hadibirt",
+   "gloss": "Glass",
+   "section": "",
+   "concepts": [
+    "GLASS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5127,
+    "y": 0.7765,
+    "w": 0.2786,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 64,
+   "form": "enano",
+   "gloss": "Go out",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5127,
+    "y": 0.7932,
+    "w": 0.2607,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 65,
+   "form": "assow",
+   "gloss": "Gull",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5127,
+    "y": 0.8077,
+    "w": 0.2582,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 66,
+   "form": "quadranuck",
+   "gloss": "Gimlet",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5127,
+    "y": 0.8234,
+    "w": 0.3144,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 67,
+   "form": "aquathoont",
+   "gloss": "Grindingstone",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5127,
+    "y": 0.8409,
+    "w": 0.3132,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 68,
+   "form": "beatothunt",
+   "gloss": "Gunpowder",
+   "section": "",
+   "concepts": [
+    "GUNPOWDER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5133,
+    "y": 0.8564,
+    "w": 0.3095,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 69,
+   "form": "odeusook",
+   "gloss": "Goose",
+   "section": "",
+   "concepts": [
+    "GOOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5133,
+    "y": 0.8705,
+    "w": 0.2909,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 70,
+   "form": "bethiote",
+   "gloss": "Good night",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5133,
+    "y": 0.8876,
+    "w": 0.2779,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 71,
+   "form": "ganyep",
+   "gloss": "Get up",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3294,
+    "y": 0.1299,
+    "w": 0.026,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 72,
+   "form": "abemite",
+   "gloss": "Gaping",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.141,
+    "y": 0.1438,
+    "w": 0.2144,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 73,
+   "form": "cheashit",
+   "gloss": "Groaning",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.141,
+    "y": 0.1601,
+    "w": 0.2144,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 74,
+   "form": "jiggamint",
+   "gloss": "Gooseberry",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.141,
+    "y": 0.176,
+    "w": 0.2144,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 75,
+   "form": "memet",
+   "gloss": "Hand",
+   "section": "",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1422,
+    "y": 0.2052,
+    "w": 0.2131,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 76,
+   "form": "dronna",
+   "gloss": "Hair",
+   "section": "",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1416,
+    "y": 0.2211,
+    "w": 0.2137,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 77,
+   "form": "mammateek",
+   "gloss": "House",
+   "section": "",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1416,
+    "y": 0.237,
+    "w": 0.2137,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 78,
+   "form": "mattucis",
+   "gloss": "Hammer",
+   "section": "",
+   "concepts": [
+    "HAMMER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1422,
+    "y": 0.2531,
+    "w": 0.2131,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 79,
+   "form": "begodor",
+   "gloss": "Heart",
+   "section": "",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1416,
+    "y": 0.269,
+    "w": 0.2137,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 80,
+   "form": "odusweet",
+   "gloss": "Hare",
+   "section": "",
+   "concepts": [
+    "HARE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1435,
+    "y": 0.2847,
+    "w": 0.2119,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 81,
+   "form": "zathrook",
+   "gloss": "Husband",
+   "section": "",
+   "concepts": [
+    "HUSBAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1422,
+    "y": 0.3,
+    "w": 0.2131,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 82,
+   "form": "uoin",
+   "gloss": "Hoop",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1422,
+    "y": 0.3176,
+    "w": 0.2131,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 83,
+   "form": "keauthut gonothin",
+   "gloss": "Head",
+   "section": "",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1422,
+    "y": 0.3315,
+    "w": 0.2131,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 84,
+   "form": "mudyrat",
+   "gloss": "Hiccups",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1429,
+    "y": 0.349,
+    "w": 0.2125,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 85,
+   "form": "thingaya",
+   "gloss": "Hatchet",
+   "section": "",
+   "concepts": [
+    "AXE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1435,
+    "y": 0.3631,
+    "w": 0.2119,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 86,
+   "form": "ozeru",
+   "gloss": "Ice",
+   "section": "",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1447,
+    "y": 0.3949,
+    "w": 0.2107,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 87,
+   "form": "beathook",
+   "gloss": "Indian (red)",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1441,
+    "y": 0.4126,
+    "w": 0.2113,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 88,
+   "form": "schucododimit",
+   "gloss": "Indian cup",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1435,
+    "y": 0.4308,
+    "w": 0.2119,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 89,
+   "form": "mowazeenite",
+   "gloss": "Iron",
+   "section": "",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1435,
+    "y": 0.4424,
+    "w": 0.2119,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 90,
+   "form": "uine",
+   "gloss": "Knife",
+   "section": "",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1441,
+    "y": 0.4738,
+    "w": 0.2113,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 91,
+   "form": "hodamishit",
+   "gloss": "Knee",
+   "section": "",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1441,
+    "y": 0.4898,
+    "w": 0.2113,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 92,
+   "form": "abusthibit",
+   "gloss": "Kneeling",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1447,
+    "y": 0.5077,
+    "w": 0.2107,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 93,
+   "form": "widumite",
+   "gloss": "Kiss",
+   "section": "",
+   "concepts": [
+    "KISS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1447,
+    "y": 0.5216,
+    "w": 0.2107,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 94,
+   "form": "odjet",
+   "gloss": "Lobster",
+   "section": "",
+   "concepts": [
+    "LOBSTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1447,
+    "y": 0.553,
+    "w": 0.2107,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 95,
+   "form": "bobdiduishemet",
+   "gloss": "Lamp",
+   "section": "",
+   "concepts": [
+    "LAMP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1453,
+    "y": 0.5705,
+    "w": 0.21,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 96,
+   "form": "mammadrouit",
+   "gloss": "Lord bird",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1447,
+    "y": 0.5844,
+    "w": 0.2107,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 97,
+   "form": "aduse",
+   "gloss": "Leg",
+   "section": "",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1447,
+    "y": 0.602,
+    "w": 0.2107,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 98,
+   "form": "goosheben",
+   "gloss": "Lead",
+   "section": "",
+   "concepts": [
+    "LEAD (GUIDE)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1453,
+    "y": 0.6162,
+    "w": 0.21,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 99,
+   "form": "coish",
+   "gloss": "Lip",
+   "section": "",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.146,
+    "y": 0.6338,
+    "w": 0.2094,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 100,
+   "form": "bituwaite",
+   "gloss": "Lie down",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1453,
+    "y": 0.6474,
+    "w": 0.21,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 101,
+   "form": "thusebeet",
+   "gloss": "Louse",
+   "section": "",
+   "concepts": [
+    "LOUSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.146,
+    "y": 0.6632,
+    "w": 0.2094,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 102,
+   "form": "barod",
+   "gloss": "Lightning",
+   "section": "",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1453,
+    "y": 0.6809,
+    "w": 0.21,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 103,
+   "form": "madyna",
+   "gloss": "Leaves",
+   "section": "",
+   "concepts": [
+    "LEAF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1453,
+    "y": 0.6952,
+    "w": 0.21,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 104,
+   "form": "wieeth",
+   "gloss": "Lightning",
+   "section": "",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1453,
+    "y": 0.7131,
+    "w": 0.21,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 105,
+   "form": "bukashaman",
+   "gloss": "Man",
+   "section": "",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1453,
+    "y": 0.7425,
+    "w": 0.21,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 106,
+   "form": "mamesook",
+   "gloss": "Mouth",
+   "section": "",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1453,
+    "y": 0.7582,
+    "w": 0.21,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 107,
+   "form": "kius and washewiush",
+   "gloss": "Moon",
+   "section": "",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1447,
+    "y": 0.7735,
+    "w": 0.2107,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 108,
+   "form": "shema bogosthue",
+   "gloss": "Musquito",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1453,
+    "y": 0.7907,
+    "w": 0.21,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 109,
+   "form": "geen",
+   "gloss": "Nose",
+   "section": "",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1447,
+    "y": 0.8198,
+    "w": 0.2107,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 110,
+   "form": "giggarimanet",
+   "gloss": "Net",
+   "section": "",
+   "concepts": [
+    "NET"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1447,
+    "y": 0.8357,
+    "w": 0.2107,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 111,
+   "form": "bethee",
+   "gloss": "Necklace, beads",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1453,
+    "y": 0.8512,
+    "w": 0.21,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 112,
+   "form": "washew",
+   "gloss": "Night and dark",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1441,
+    "y": 0.8669,
+    "w": 0.2113,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 113,
+   "form": "bebadrook",
+   "gloss": "Nipper",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1447,
+    "y": 0.8839,
+    "w": 0.2107,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 114,
+   "form": "quish",
+   "gloss": "Nails",
+   "section": "",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5104,
+    "y": 0.1248,
+    "w": 0.2547,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 115,
+   "form": "iedesheet",
+   "gloss": "Neck and throat",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.511,
+    "y": 0.1409,
+    "w": 0.2918,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 116,
+   "form": "dosomite",
+   "gloss": "Needle",
+   "section": "",
+   "concepts": [
+    "NEEDLE (FOR SEWING)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.511,
+    "y": 0.1572,
+    "w": 0.2899,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 117,
+   "form": "emet",
+   "gloss": "Oil",
+   "section": "",
+   "concepts": [
+    "OIL (FROM PLANTS)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5122,
+    "y": 0.1882,
+    "w": 0.2467,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 118,
+   "form": "edree",
+   "gloss": "Otter",
+   "section": "",
+   "concepts": [
+    "OTTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5122,
+    "y": 0.204,
+    "w": 0.2516,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 119,
+   "form": "odement",
+   "gloss": "Ochre",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5122,
+    "y": 0.2199,
+    "w": 0.2825,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 120,
+   "form": "poodybeae",
+   "gloss": "Oar",
+   "section": "",
+   "concepts": [
+    "OAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5116,
+    "y": 0.2352,
+    "w": 0.3023,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 121,
+   "form": "mushabauth",
+   "gloss": "Oakum",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5122,
+    "y": 0.2517,
+    "w": 0.3171,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 122,
+   "form": "dosomite",
+   "gloss": "Pin",
+   "section": "",
+   "concepts": [
+    "PIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5116,
+    "y": 0.2827,
+    "w": 0.2868,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 123,
+   "form": "zosweet",
+   "gloss": "Partridge",
+   "section": "",
+   "concepts": [
+    "PARTRIDGE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5122,
+    "y": 0.3004,
+    "w": 0.2751,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 124,
+   "form": "mammasameet",
+   "gloss": "Puppies",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5122,
+    "y": 0.3159,
+    "w": 0.3449,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 125,
+   "form": "manune",
+   "gloss": "Pitcher cup",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.7,
+    "y": 0.3314,
+    "w": 0.0892,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 126,
+   "form": "bobbodish",
+   "gloss": "Pigeon",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5116,
+    "y": 0.3476,
+    "w": 0.2986,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 127,
+   "form": "gwoshuawit",
+   "gloss": "Puffin",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5122,
+    "y": 0.3618,
+    "w": 0.3183,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 128,
+   "form": "ahune",
+   "gloss": "Rocks",
+   "section": "",
+   "concepts": [
+    "ROCK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5128,
+    "y": 0.3935,
+    "w": 0.2553,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 129,
+   "form": "bathue",
+   "gloss": "Rain",
+   "section": "",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5128,
+    "y": 0.409,
+    "w": 0.2646,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 130,
+   "form": "hothamashet",
+   "gloss": "Running",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.7,
+    "y": 0.4247,
+    "w": 0.1361,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 131,
+   "form": "osavate",
+   "gloss": "Rowing",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.443,
+    "w": 0.2702,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 132,
+   "form": "gadgemish",
+   "gloss": "Rat",
+   "section": "",
+   "concepts": [
+    "RAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.4567,
+    "w": 0.3066,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 133,
+   "form": "gauzadun",
+   "gloss": "Raspberries",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5141,
+    "y": 0.4742,
+    "w": 0.293,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 134,
+   "form": "moosin",
+   "gloss": "Shoes",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5141,
+    "y": 0.5038,
+    "w": 0.2677,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 135,
+   "form": "besdic",
+   "gloss": "Smoke",
+   "section": "",
+   "concepts": [
+    "SMOKE (INHALE)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.5199,
+    "w": 0.259,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 136,
+   "form": "bedesook",
+   "gloss": "Seal",
+   "section": "",
+   "concepts": [
+    "SEAL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5141,
+    "y": 0.5534,
+    "w": 0.3461,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 137,
+   "form": "mattic bedesook",
+   "gloss": "Stinking seal",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5141,
+    "y": 0.5534,
+    "w": 0.3461,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 138,
+   "form": "adadiminte",
+   "gloss": "Spoon",
+   "section": "",
+   "concepts": [
+    "SPOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.7006,
+    "y": 0.5671,
+    "w": 0.1182,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 139,
+   "form": "kius and maugerewius",
+   "gloss": "Seen",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.6246,
+    "y": 0.583,
+    "w": 0.2356,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 140,
+   "form": "athep",
+   "gloss": "Sit down",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5141,
+    "y": 0.5989,
+    "w": 0.251,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 141,
+   "form": "isedoweet",
+   "gloss": "Sleep",
+   "section": "",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.6162,
+    "w": 0.2936,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 142,
+   "form": "deddoweet",
+   "gloss": "Saw",
+   "section": "",
+   "concepts": [
+    "SAW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.6303,
+    "w": 0.3035,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 143,
+   "form": "ejabathook",
+   "gloss": "Sails",
+   "section": "",
+   "concepts": [
+    "SAIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.646,
+    "w": 0.3054,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 144,
+   "form": "godawick",
+   "gloss": "Shovel",
+   "section": "",
+   "concepts": [
+    "SHOVEL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.6619,
+    "w": 0.2936,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 145,
+   "form": "gasset",
+   "gloss": "Stockings",
+   "section": "",
+   "concepts": [
+    "STOCKING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5128,
+    "y": 0.6793,
+    "w": 0.2603,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 146,
+   "form": "bedisoni",
+   "gloss": "Sword",
+   "section": "",
+   "concepts": [
+    "SWORD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.6935,
+    "w": 0.2788,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 147,
+   "form": "wasemook",
+   "gloss": "Salmon",
+   "section": "",
+   "concepts": [
+    "SALMON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5141,
+    "y": 0.7095,
+    "w": 0.2986,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 148,
+   "form": "ejibiduish",
+   "gloss": "Silk handkerchief,",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.7268,
+    "w": 0.2912,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 149,
+   "form": "osegeen",
+   "gloss": "Scissors",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5141,
+    "y": 0.7413,
+    "w": 0.2776,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 150,
+   "form": "anadrick",
+   "gloss": "Sore throat",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5147,
+    "y": 0.7576,
+    "w": 0.2856,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 151,
+   "form": "aoujet",
+   "gloss": "Snipe",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.7049,
+    "y": 0.7745,
+    "w": 0.07,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 152,
+   "form": "thoowidgee",
+   "gloss": "Swimming",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.7006,
+    "y": 0.7898,
+    "w": 0.1238,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 153,
+   "form": "aparetia bedeosok",
+   "gloss": "Seal sunk",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.8039,
+    "w": 0.348,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 154,
+   "form": "bashubet",
+   "gloss": "Scratch",
+   "section": "",
+   "concepts": [
+    "SCRATCH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5141,
+    "y": 0.8192,
+    "w": 0.2862,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 155,
+   "form": "gowet",
+   "gloss": "Scollop",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5135,
+    "y": 0.8366,
+    "w": 0.2603,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 156,
+   "form": "adjith",
+   "gloss": "Sneezing",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5141,
+    "y": 0.8523,
+    "w": 0.2566,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 157,
+   "form": "awoodet",
+   "gloss": "Singing",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5147,
+    "y": 0.8678,
+    "w": 0.2819,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 158,
+   "form": "momezemethon",
+   "gloss": "Shoulders",
+   "section": "",
+   "concepts": [
+    "SHOULDER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5147,
+    "y": 0.8818,
+    "w": 0.3381,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 159,
+   "form": "corrasoob",
+   "gloss": "Sorrow",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1452,
+    "y": 0.1161,
+    "w": 0.2104,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 160,
+   "form": "hedyyan",
+   "gloss": "Stooping",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1445,
+    "y": 0.1339,
+    "w": 0.211,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 161,
+   "form": "kingabit",
+   "gloss": "Standing",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1439,
+    "y": 0.1498,
+    "w": 0.2116,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 162,
+   "form": "memanmonasthus",
+   "gloss": "Shaking hands,",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1445,
+    "y": 0.1647,
+    "w": 0.211,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 163,
+   "form": "pigathee",
+   "gloss": "Scab",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1439,
+    "y": 0.1792,
+    "w": 0.2116,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 164,
+   "form": "trawnasoo",
+   "gloss": "Spruce",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1439,
+    "y": 0.1973,
+    "w": 0.2116,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 165,
+   "form": "bofomet outhermayet",
+   "gloss": "Teeth",
+   "section": "",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1427,
+    "y": 0.2261,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 166,
+   "form": "shebathoont",
+   "gloss": "Trap",
+   "section": "",
+   "concepts": [
+    "TRAP (CATCH)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1433,
+    "y": 0.244,
+    "w": 0.2123,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 167,
+   "form": "moweed",
+   "gloss": "Trousers",
+   "section": "",
+   "concepts": [
+    "TROUSERS"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1427,
+    "y": 0.2579,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 168,
+   "form": "dottomeish",
+   "gloss": "Trout",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1433,
+    "y": 0.2738,
+    "w": 0.2123,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 169,
+   "form": "gotheyet",
+   "gloss": "Titlass",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1445,
+    "y": 0.2897,
+    "w": 0.211,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 170,
+   "form": "geonet",
+   "gloss": "Turr",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3354,
+    "y": 0.3081,
+    "w": 0.0202,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 171,
+   "form": "oothook",
+   "gloss": "Tinker",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1439,
+    "y": 0.3213,
+    "w": 0.2116,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 172,
+   "form": "kaduishnite",
+   "gloss": "Tickle",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1427,
+    "y": 0.3373,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 173,
+   "form": "thine",
+   "gloss": "Thank you",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3329,
+    "y": 0.3526,
+    "w": 0.0226,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 174,
+   "form": "ifweena",
+   "gloss": "Thigh",
+   "section": "",
+   "concepts": [
+    "THIGH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1421,
+    "y": 0.3707,
+    "w": 0.2135,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 175,
+   "form": "memasuck",
+   "gloss": "Tongue",
+   "section": "",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1433,
+    "y": 0.3868,
+    "w": 0.2123,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 176,
+   "form": "meroobish",
+   "gloss": "Thread",
+   "section": "",
+   "concepts": [
+    "THREAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1433,
+    "y": 0.4005,
+    "w": 0.2123,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 177,
+   "form": "pugathoite",
+   "gloss": "Throw",
+   "section": "",
+   "concepts": [
+    "THROW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1433,
+    "y": 0.4164,
+    "w": 0.2123,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 178,
+   "form": "barodiisick",
+   "gloss": "Thunder",
+   "section": "",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1433,
+    "y": 0.4323,
+    "w": 0.2123,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 179,
+   "form": "pooeth",
+   "gloss": "Thumb",
+   "section": "",
+   "concepts": [
+    "THUMB"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1427,
+    "y": 0.4482,
+    "w": 0.2129,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 180,
+   "form": "emamoose",
+   "gloss": "Woman",
+   "section": "",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1445,
+    "y": 0.4794,
+    "w": 0.211,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 181,
+   "form": "ebautho",
+   "gloss": "Water",
+   "section": "",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1452,
+    "y": 0.4956,
+    "w": 0.2104,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 182,
+   "form": "ruis",
+   "gloss": "Watch",
+   "section": "",
+   "concepts": [
+    "WATCH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1433,
+    "y": 0.5113,
+    "w": 0.2123,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 183,
+   "form": "shebohoweet",
+   "gloss": "Woodpacker",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1445,
+    "y": 0.5288,
+    "w": 0.211,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 184,
+   "form": "osuck",
+   "gloss": "Wife",
+   "section": "",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5145,
+    "y": 0.1167,
+    "w": 0.2569,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 185,
+   "form": "woothyat",
+   "gloss": "Walk",
+   "section": "",
+   "concepts": [
+    "WALK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5139,
+    "y": 0.1324,
+    "w": 0.2915,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 186,
+   "form": "obosheen",
+   "gloss": "Warming yourself,",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.5139,
+    "y": 0.1496,
+    "w": 0.3045,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 187,
+   "form": "gidgeathue",
+   "gloss": "Wind",
+   "section": "",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.7029,
+    "y": 0.1665,
+    "w": 0.1174,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 188,
+   "form": "moisamadrook",
+   "gloss": "Wolf",
+   "section": "",
+   "concepts": [
+    "WOLF"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5139,
+    "y": 0.18,
+    "w": 0.3403,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 189,
+   "form": "adiab",
+   "gloss": "Wood",
+   "section": "",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5133,
+    "y": 0.1959,
+    "w": 0.252,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 190,
+   "form": "mamoose",
+   "gloss": "Whortle berries",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.5139,
+    "y": 0.2114,
+    "w": 0.2841,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 191,
+   "form": "jibeath and ibemite",
+   "gloss": "Yawning",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.5139,
+    "y": 0.2448,
+    "w": 0.344,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 192,
+   "form": "gathet",
+   "gloss": "One",
+   "section": "",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5127,
+    "y": 0.3199,
+    "w": 0.2625,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 193,
+   "form": "adasic",
+   "gloss": "Two",
+   "section": "",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5127,
+    "y": 0.336,
+    "w": 0.26,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 194,
+   "form": "shedsic",
+   "gloss": "Three",
+   "section": "",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5133,
+    "y": 0.3523,
+    "w": 0.273,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 195,
+   "form": "abodoesic",
+   "gloss": "Four",
+   "section": "",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5127,
+    "y": 0.3678,
+    "w": 0.2934,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 196,
+   "form": "nijick",
+   "gloss": "Five",
+   "section": "",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.512,
+    "y": 0.3838,
+    "w": 0.2576,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 197,
+   "form": "bigadosic",
+   "gloss": "Six",
+   "section": "",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.512,
+    "y": 0.3995,
+    "w": 0.2915,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 198,
+   "form": "odosook",
+   "gloss": "Seven",
+   "section": "",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.512,
+    "y": 0.4154,
+    "w": 0.2786,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 199,
+   "form": "odoosook",
+   "gloss": "Eight",
+   "section": "",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.512,
+    "y": 0.4331,
+    "w": 0.2915,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 200,
+   "form": "yeoth odue",
+   "gloss": "Nine",
+   "section": "",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5114,
+    "y": 0.4472,
+    "w": 0.3076,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 201,
+   "form": "theant",
+   "gloss": "Ten",
+   "section": "",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.512,
+    "y": 0.4627,
+    "w": 0.26,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 202,
+   "form": "guuzewook",
+   "gloss": "Main land",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.5114,
+    "y": 0.4939,
+    "w": 0.3119,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 203,
+   "form": "mamanasheek",
+   "gloss": "Islands",
+   "section": "",
+   "concepts": [
+    "ISLAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.512,
+    "y": 0.51,
+    "w": 0.3348,
+    "h": 0.0158
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 203,
+  "notes": 1,
+  "located": 203
+ },
+ "partial": null,
+ "relation": null
+}

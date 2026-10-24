@@ -1,0 +1,5451 @@
+{
+ "schema": 1,
+ "id": "orinoco",
+ "wtl": "WTL-0042",
+ "heading": "I obtained lately a manuscript copy of the vocabularies of some languages spoken on the Upper Orinoco and its affluents which had been collected by Mr F. Montolieu, a Frenchman, who for several years acted first as secretary to the governor of the Venezuelan territory Amazonas and was finally governor himself (1870 to 1876).",
+ "headings": [
+  "I. Yavitero.",
+  "II. Puinabo.",
+  "III. Piaroa.",
+  "III. Piaroa. Some phrases.",
+  "III. Piaroa. Numerals."
+ ],
+ "language": {
+  "name": "Yavitero, Puinave and Piaroa",
+  "glottocode": "",
+  "family": null,
+  "path": [],
+  "labels": [
+   "Piaroa",
+   "Puinave",
+   "Yavitero"
+  ]
+ },
+ "region": "Caribbean & South America",
+ "book": {
+  "short": "Upper Orinoco Vocabularies",
+  "title": "Upper Orinoco Vocabularies",
+  "author": "A. Ernst",
+  "printed": 1895,
+  "imprint": "The American Anthropologist, VIII, 1895, pp. 393-401",
+  "tcp": "",
+  "cover": "orinoco"
+ },
+ "provenance": {
+  "collector": "F. Montolieu",
+  "place": "Upper Orinoco",
+  "heard": "1870–76"
+ },
+ "scan": {
+  "ia": "jstor-658385",
+  "url": "https://archive.org/details/jstor-658385",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Spanish-keyed vocabularies of Yavitero (second half, from L), Puinabo and Piaroa collected by F. Montolieu, a former governor of the Venezuelan territory Amazonas, and published by A. Ernst from a manuscript copy.",
+ "pages": [
+  {
+   "leaf": 1,
+   "w": 1548,
+   "h": 2450,
+   "sm": "/scans/orinoco/0001-900.webp",
+   "lg": "/scans/orinoco/0001-1800.webp"
+  },
+  {
+   "leaf": 2,
+   "w": 1548,
+   "h": 2450,
+   "sm": "/scans/orinoco/0002-900.webp",
+   "lg": "/scans/orinoco/0002-1800.webp"
+  },
+  {
+   "leaf": 3,
+   "w": 1548,
+   "h": 2450,
+   "sm": "/scans/orinoco/0003-900.webp",
+   "lg": "/scans/orinoco/0003-1800.webp"
+  },
+  {
+   "leaf": 4,
+   "w": 1548,
+   "h": 2450,
+   "sm": "/scans/orinoco/0004-900.webp",
+   "lg": "/scans/orinoco/0004-1800.webp"
+  },
+  {
+   "leaf": 5,
+   "w": 1548,
+   "h": 2450,
+   "sm": "/scans/orinoco/0005-900.webp",
+   "lg": "/scans/orinoco/0005-1800.webp"
+  },
+  {
+   "leaf": 6,
+   "w": 1548,
+   "h": 2450,
+   "sm": "/scans/orinoco/0006-900.webp",
+   "lg": "/scans/orinoco/0006-1800.webp"
+  },
+  {
+   "leaf": 7,
+   "w": 1548,
+   "h": 2450,
+   "sm": "/scans/orinoco/0007-900.webp",
+   "lg": "/scans/orinoco/0007-1800.webp"
+  },
+  {
+   "leaf": 8,
+   "w": 1548,
+   "h": 2450,
+   "sm": "/scans/orinoco/0008-900.webp",
+   "lg": "/scans/orinoco/0008-1800.webp"
+  },
+  {
+   "leaf": 9,
+   "w": 1548,
+   "h": 2450,
+   "sm": "/scans/orinoco/0009-900.webp",
+   "lg": "/scans/orinoco/0009-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "cuito",
+   "gloss": "Lagartijo",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2026,
+    "y": 0.6284,
+    "w": 0.282,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: lizard",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 2,
+   "form": "mucurí",
+   "gloss": "Laolao",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2026,
+    "y": 0.6484,
+    "w": 0.6503,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a species of fish, of the genus Silurus",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 3,
+   "form": "iafa",
+   "gloss": "Lapa",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2026,
+    "y": 0.6693,
+    "w": 0.3499,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: Cœlogenys paca",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 4,
+   "form": "caguizí",
+   "gloss": "Laurel",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2039,
+    "y": 0.6891,
+    "w": 0.2807,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: laurel",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 5,
+   "form": "fiji-faja",
+   "gloss": "Lavando",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2039,
+    "y": 0.7091,
+    "w": 0.337,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: washing",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 6,
+   "form": "te ie",
+   "gloss": "Lejos",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2026,
+    "y": 0.7295,
+    "w": 0.1968,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: far",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 7,
+   "form": "eguüne",
+   "gloss": "León",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2026,
+    "y": 0.7501,
+    "w": 0.5288,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: puma, Felis concolor",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 8,
+   "form": "eguane",
+   "gloss": "León",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2026,
+    "y": 0.7501,
+    "w": 0.5288,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: puma, Felis concolor",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 9,
+   "form": "fita guata-ié",
+   "gloss": "Llévale",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2026,
+    "y": 0.7701,
+    "w": 0.5443,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: take him, conduct him",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 10,
+   "form": "curicuri",
+   "gloss": "Loro",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2039,
+    "y": 0.7891,
+    "w": 0.273,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: parrot",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 11,
+   "form": "camonajadi",
+   "gloss": "Luz",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2033,
+    "y": 0.8107,
+    "w": 0.2853,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: light",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 12,
+   "form": "cagueraná",
+   "gloss": "Madera",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2033,
+    "y": 0.8305,
+    "w": 0.3221,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: wood",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 13,
+   "form": "curiciji",
+   "gloss": "Malo",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2033,
+    "y": 0.8503,
+    "w": 0.2375,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: bad",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 14,
+   "form": "yua",
+   "gloss": "Mama",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2033,
+    "y": 0.8703,
+    "w": 0.2736,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: he sucks",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 15,
+   "form": "iosinasita",
+   "gloss": "Mañana",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 0,
+    "x": 0.2026,
+    "y": 0.8884,
+    "w": 0.3699,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: tomorrow",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 16,
+   "form": "machoca",
+   "gloss": "Mandioca",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.1017,
+    "w": 0.6594,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: cassava plant, Manihot utilissima",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 17,
+   "form": "maniplré",
+   "gloss": "Mapanare",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.1221,
+    "w": 0.6213,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a snake of the genus Lachesis",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 18,
+   "form": "iafatoto",
+   "gloss": "Mato",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.1421,
+    "w": 0.5864,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a large lizard, of the genus Tejus",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 19,
+   "form": "fasiyasinarí",
+   "gloss": "Media noche",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.1623,
+    "w": 0.4508,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: midnight",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 20,
+   "form": "cadía",
+   "gloss": "Menor",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.1827,
+    "w": 0.3416,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: younger son",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 21,
+   "form": "caguarci",
+   "gloss": "Mercancias",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.2025,
+    "w": 0.4327,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: merchandise",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 22,
+   "form": "püaché",
+   "gloss": "Mono",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.2227,
+    "w": 0.2983,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: monkey",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 23,
+   "form": "aguámí",
+   "gloss": "Mono blanco",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.2413,
+    "w": 0.6807,
+    "h": 0.0205,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a species of monkey, perhaps Midas œdipus",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 24,
+   "form": "caroirí",
+   "gloss": "Mono chucuto",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.2252,
+    "y": 0.3037,
+    "w": 0.1711,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: another species of monkey, genus Brachyurus",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 25,
+   "form": "agüajo",
+   "gloss": "Monte",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.3239,
+    "w": 0.2725,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: forest",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 26,
+   "form": "teguí",
+   "gloss": "Moriche",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.2006,
+    "y": 0.3439,
+    "w": 0.5134,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: Mauritia flexuosa, a palm",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 27,
+   "form": "curiu",
+   "gloss": "Morrocoy",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.3641,
+    "w": 0.589,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: Testudo tabulata, a land-turtle",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 28,
+   "form": "macicu-io",
+   "gloss": "Muchacho",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.4048,
+    "w": 0.4243,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: boy; printed: (sic !)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 29,
+   "form": "macicu-io",
+   "gloss": "Muchachos",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.4048,
+    "w": 0.4243,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: boys; printed: (sic !)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 30,
+   "form": "no-jízo",
+   "gloss": "Mujer, mi",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.425,
+    "w": 0.3422,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: my wife",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 31,
+   "form": "sarii-nai-femí",
+   "gloss": "Mujeres, las",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.445,
+    "w": 0.4766,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: the women",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 32,
+   "form": "momoni",
+   "gloss": "Negro",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.465,
+    "w": 0.2789,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: black",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 33,
+   "form": "no-ia",
+   "gloss": "Nieto",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.4841,
+    "w": 0.3087,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: grandchild",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 34,
+   "form": "oio-maja",
+   "gloss": "Onoto",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1981,
+    "y": 0.5058,
+    "w": 0.4831,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: arnatto, Bixa orellana",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 35,
+   "form": "mesijejatejari",
+   "gloss": "Oye",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.526,
+    "w": 0.3112,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: hear !",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 36,
+   "form": "fide-üena",
+   "gloss": "Paga",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.5462,
+    "w": 0.2596,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: pay",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 37,
+   "form": "ieguarí",
+   "gloss": "Paja",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.2,
+    "y": 0.5664,
+    "w": 0.2537,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: straw",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 38,
+   "form": "ata",
+   "gloss": "Palo",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.586,
+    "w": 0.1937,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: tree",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 39,
+   "form": "onoca",
+   "gloss": "Paloma",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.607,
+    "w": 0.2886,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: pigeon",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 40,
+   "form": "nafo",
+   "gloss": "Papá",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.6272,
+    "w": 0.237,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: father",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 41,
+   "form": "fi-ié",
+   "gloss": "Para ti",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.647,
+    "w": 0.2718,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: for thee",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 42,
+   "form": "cafisaná",
+   "gloss": "Paraguatán",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.6674,
+    "w": 0.6788,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a tree, Macrocnemum tinctoreum",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 43,
+   "form": "yaini",
+   "gloss": "Pared",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.6874,
+    "w": 0.2363,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: wall",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 44,
+   "form": "iasanasajiti",
+   "gloss": "Pasado mañana",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.7074,
+    "w": 0.5974,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: day after tomorrow",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 45,
+   "form": "monita fijoi",
+   "gloss": "Pasear à tu casa",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.7276,
+    "w": 0.6129,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: to walk to thy house",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 46,
+   "form": "zoita",
+   "gloss": "Paují",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.748,
+    "w": 0.4359,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a genus of birds, Crax",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 47,
+   "form": "damoco",
+   "gloss": "Paují copete",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.7678,
+    "w": 0.4798,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: Crax daubentoni",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 48,
+   "form": "itirí",
+   "gloss": "Paují roncador",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.7874,
+    "w": 0.4553,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: another species",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 49,
+   "form": "io-cuimani",
+   "gloss": "Pava",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.8058,
+    "w": 0.3668,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: turkey-hen",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 50,
+   "form": "cuna",
+   "gloss": "Pavon",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1987,
+    "y": 0.8272,
+    "w": 0.4779,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a fish, Cichla orinocensis",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 51,
+   "form": "juchijí",
+   "gloss": "Pequeño",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.8472,
+    "w": 0.434,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: small",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 52,
+   "form": "guichasiája",
+   "gloss": "Pequeño",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.8472,
+    "w": 0.434,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: small",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 53,
+   "form": "cia-mo",
+   "gloss": "Pereza",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.865,
+    "w": 0.2654,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: sloth",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 54,
+   "form": "querequere",
+   "gloss": "Perico",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 1,
+    "x": 0.1994,
+    "y": 0.8862,
+    "w": 0.392,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: small parrot",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 55,
+   "form": "maidi",
+   "gloss": "Perro",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.1985,
+    "y": 0.0955,
+    "w": 0.2335,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: dog",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 56,
+   "form": "jimaa",
+   "gloss": "Pez",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.1992,
+    "y": 0.1171,
+    "w": 0.2102,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: fish",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 57,
+   "form": "iocüe",
+   "gloss": "Piapopo",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.1992,
+    "y": 0.1373,
+    "w": 0.603,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a bird of the genus Rhamphastos",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 58,
+   "form": "gua-ioto",
+   "gloss": "Picure",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.1992,
+    "y": 0.1575,
+    "w": 0.614,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a rodent, a species of Dasyprocta",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 59,
+   "form": "macicuyo",
+   "gloss": "Pijiguao",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2005,
+    "y": 0.1775,
+    "w": 0.5745,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a palm, Guilielma speciosa",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 60,
+   "form": "sorimení",
+   "gloss": "Pintado",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2011,
+    "y": 0.1959,
+    "w": 0.3362,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: painted",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 61,
+   "form": "faratana",
+   "gloss": "Plátano",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2017,
+    "y": 0.2175,
+    "w": 0.6592,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: plantain, Musa paradisiaca; printed: (Span.)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 62,
+   "form": "farato",
+   "gloss": "Plato",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2017,
+    "y": 0.2379,
+    "w": 0.3407,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: plate; printed: (Span.)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 63,
+   "form": "cajasina",
+   "gloss": "Playa",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2017,
+    "y": 0.2581,
+    "w": 0.455,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: beach, bank of river",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 64,
+   "form": "juchisimajá",
+   "gloss": "Poco",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2017,
+    "y": 0.2781,
+    "w": 0.2981,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: little",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 65,
+   "form": "fena",
+   "gloss": "Porque",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2017,
+    "y": 0.2983,
+    "w": 0.2826,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: because",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 66,
+   "form": "fotafí",
+   "gloss": "Principal horcon",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2017,
+    "y": 0.3185,
+    "w": 0.5138,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: main post of hut",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 67,
+   "form": "guaisí",
+   "gloss": "Puerta",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2037,
+    "y": 0.3385,
+    "w": 0.2593,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: door",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 68,
+   "form": "caguinocifo",
+   "gloss": "Puntada de cabeza",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.203,
+    "y": 0.3583,
+    "w": 0.5183,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: head ache",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 69,
+   "form": "nujateje",
+   "gloss": "Quiero",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.203,
+    "y": 0.3785,
+    "w": 0.2897,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I will",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 70,
+   "form": "fata-nujenanefí",
+   "gloss": "No quiero",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2541,
+    "y": 0.3989,
+    "w": 0.4583,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I will not",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 71,
+   "form": "nutaleja",
+   "gloss": "Yo te quiero",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2541,
+    "y": 0.4181,
+    "w": 0.4221,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I love you",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 72,
+   "form": "mesijejatearí",
+   "gloss": "Qué quieres?",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2554,
+    "y": 0.4387,
+    "w": 0.5797,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: what do you want?",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 73,
+   "form": "marijénajatí",
+   "gloss": "Rata",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.205,
+    "y": 0.4589,
+    "w": 0.2839,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: rat",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 74,
+   "form": "atamo",
+   "gloss": "Ratón",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2043,
+    "y": 0.4795,
+    "w": 0.3801,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: mouse",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 75,
+   "form": "acamora",
+   "gloss": "Ratón",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2043,
+    "y": 0.4795,
+    "w": 0.3801,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: mouse",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 76,
+   "form": "yajique",
+   "gloss": "Raya",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2043,
+    "y": 0.4998,
+    "w": 0.4589,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a fish, Trygon hystrix",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 77,
+   "form": "corití",
+   "gloss": "Rayado",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2043,
+    "y": 0.5198,
+    "w": 0.6165,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: another fish, Platystoma fasciatum",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 78,
+   "form": "noregarafí",
+   "gloss": "Regalo, te",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.205,
+    "y": 0.54,
+    "w": 0.6314,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I make you a present of . . .",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 79,
+   "form": "ie-vale",
+   "gloss": "Regalo",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.205,
+    "y": 0.5602,
+    "w": 0.4938,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a present I make to you",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 80,
+   "form": "io-quira",
+   "gloss": "Sal",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.205,
+    "y": 0.5804,
+    "w": 0.2276,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: salt",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 81,
+   "form": "caiegua",
+   "gloss": "Salvaje",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2056,
+    "y": 0.6006,
+    "w": 0.3039,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: savage",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 82,
+   "form": "tororo",
+   "gloss": "Sapo",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2056,
+    "y": 0.6204,
+    "w": 0.2328,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: toad",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 83,
+   "form": "i-atí",
+   "gloss": "Seje",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2056,
+    "y": 0.6408,
+    "w": 0.4725,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a palm, Œnocarpus bataua",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 84,
+   "form": "cofetí",
+   "gloss": "Seje chiquito",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2063,
+    "y": 0.661,
+    "w": 0.4247,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: another palm",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 85,
+   "form": "maciciti",
+   "gloss": "Tapir",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "concepts": [
+    "TAPIR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.2069,
+    "y": 0.681,
+    "w": 0.4453,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: Tapirus americanus",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 86,
+   "form": "samai",
+   "gloss": "Temblador",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2069,
+    "y": 0.7012,
+    "w": 0.5158,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: electric eel, Gymnotus",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 87,
+   "form": "fatafima",
+   "gloss": "Tengo, no para tí",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2063,
+    "y": 0.7212,
+    "w": 0.5707,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I have not for you",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 88,
+   "form": "sifori",
+   "gloss": "Terecay",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.234,
+    "y": 0.7614,
+    "w": 0.0745,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a species of river-turtle, Peltocephalus tracaxa",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 89,
+   "form": "mefimari",
+   "gloss": "Tienes",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2069,
+    "y": 0.7818,
+    "w": 0.3452,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: thou hast",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 90,
+   "form": "cuadiguao-minarí",
+   "gloss": "Tigre",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2076,
+    "y": 0.8022,
+    "w": 0.4311,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: Felis onça",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 91,
+   "form": "cajachí",
+   "gloss": "Tierra",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2076,
+    "y": 0.822,
+    "w": 0.2716,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: earth",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 92,
+   "form": "fezí",
+   "gloss": "Tijeras",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2069,
+    "y": 0.8416,
+    "w": 0.2658,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: scissors",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 93,
+   "form": "quanana",
+   "gloss": "Tinaja",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2069,
+    "y": 0.8614,
+    "w": 0.4686,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: earthen water-vessel",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 94,
+   "form": "vichéce",
+   "gloss": "Titi",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2063,
+    "y": 0.8812,
+    "w": 0.541,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a monkey, Chrysothrix sciurea",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 95,
+   "form": "acuasi",
+   "gloss": "Totuma",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 2,
+    "x": 0.2076,
+    "y": 0.8991,
+    "w": 0.3258,
+    "h": 0.0205
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: calabash",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 96,
+   "form": "fitagutane",
+   "gloss": "Tráeme",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2018,
+    "y": 0.1018,
+    "w": 0.4497,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: bring me",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 97,
+   "form": "fifatane",
+   "gloss": "Tráeme",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2018,
+    "y": 0.1018,
+    "w": 0.4497,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: bring me",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 98,
+   "form": "zorema",
+   "gloss": "Tragavenado",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2005,
+    "y": 0.122,
+    "w": 0.462,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: Boa constrictor",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 99,
+   "form": "üasavaüa",
+   "gloss": "Vámonos",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2018,
+    "y": 0.1422,
+    "w": 0.3716,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: let us go",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 100,
+   "form": "chima üisaüa",
+   "gloss": "Vamos á dormir",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2018,
+    "y": 0.1622,
+    "w": 0.526,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: let us sleep",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 101,
+   "form": "üisajatai-a",
+   "gloss": "Vas",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2018,
+    "y": 0.1826,
+    "w": 0.3025,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: you go",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 102,
+   "form": "afijija",
+   "gloss": "Váquira",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2018,
+    "y": 0.2026,
+    "w": 0.4465,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: Dicotyles torquatus",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 103,
+   "form": "mataji-o",
+   "gloss": "Venado",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2012,
+    "y": 0.2226,
+    "w": 0.422,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: deer, Cervus sp.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 104,
+   "form": "fiüendené",
+   "gloss": "Véndeme",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2012,
+    "y": 0.2428,
+    "w": 0.462,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: sell me; printed: (Span. ?)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 105,
+   "form": "no-iofiviata",
+   "gloss": "Vengo",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2018,
+    "y": 0.2632,
+    "w": 0.3367,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I come",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 106,
+   "form": "sifotemi",
+   "gloss": "Verde",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2012,
+    "y": 0.2832,
+    "w": 0.2734,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: green",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 107,
+   "form": "guacui",
+   "gloss": "Viudita",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2005,
+    "y": 0.3037,
+    "w": 0.5718,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a monkey, Callithrix torquata",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 108,
+   "form": "nusafisaji",
+   "gloss": "Voy",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2025,
+    "y": 0.3239,
+    "w": 0.2598,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I go",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 109,
+   "form": "nomafitifiji",
+   "gloss": "Voy á hacer",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2012,
+    "y": 0.3439,
+    "w": 0.5143,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I am going to do",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 110,
+   "form": "no-io",
+   "gloss": "Vuelvo",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2012,
+    "y": 0.3639,
+    "w": 0.2915,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I return",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 111,
+   "form": "inecinaja",
+   "gloss": "Yema",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2012,
+    "y": 0.3843,
+    "w": 0.2669,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: egg",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 112,
+   "form": "inarito",
+   "gloss": "Zorro",
+   "section": "I. Yavitero.",
+   "col": "Yavitero",
+   "box": {
+    "page": 3,
+    "x": 0.2018,
+    "y": 0.403,
+    "w": 0.234,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: fox",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 113,
+   "form": "eut",
+   "gloss": "Agua",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 3,
+    "x": 0.2005,
+    "y": 0.7812,
+    "w": 0.5202,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: water; printed: (eu like ö, but very short)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 114,
+   "form": "da-jo-mat",
+   "gloss": "Ahora",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 3,
+    "x": 0.2005,
+    "y": 0.8016,
+    "w": 0.2837,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: now",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 115,
+   "form": "dé-ju él",
+   "gloss": "Algodón",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 3,
+    "x": 0.2025,
+    "y": 0.8214,
+    "w": 0.3076,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: cotton",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 116,
+   "form": "ma-piju",
+   "gloss": "Anzuelo",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 3,
+    "x": 0.2005,
+    "y": 0.8406,
+    "w": 0.347,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: fish-hook",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 117,
+   "form": "nan",
+   "gloss": "Aquí está",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 3,
+    "x": 0.2012,
+    "y": 0.8608,
+    "w": 0.2915,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: here is",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 118,
+   "form": "ca",
+   "gloss": "Araguato",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 3,
+    "x": 0.1999,
+    "y": 0.8804,
+    "w": 0.3864,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: howling monkey",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 119,
+   "form": "jo-tega",
+   "gloss": "Así será",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 3,
+    "x": 0.2018,
+    "y": 0.9002,
+    "w": 0.2689,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: well",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 120,
+   "form": "eglé",
+   "gloss": "A ver",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1987,
+    "y": 0.1039,
+    "w": 0.2841,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: let me see",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 121,
+   "form": "mau",
+   "gloss": "Barbasco",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1987,
+    "y": 0.1245,
+    "w": 0.4889,
+    "h": 0.0204,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: plant for poisoning fish",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 122,
+   "form": "bi-vü-ak",
+   "gloss": "Beber",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1987,
+    "y": 0.1452,
+    "w": 0.3158,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: to drink",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 123,
+   "form": "i-o",
+   "gloss": "Bejuco",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1994,
+    "y": 0.1656,
+    "w": 0.3416,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: climbing plant",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 124,
+   "form": "de-jei",
+   "gloss": "Bonito",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1994,
+    "y": 0.1858,
+    "w": 0.2705,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: pretty",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 125,
+   "form": "am-bije-nuk",
+   "gloss": "Buenos dias",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1987,
+    "y": 0.2058,
+    "w": 0.4501,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: good day !",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 126,
+   "form": "chu-chin",
+   "gloss": "Caña",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1981,
+    "y": 0.2241,
+    "w": 0.266,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: cane",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 127,
+   "form": "am-bí-bajé",
+   "gloss": "Caro",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1987,
+    "y": 0.2458,
+    "w": 0.2796,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: dear",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 128,
+   "form": "mo",
+   "gloss": "Casa",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1987,
+    "y": 0.2658,
+    "w": 0.2156,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: house",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 129,
+   "form": "an",
+   "gloss": "Cazabe",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1981,
+    "y": 0.2864,
+    "w": 0.3339,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: cassaba bread",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 130,
+   "form": "ujel",
+   "gloss": "Cerro",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1981,
+    "y": 0.3066,
+    "w": 0.277,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: mountain",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 131,
+   "form": "acom",
+   "gloss": "Comer",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1981,
+    "y": 0.3266,
+    "w": 0.2589,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: to eat",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 132,
+   "form": "bamatan",
+   "gloss": "Cómo te llamas?",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1981,
+    "y": 0.3458,
+    "w": 0.5897,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: what is your name?",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 133,
+   "form": "ba-jin-ci-un",
+   "gloss": "Cómprame",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1974,
+    "y": 0.3672,
+    "w": 0.361,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: buy",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 134,
+   "form": "ni-e-gap",
+   "gloss": "Cuentas",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1981,
+    "y": 0.3872,
+    "w": 0.3099,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: beads",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 135,
+   "form": "acubugan",
+   "gloss": "Dame",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1981,
+    "y": 0.4074,
+    "w": 0.3267,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: give me",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 136,
+   "form": "doma",
+   "gloss": "Dividamos",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1981,
+    "y": 0.4274,
+    "w": 0.3933,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: let us divide",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 137,
+   "form": "sogle",
+   "gloss": "Dormir",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1968,
+    "y": 0.4478,
+    "w": 0.2886,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: to sleep",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 138,
+   "form": "ejeí",
+   "gloss": "Está bien",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1981,
+    "y": 0.4678,
+    "w": 0.3119,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: it is well",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 139,
+   "form": "deu",
+   "gloss": "Fuego",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1974,
+    "y": 0.488,
+    "w": 0.3145,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: fire; printed: (eu = ö)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 140,
+   "form": "no-si-anté",
+   "gloss": "Hombre",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1974,
+    "y": 0.507,
+    "w": 0.3151,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: man",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 141,
+   "form": "op",
+   "gloss": "Gracias",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1968,
+    "y": 0.5284,
+    "w": 0.2557,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: thanks",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 142,
+   "form": "tulí",
+   "gloss": "Grulla",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1968,
+    "y": 0.5468,
+    "w": 0.2382,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: crane",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 143,
+   "form": "aijopec",
+   "gloss": "Lejos",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1974,
+    "y": 0.5686,
+    "w": 0.2292,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: far",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 144,
+   "form": "cojon",
+   "gloss": "Maiz",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "concepts": [
+    "MAIZE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1968,
+    "y": 0.5888,
+    "w": 0.3151,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: Indian corn",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 145,
+   "form": "ejep",
+   "gloss": "Malo",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1974,
+    "y": 0.609,
+    "w": 0.2059,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: bad",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 146,
+   "form": "masaca",
+   "gloss": "Mandioca",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1961,
+    "y": 0.6296,
+    "w": 0.4114,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: cassava plant",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 147,
+   "form": "cho-o",
+   "gloss": "Mono",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1974,
+    "y": 0.6482,
+    "w": 0.2796,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: monkey",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 148,
+   "form": "i-jue",
+   "gloss": "Morrocoy",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1968,
+    "y": 0.6696,
+    "w": 0.3487,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: land-turtle",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 149,
+   "form": "nosomi-ao",
+   "gloss": "Mujer",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1968,
+    "y": 0.6899,
+    "w": 0.3235,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: woman",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 150,
+   "form": "bai-rut",
+   "gloss": "No",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "concepts": [
+    "NO"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1974,
+    "y": 0.7082,
+    "w": 0.2111,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: not",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 151,
+   "form": "sü-ip",
+   "gloss": "Pájaro",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1968,
+    "y": 0.7301,
+    "w": 0.2415,
+    "h": 0.0204,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: bird",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 152,
+   "form": "yoi",
+   "gloss": "Pescado",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1961,
+    "y": 0.7505,
+    "w": 0.2311,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: fish",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 153,
+   "form": "uma",
+   "gloss": "Pescado pilado",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1955,
+    "y": 0.7705,
+    "w": 0.5651,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: fish, dried and pounded",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 154,
+   "form": "ijai",
+   "gloss": "Piña",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1961,
+    "y": 0.7909,
+    "w": 0.2802,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: pine-apple",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 155,
+   "form": "sü-ip",
+   "gloss": "Plumas",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1955,
+    "y": 0.8109,
+    "w": 0.2957,
+    "h": 0.0204,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: feathers",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 156,
+   "form": "t-ta",
+   "gloss": "Plátano",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1948,
+    "y": 0.8303,
+    "w": 0.288,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: plantain",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 157,
+   "form": "indé",
+   "gloss": "Qué es esto?",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1948,
+    "y": 0.8492,
+    "w": 0.4114,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: what is this?",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 158,
+   "form": "manté",
+   "gloss": "Te quiero",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1948,
+    "y": 0.8696,
+    "w": 0.3642,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I love you",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 159,
+   "form": "el-t",
+   "gloss": "Rallo",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1955,
+    "y": 0.8884,
+    "w": 0.3377,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: cassava-grinder",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 160,
+   "form": "ijen",
+   "gloss": "Rayado",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 4,
+    "x": 0.1942,
+    "y": 0.9099,
+    "w": 0.5264,
+    "h": 0.0204
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a fish, Platystoma fasciatum",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 161,
+   "form": "u-ipé",
+   "gloss": "Sombrero",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1981,
+    "y": 0.1091,
+    "w": 0.2665,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: hat",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 162,
+   "form": "jeup",
+   "gloss": "Tabaco",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1981,
+    "y": 0.1293,
+    "w": 0.2782,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: tobacco",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 163,
+   "form": "am-üi-ric",
+   "gloss": "Tengo hambre",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1981,
+    "y": 0.1491,
+    "w": 0.4823,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I am hungry",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 164,
+   "form": "mam",
+   "gloss": "Tú",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1988,
+    "y": 0.1695,
+    "w": 0.2594,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: thou, you",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 165,
+   "form": "muná",
+   "gloss": "Vagre",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1994,
+    "y": 0.1895,
+    "w": 0.5211,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a species of fish, Platystoma",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 166,
+   "form": "venoc",
+   "gloss": "Vámonos",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1981,
+    "y": 0.2099,
+    "w": 0.3253,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: let us go",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 167,
+   "form": "am-bon-de-oc",
+   "gloss": "Vámos á beber yucuta",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1988,
+    "y": 0.2295,
+    "w": 0.6787,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: let us drink yucuta",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 168,
+   "form": "vi-oi-en",
+   "gloss": "Vámos á dormir aquí",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1988,
+    "y": 0.2501,
+    "w": 0.5779,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: let us sleep here",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 169,
+   "form": "nain-vai-uc",
+   "gloss": "Ven acá !",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1988,
+    "y": 0.2688,
+    "w": 0.4203,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: come here !",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 170,
+   "form": "a-jin-ci-un",
+   "gloss": "Vénde me !",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1994,
+    "y": 0.2907,
+    "w": 0.3977,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: sell me !",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 171,
+   "form": "ní-ega-dé",
+   "gloss": "Ya está !",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.1994,
+    "y": 0.3095,
+    "w": 0.3693,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: it is done",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 172,
+   "form": "am",
+   "gloss": "Yo",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.2001,
+    "y": 0.3307,
+    "w": 0.1419,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 173,
+   "form": "ju-it",
+   "gloss": "Zarza",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.2001,
+    "y": 0.3511,
+    "w": 0.4112,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: sarsaparilla",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 174,
+   "form": "tan-peup",
+   "gloss": "Zarza",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "box": {
+    "page": 5,
+    "x": 0.2001,
+    "y": 0.3511,
+    "w": 0.4112,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: sarsaparilla",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 175,
+   "form": "jai-tun",
+   "gloss": "One",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.2517,
+    "y": 0.3715,
+    "w": 0.1509,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English gloss only",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 176,
+   "form": "jaca-jo",
+   "gloss": "Two",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.2517,
+    "y": 0.3919,
+    "w": 0.1528,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English gloss only",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 177,
+   "form": "jai-pai",
+   "gloss": "Three",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.2517,
+    "y": 0.4119,
+    "w": 0.1722,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English gloss only",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 178,
+   "form": "jaca-junue",
+   "gloss": "Four",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.2524,
+    "y": 0.4321,
+    "w": 0.2,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English gloss only",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 179,
+   "form": "nap-tan",
+   "gloss": "Five",
+   "section": "II. Puinabo.",
+   "col": "Puinave",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.2537,
+    "y": 0.4531,
+    "w": 0.1677,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English gloss only",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 180,
+   "form": "aóua",
+   "gloss": "Ají",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 5,
+    "x": 0.5573,
+    "y": 0.7284,
+    "w": 0.0792,
+    "h": 0.017
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: Capsicum; also printed: erate, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 181,
+   "form": "anfuaté",
+   "gloss": "Anzuelo",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2012,
+    "y": 0.4086,
+    "w": 0.5305,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: fishing hook; also printed: awache, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 182,
+   "form": "ajuca",
+   "gloss": "Araña mono",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2012,
+    "y": 0.4284,
+    "w": 0.641,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a large spider, Avicularia blondi",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 183,
+   "form": "adigua",
+   "gloss": "Bien",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2031,
+    "y": 0.4486,
+    "w": 0.5221,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: well; also printed: adiba, Cr.; adigua, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 184,
+   "form": "uaraté-zapa",
+   "gloss": "Cabuya",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2018,
+    "y": 0.4692,
+    "w": 0.3419,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: string",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 185,
+   "form": "aijá",
+   "gloss": "Café",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2018,
+    "y": 0.4894,
+    "w": 0.3393,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: coffee; also printed: cawe, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 186,
+   "form": "camarada",
+   "gloss": "Camarada",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2012,
+    "y": 0.5096,
+    "w": 0.5072,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: comrade; printed: (Spanish)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 187,
+   "form": "uadé",
+   "gloss": "Canalete",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2018,
+    "y": 0.5296,
+    "w": 0.4355,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: oar; also printed: guaiguade, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 188,
+   "form": "puñatá",
+   "gloss": "Camisa",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2018,
+    "y": 0.55,
+    "w": 0.4678,
+    "h": 0.0175,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: shirt; also printed: asca hisata, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 189,
+   "form": "ufcú",
+   "gloss": "Candela",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2018,
+    "y": 0.5702,
+    "w": 0.5286,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: fire; also printed: huskuk, Ch.; ocoura, Cr.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 190,
+   "form": "nanaja",
+   "gloss": "Canto de guerrá",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2018,
+    "y": 0.5908,
+    "w": 0.4245,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: war song",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 191,
+   "form": "aje",
+   "gloss": "Caño",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2025,
+    "y": 0.6108,
+    "w": 0.3477,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: branch of a river",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 192,
+   "form": "majá",
+   "gloss": "Caña dulce",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2018,
+    "y": 0.6306,
+    "w": 0.4969,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: sugar cane; also printed: naha, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 193,
+   "form": "inichi",
+   "gloss": "Casaba",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2018,
+    "y": 0.651,
+    "w": 0.4898,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: cassava bread; also printed: ynisi, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 194,
+   "form": "añ-na",
+   "gloss": "Cebucan",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2025,
+    "y": 0.6714,
+    "w": 0.3774,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: cassava-press",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 195,
+   "form": "muijaca",
+   "gloss": "Cerro",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2025,
+    "y": 0.6912,
+    "w": 0.4795,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: mountain; also printed: ynagua, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 196,
+   "form": "tryata",
+   "gloss": "Conversar",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2025,
+    "y": 0.7114,
+    "w": 0.3193,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: to talk",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 197,
+   "form": "guaipa",
+   "gloss": "Copahiba",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2025,
+    "y": 0.732,
+    "w": 0.338,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: copaiva",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 198,
+   "form": "nauadé",
+   "gloss": "Cuchillo",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2025,
+    "y": 0.7518,
+    "w": 0.4685,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: knife; also printed: naguade, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 199,
+   "form": "manana",
+   "gloss": "Curare",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2025,
+    "y": 0.7726,
+    "w": 0.6358,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: curare, arrow-poison; also printed: maeneme, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 200,
+   "form": "jit-t",
+   "gloss": "Dame",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2044,
+    "y": 0.7926,
+    "w": 0.2585,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: give me",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 201,
+   "form": "anfu-etisa",
+   "gloss": "Diablo",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2031,
+    "y": 0.8126,
+    "w": 0.3031,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: devil",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 202,
+   "form": "monó",
+   "gloss": "Dia",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2031,
+    "y": 0.8326,
+    "w": 0.4168,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: day; also printed: morho (sun), Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 203,
+   "form": "ten-né",
+   "gloss": "Donde",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2037,
+    "y": 0.8512,
+    "w": 0.2721,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: where",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 204,
+   "form": "enucu-acuese",
+   "gloss": "No entiendo",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2031,
+    "y": 0.8716,
+    "w": 0.577,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I do not understand",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 205,
+   "form": "culupa",
+   "gloss": "Escopeta",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2037,
+    "y": 0.892,
+    "w": 0.5983,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: gun; also printed: cuhupe, Ch. (Span. chopo)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 206,
+   "form": "enucu",
+   "gloss": "Escucho",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 6,
+    "x": 0.2037,
+    "y": 0.9112,
+    "w": 0.5214,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I listen; printed: (= I understand)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 207,
+   "form": "tejatoba",
+   "gloss": "Espejo",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.201,
+    "y": 0.1072,
+    "w": 0.5005,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: looking-glass; also printed: tijata, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 208,
+   "form": "suraja",
+   "gloss": "Feo",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.201,
+    "y": 0.1274,
+    "w": 0.226,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: ugly",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 209,
+   "form": "jucua-cua",
+   "gloss": "Hablo",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2016,
+    "y": 0.1476,
+    "w": 0.3248,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I speak",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 210,
+   "form": "jucua-ta",
+   "gloss": "Hablas",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.1679,
+    "w": 0.3519,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: you speak",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 211,
+   "form": "jumeto",
+   "gloss": "Hombre",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.201,
+    "y": 0.1879,
+    "w": 0.3862,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: man; also printed: ovo, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 212,
+   "form": "eninajé",
+   "gloss": "Grande",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.2076,
+    "w": 0.401,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: large; also printed: buio, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 213,
+   "form": "camuja",
+   "gloss": "Luna",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2016,
+    "y": 0.2274,
+    "w": 0.4068,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: moon; also printed: chawa, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 214,
+   "form": "ureda",
+   "gloss": "Machete",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "concepts": [
+    "MACHETE"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.2476,
+    "w": 0.4424,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: cutlas; also printed: curoode, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 215,
+   "form": "itzu",
+   "gloss": "Maduro",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.201,
+    "y": 0.2668,
+    "w": 0.2376,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: ripe",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 216,
+   "form": "chura",
+   "gloss": "Malo",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.201,
+    "y": 0.2883,
+    "w": 0.5412,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: bad; also printed: suraa hiso (very bad), Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 217,
+   "form": "duta",
+   "gloss": "Marima",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2268,
+    "y": 0.3287,
+    "w": 0.151,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: the inner bark of a species of Lecythis, used as cloth",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 218,
+   "form": "naté",
+   "gloss": "Mujer",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.3489,
+    "w": 0.3888,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: woman; also printed: isaho, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 219,
+   "form": "pujate",
+   "gloss": "Niña",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1997,
+    "y": 0.3685,
+    "w": 0.381,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: girl; also printed: chistiho, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 220,
+   "form": "iodó",
+   "gloss": "Noche",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1997,
+    "y": 0.3874,
+    "w": 0.2428,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: night",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 221,
+   "form": "u-uoto",
+   "gloss": "Nosotros",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.4081,
+    "w": 0.2589,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: we",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 222,
+   "form": "corao",
+   "gloss": "Oro",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.4295,
+    "w": 0.2098,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: gold",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 223,
+   "form": "piquin-dian",
+   "gloss": "Pequeño",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.4495,
+    "w": 0.4734,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: small; also printed: ykia, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 224,
+   "form": "muéké",
+   "gloss": "Periquito",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.201,
+    "y": 0.4695,
+    "w": 0.3984,
+    "h": 0.018,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a small parrot",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 225,
+   "form": "pubí",
+   "gloss": "Piapoco",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.4919,
+    "w": 0.4857,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: a bird, Rhamphastos sp.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 226,
+   "form": "baruru",
+   "gloss": "Plátano",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.5117,
+    "w": 0.4708,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: plantain; also printed: paruro, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 227,
+   "form": "tabuara",
+   "gloss": "Puerto",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.201,
+    "y": 0.5319,
+    "w": 0.3726,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: port, landing",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 228,
+   "form": "paragua",
+   "gloss": "Rio",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.5519,
+    "w": 0.2479,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: river",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 229,
+   "form": "niña-ja-ia",
+   "gloss": "Ron",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.2003,
+    "y": 0.5723,
+    "w": 0.4786,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: rum; printed: (ahiia, water, Cr.)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 230,
+   "form": "mono canuja",
+   "gloss": "Sol",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.199,
+    "y": 0.5923,
+    "w": 0.4178,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: sun; also printed: morho, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 231,
+   "form": "cadi-uca",
+   "gloss": "Sombrero",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1984,
+    "y": 0.6119,
+    "w": 0.4534,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: hat; also printed: kyuhak, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 232,
+   "form": "ja-jet-né",
+   "gloss": "Tabaco",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1984,
+    "y": 0.6325,
+    "w": 0.5729,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: tobacco; also printed: haté, Cr.; haatei, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 233,
+   "form": "cañári",
+   "gloss": "Tinaja",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1984,
+    "y": 0.6528,
+    "w": 0.3455,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: water-vessel",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 234,
+   "form": "baraj",
+   "gloss": "Totuma",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1984,
+    "y": 0.6728,
+    "w": 0.642,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: calabash; also printed: mukiriba, Ch.; mourica, Cr.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 235,
+   "form": "u-cu",
+   "gloss": "Tú",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1984,
+    "y": 0.6934,
+    "w": 0.2557,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: thou, you",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 236,
+   "form": "i-it",
+   "gloss": "Véndeme",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.199,
+    "y": 0.7132,
+    "w": 0.2841,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: sell me",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 237,
+   "form": "u-cutu",
+   "gloss": "Vosotros",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1984,
+    "y": 0.7336,
+    "w": 0.3171,
+    "h": 0.018,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: you, pl.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 238,
+   "form": "erédaca",
+   "gloss": "Yeso blanco",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1971,
+    "y": 0.7536,
+    "w": 0.5412,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: white plaster, gypsum",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 239,
+   "form": "T-ten",
+   "gloss": "Yo",
+   "section": "III. Piaroa.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1984,
+    "y": 0.7734,
+    "w": 0.1659,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: I",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 240,
+   "form": "peneta-já",
+   "gloss": "Vamos á dormir",
+   "section": "III. Piaroa. Some phrases.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1977,
+    "y": 0.8228,
+    "w": 0.5457,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: let us go to sleep",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 241,
+   "form": "chiratucua",
+   "gloss": "Vamos á comer",
+   "section": "III. Piaroa. Some phrases.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1977,
+    "y": 0.8428,
+    "w": 0.6795,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: let us eat; also printed: chuscua (to eat), Ch.; footnote: Cfr. the Chibcha bsoscua, to eat.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 242,
+   "form": "taratimua",
+   "gloss": "Vámonos",
+   "section": "III. Piaroa. Some phrases.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1977,
+    "y": 0.8623,
+    "w": 0.3765,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: let us go",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 243,
+   "form": "ichi-ua",
+   "gloss": "Ven acá",
+   "section": "III. Piaroa. Some phrases.",
+   "col": "Piaroa",
+   "box": {
+    "page": 7,
+    "x": 0.1977,
+    "y": 0.8819,
+    "w": 0.5005,
+    "h": 0.018
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "English as printed: come here!; also printed: thivaa, Ch.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 244,
+   "form": "nanté",
+   "gloss": "1",
+   "section": "III. Piaroa. Numerals.",
+   "col": "Piaroa",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.2793,
+    "y": 0.1279,
+    "w": 0.1035,
+    "h": 0.0175
+   }
+  },
+  {
+   "n": 245,
+   "form": "tajo",
+   "gloss": "2",
+   "section": "III. Piaroa. Numerals.",
+   "col": "Piaroa",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.2787,
+    "y": 0.1486,
+    "w": 0.0848,
+    "h": 0.0175
+   }
+  },
+  {
+   "n": 246,
+   "form": "uameta",
+   "gloss": "3",
+   "section": "III. Piaroa. Numerals.",
+   "col": "Piaroa",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.2774,
+    "y": 0.1677,
+    "w": 0.1242,
+    "h": 0.0175
+   }
+  },
+  {
+   "n": 247,
+   "form": "imuté",
+   "gloss": "4",
+   "section": "III. Piaroa. Numerals.",
+   "col": "Piaroa",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.2774,
+    "y": 0.1888,
+    "w": 0.1054,
+    "h": 0.0175
+   }
+  },
+  {
+   "n": 248,
+   "form": "imoterua",
+   "gloss": "5",
+   "section": "III. Piaroa. Numerals.",
+   "col": "Piaroa",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.2774,
+    "y": 0.2088,
+    "w": 0.1403,
+    "h": 0.0175
+   }
+  },
+  {
+   "n": 249,
+   "form": "caramuté nanté",
+   "gloss": "6",
+   "section": "III. Piaroa. Numerals.",
+   "col": "Piaroa",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.2774,
+    "y": 0.2288,
+    "w": 0.3102,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed: (5 + 1)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 250,
+   "form": "caramuté tajo",
+   "gloss": "7",
+   "section": "III. Piaroa. Numerals.",
+   "col": "Piaroa",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.2774,
+    "y": 0.2494,
+    "w": 0.2882,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed: (5 + 2)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 251,
+   "form": "caramuté uameta",
+   "gloss": "8",
+   "section": "III. Piaroa. Numerals.",
+   "col": "Piaroa",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.2774,
+    "y": 0.2696,
+    "w": 0.327,
+    "h": 0.0175
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed: (5 + 3)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 252,
+   "form": "tanmoredué",
+   "gloss": "9",
+   "section": "III. Piaroa. Numerals.",
+   "col": "Piaroa",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.278,
+    "y": 0.29,
+    "w": 0.1694,
+    "h": 0.0175
+   }
+  },
+  {
+   "n": 253,
+   "form": "tanmoredé",
+   "gloss": "10",
+   "section": "III. Piaroa. Numerals.",
+   "col": "Piaroa",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.2677,
+    "y": 0.309,
+    "w": 0.1681,
+    "h": 0.0175
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 253,
+  "notes": 246,
+  "located": 253
+ },
+ "partial": null,
+ "relation": null
+}

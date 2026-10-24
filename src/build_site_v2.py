@@ -9,6 +9,7 @@ Inputs
 Outputs (the search index is built by the site: site/src/pages/data/index.json.ts)
   site/src/data/tables/<id>.json, site/src/data/catalog.json
 """
+import collections
 import csv
 import glob
 import json
@@ -190,6 +191,14 @@ T = {
 WTL = {"gollenesse": "WTL-0023", "kavalan": "WTL-0024", "tobi": "WTL-0025", "ngarigu": "WTL-0026",
        "tasmania": "WTL-0027", "dudley": "WTL-0028"}
 
+# Tables added through the registry: one record per table (see data/site/extra_tables.json).
+if os.path.exists("data/site/extra_tables.json"):
+    for _t in json.load(open("data/site/extra_tables.json", encoding="utf-8")):
+        _c = dict(_t, ann=None, ident=None, cover=_t.get("cover", _t["id"]), tcp="",
+                  transcription=_t.get("transcription", "Transcribed from the scan; spellings kept as printed"))
+        T[_t["id"]] = _c
+        WTL[_t["id"]] = _t["wtl"]
+
 CAT_LABEL = {"loan": "Loanword", "ostension": "Related meaning", "interactional": "Phrase taken for a word",
              "inflected": "Possessed or inflected form", "wrong_language": "Another language",
              "print_error": "Printing or translation slip"}
@@ -331,6 +340,7 @@ def main():
                                 relation=None, partial=False, status=None))
             continue
         rows = list(csv.DictReader(open(c["csv"] + ".entries.csv", encoding="utf-8")))
+        note_counts = collections.Counter((r.get("note") or "").strip() for r in rows)
         scan = json.load(open(f"data/site/scans/{tid}.json"))
         boxes = scan["boxes"]
         # trim scan pages without matches at the ends
@@ -378,6 +388,9 @@ def main():
                 h_ = hn[(g, f)]
                 note = dict(kind=h_["category"], label="Copied" if h_["category"] == "copied" else "Copied and re-glossed",
                             text=h_["text"], compare=None, checked=True)
+            src_note = (r.get("note") or "").strip()
+            if not note and not c.get("ann") and src_note and note_counts[src_note] <= max(2, 0.2 * len(rows)):
+                note = dict(kind="compare", label="Note", text=src_note, compare=None, checked=False)
             if note and note["text"]:
                 e["note"] = note
             entries.append(e)

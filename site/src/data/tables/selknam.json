@@ -1,0 +1,1533 @@
+{
+ "schema": 1,
+ "id": "selknam",
+ "wtl": "WTL-0037",
+ "heading": "Vocabulary of the Onas Language, Tierra del Fuego.",
+ "headings": [
+  "Vocabulary of the Onas Language, Tierra del Fuego."
+ ],
+ "language": {
+  "name": "Selk'nam (Ona)",
+  "glottocode": "onaa1245",
+  "family": "Chonan",
+  "path": [
+   "Chonan",
+   "Nuclear Chonan",
+   "Insular Chonan"
+  ],
+  "labels": []
+ },
+ "region": "Caribbean & South America",
+ "book": {
+  "short": "Further Notes on Fuegian Languages",
+  "title": "Further Notes on Fuegian Languages",
+  "author": "D. G. Brinton",
+  "printed": 1892,
+  "imprint": "Proceedings of the American Philosophical Society, 30, 1892, pp. 252-253",
+  "tcp": "",
+  "cover": "selknam"
+ },
+ "provenance": {
+  "collector": "Polidoro A. Segers",
+  "place": "Tierra del Fuego",
+  "heard": ""
+ },
+ "scan": {
+  "ia": "jstor-983176",
+  "url": "https://archive.org/details/jstor-983176",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Brinton reprints the Ona vocabulary that Dr. Polidoro A. Segers printed in the Boletín del Instituto Geográfico Argentino (Buenos Aires, 1891), apparently obtained from the Parrikens band, adding Yahgan and Tsoneca comparisons.",
+ "pages": [
+  {
+   "leaf": 4,
+   "w": 1534,
+   "h": 2417,
+   "sm": "/scans/selknam/0004-900.webp",
+   "lg": "/scans/selknam/0004-1800.webp"
+  },
+  {
+   "leaf": 5,
+   "w": 1534,
+   "h": 2417,
+   "sm": "/scans/selknam/0005-900.webp",
+   "lg": "/scans/selknam/0005-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "tshó-ia",
+   "gloss": "accouch, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.1214,
+    "y": 0.5913,
+    "w": 0.1842,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 2,
+   "form": "ódlá",
+   "gloss": "angry",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "ANGRY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1214,
+    "y": 0.6107,
+    "w": 0.13,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 3,
+   "form": "tá-al",
+   "gloss": "arrow",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1214,
+    "y": 0.6271,
+    "w": 0.1404,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 4,
+   "form": "iash",
+   "gloss": "arrowhead",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.1201,
+    "y": 0.6422,
+    "w": 0.1855,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: iakouch",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 5,
+   "form": "óuen",
+   "gloss": "ashes",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "ASH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1201,
+    "y": 0.6602,
+    "w": 0.1855,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: ouan",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 6,
+   "form": "pash",
+   "gloss": "awaken, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.1208,
+    "y": 0.6773,
+    "w": 0.1849,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 7,
+   "form": "iani",
+   "gloss": "back hair",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.1201,
+    "y": 0.6937,
+    "w": 0.1665,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 8,
+   "form": "touel",
+   "gloss": "basket",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "BASKET"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1195,
+    "y": 0.7108,
+    "w": 0.1862,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: taouala",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 9,
+   "form": "anu-etskel",
+   "gloss": "beard",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1195,
+    "y": 0.7286,
+    "w": 0.1834,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 10,
+   "form": "kashtom",
+   "gloss": "belly",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1195,
+    "y": 0.7446,
+    "w": 0.1862,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: kashtamin, liver",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 11,
+   "form": "mái",
+   "gloss": "black",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1195,
+    "y": 0.7632,
+    "w": 0.1215,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 12,
+   "form": "uai-en",
+   "gloss": "bow, a",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1195,
+    "y": 0.7791,
+    "w": 0.1862,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: uaiana",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 13,
+   "form": "ianet-sel",
+   "gloss": "bowstring",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.1195,
+    "y": 0.7961,
+    "w": 0.1862,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: chali-sel",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 14,
+   "form": "koiar",
+   "gloss": "brain",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "BRAIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1195,
+    "y": 0.8147,
+    "w": 0.1359,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 15,
+   "form": "iê-togte",
+   "gloss": "brother",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1201,
+    "y": 0.8319,
+    "w": 0.173,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 16,
+   "form": "cué-eke",
+   "gloss": "call, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "CALL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1208,
+    "y": 0.8494,
+    "w": 0.1698,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 17,
+   "form": "kâmel",
+   "gloss": "crab",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "CRAB"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1201,
+    "y": 0.8662,
+    "w": 0.13,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 18,
+   "form": "sha-áshteré",
+   "gloss": "defecate, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.1195,
+    "y": 0.8823,
+    "w": 0.1862,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 19,
+   "form": "keská-a",
+   "gloss": "dirty",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "DIRTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1201,
+    "y": 0.9005,
+    "w": 0.1522,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 20,
+   "form": "kaieto",
+   "gloss": "drink, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5113,
+    "y": 0.5894,
+    "w": 0.3679,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: kayenhama, to drink from a cup",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 21,
+   "form": "tsham-ka",
+   "gloss": "eat, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "EAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5126,
+    "y": 0.624,
+    "w": 0.3158,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: a-tama",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 22,
+   "form": "cáno",
+   "gloss": "enough",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "ENOUGH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5106,
+    "y": 0.6418,
+    "w": 0.1489,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 23,
+   "form": "oshel-etshel",
+   "gloss": "eyebrows",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "EYEBROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5087,
+    "y": 0.6583,
+    "w": 0.3712,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed: (see eye and hair)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 24,
+   "form": "ua-âa",
+   "gloss": "fall, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "FALL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5113,
+    "y": 0.6926,
+    "w": 0.1535,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 25,
+   "form": "elló",
+   "gloss": "fat (grueso)",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.5087,
+    "y": 0.709,
+    "w": 0.2975,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: oulow",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 26,
+   "form": "só-ol",
+   "gloss": "fire",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5106,
+    "y": 0.7264,
+    "w": 0.3705,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: içouali, \"lepierèe à feu\"",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 27,
+   "form": "ialoé",
+   "gloss": "flame",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "FLAME"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5106,
+    "y": 0.7605,
+    "w": 0.1306,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 28,
+   "form": "ástau",
+   "gloss": "fog",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "FOG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.51,
+    "y": 0.7785,
+    "w": 0.1176,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 29,
+   "form": "iak-ka",
+   "gloss": "for me",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.508,
+    "y": 0.794,
+    "w": 0.1613,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 30,
+   "form": "mak-ka",
+   "gloss": "for you",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.51,
+    "y": 0.8112,
+    "w": 0.1782,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 31,
+   "form": "iosh-lelk",
+   "gloss": "friend, male",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.51,
+    "y": 0.8288,
+    "w": 0.233,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 32,
+   "form": "iosh-ka",
+   "gloss": "friend, female",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.5752,
+    "y": 0.8461,
+    "w": 0.1665,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed as indented 'female' under 'friend, male'",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 33,
+   "form": "shaike",
+   "gloss": "good",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5106,
+    "y": 0.8637,
+    "w": 0.1391,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 34,
+   "form": "eani-malk",
+   "gloss": "good-by!",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.5113,
+    "y": 0.8792,
+    "w": 0.2173,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 35,
+   "form": "ooken",
+   "gloss": "good-night!",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 0,
+    "x": 0.5106,
+    "y": 0.8962,
+    "w": 0.2004,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 36,
+   "form": "shoim",
+   "gloss": "go out!",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.1162,
+    "y": 0.1211,
+    "w": 0.16,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 37,
+   "form": "etshel",
+   "gloss": "hair (in general)",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.1149,
+    "y": 0.1382,
+    "w": 0.1907,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: atçela, all short hair",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 38,
+   "form": "sá-sa",
+   "gloss": "heart",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1156,
+    "y": 0.1732,
+    "w": 0.1901,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: sa-skin",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 39,
+   "form": "mata",
+   "gloss": "heaven",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1162,
+    "y": 0.1904,
+    "w": 0.1535,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 40,
+   "form": "pomushk",
+   "gloss": "hot",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "HOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1162,
+    "y": 0.2082,
+    "w": 0.1489,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 41,
+   "form": "iag",
+   "gloss": "I, me",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.2247,
+    "w": 0.1888,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Tsoneca: ia",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 42,
+   "form": "tal",
+   "gloss": "ice",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1175,
+    "y": 0.2419,
+    "w": 0.0844,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 43,
+   "form": "el",
+   "gloss": "knife, a",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.259,
+    "w": 0.1888,
+    "h": 0.0161,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: ouila",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 44,
+   "form": "tsha-leke",
+   "gloss": "labial commissure",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.1162,
+    "y": 0.2752,
+    "w": 0.1894,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "eish",
+   "gloss": "large",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.2932,
+    "w": 0.1888,
+    "h": 0.0161,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Tsoneca: chaish",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 46,
+   "form": "léke",
+   "gloss": "lie, a",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "LIE (REST)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1182,
+    "y": 0.3104,
+    "w": 0.1169,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 47,
+   "form": "iam",
+   "gloss": "mamma",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.1182,
+    "y": 0.329,
+    "w": 0.1515,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 48,
+   "form": "anien",
+   "gloss": "moon",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1188,
+    "y": 0.3461,
+    "w": 0.1404,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 49,
+   "form": "uánko",
+   "gloss": "morning",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "MORNING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1188,
+    "y": 0.3623,
+    "w": 0.1756,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 50,
+   "form": "tecám",
+   "gloss": "mother",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1195,
+    "y": 0.3792,
+    "w": 0.1574,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 51,
+   "form": "conken",
+   "gloss": "mouth",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1188,
+    "y": 0.3966,
+    "w": 0.1626,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 52,
+   "form": "kaiu",
+   "gloss": "nail, of finger",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.1188,
+    "y": 0.4138,
+    "w": 0.1868,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: galouf",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 53,
+   "form": "kóssel",
+   "gloss": "neck",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1188,
+    "y": 0.431,
+    "w": 0.1868,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: kaouheul, larynx",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 54,
+   "form": "áiepam",
+   "gloss": "open, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "OPEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1201,
+    "y": 0.4492,
+    "w": 0.1834,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 55,
+   "form": "tal-lá",
+   "gloss": "play, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "PLAY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1201,
+    "y": 0.4661,
+    "w": 0.1606,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 56,
+   "form": "shen-mush",
+   "gloss": "rain",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1195,
+    "y": 0.4829,
+    "w": 0.1743,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 57,
+   "form": "tshé-iéke",
+   "gloss": "ready",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "READY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1208,
+    "y": 0.5003,
+    "w": 0.1698,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 58,
+   "form": "poúetel",
+   "gloss": "red",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1208,
+    "y": 0.517,
+    "w": 0.1306,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 59,
+   "form": "ua-akka",
+   "gloss": "run, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "RUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1208,
+    "y": 0.5346,
+    "w": 0.1808,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 60,
+   "form": "eshen",
+   "gloss": "sad",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5087,
+    "y": 0.1209,
+    "w": 0.115,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 61,
+   "form": "compé",
+   "gloss": "saliva",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SALIVA"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5087,
+    "y": 0.1382,
+    "w": 0.3608,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 62,
+   "form": "paieke",
+   "gloss": "sea",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SEA"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5067,
+    "y": 0.1556,
+    "w": 0.3608,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: payaka, or hayeca",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 63,
+   "form": "ojeme",
+   "gloss": "shut, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SHUT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5087,
+    "y": 0.1726,
+    "w": 0.1619,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 64,
+   "form": "póué",
+   "gloss": "sick",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SICK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.508,
+    "y": 0.1912,
+    "w": 0.1156,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 65,
+   "form": "ié-eke",
+   "gloss": "sister",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5087,
+    "y": 0.2065,
+    "w": 0.1365,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 66,
+   "form": "aletaía",
+   "gloss": "skull",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SKULL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5087,
+    "y": 0.2235,
+    "w": 0.1515,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "a broken mark precedes the word in the scan; possibly a lost initial letter",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 67,
+   "form": "ashté",
+   "gloss": "sleep, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5106,
+    "y": 0.2413,
+    "w": 0.2714,
+    "h": 0.0161,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: ăshă",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 68,
+   "form": "la-ió",
+   "gloss": "slowly",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SLOWLY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5087,
+    "y": 0.2588,
+    "w": 0.1411,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 69,
+   "form": "tshool",
+   "gloss": "small",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.51,
+    "y": 0.2752,
+    "w": 0.1398,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 70,
+   "form": "ke-shonuan",
+   "gloss": "smell, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SMELL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5087,
+    "y": 0.2924,
+    "w": 0.2284,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 71,
+   "form": "teí",
+   "gloss": "smoke",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SMOKE (INHALE)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5093,
+    "y": 0.3095,
+    "w": 0.1183,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 72,
+   "form": "teu",
+   "gloss": "snow",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.51,
+    "y": 0.3281,
+    "w": 0.1117,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 73,
+   "form": "to-ok",
+   "gloss": "soon",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5106,
+    "y": 0.3453,
+    "w": 0.1254,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 74,
+   "form": "anigke",
+   "gloss": "sun",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5106,
+    "y": 0.3617,
+    "w": 0.2832,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Tsoneca: gengenko",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 75,
+   "form": "pé-ieukom-iamski",
+   "gloss": "thanks!",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "THANK (SOMEBODY)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5106,
+    "y": 0.3774,
+    "w": 0.2721,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 76,
+   "form": "kátetshé",
+   "gloss": "thick",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "THICK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5113,
+    "y": 0.3954,
+    "w": 0.1606,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 77,
+   "form": "mag",
+   "gloss": "thou, you",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.5106,
+    "y": 0.4138,
+    "w": 0.2688,
+    "h": 0.0161,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Tsoneca: ma",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 78,
+   "form": "má",
+   "gloss": "to-day",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.5106,
+    "y": 0.4307,
+    "w": 0.3581,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 79,
+   "form": "akketten",
+   "gloss": "urinate, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "box": {
+    "page": 1,
+    "x": 0.5126,
+    "y": 0.4477,
+    "w": 0.3581,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Yahgan: ouakour",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 80,
+   "form": "pa-al",
+   "gloss": "vagina",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "VAGINA"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5113,
+    "y": 0.4653,
+    "w": 0.1515,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 81,
+   "form": "oten",
+   "gloss": "water",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5119,
+    "y": 0.4823,
+    "w": 0.1261,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 82,
+   "form": "tshe-uel",
+   "gloss": "weak",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "WEAK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5132,
+    "y": 0.4986,
+    "w": 0.1561,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 83,
+   "form": "sheuke",
+   "gloss": "winter",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "WINTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5126,
+    "y": 0.5158,
+    "w": 0.1606,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 84,
+   "form": "tsha-isal",
+   "gloss": "yawn, to",
+   "section": "Vocabulary of the Onas Language, Tierra del Fuego.",
+   "concepts": [
+    "YAWN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5113,
+    "y": 0.5336,
+    "w": 0.2023,
+    "h": 0.0161,
+    "approx": true
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 84,
+  "notes": 25,
+  "located": 84
+ },
+ "partial": null,
+ "relation": null
+}

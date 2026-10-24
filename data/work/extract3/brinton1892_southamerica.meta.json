@@ -1,0 +1,24 @@
+{
+ "ia": "jstor-983209",
+ "source_url": "https://archive.org/details/jstor-983209",
+ "leaves": [21,22,23,29,30,33,39,40,41],
+ "title_as_printed": "Studies in South American Native Languages",
+ "author": "Daniel G. Brinton",
+ "journal": "Proceedings of the American Philosophical Society",
+ "volume": "30 (no. 137)",
+ "pages": "65-67, 73-74, 77, 83-85",
+ "year_printed": 1892,
+ "heading_as_printed": "English-Jivaro Vocabulary; English-Cholona Vocabulary; English-Manao Words; English-Bonari Vocabulary; Descripcion del Indio (Hongote)",
+ "place": "Upper Marañon (Jivaro/Xebero); upper Huallaga river (Cholona); lower Rio Negro (Manao); river Uatuma (Bonari); east coast of Patagonia (Hongote)",
+ "heard": "Cholona: 1748 (copy 1772); Jivaro: close of 18th century; Manao: c. 1740; Bonari: before 1874; Hongote: c. 1789",
+ "collector": "Various (see sections)",
+ "about": "Brinton compiled these word lists from manuscripts in the British Museum and, for Bonari, from Francisco Bernardino de Souza's Para e Amazonas (1874-5).",
+ "sections": {
+  "English-Jivaro Vocabulary": "From two anonymous British Museum MSS, 'Vocabulario en la Lengua Castellana, la del Ynga, y Xebera' and 'Gramatica de la Lengua Xebera', by a missionary (probably a German Jesuit) to the tribe towards the close of the 18th century. Leaves 21-23, pp. 65-67.",
+  "English-Cholona Vocabulary": "From the British Museum MS 'Arte de la Lengua Cholona' by Fr. Pedro de la Mata, written in Truxillo in 1748, copied by Fr. Geronimo Clota at San Buenaventura del Valle in 1772. Leaves 29-30, pp. 73-74.",
+  "English-Manao Words": "Words from the British Museum MS 'Doutrina christa'a pella Lingoa dos Manaos', anonymous, apparently a copy of a work composed in 1740; Brinton adds in brackets forms from Spix's vocabulary (marked S.). Leaf 33, p. 77.",
+  "English-Bonari Vocabulary": "Taken by Canon Francisco Bernardino de Souza from the last surviving old woman of the tribe at Sant' Anna do Atuma, published in his Para e Amazonas (Rio de Janeiro, 1874-5), copied for Brinton by Dr. A. Ernst of Caracas. Leaf 39, p. 83.",
+  "Descripcion del Indio": "From British Museum Add. MS 17,631 (anonymous accounts of a voyage to the east coast of Patagonia, one dated December 1789), a short vocabulary at the close of the MS, ending 'A la Soleta'; Spanish glosses as in the MS. Brinton's alphabetical English rearrangement (p. 85) is not repeated. Leaves 40-41, pp. 84-85.",
+  "The other vocabulary": "Eight words from another vocabulary in the same MS (Add. MS 17,631), with the same numerals, glossed in English by Brinton. Leaf 41, p. 85."
+ }
+}

@@ -1,0 +1,1428 @@
+{
+ "schema": 1,
+ "id": "sino",
+ "wtl": "WTL-0036",
+ "heading": "The following words were obtained by the Rev. Mr. Crummell, from a crowd of recaptured Africans, landed at Sino, in Liberia, about two hundred miles west of Cape Palmas.",
+ "headings": [],
+ "language": {
+  "name": "Gbe, Hausa and Fon",
+  "glottocode": "",
+  "family": null,
+  "path": [],
+  "labels": [
+   "Awŭsa People.",
+   "Dahomi.",
+   "Popo and Jelakufi People."
+  ]
+ },
+ "region": "Africa & Indian Ocean",
+ "book": {
+  "short": "Words from recaptured Africans landed at Sino, Liberia",
+  "title": "Stated Meeting, January 3, 1862",
+  "author": "J. P. Lesley (vocabularies obtained by Rev. Alexander Crummell)",
+  "printed": 1862,
+  "imprint": "Proceedings of the American Philosophical Society, 9, 1862, pp. 3-4",
+  "tcp": "",
+  "cover": "sino"
+ },
+ "provenance": {
+  "collector": "Rev. Alexander Crummell",
+  "place": "Sino, Liberia",
+  "heard": ""
+ },
+ "scan": {
+  "ia": "jstor-981531",
+  "url": "https://archive.org/details/jstor-981531",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Words taken by Alexander Crummell, with the help of interpreters, from about four hundred recaptured Africans landed from a United States war vessel at Sino, Liberia.",
+ "pages": [
+  {
+   "leaf": 4,
+   "w": 1504,
+   "h": 2477,
+   "sm": "/scans/sino/0004-900.webp",
+   "lg": "/scans/sino/0004-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Uli,",
+   "gloss": "1.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "ONE"
+   ]
+  },
+  {
+   "n": 2,
+   "form": "Ade,",
+   "gloss": "1.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "ONE"
+   ]
+  },
+  {
+   "n": 3,
+   "form": "Dok-po.",
+   "gloss": "1.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6776,
+    "y": 0.1567,
+    "w": 0.0943,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 4,
+   "form": "Biu,",
+   "gloss": "2.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "TWO"
+   ]
+  },
+  {
+   "n": 5,
+   "form": "Erver,",
+   "gloss": "2.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4928,
+    "y": 0.1751,
+    "w": 0.2638,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 6,
+   "form": "Oᶜ-we.",
+   "gloss": "2.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6789,
+    "y": 0.1743,
+    "w": 0.0777,
+    "h": 0.0179
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "superscript c printed after vowel, rendered ᶜ",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 7,
+   "form": "Oku,",
+   "gloss": "3.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "THREE"
+   ]
+  },
+  {
+   "n": 8,
+   "form": "Urtong,",
+   "gloss": "3.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4928,
+    "y": 0.1951,
+    "w": 0.2512,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 9,
+   "form": "A-to.",
+   "gloss": "3.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "THREE"
+   ]
+  },
+  {
+   "n": 10,
+   "form": "Hodu,",
+   "gloss": "4.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3072,
+    "y": 0.2139,
+    "w": 0.2485,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 11,
+   "form": "Ane,",
+   "gloss": "4.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3072,
+    "y": 0.2205,
+    "w": 0.2698,
+    "h": 0.0179,
+    "approx": true
+   }
+  },
+  {
+   "n": 12,
+   "form": "Eᶜne.",
+   "gloss": "4.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "FOUR"
+   ],
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "superscript c printed after vowel, rendered ᶜ",
+    "compare": null,
+    "checked": false
+   },
+   "box": {
+    "page": 0,
+    "x": 0.3072,
+    "y": 0.227,
+    "w": 0.2698,
+    "h": 0.0179,
+    "approx": true
+   }
+  },
+  {
+   "n": 13,
+   "form": "Biat,",
+   "gloss": "5.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3072,
+    "y": 0.2336,
+    "w": 0.2698,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 14,
+   "form": "Etong,",
+   "gloss": "5.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4921,
+    "y": 0.2338,
+    "w": 0.2765,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 15,
+   "form": "A-tong.",
+   "gloss": "5.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6756,
+    "y": 0.2349,
+    "w": 0.093,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 16,
+   "form": "Sid-da,",
+   "gloss": "6.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3079,
+    "y": 0.2532,
+    "w": 0.2465,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 17,
+   "form": "Ede,",
+   "gloss": "6.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "SIX"
+   ]
+  },
+  {
+   "n": 18,
+   "form": "Ai-ise.",
+   "gloss": "6.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6756,
+    "y": 0.2526,
+    "w": 0.081,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 19,
+   "form": "Bok-koi,",
+   "gloss": "7.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3053,
+    "y": 0.273,
+    "w": 0.3064,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 20,
+   "form": "De-din-ne,",
+   "gloss": "7.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4888,
+    "y": 0.2732,
+    "w": 0.2785,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 21,
+   "form": "Teg-we.",
+   "gloss": "7.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6729,
+    "y": 0.2742,
+    "w": 0.0943,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 22,
+   "form": "Tok-quos,",
+   "gloss": "8.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3059,
+    "y": 0.2928,
+    "w": 0.2499,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 23,
+   "form": "Añe,",
+   "gloss": "8.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "EIGHT"
+   ]
+  },
+  {
+   "n": 24,
+   "form": "Taᶜ-to.",
+   "gloss": "8.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6756,
+    "y": 0.292,
+    "w": 0.0783,
+    "h": 0.0179
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "superscript c printed after vowel, rendered ᶜ",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 25,
+   "form": "Tera,",
+   "gloss": "9.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3059,
+    "y": 0.3124,
+    "w": 0.2698,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 26,
+   "form": "'Shaki,",
+   "gloss": "9.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4901,
+    "y": 0.3126,
+    "w": 0.2678,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 27,
+   "form": "Teᶜ-ne.",
+   "gloss": "9.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6743,
+    "y": 0.3114,
+    "w": 0.0836,
+    "h": 0.0179
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "superscript c printed after vowel, rendered ᶜ",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 28,
+   "form": "Go-mer,*",
+   "gloss": "10.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3066,
+    "y": 0.3322,
+    "w": 0.2332,
+    "h": 0.0179
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "footnote: * Basque, 'amar.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 29,
+   "form": "Eŏ,",
+   "gloss": "10.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "TEN"
+   ]
+  },
+  {
+   "n": 30,
+   "form": "Oᶜ-o.",
+   "gloss": "10.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "TEN"
+   ],
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "superscript c printed after vowel, rendered ᶜ",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 31,
+   "form": "Allar,",
+   "gloss": "Sun.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1483,
+    "y": 0.3598,
+    "w": 0.2299,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 32,
+   "form": "Don-kus-so,",
+   "gloss": "Sun.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "SUN"
+   ],
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "two forms bracketed together",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 33,
+   "form": "Er-we,",
+   "gloss": "Sun.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4708,
+    "y": 0.3709,
+    "w": 0.1023,
+    "h": 0.0179
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "two forms bracketed together",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 34,
+   "form": "Weᶜ-di-ve.",
+   "gloss": "Sun.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "SUN"
+   ],
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "superscript c printed after vowel, rendered ᶜ",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 35,
+   "form": "Wa-ta,",
+   "gloss": "Moon.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.147,
+    "y": 0.3877,
+    "w": 0.2419,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 36,
+   "form": "U-la-ti,",
+   "gloss": "Moon.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.147,
+    "y": 0.3877,
+    "w": 0.2419,
+    "h": 0.0179,
+    "approx": true
+   }
+  },
+  {
+   "n": 37,
+   "form": "Oᶜ-su.",
+   "gloss": "Moon.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.147,
+    "y": 0.3877,
+    "w": 0.2419,
+    "h": 0.0179,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "superscript c printed after vowel, rendered ᶜ",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 38,
+   "form": "Bar-bar,",
+   "gloss": "Man.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1477,
+    "y": 0.407,
+    "w": 0.2565,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 39,
+   "form": "Er-wu-su,",
+   "gloss": "Man.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4881,
+    "y": 0.4101,
+    "w": 0.2672,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 40,
+   "form": "Su-nu.",
+   "gloss": "Man.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6743,
+    "y": 0.4087,
+    "w": 0.081,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 41,
+   "form": "Mut-chi,",
+   "gloss": "Woman.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1463,
+    "y": 0.4268,
+    "w": 0.2612,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 42,
+   "form": "En-nun-nu,",
+   "gloss": "Woman.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4874,
+    "y": 0.4296,
+    "w": 0.2598,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 43,
+   "form": "Io-nu.",
+   "gloss": "Woman.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6716,
+    "y": 0.428,
+    "w": 0.0757,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 44,
+   "form": "Han-nu,",
+   "gloss": "Hand.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1463,
+    "y": 0.4464,
+    "w": 0.2572,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 45,
+   "form": "Al-lo,",
+   "gloss": "Hand.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3039,
+    "y": 0.4486,
+    "w": 0.2552,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 46,
+   "form": "Al-lo-pa.",
+   "gloss": "Hand.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6716,
+    "y": 0.4496,
+    "w": 0.1029,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 47,
+   "form": "Koppa,",
+   "gloss": "Foot.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1483,
+    "y": 0.4664,
+    "w": 0.2465,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 48,
+   "form": "Af-fo,",
+   "gloss": "Foot.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6736,
+    "y": 0.4672,
+    "w": 0.073,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 49,
+   "form": "Af-fo.",
+   "gloss": "Foot.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6736,
+    "y": 0.4672,
+    "w": 0.073,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 50,
+   "form": "Fis-ca,",
+   "gloss": "Face.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.147,
+    "y": 0.4862,
+    "w": 0.2392,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 51,
+   "form": "Eᶜ-u-ma,",
+   "gloss": "Face.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4888,
+    "y": 0.4888,
+    "w": 0.3336,
+    "h": 0.0179
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "superscript c printed after vowel, rendered ᶜ",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 52,
+   "form": "An-nu-ku-mi.",
+   "gloss": "Face.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6729,
+    "y": 0.487,
+    "w": 0.1495,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 53,
+   "form": "Chik-i,",
+   "gloss": "Stomach.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "STOMACH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1477,
+    "y": 0.5057,
+    "w": 0.2426,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 54,
+   "form": "Ad-do,",
+   "gloss": "Stomach.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "STOMACH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6716,
+    "y": 0.5086,
+    "w": 0.1169,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 55,
+   "form": "Ad-do-go.",
+   "gloss": "Stomach.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "STOMACH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6716,
+    "y": 0.5086,
+    "w": 0.1169,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 56,
+   "form": "Dŭm-si,",
+   "gloss": "Arm.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1463,
+    "y": 0.5255,
+    "w": 0.2539,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 57,
+   "form": "Ab-lo,",
+   "gloss": "Arm.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4888,
+    "y": 0.528,
+    "w": 0.2711,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 58,
+   "form": "Aᶜ-waᶜ.",
+   "gloss": "Arm.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6729,
+    "y": 0.5265,
+    "w": 0.087,
+    "h": 0.0179,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "superscript c printed after vowel, rendered ᶜ",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 59,
+   "form": "Hai-ko-li,",
+   "gloss": "Teeth.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1463,
+    "y": 0.5451,
+    "w": 0.2718,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 60,
+   "form": "Ad-u,",
+   "gloss": "Teeth.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1463,
+    "y": 0.5451,
+    "w": 0.2718,
+    "h": 0.0179,
+    "approx": true
+   }
+  },
+  {
+   "n": 61,
+   "form": "Ad-u.",
+   "gloss": "Teeth.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1463,
+    "y": 0.5451,
+    "w": 0.2718,
+    "h": 0.0179,
+    "approx": true
+   }
+  },
+  {
+   "n": 62,
+   "form": "Hal-lis-si,",
+   "gloss": "Tongue.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1463,
+    "y": 0.5665,
+    "w": 0.2725,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 63,
+   "form": "Ad-e,",
+   "gloss": "Tongue.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1463,
+    "y": 0.5665,
+    "w": 0.2725,
+    "h": 0.0179,
+    "approx": true
+   }
+  },
+  {
+   "n": 64,
+   "form": "Ad-e.",
+   "gloss": "Tongue.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1463,
+    "y": 0.5665,
+    "w": 0.2725,
+    "h": 0.0179,
+    "approx": true
+   }
+  },
+  {
+   "n": 65,
+   "form": "Gai-si,",
+   "gloss": "Hair.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1483,
+    "y": 0.5843,
+    "w": 0.2359,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 66,
+   "form": "Ed-da,",
+   "gloss": "Hair.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4854,
+    "y": 0.5869,
+    "w": 0.2552,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 67,
+   "form": "U-da.",
+   "gloss": "Hair.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4854,
+    "y": 0.5869,
+    "w": 0.2552,
+    "h": 0.0179,
+    "approx": true
+   }
+  },
+  {
+   "n": 68,
+   "form": "Kai-si,",
+   "gloss": "Head.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.147,
+    "y": 0.6036,
+    "w": 0.2406,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 69,
+   "form": "Et-ta,",
+   "gloss": "Head.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4881,
+    "y": 0.6063,
+    "w": 0.2499,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 70,
+   "form": "U-ta.",
+   "gloss": "Head.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4881,
+    "y": 0.6063,
+    "w": 0.2499,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 71,
+   "form": "Han-si,",
+   "gloss": "Nose.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.147,
+    "y": 0.6234,
+    "w": 0.2472,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 72,
+   "form": "Em-mo-ti,",
+   "gloss": "Nose.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4868,
+    "y": 0.6257,
+    "w": 0.2878,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 73,
+   "form": "Aᶜ-wo-ti.",
+   "gloss": "Nose.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6703,
+    "y": 0.6244,
+    "w": 0.1043,
+    "h": 0.0179
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "superscript c printed after vowel, rendered ᶜ",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 74,
+   "form": "Quin-ni,",
+   "gloss": "Ear.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1477,
+    "y": 0.6428,
+    "w": 0.2565,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 75,
+   "form": "Et-to,",
+   "gloss": "Ear.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6723,
+    "y": 0.6436,
+    "w": 0.073,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 76,
+   "form": "Et-to.",
+   "gloss": "Ear.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6723,
+    "y": 0.6436,
+    "w": 0.073,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 77,
+   "form": "Id-o,",
+   "gloss": "Eye.",
+   "section": "",
+   "col": "Popo and Jelakufi People.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1463,
+    "y": 0.6644,
+    "w": 0.218,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 78,
+   "form": "En-ku-ve,",
+   "gloss": "Eye.",
+   "section": "",
+   "col": "Awŭsa People.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4848,
+    "y": 0.665,
+    "w": 0.2698,
+    "h": 0.0179
+   }
+  },
+  {
+   "n": 79,
+   "form": "Un-de.",
+   "gloss": "Eye.",
+   "section": "",
+   "col": "Dahomi.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.6703,
+    "y": 0.6634,
+    "w": 0.0843,
+    "h": 0.0179
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 79,
+  "notes": 13,
+  "located": 68
+ },
+ "partial": null,
+ "relation": null
+}

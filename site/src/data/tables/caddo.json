@@ -1,0 +1,4150 @@
+{
+ "schema": 1,
+ "id": "caddo",
+ "wtl": "WTL-0031",
+ "heading": "Dr. Sibley's vocabulary was taken in 1804, when the Caddos were located on Red river, from Alexandria to Natchitoches, and follows the French orthography :",
+ "headings": [],
+ "language": {
+  "name": "Caddo",
+  "glottocode": "cadd1256",
+  "family": "Caddoan",
+  "path": [
+   "Caddoan"
+  ],
+  "labels": []
+ },
+ "region": "North America",
+ "book": {
+  "short": "Dr. Sibley's Caddo vocabulary",
+  "title": "Anthropology. Anthropological News",
+  "author": "Otis T. Mason (section editor); vocabulary by Dr. John Sibley",
+  "printed": 1879,
+  "imprint": "American Naturalist, 13, 1879, pp. 787-790",
+  "tcp": "",
+  "cover": "caddo"
+ },
+ "provenance": {
+  "collector": "Dr. John Sibley",
+  "place": "Red River, from Alexandria to Natchitoches, Louisiana",
+  "heard": "1804"
+ },
+ "scan": {
+  "ia": "jstor-2449342",
+  "url": "https://archive.org/details/jstor-2449342",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "A Caddo vocabulary taken in 1804 by Dr. Sibley, agent for the Caddos on the Red River, and sent to Governor Claiborne of Louisiana, whose nephew J. F. H. Claiborne passed it to the American Naturalist.",
+ "pages": [
+  {
+   "leaf": 2,
+   "w": 1550,
+   "h": 2550,
+   "sm": "/scans/caddo/0002-900.webp",
+   "lg": "/scans/caddo/0002-1800.webp"
+  },
+  {
+   "leaf": 3,
+   "w": 1550,
+   "h": 2550,
+   "sm": "/scans/caddo/0003-900.webp",
+   "lg": "/scans/caddo/0003-1800.webp"
+  },
+  {
+   "leaf": 4,
+   "w": 1550,
+   "h": 2550,
+   "sm": "/scans/caddo/0004-900.webp",
+   "lg": "/scans/caddo/0004-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "niquor",
+   "gloss": "Fire",
+   "section": "",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1726,
+    "y": 0.2107,
+    "w": 0.1205,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 2,
+   "form": "cou cou",
+   "gloss": "Water",
+   "section": "",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1726,
+    "y": 0.2238,
+    "w": 0.1328,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 3,
+   "form": "ouadat cequeteot",
+   "gloss": "Earth",
+   "section": "",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.172,
+    "y": 0.2366,
+    "w": 0.1334,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 4,
+   "form": "yanour",
+   "gloss": "Air",
+   "section": "",
+   "concepts": [
+    "AIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.172,
+    "y": 0.2513,
+    "w": 0.1166,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 5,
+   "form": "havetour",
+   "gloss": "Wind",
+   "section": "",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.172,
+    "y": 0.2624,
+    "w": 0.1334,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 6,
+   "form": "quarchator",
+   "gloss": "Sky",
+   "section": "",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1726,
+    "y": 0.276,
+    "w": 0.1328,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 7,
+   "form": "faquor",
+   "gloss": "Sun",
+   "section": "",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1726,
+    "y": 0.2889,
+    "w": 0.1166,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 8,
+   "form": "nis",
+   "gloss": "Moon",
+   "section": "",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1733,
+    "y": 0.3015,
+    "w": 0.1018,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 9,
+   "form": "suoquas",
+   "gloss": "Star",
+   "section": "",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.3164,
+    "w": 0.1283,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 10,
+   "form": "binaquor",
+   "gloss": "Light",
+   "section": "",
+   "concepts": [
+    "LIGHT (COLOR)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1726,
+    "y": 0.3279,
+    "w": 0.1328,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 11,
+   "form": "dasquoee",
+   "gloss": "Darkness",
+   "section": "",
+   "concepts": [
+    "DARKNESS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1733,
+    "y": 0.3415,
+    "w": 0.1321,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 12,
+   "form": "nayañon",
+   "gloss": "Day",
+   "section": "",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1733,
+    "y": 0.355,
+    "w": 0.1321,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 13,
+   "form": "naba",
+   "gloss": "Night",
+   "section": "",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1733,
+    "y": 0.3679,
+    "w": 0.1199,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 14,
+   "form": "atedot",
+   "gloss": "Heat",
+   "section": "",
+   "concepts": [
+    "HEAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.3805,
+    "w": 0.1244,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 15,
+   "form": "acourdot",
+   "gloss": "Cold",
+   "section": "",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1726,
+    "y": 0.3934,
+    "w": 0.1328,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 16,
+   "form": "cousour",
+   "gloss": "Smoke",
+   "section": "",
+   "concepts": [
+    "SMOKE (INHALE)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1733,
+    "y": 0.4072,
+    "w": 0.1321,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 17,
+   "form": "carchavesa",
+   "gloss": "Cloud",
+   "section": "",
+   "concepts": [
+    "CLOUD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.4197,
+    "w": 0.1315,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 18,
+   "form": "cou sour quabariou",
+   "gloss": "Fog",
+   "section": "",
+   "concepts": [
+    "FOG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.4332,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 19,
+   "form": "quaveour",
+   "gloss": "Rain",
+   "section": "",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.4479,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 20,
+   "form": "ijna",
+   "gloss": "Snow",
+   "section": "",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.4593,
+    "w": 0.1063,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 21,
+   "form": "tarsour",
+   "gloss": "Hail",
+   "section": "",
+   "concepts": [
+    "HAIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1752,
+    "y": 0.4721,
+    "w": 0.127,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 22,
+   "form": "quitousour",
+   "gloss": "Ice",
+   "section": "",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.4854,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 23,
+   "form": "devchea",
+   "gloss": "Frost",
+   "section": "",
+   "concepts": [
+    "FROST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.4981,
+    "w": 0.1315,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 24,
+   "form": "cabariou",
+   "gloss": "Dew",
+   "section": "",
+   "concepts": [
+    "DEW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.5115,
+    "w": 0.1315,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 25,
+   "form": "nachnuvoin",
+   "gloss": "Rain-bow",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.5246,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 26,
+   "form": "adenine",
+   "gloss": "Thunder",
+   "section": "",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.5375,
+    "w": 0.1315,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 27,
+   "form": "avoidgnauia",
+   "gloss": "Lightning",
+   "section": "",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.5517,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 28,
+   "form": "nieschur",
+   "gloss": "Yesterday",
+   "section": "",
+   "concepts": [
+    "YESTERDAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.5642,
+    "w": 0.1315,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 29,
+   "form": "douria",
+   "gloss": "To-day",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.5775,
+    "w": 0.1315,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 30,
+   "form": "cearia",
+   "gloss": "To-morrow",
+   "section": "",
+   "concepts": [
+    "TOMORROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.5901,
+    "w": 0.1315,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 31,
+   "form": "ouiche deschar",
+   "gloss": "A day",
+   "section": "",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.6024,
+    "w": 0.1315,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 32,
+   "form": "ouiche nis",
+   "gloss": "A month",
+   "section": "",
+   "concepts": [
+    "MONTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1739,
+    "y": 0.6154,
+    "w": 0.1315,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 33,
+   "form": "ouiche adavyour",
+   "gloss": "A year",
+   "section": "",
+   "concepts": [
+    "YEAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.6299,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 34,
+   "form": "asnis",
+   "gloss": "Spring",
+   "section": "",
+   "concepts": [
+    "SPRING (OF WATER)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1752,
+    "y": 0.6426,
+    "w": 0.1283,
+    "h": 0.0134,
+    "approx": true
+   }
+  },
+  {
+   "n": 35,
+   "form": "yaar caades",
+   "gloss": "Summer",
+   "section": "",
+   "concepts": [
+    "SUMMER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.6552,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 36,
+   "form": "nibba",
+   "gloss": "Autumn",
+   "section": "",
+   "concepts": [
+    "AUTUMN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.6683,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 37,
+   "form": "chei",
+   "gloss": "Winter",
+   "section": "",
+   "concepts": [
+    "WINTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.6815,
+    "w": 0.125,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 38,
+   "form": "chouve",
+   "gloss": "Man",
+   "section": "",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1752,
+    "y": 0.6946,
+    "w": 0.1276,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 39,
+   "form": "nateg",
+   "gloss": "Woman",
+   "section": "",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.7093,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 40,
+   "form": "siarches",
+   "gloss": "Boy",
+   "section": "",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.7215,
+    "w": 0.1237,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 41,
+   "form": "nategches",
+   "gloss": "Girl",
+   "section": "",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.735,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 42,
+   "form": "anin",
+   "gloss": "Child",
+   "section": "",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1746,
+    "y": 0.7473,
+    "w": 0.1128,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 43,
+   "form": "a-sin",
+   "gloss": "Father",
+   "section": "",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1759,
+    "y": 0.7603,
+    "w": 0.125,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 44,
+   "form": "sasin",
+   "gloss": "Mother",
+   "section": "",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1759,
+    "y": 0.7734,
+    "w": 0.1295,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 45,
+   "form": "nayin",
+   "gloss": "Brother",
+   "section": "",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1752,
+    "y": 0.7872,
+    "w": 0.1302,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 46,
+   "form": "dardin",
+   "gloss": "Sister",
+   "section": "",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1759,
+    "y": 0.7997,
+    "w": 0.1295,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 47,
+   "form": "arnouu",
+   "gloss": "Husband",
+   "section": "",
+   "concepts": [
+    "HUSBAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1759,
+    "y": 0.8134,
+    "w": 0.1295,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 48,
+   "form": "danayei",
+   "gloss": "Wife",
+   "section": "",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1752,
+    "y": 0.8262,
+    "w": 0.1302,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 49,
+   "form": "anin quarcounté",
+   "gloss": "Son",
+   "section": "",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1752,
+    "y": 0.8387,
+    "w": 0.1302,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 50,
+   "form": "natichetez",
+   "gloss": "Daughter",
+   "section": "",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1759,
+    "y": 0.8521,
+    "w": 0.1295,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 51,
+   "form": "catocse",
+   "gloss": "The body",
+   "section": "",
+   "concepts": [
+    "BODY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1752,
+    "y": 0.8652,
+    "w": 0.1302,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 52,
+   "form": "quantour",
+   "gloss": "Head",
+   "section": "",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1765,
+    "y": 0.8797,
+    "w": 0.1289,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 53,
+   "form": "bahat",
+   "gloss": "Hair",
+   "section": "",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1759,
+    "y": 0.8911,
+    "w": 0.1199,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 54,
+   "form": "sounnieites",
+   "gloss": "Beard",
+   "section": "",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1752,
+    "y": 0.9042,
+    "w": 0.1302,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 55,
+   "form": "chanqua'er",
+   "gloss": "Face",
+   "section": "",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5623,
+    "y": 0.2113,
+    "w": 0.167,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 56,
+   "form": "chaor",
+   "gloss": "Eye",
+   "section": "",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5623,
+    "y": 0.224,
+    "w": 0.1115,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 57,
+   "form": "souour",
+   "gloss": "Nose",
+   "section": "",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.563,
+    "y": 0.2373,
+    "w": 0.1295,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 58,
+   "form": "chaminni",
+   "gloss": "Cheek",
+   "section": "",
+   "concepts": [
+    "CHEEK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5623,
+    "y": 0.2497,
+    "w": 0.165,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 59,
+   "form": "soun",
+   "gloss": "Chin",
+   "section": "",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5623,
+    "y": 0.2634,
+    "w": 0.1089,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 60,
+   "form": "ouar",
+   "gloss": "Mouth, lip",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.563,
+    "y": 0.2764,
+    "w": 0.1625,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 61,
+   "form": "taor",
+   "gloss": "Tooth",
+   "section": "",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5623,
+    "y": 0.2889,
+    "w": 0.1134,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 62,
+   "form": "adetour",
+   "gloss": "Tongue",
+   "section": "",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.563,
+    "y": 0.3024,
+    "w": 0.1618,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 63,
+   "form": "bistor",
+   "gloss": "Ear",
+   "section": "",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.563,
+    "y": 0.315,
+    "w": 0.1076,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 64,
+   "form": "nachée",
+   "gloss": "Neck",
+   "section": "",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.563,
+    "y": 0.3281,
+    "w": 0.1334,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 65,
+   "form": "minni",
+   "gloss": "Arm",
+   "section": "",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.563,
+    "y": 0.3413,
+    "w": 0.1186,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 66,
+   "form": "a",
+   "gloss": "Wrist",
+   "section": "",
+   "concepts": [
+    "WRIST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.563,
+    "y": 0.3548,
+    "w": 0.1366,
+    "h": 0.0134,
+    "approx": true
+   }
+  },
+  {
+   "n": 67,
+   "form": "cenour",
+   "gloss": "Hand",
+   "section": "",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.3683,
+    "w": 0.1366,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 68,
+   "form": "cebinour",
+   "gloss": "Finger",
+   "section": "",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.3811,
+    "w": 0.1625,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 69,
+   "form": "binni",
+   "gloss": "Belly",
+   "section": "",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.3944,
+    "w": 0.1179,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 70,
+   "form": "chabaches",
+   "gloss": "Back",
+   "section": "",
+   "concepts": [
+    "BACK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.4073,
+    "w": 0.1612,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 71,
+   "form": "quocher",
+   "gloss": "Side",
+   "section": "",
+   "concepts": [
+    "SIDE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.4211,
+    "w": 0.1347,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 72,
+   "form": "dantour",
+   "gloss": "Bubby",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.4336,
+    "w": 0.1515,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 73,
+   "form": "dante echanqua",
+   "gloss": "Nipple",
+   "section": "",
+   "concepts": [
+    "NIPPLE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.447,
+    "w": 0.2283,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 74,
+   "form": "quasour",
+   "gloss": "Thigh",
+   "section": "",
+   "concepts": [
+    "THIGH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.4617,
+    "w": 0.1495,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 75,
+   "form": "casosce",
+   "gloss": "Leg",
+   "section": "",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.473,
+    "w": 0.125,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 76,
+   "form": "nasour",
+   "gloss": "Foot",
+   "section": "",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.4862,
+    "w": 0.125,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 77,
+   "form": "senbitour",
+   "gloss": "Toe",
+   "section": "",
+   "concepts": [
+    "TOE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.4989,
+    "w": 0.1431,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 78,
+   "form": "nousches",
+   "gloss": "Skin",
+   "section": "",
+   "concepts": [
+    "SKIN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.5121,
+    "w": 0.145,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 79,
+   "form": "ceonour",
+   "gloss": "Nails",
+   "section": "",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5636,
+    "y": 0.5256,
+    "w": 0.1444,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 80,
+   "form": "narquour",
+   "gloss": "Bone",
+   "section": "",
+   "concepts": [
+    "BONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.5405,
+    "w": 0.1515,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 81,
+   "form": "baor",
+   "gloss": "Blood",
+   "section": "",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.5513,
+    "w": 0.1192,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 82,
+   "form": "quava",
+   "gloss": "Life",
+   "section": "",
+   "concepts": [
+    "LIFE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.5666,
+    "w": 0.1147,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 83,
+   "form": "paquaca",
+   "gloss": "Death",
+   "section": "",
+   "concepts": [
+    "DEATH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.5799,
+    "w": 0.1457,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 84,
+   "form": "deace nouyour",
+   "gloss": "Food",
+   "section": "",
+   "concepts": [
+    "FOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5636,
+    "y": 0.5907,
+    "w": 0.2063,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 85,
+   "form": "quaoutour",
+   "gloss": "Meat",
+   "section": "",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.605,
+    "w": 0.1612,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 86,
+   "form": "acayou",
+   "gloss": "Fat",
+   "section": "",
+   "concepts": [
+    "FAT (OILY)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.6185,
+    "w": 0.1199,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 87,
+   "form": "nargou",
+   "gloss": "Lean",
+   "section": "",
+   "concepts": [
+    "LEAN (MEAT)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.6315,
+    "w": 0.1321,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 88,
+   "form": "dasquat",
+   "gloss": "Bread",
+   "section": "",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.6432,
+    "w": 0.1457,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 89,
+   "form": "quaces",
+   "gloss": "Indian-corn",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.6579,
+    "w": 0.1921,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 90,
+   "form": "sou-sou",
+   "gloss": "Milk",
+   "section": "",
+   "concepts": [
+    "MILK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.6695,
+    "w": 0.1334,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 91,
+   "form": "nosbiquor",
+   "gloss": "Egg",
+   "section": "",
+   "concepts": [
+    "EGG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.6824,
+    "w": 0.1489,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 92,
+   "form": "sahor",
+   "gloss": "House",
+   "section": "",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.6952,
+    "w": 0.1302,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 93,
+   "form": "douriates",
+   "gloss": "Mammoth",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.7085,
+    "w": 0.1986,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 94,
+   "form": "tanaa",
+   "gloss": "Buffalo",
+   "section": "",
+   "concepts": [
+    "BUFFALO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.7215,
+    "w": 0.1373,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 95,
+   "form": "oueyat",
+   "gloss": "Elk",
+   "section": "",
+   "concepts": [
+    "ELK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.7358,
+    "w": 0.1192,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 96,
+   "form": "da",
+   "gloss": "Deer",
+   "section": "",
+   "concepts": [
+    "DEER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5649,
+    "y": 0.7479,
+    "w": 0.0895,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 97,
+   "form": "naoeches",
+   "gloss": "Bear",
+   "section": "",
+   "concepts": [
+    "BEAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.7609,
+    "w": 0.147,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 98,
+   "form": "tacha",
+   "gloss": "Wolf",
+   "section": "",
+   "concepts": [
+    "WOLF"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5636,
+    "y": 0.7738,
+    "w": 0.1218,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 99,
+   "form": "quiches",
+   "gloss": "Panther",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.7877,
+    "w": 0.1612,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 100,
+   "form": "ouado",
+   "gloss": "Wildcat",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.8003,
+    "w": 0.1508,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 101,
+   "form": "vueiet",
+   "gloss": "Polecat",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.8132,
+    "w": 0.145,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 102,
+   "form": "couons",
+   "gloss": "Fox",
+   "section": "",
+   "concepts": [
+    "FOX"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5675,
+    "y": 0.8268,
+    "w": 0.1192,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 103,
+   "form": "chestaor",
+   "gloss": "Beaver",
+   "section": "",
+   "concepts": [
+    "BEAVER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5662,
+    "y": 0.8395,
+    "w": 0.1612,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 104,
+   "form": "hot",
+   "gloss": "Raccoon",
+   "section": "",
+   "concepts": [
+    "RACCOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.8526,
+    "w": 0.1308,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 105,
+   "form": "narcous",
+   "gloss": "Opossum",
+   "section": "",
+   "concepts": [
+    "OPOSSUM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5643,
+    "y": 0.8664,
+    "w": 0.1741,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 106,
+   "form": "diot",
+   "gloss": "Hare",
+   "section": "",
+   "concepts": [
+    "HARE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5662,
+    "y": 0.8787,
+    "w": 0.1057,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 107,
+   "form": "siouar",
+   "gloss": "Squirrel",
+   "section": "",
+   "concepts": [
+    "SQUIRREL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5662,
+    "y": 0.8923,
+    "w": 0.1515,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 108,
+   "form": "detes",
+   "gloss": "Flying-quirrel",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.5655,
+    "y": 0.9052,
+    "w": 0.205,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 109,
+   "form": "chiouva aquared",
+   "gloss": "Ground-squirrel",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.0942,
+    "w": 0.139,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 110,
+   "form": "cequouva",
+   "gloss": "Mole",
+   "section": "",
+   "concepts": [
+    "MOLE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.1089,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 111,
+   "form": "banit",
+   "gloss": "Bird",
+   "section": "",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.1199,
+    "w": 0.1093,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 112,
+   "form": "ioy",
+   "gloss": "Eagle",
+   "section": "",
+   "concepts": [
+    "EAGLE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.1337,
+    "w": 0.1048,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 113,
+   "form": "souit",
+   "gloss": "Hawk",
+   "section": "",
+   "concepts": [
+    "HAWK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.146,
+    "w": 0.1228,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 114,
+   "form": "ouous",
+   "gloss": "Owl",
+   "section": "",
+   "concepts": [
+    "OWL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.1597,
+    "w": 0.1177,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 115,
+   "form": "nou",
+   "gloss": "Turkey",
+   "section": "",
+   "concepts": [
+    "TURKEY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.1731,
+    "w": 0.1235,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 116,
+   "form": "sartos",
+   "gloss": "Swan",
+   "section": "",
+   "concepts": [
+    "SWAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.1854,
+    "w": 0.1254,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 117,
+   "form": "quinar",
+   "gloss": "Wild-goose",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.1993,
+    "w": 0.139,
+    "h": 0.0133
+   }
+  },
+  {
+   "n": 118,
+   "form": "can.",
+   "gloss": "Duck",
+   "section": "",
+   "concepts": [
+    "DUCK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.2123,
+    "w": 0.1106,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 119,
+   "form": "souquates.",
+   "gloss": "Turkey-buzzard",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.2264,
+    "w": 0.139,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 120,
+   "form": "ouvar",
+   "gloss": "Raven",
+   "section": "",
+   "concepts": [
+    "RAVEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.2384,
+    "w": 0.1332,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 121,
+   "form": "caquail",
+   "gloss": "Crow",
+   "section": "",
+   "concepts": [
+    "CROW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.2515,
+    "w": 0.139,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 122,
+   "form": "quacho",
+   "gloss": "Black-bird",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.2648,
+    "w": 0.139,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 123,
+   "form": "douno",
+   "gloss": "Crane",
+   "section": "",
+   "concepts": [
+    "CRANE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.2772,
+    "w": 0.1338,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 124,
+   "form": "ouáas",
+   "gloss": "Pigeon",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.2911,
+    "w": 0.1364,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 125,
+   "form": "ounani",
+   "gloss": "Pheasant",
+   "section": "",
+   "concepts": [
+    "PHEASANT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.3037,
+    "w": 0.139,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 126,
+   "form": "colati",
+   "gloss": "Partridge",
+   "section": "",
+   "concepts": [
+    "PARTRIDGE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.317,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 127,
+   "form": "quathile quatou",
+   "gloss": "Mocking-bird",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.3307,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 128,
+   "form": "laodoucé",
+   "gloss": "Red-bird",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.3429,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 129,
+   "form": "quiqua",
+   "gloss": "Snake",
+   "section": "",
+   "concepts": [
+    "SNAKE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.3568,
+    "w": 0.1377,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 130,
+   "form": "taquon",
+   "gloss": "Lizzard",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.3707,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 131,
+   "form": "banous",
+   "gloss": "Butterfly",
+   "section": "",
+   "concepts": [
+    "BUTTERFLY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.3825,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 132,
+   "form": "quouni",
+   "gloss": "Fly",
+   "section": "",
+   "concepts": [
+    "FLY (INSECT)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.3958,
+    "w": 0.1196,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 133,
+   "form": "bata",
+   "gloss": "Fish",
+   "section": "",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.408,
+    "w": 0.1022,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 134,
+   "form": "quidau",
+   "gloss": "Frog",
+   "section": "",
+   "concepts": [
+    "FROG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.4219,
+    "w": 0.128,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 135,
+   "form": "sounar aquayguo",
+   "gloss": "Gold",
+   "section": "",
+   "concepts": [
+    "GOLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.4348,
+    "w": 0.1377,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 136,
+   "form": "sounar aquayou",
+   "gloss": "Silver",
+   "section": "",
+   "concepts": [
+    "SILVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.448,
+    "w": 0.1377,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 137,
+   "form": "dedot noustor",
+   "gloss": "Copper",
+   "section": "",
+   "concepts": [
+    "COPPER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.4609,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 138,
+   "form": "siguor",
+   "gloss": "Stone",
+   "section": "",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.4742,
+    "w": 0.1306,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 139,
+   "form": "youcour",
+   "gloss": "Wood",
+   "section": "",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1666,
+    "y": 0.4889,
+    "w": 0.139,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 140,
+   "form": "guaruoadat",
+   "gloss": "Gum",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.5009,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 141,
+   "form": "ouadat iniquo",
+   "gloss": "Mountain",
+   "section": "",
+   "concepts": [
+    "MOUNTAIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.5133,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 142,
+   "form": "chuquaet",
+   "gloss": "Hill",
+   "section": "",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.5268,
+    "w": 0.1377,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 143,
+   "form": "nicquedaic",
+   "gloss": "Valley",
+   "section": "",
+   "concepts": [
+    "VALLEY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.5401,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 144,
+   "form": "eiquot aicmaie.",
+   "gloss": "Sea",
+   "section": "",
+   "concepts": [
+    "SEA"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.5527,
+    "w": 0.1377,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 145,
+   "form": "eiquot",
+   "gloss": "Lake",
+   "section": "",
+   "concepts": [
+    "LAKE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.566,
+    "w": 0.1261,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 146,
+   "form": "quanmachar",
+   "gloss": "Pond",
+   "section": "",
+   "concepts": [
+    "POND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.5793,
+    "w": 0.137,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 147,
+   "form": "baat",
+   "gloss": "River",
+   "section": "",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.5917,
+    "w": 0.1132,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 148,
+   "form": "nidday quayarda sar",
+   "gloss": "Creek",
+   "section": "",
+   "concepts": [
+    "CREEK (TIDAL)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.6058,
+    "w": 0.137,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 149,
+   "form": "quayardacha",
+   "gloss": "Spring",
+   "section": "",
+   "concepts": [
+    "SPRING (OF WATER)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.6187,
+    "w": 0.137,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 150,
+   "form": "adeitour",
+   "gloss": "Grass",
+   "section": "",
+   "concepts": [
+    "GRASS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.6309,
+    "w": 0.1377,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 151,
+   "form": "quardacha",
+   "gloss": "Tree",
+   "section": "",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.6448,
+    "w": 0.1383,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 152,
+   "form": "devoas",
+   "gloss": "Pine",
+   "section": "",
+   "concepts": [
+    "PINE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1673,
+    "y": 0.6572,
+    "w": 0.1261,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 153,
+   "form": "betes",
+   "gloss": "Cedar",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.6705,
+    "w": 0.1228,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 154,
+   "form": "quiour",
+   "gloss": "Sycamore",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.6842,
+    "w": 0.1377,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 155,
+   "form": "quiquor",
+   "gloss": "Ash",
+   "section": "",
+   "concepts": [
+    "ASH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.6972,
+    "w": 0.1306,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 156,
+   "form": "da auve",
+   "gloss": "Elm",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.7095,
+    "w": 0.1325,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 157,
+   "form": "aligonqua danquone",
+   "gloss": "Beech",
+   "section": "",
+   "concepts": [
+    "BEECH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1699,
+    "y": 0.7237,
+    "w": 0.1357,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 158,
+   "form": "saibatocha",
+   "gloss": "Birch",
+   "section": "",
+   "concepts": [
+    "BIRCH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1712,
+    "y": 0.7358,
+    "w": 0.1345,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 159,
+   "form": "ba",
+   "gloss": "Oak",
+   "section": "",
+   "concepts": [
+    "OAK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.7487,
+    "w": 0.0835,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 160,
+   "form": "nouba",
+   "gloss": "Chestnut",
+   "section": "",
+   "concepts": [
+    "CHESTNUT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.7619,
+    "w": 0.137,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 161,
+   "form": "nar",
+   "gloss": "Hickory",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1692,
+    "y": 0.7756,
+    "w": 0.1306,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 162,
+   "form": "sciar",
+   "gloss": "Walnut",
+   "section": "",
+   "concepts": [
+    "WALNUT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1679,
+    "y": 0.788,
+    "w": 0.1351,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 163,
+   "form": "danani",
+   "gloss": "Locust",
+   "section": "",
+   "concepts": [
+    "LOCUST"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.8011,
+    "w": 0.137,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 164,
+   "form": "baie",
+   "gloss": "Mulberry",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.8146,
+    "w": 0.137,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 165,
+   "form": "sasour",
+   "gloss": "Vine",
+   "section": "",
+   "concepts": [
+    "VINE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1692,
+    "y": 0.8278,
+    "w": 0.1248,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 166,
+   "form": "yaar",
+   "gloss": "Tobacco",
+   "section": "",
+   "concepts": [
+    "TOBACCO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1699,
+    "y": 0.8427,
+    "w": 0.1357,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 167,
+   "form": "quavrinout",
+   "gloss": "Joy",
+   "section": "",
+   "concepts": [
+    "JOY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.8542,
+    "w": 0.137,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 168,
+   "form": "gouienout",
+   "gloss": "Sorrow",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1692,
+    "y": 0.8674,
+    "w": 0.1364,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 169,
+   "form": "gauenie",
+   "gloss": "One",
+   "section": "",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.8805,
+    "w": 0.1325,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 170,
+   "form": "bit",
+   "gloss": "Two",
+   "section": "",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1686,
+    "y": 0.8929,
+    "w": 0.0899,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 171,
+   "form": "daauo",
+   "gloss": "Three",
+   "section": "",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1692,
+    "y": 0.9056,
+    "w": 0.1325,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 172,
+   "form": "evui",
+   "gloss": "Four",
+   "section": "",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5563,
+    "y": 0.0946,
+    "w": 0.1054,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 173,
+   "form": "de cequan",
+   "gloss": "Five",
+   "section": "",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5557,
+    "y": 0.1074,
+    "w": 0.157,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 174,
+   "form": "danqui",
+   "gloss": "Six",
+   "section": "",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5563,
+    "y": 0.1211,
+    "w": 0.1132,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 175,
+   "form": "bi cequan",
+   "gloss": "Seven",
+   "section": "",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5563,
+    "y": 0.134,
+    "w": 0.1699,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 176,
+   "form": "daauo cequa",
+   "gloss": "Eight",
+   "section": "",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5563,
+    "y": 0.1474,
+    "w": 0.1912,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 177,
+   "form": "ivui cequa",
+   "gloss": "Nine",
+   "section": "",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5563,
+    "y": 0.1601,
+    "w": 0.1648,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 178,
+   "form": "benaar",
+   "gloss": "Ten",
+   "section": "",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5563,
+    "y": 0.1733,
+    "w": 0.1222,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 179,
+   "form": "the numerals double",
+   "gloss": "Eleven–twenty",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5563,
+    "y": 0.1852,
+    "w": 0.3351,
+    "h": 0.0134
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed as a remark in the gloss column, not a word",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 180,
+   "form": "benar bit",
+   "gloss": "Twenty",
+   "section": "",
+   "concepts": [
+    "TWENTY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5557,
+    "y": 0.1984,
+    "w": 0.1751,
+    "h": 0.0133
+   }
+  },
+  {
+   "n": 181,
+   "form": "benaar daauo",
+   "gloss": "Thirty",
+   "section": "",
+   "concepts": [
+    "THIRTY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.557,
+    "y": 0.2115,
+    "w": 0.2048,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 182,
+   "form": "benaar evui",
+   "gloss": "Forty",
+   "section": "",
+   "concepts": [
+    "FORTY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.557,
+    "y": 0.2242,
+    "w": 0.1835,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 183,
+   "form": "benaar decequan",
+   "gloss": "Fifty",
+   "section": "",
+   "concepts": [
+    "FIFTY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.2387,
+    "w": 0.2209,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 184,
+   "form": "benaar danqui",
+   "gloss": "Sixty",
+   "section": "",
+   "concepts": [
+    "SIXTY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.557,
+    "y": 0.2519,
+    "w": 0.199,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 185,
+   "form": "benaar bicequa",
+   "gloss": "Seventy",
+   "section": "",
+   "concepts": [
+    "SEVENTY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.557,
+    "y": 0.2648,
+    "w": 0.2319,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 186,
+   "form": "benaar davuecequa",
+   "gloss": "Eighty",
+   "section": "",
+   "concepts": [
+    "EIGHTY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.557,
+    "y": 0.2782,
+    "w": 0.2583,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 187,
+   "form": "benaar ivuicequa",
+   "gloss": "Ninety",
+   "section": "",
+   "concepts": [
+    "NINETY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5563,
+    "y": 0.2915,
+    "w": 0.2415,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 188,
+   "form": "ouische aa sour",
+   "gloss": "Hundred",
+   "section": "",
+   "concepts": [
+    "HUNDRED"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.3044,
+    "w": 0.2474,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 189,
+   "form": "carquaniauosit",
+   "gloss": "Two hundred",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5557,
+    "y": 0.3174,
+    "w": 0.2803,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 190,
+   "form": "detama",
+   "gloss": "Horse",
+   "section": "",
+   "concepts": [
+    "HORSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.3305,
+    "w": 0.1441,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 191,
+   "form": "deches",
+   "gloss": "Dog",
+   "section": "",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.344,
+    "w": 0.1241,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 192,
+   "form": "aquayou",
+   "gloss": "White",
+   "section": "",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.3586,
+    "w": 0.1551,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 193,
+   "form": "adeguo",
+   "gloss": "Black",
+   "section": "",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.3703,
+    "w": 0.1409,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 194,
+   "form": "barnou sar",
+   "gloss": "Green",
+   "section": "",
+   "concepts": [
+    "GREEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.557,
+    "y": 0.3831,
+    "w": 0.1757,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 195,
+   "form": "a sarquour",
+   "gloss": "Blue",
+   "section": "",
+   "concepts": [
+    "BLUE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.3964,
+    "w": 0.1622,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 196,
+   "form": "aquaij quo",
+   "gloss": "Yellow",
+   "section": "",
+   "concepts": [
+    "YELLOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.557,
+    "y": 0.4093,
+    "w": 0.1854,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 197,
+   "form": "atenou",
+   "gloss": "Red",
+   "section": "",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.557,
+    "y": 0.4219,
+    "w": 0.1215,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 198,
+   "form": "hanhat",
+   "gloss": "Good",
+   "section": "",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5589,
+    "y": 0.4352,
+    "w": 0.1338,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 199,
+   "form": "avouna",
+   "gloss": "Bad",
+   "section": "",
+   "concepts": [
+    "BAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5589,
+    "y": 0.4487,
+    "w": 0.1241,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 200,
+   "form": "quarquavevour",
+   "gloss": "Large",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.4633,
+    "w": 0.2119,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 201,
+   "form": "ayortetes",
+   "gloss": "Small",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.4762,
+    "w": 0.1545,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 202,
+   "form": "ayou",
+   "gloss": "High",
+   "section": "",
+   "concepts": [
+    "HIGH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.4897,
+    "w": 0.1138,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 203,
+   "form": "naver",
+   "gloss": "Low",
+   "section": "",
+   "concepts": [
+    "LOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.5027,
+    "w": 0.1215,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 204,
+   "form": "sidites",
+   "gloss": "Narrow",
+   "section": "",
+   "concepts": [
+    "NARROW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.514,
+    "w": 0.1512,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 205,
+   "form": "anistes",
+   "gloss": "Old",
+   "section": "",
+   "concepts": [
+    "OLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.527,
+    "w": 0.1215,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 206,
+   "form": "siarte",
+   "gloss": "Young",
+   "section": "",
+   "concepts": [
+    "YOUNG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.5407,
+    "w": 0.1338,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 207,
+   "form": "souroun",
+   "gloss": "New",
+   "section": "",
+   "concepts": [
+    "NEW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.554,
+    "w": 0.1422,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 208,
+   "form": "aiequai",
+   "gloss": "Hard",
+   "section": "",
+   "concepts": [
+    "HARD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5595,
+    "y": 0.567,
+    "w": 0.1396,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 209,
+   "form": "achounou",
+   "gloss": "Soft",
+   "section": "",
+   "concepts": [
+    "SOFT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5589,
+    "y": 0.5791,
+    "w": 0.1461,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 210,
+   "form": "abe save",
+   "gloss": "Sweet",
+   "section": "",
+   "concepts": [
+    "SWEET"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5589,
+    "y": 0.5925,
+    "w": 0.1545,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 211,
+   "form": "abasquo",
+   "gloss": "Sour",
+   "section": "",
+   "concepts": [
+    "SOUR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5589,
+    "y": 0.6064,
+    "w": 0.1409,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 212,
+   "form": "aquocho",
+   "gloss": "Bitter",
+   "section": "",
+   "concepts": [
+    "BITTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5602,
+    "y": 0.6195,
+    "w": 0.1499,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 213,
+   "form": "atedos",
+   "gloss": "Hot",
+   "section": "",
+   "concepts": [
+    "HOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5595,
+    "y": 0.6315,
+    "w": 0.119,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 214,
+   "form": "acourdas",
+   "gloss": "Cold",
+   "section": "",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.645,
+    "w": 0.1467,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 215,
+   "form": "adaqui",
+   "gloss": "Dry",
+   "section": "",
+   "concepts": [
+    "DRY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.6587,
+    "w": 0.119,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 216,
+   "form": "aquarquo",
+   "gloss": "Wet",
+   "section": "",
+   "concepts": [
+    "WET"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.6735,
+    "w": 0.1422,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 217,
+   "form": "adasquar",
+   "gloss": "Strong",
+   "section": "",
+   "concepts": [
+    "STRONG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5589,
+    "y": 0.6852,
+    "w": 0.1648,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 218,
+   "form": "aicquaie quoiace",
+   "gloss": "Weak",
+   "section": "",
+   "concepts": [
+    "WEAK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.698,
+    "w": 0.2274,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 219,
+   "form": "hanhat",
+   "gloss": "Pretty",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5576,
+    "y": 0.7113,
+    "w": 0.1422,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 220,
+   "form": "aouna",
+   "gloss": "Ugly",
+   "section": "",
+   "concepts": [
+    "UGLY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.7242,
+    "w": 0.1222,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 221,
+   "form": "auequarion",
+   "gloss": "Sick",
+   "section": "",
+   "concepts": [
+    "SICK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5595,
+    "y": 0.7372,
+    "w": 0.1628,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 222,
+   "form": "ches soues",
+   "gloss": "Brave",
+   "section": "",
+   "concepts": [
+    "BRAVE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5602,
+    "y": 0.7499,
+    "w": 0.1719,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 223,
+   "form": "che inij inij",
+   "gloss": "Cowardly",
+   "section": "",
+   "concepts": [
+    "COWARDLY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5595,
+    "y": 0.7635,
+    "w": 0.2132,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 224,
+   "form": "ouin anet",
+   "gloss": "Wise",
+   "section": "",
+   "concepts": [
+    "WISE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.7756,
+    "w": 0.1545,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 225,
+   "form": "quarnous quourdetaui",
+   "gloss": "Foolish",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.5583,
+    "y": 0.7897,
+    "w": 0.2899,
+    "h": 0.0134
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "last letter unclear in print (quourdetaui / quourdetau)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 226,
+   "form": "quarches",
+   "gloss": "I",
+   "section": "",
+   "concepts": [
+    "I"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5589,
+    "y": 0.8029,
+    "w": 0.1132,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 227,
+   "form": "naquaya",
+   "gloss": "You",
+   "section": "",
+   "concepts": [
+    "YOU"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5589,
+    "y": 0.8172,
+    "w": 0.1415,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 228,
+   "form": "deer",
+   "gloss": "He",
+   "section": "",
+   "concepts": [
+    "HE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5608,
+    "y": 0.8284,
+    "w": 0.0912,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 229,
+   "form": "annas",
+   "gloss": "She",
+   "section": "",
+   "concepts": [
+    "SHE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5595,
+    "y": 0.8421,
+    "w": 0.1086,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 230,
+   "form": "davre",
+   "gloss": "They",
+   "section": "",
+   "concepts": [
+    "THEY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5595,
+    "y": 0.855,
+    "w": 0.1222,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 231,
+   "form": "deschez",
+   "gloss": "This",
+   "section": "",
+   "concepts": [
+    "THIS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5595,
+    "y": 0.8678,
+    "w": 0.1351,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 232,
+   "form": "déhé",
+   "gloss": "That",
+   "section": "",
+   "concepts": [
+    "THAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5595,
+    "y": 0.8809,
+    "w": 0.1106,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 233,
+   "form": "naquiar",
+   "gloss": "To eat",
+   "section": "",
+   "concepts": [
+    "EAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5602,
+    "y": 0.8944,
+    "w": 0.1532,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 234,
+   "form": "naquarqua",
+   "gloss": "To drink",
+   "section": "",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5595,
+    "y": 0.907,
+    "w": 0.2054,
+    "h": 0.0134
+   }
+  },
+  {
+   "n": 235,
+   "form": "youdic",
+   "gloss": "To sleep",
+   "section": "",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1684,
+    "y": 0.0937,
+    "w": 0.1374,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 236,
+   "form": "saqua",
+   "gloss": "To laugh",
+   "section": "",
+   "concepts": [
+    "LAUGH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1684,
+    "y": 0.1066,
+    "w": 0.1374,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 237,
+   "form": "nasaquaqua",
+   "gloss": "To cry",
+   "section": "",
+   "concepts": [
+    "CRY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.169,
+    "y": 0.1215,
+    "w": 0.1368,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 238,
+   "form": "yourneiyoeu",
+   "gloss": "To sing",
+   "section": "",
+   "concepts": [
+    "SING"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1697,
+    "y": 0.1331,
+    "w": 0.1361,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 239,
+   "form": "youdanou",
+   "gloss": "To whistle",
+   "section": "",
+   "concepts": [
+    "WHISTLE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.169,
+    "y": 0.1458,
+    "w": 0.1368,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 240,
+   "form": "nasoeunout",
+   "gloss": "To smell",
+   "section": "",
+   "concepts": [
+    "SMELL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.169,
+    "y": 0.1586,
+    "w": 0.1368,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 241,
+   "form": "youquaibe",
+   "gloss": "To hear",
+   "section": "",
+   "concepts": [
+    "HEAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1697,
+    "y": 0.1717,
+    "w": 0.1361,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 242,
+   "form": "nasaibe",
+   "gloss": "To see",
+   "section": "",
+   "concepts": [
+    "SEE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.169,
+    "y": 0.1839,
+    "w": 0.1368,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 243,
+   "form": "nasacoupinte",
+   "gloss": "To speak",
+   "section": "",
+   "concepts": [
+    "SPEAK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.169,
+    "y": 0.1986,
+    "w": 0.1368,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 244,
+   "form": "nasavear",
+   "gloss": "To walk",
+   "section": "",
+   "concepts": [
+    "WALK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1697,
+    "y": 0.2113,
+    "w": 0.1361,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 245,
+   "form": "nasaninic",
+   "gloss": "To run",
+   "section": "",
+   "concepts": [
+    "RUN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1697,
+    "y": 0.2233,
+    "w": 0.1361,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 246,
+   "form": "daarni",
+   "gloss": "To stand",
+   "section": "",
+   "concepts": [
+    "STAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.169,
+    "y": 0.2362,
+    "w": 0.1368,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 247,
+   "form": "dataue",
+   "gloss": "To sit",
+   "section": "",
+   "concepts": [
+    "SIT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1697,
+    "y": 0.2494,
+    "w": 0.1361,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 248,
+   "form": "darsa",
+   "gloss": "To lie down",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.5574,
+    "y": 0.0923,
+    "w": 0.1845,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 249,
+   "form": "darquavra",
+   "gloss": "To smoke a pipe",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.5587,
+    "y": 0.1066,
+    "w": 0.2697,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 250,
+   "form": "sendamane",
+   "gloss": "To love",
+   "section": "",
+   "concepts": [
+    "LOVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5568,
+    "y": 0.1184,
+    "w": 0.2,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 251,
+   "form": "atedo ciyer",
+   "gloss": "To hate",
+   "section": "",
+   "concepts": [
+    "HATE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5587,
+    "y": 0.1327,
+    "w": 0.1961,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 252,
+   "form": "younbin",
+   "gloss": "To strike",
+   "section": "",
+   "concepts": [
+    "STRIKE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5587,
+    "y": 0.1458,
+    "w": 0.1852,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 253,
+   "form": "youques",
+   "gloss": "To kill",
+   "section": "",
+   "concepts": [
+    "KILL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5587,
+    "y": 0.1588,
+    "w": 0.1632,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 254,
+   "form": "youvechan",
+   "gloss": "To dance",
+   "section": "",
+   "concepts": [
+    "DANCE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5581,
+    "y": 0.1721,
+    "w": 0.2071,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 255,
+   "form": "avesaria",
+   "gloss": "To jump",
+   "section": "",
+   "concepts": [
+    "JUMP"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5587,
+    "y": 0.1839,
+    "w": 0.1781,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 256,
+   "form": "navvania",
+   "gloss": "To fall",
+   "section": "",
+   "concepts": [
+    "FALL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.56,
+    "y": 0.1972,
+    "w": 0.1658,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 257,
+   "form": "yoniouva",
+   "gloss": "To break",
+   "section": "",
+   "concepts": [
+    "BREAK (CLEAVE)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5581,
+    "y": 0.2113,
+    "w": 0.1916,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 258,
+   "form": "darquven",
+   "gloss": "To bend",
+   "section": "",
+   "concepts": [
+    "BEND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5587,
+    "y": 0.2243,
+    "w": 0.189,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 259,
+   "form": "aaie",
+   "gloss": "Yes",
+   "section": "",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5581,
+    "y": 0.2372,
+    "w": 0.0994,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 260,
+   "form": "aounna",
+   "gloss": "No",
+   "section": "",
+   "concepts": [
+    "NO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5594,
+    "y": 0.2507,
+    "w": 0.1187,
+    "h": 0.0158
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 260,
+  "notes": 2,
+  "located": 260
+ },
+ "partial": null,
+ "relation": null
+}

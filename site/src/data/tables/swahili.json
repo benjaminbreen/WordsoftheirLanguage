@@ -1,0 +1,4733 @@
+{
+ "schema": 1,
+ "id": "swahili",
+ "wtl": "WTL-0038",
+ "heading": "The accompanying Vocabulary was obtained by Mr. Masury, of Salem, Massachusetts, from a native of the Comoro Islands, who had resided several years at Zanzibar.",
+ "headings": [
+  "Vocabulary of the Soahili Language."
+ ],
+ "language": {
+  "name": "Swahili",
+  "glottocode": "swah1253",
+  "family": "Atlantic-Congo",
+  "path": [
+   "Atlantic-Congo",
+   "Volta-Congo",
+   "Benue-Congo",
+   "Bantoid",
+   "Southern Bantoid",
+   "Narrow Bantu",
+   "East Bantu",
+   "Northeast Savanna Bantu",
+   "Northeast Coastal Bantu",
+   "Coastal NEC Bantu",
+   "Sabaki-Swahili",
+   "Swahili (G.40)",
+   "Mombasa-Lamu-Inland Swahili"
+  ],
+  "labels": []
+ },
+ "region": "Africa & Indian Ocean",
+ "book": {
+  "short": "A Vocabulary of the Soahili Language",
+  "title": "A Vocabulary of the Soahili Language, on the Eastern Coast of Africa; by Samuel K. Masury. Communicated by Charles Pickering, M. D.",
+  "author": "Samuel K. Masury",
+  "printed": 1846,
+  "imprint": "Memoirs of the American Academy of Arts and Sciences, new series, vol. 2, 1846, pp. 248-252",
+  "tcp": "",
+  "cover": "swahili"
+ },
+ "provenance": {
+  "collector": "Samuel K. Masury, from a native of the Comoro Islands",
+  "place": "Zanzibar",
+  "heard": "1844"
+ },
+ "scan": {
+  "ia": "jstor-25057934",
+  "url": "https://archive.org/details/jstor-25057934",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Words and phrases written down at Zanzibar in 1844 by Samuel K. Masury of Salem, Massachusetts, from a native of the Comoro Islands who had lived several years at Zanzibar, and passed to Dr. Charles Pickering.",
+ "pages": [
+  {
+   "leaf": 2,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/swahili/0002-900.webp",
+   "lg": "/scans/swahili/0002-1800.webp"
+  },
+  {
+   "leaf": 3,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/swahili/0003-900.webp",
+   "lg": "/scans/swahili/0003-1800.webp"
+  },
+  {
+   "leaf": 4,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/swahili/0004-900.webp",
+   "lg": "/scans/swahili/0004-1800.webp"
+  },
+  {
+   "leaf": 5,
+   "w": 1701,
+   "h": 2550,
+   "sm": "/scans/swahili/0005-900.webp",
+   "lg": "/scans/swahili/0005-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "Lao",
+   "gloss": "to-day.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0977,
+    "y": 0.3489,
+    "w": 0.1344,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 2,
+   "form": "Cassio",
+   "gloss": "to-morrow.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TOMORROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0989,
+    "y": 0.3851,
+    "w": 0.2075,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 3,
+   "form": "Cassio cuto",
+   "gloss": "day after to-morrow.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0989,
+    "y": 0.3851,
+    "w": 0.2075,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 4,
+   "form": "Mise,*",
+   "gloss": "month.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "MONTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0977,
+    "y": 0.404,
+    "w": 0.1497,
+    "h": 0.0187
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "footnote: * Qu. Portuguese, mese? — Edit.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 5,
+   "form": "Marka",
+   "gloss": "year.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "YEAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0977,
+    "y": 0.4247,
+    "w": 0.1385,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 6,
+   "form": "Secoo",
+   "gloss": "day.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0989,
+    "y": 0.4414,
+    "w": 0.1244,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 7,
+   "form": "Gama",
+   "gloss": "good.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0965,
+    "y": 0.4781,
+    "w": 0.2098,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 8,
+   "form": "Acouna gama",
+   "gloss": "no good, bad.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0965,
+    "y": 0.4781,
+    "w": 0.2098,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 9,
+   "form": "Vouta",
+   "gloss": "pull.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "PULL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0965,
+    "y": 0.4967,
+    "w": 0.1279,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 10,
+   "form": "Nenda",
+   "gloss": "go.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "GO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0971,
+    "y": 0.5173,
+    "w": 0.125,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 11,
+   "form": "Nouse [noos]",
+   "gloss": "half.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HALF"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0971,
+    "y": 0.532,
+    "w": 0.202,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 12,
+   "form": "Aroba",
+   "gloss": "quarter.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0965,
+    "y": 0.5532,
+    "w": 0.165,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 13,
+   "form": "Real",
+   "gloss": "dollar.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0977,
+    "y": 0.5881,
+    "w": 0.2086,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 14,
+   "form": "Cas robo real",
+   "gloss": "three quarters of a dollar.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0977,
+    "y": 0.5881,
+    "w": 0.2086,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 15,
+   "form": "Thumoney",
+   "gloss": "twelve and a half cents.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0959,
+    "y": 0.6075,
+    "w": 0.2104,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 16,
+   "form": "Nouse thumoney",
+   "gloss": "six and a quarter cents.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0965,
+    "y": 0.6265,
+    "w": 0.2098,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 17,
+   "form": "Bettle",
+   "gloss": "pound.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "POUND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0971,
+    "y": 0.663,
+    "w": 0.1514,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 18,
+   "form": "Lette",
+   "gloss": "bring.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BRING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0959,
+    "y": 0.6818,
+    "w": 0.1379,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 19,
+   "form": "Anjo",
+   "gloss": "come.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "COME"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0965,
+    "y": 0.7,
+    "w": 0.1309,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 20,
+   "form": "Zeasevacu",
+   "gloss": "yams.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "YAM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0977,
+    "y": 0.7206,
+    "w": 0.1867,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 21,
+   "form": "Dese",
+   "gloss": "bananas.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BANANA"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0971,
+    "y": 0.7359,
+    "w": 0.1608,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 22,
+   "form": "Machungo",
+   "gloss": "orange.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "ORANGE (FRUIT)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0965,
+    "y": 0.7577,
+    "w": 0.202,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 23,
+   "form": "Nanas",
+   "gloss": "pine-apples.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0959,
+    "y": 0.7738,
+    "w": 0.2055,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 24,
+   "form": "Desem beche",
+   "gloss": "green plantain.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0959,
+    "y": 0.7928,
+    "w": 0.2104,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 25,
+   "form": "Desem befou",
+   "gloss": "ripe plantain.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.0959,
+    "y": 0.8108,
+    "w": 0.2104,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 26,
+   "form": "Pemba",
+   "gloss": "ivory.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "IVORY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0971,
+    "y": 0.8292,
+    "w": 0.1509,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 27,
+   "form": "Wahed,†",
+   "gloss": "one.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0954,
+    "y": 0.8479,
+    "w": 0.1514,
+    "h": 0.0187
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "footnote: † These numerals are from the Arabic.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 28,
+   "form": "Theneen",
+   "gloss": "two.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.0959,
+    "y": 0.8653,
+    "w": 0.1544,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 29,
+   "form": "Thalatha",
+   "gloss": "three.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5045,
+    "y": 0.3492,
+    "w": 0.1708,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 30,
+   "form": "Aroba",
+   "gloss": "four.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.3677,
+    "w": 0.1332,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 31,
+   "form": "Cumsa",
+   "gloss": "five.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5051,
+    "y": 0.3857,
+    "w": 0.1344,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 32,
+   "form": "Seita",
+   "gloss": "six.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5051,
+    "y": 0.4043,
+    "w": 0.1085,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 33,
+   "form": "Sebah",
+   "gloss": "seven.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5051,
+    "y": 0.4238,
+    "w": 0.1461,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 34,
+   "form": "Themania",
+   "gloss": "eight.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.4426,
+    "w": 0.1791,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 35,
+   "form": "Tissa",
+   "gloss": "nine.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5045,
+    "y": 0.4594,
+    "w": 0.1285,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 36,
+   "form": "Asher",
+   "gloss": "ten.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.4781,
+    "w": 0.122,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 37,
+   "form": "Hedasher",
+   "gloss": "eleven.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "ELEVEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5045,
+    "y": 0.4967,
+    "w": 0.1879,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 38,
+   "form": "Thenasha",
+   "gloss": "twelve.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TWELVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.5153,
+    "w": 0.1914,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 39,
+   "form": "Thalatasha",
+   "gloss": "thirteen.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "THIRTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5045,
+    "y": 0.5338,
+    "w": 0.2185,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 40,
+   "form": "Arobasha",
+   "gloss": "fourteen.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FOURTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.5518,
+    "w": 0.2061,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 41,
+   "form": "Cunstasher",
+   "gloss": "fifteen.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FIFTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5045,
+    "y": 0.5704,
+    "w": 0.2079,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 42,
+   "form": "Setasher",
+   "gloss": "sixteen.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SIXTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5045,
+    "y": 0.5704,
+    "w": 0.2079,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 43,
+   "form": "Sabatasher",
+   "gloss": "seventeen.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SEVENTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.6075,
+    "w": 0.2361,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 44,
+   "form": "Themaniatasher",
+   "gloss": "eighteen.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "EIGHTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.6443,
+    "w": 0.2261,
+    "h": 0.0187,
+    "approx": true
+   }
+  },
+  {
+   "n": 45,
+   "form": "Tissatasher",
+   "gloss": "nineteen.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "NINETEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.6443,
+    "w": 0.2261,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 46,
+   "form": "Asharen",
+   "gloss": "twenty.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TWENTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.664,
+    "w": 0.1791,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 47,
+   "form": "Thalathen",
+   "gloss": "thirty.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "THIRTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.6818,
+    "w": 0.1861,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 48,
+   "form": "Aroben",
+   "gloss": "forty.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FORTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.7002,
+    "w": 0.1509,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 49,
+   "form": "Cumseen",
+   "gloss": "fifty.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FIFTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.7187,
+    "w": 0.1614,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 50,
+   "form": "Seiteen",
+   "gloss": "sixty.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SIXTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.7371,
+    "w": 0.1503,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 51,
+   "form": "Sebeen",
+   "gloss": "seventy.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SEVENTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.7567,
+    "w": 0.1761,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 52,
+   "form": "Themaneen",
+   "gloss": "eighty.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "EIGHTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5022,
+    "y": 0.7745,
+    "w": 0.2067,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 53,
+   "form": "Tissen",
+   "gloss": "ninety.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "NINETY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5022,
+    "y": 0.7928,
+    "w": 0.1573,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 54,
+   "form": "Meā",
+   "gloss": "one hundred.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.81,
+    "w": 0.1991,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 55,
+   "form": "Alfe",
+   "gloss": "one thousand.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.8285,
+    "w": 0.202,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 56,
+   "form": "Mopā",
+   "gloss": "white.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.8471,
+    "w": 0.1391,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 57,
+   "form": "Māzungo",
+   "gloss": "white man.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.5028,
+    "y": 0.8663,
+    "w": 0.2279,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 58,
+   "form": "Pemā",
+   "gloss": "weigh.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WEIGH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.501,
+    "y": 0.8851,
+    "w": 0.1467,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 59,
+   "form": "Hāme",
+   "gloss": "cotton [unbleached].",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 0,
+    "x": 0.5022,
+    "y": 0.903,
+    "w": 0.2861,
+    "h": 0.0187
+   }
+  },
+  {
+   "n": 60,
+   "form": "Bondook",
+   "gloss": "musket.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1064,
+    "y": 0.1055,
+    "w": 0.1893,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 61,
+   "form": "Chirsas",
+   "gloss": "lead.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "LEAD (GUIDE)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.107,
+    "y": 0.1245,
+    "w": 0.1476,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 62,
+   "form": "Kesu",
+   "gloss": "knife.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1052,
+    "y": 0.1429,
+    "w": 0.1299,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 63,
+   "form": "Opangā",
+   "gloss": "sword.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SWORD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1058,
+    "y": 0.1621,
+    "w": 0.1628,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 64,
+   "form": "Kete",
+   "gloss": "chair.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CHAIR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1052,
+    "y": 0.18,
+    "w": 0.127,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 65,
+   "form": "Nenā tā kā",
+   "gloss": "what do you want ?",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1052,
+    "y": 0.1976,
+    "w": 0.2001,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 66,
+   "form": "Mechalā",
+   "gloss": "rice.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "RICE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1046,
+    "y": 0.2162,
+    "w": 0.1511,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 67,
+   "form": "Marge",
+   "gloss": "water.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1035,
+    "y": 0.2353,
+    "w": 0.1499,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 68,
+   "form": "Māpoongā",
+   "gloss": "paddy.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1035,
+    "y": 0.2541,
+    "w": 0.1928,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 69,
+   "form": "Matamā",
+   "gloss": "corn.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1035,
+    "y": 0.2725,
+    "w": 0.1529,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 70,
+   "form": "Mohinde",
+   "gloss": "Indian corn.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1041,
+    "y": 0.2898,
+    "w": 0.2012,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 71,
+   "form": "Nazee",
+   "gloss": "cocoa-nut.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1035,
+    "y": 0.3084,
+    "w": 0.1899,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 72,
+   "form": "Mādafou",
+   "gloss": "green cocoa-nut.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1041,
+    "y": 0.3266,
+    "w": 0.2012,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 73,
+   "form": "Māfoutā",
+   "gloss": "oil.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "OIL (FROM PLANTS)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1029,
+    "y": 0.3625,
+    "w": 0.2024,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 74,
+   "form": "Māfoutā oto",
+   "gloss": "Simsim oil.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1029,
+    "y": 0.3625,
+    "w": 0.2024,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 75,
+   "form": "Waku",
+   "gloss": "keep.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "KEEP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1035,
+    "y": 0.3823,
+    "w": 0.137,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 76,
+   "form": "Nā yew-ā",
+   "gloss": "I know that.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1023,
+    "y": 0.3992,
+    "w": 0.203,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 77,
+   "form": "Pata",
+   "gloss": "ring.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "RING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1017,
+    "y": 0.419,
+    "w": 0.1158,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 78,
+   "form": "Casca-se",
+   "gloss": "northeast monsoon.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1029,
+    "y": 0.4366,
+    "w": 0.2024,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 79,
+   "form": "Co-se",
+   "gloss": "southwest monsoon.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1035,
+    "y": 0.4549,
+    "w": 0.2018,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 80,
+   "form": "Papo",
+   "gloss": "wind.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1023,
+    "y": 0.4735,
+    "w": 0.1282,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 81,
+   "form": "Motto",
+   "gloss": "fire.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1029,
+    "y": 0.4917,
+    "w": 0.1205,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 82,
+   "form": "Coo-ne",
+   "gloss": "wood.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1023,
+    "y": 0.5107,
+    "w": 0.1523,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 83,
+   "form": "Gooza",
+   "gloss": "hide.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HIDE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1011,
+    "y": 0.5294,
+    "w": 0.134,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 84,
+   "form": "Sā",
+   "gloss": "clock.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CLOCK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1017,
+    "y": 0.5478,
+    "w": 0.1082,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 85,
+   "form": "Coo-ko",
+   "gloss": "chicken.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CHICKEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1017,
+    "y": 0.5662,
+    "w": 0.1781,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 86,
+   "form": "Maze",
+   "gloss": "moon.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1011,
+    "y": 0.5858,
+    "w": 0.1376,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 87,
+   "form": "Juā",
+   "gloss": "sun.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1005,
+    "y": 0.6043,
+    "w": 0.1023,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 88,
+   "form": "Kepanda",
+   "gloss": "quadrant.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1005,
+    "y": 0.6225,
+    "w": 0.2048,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 89,
+   "form": "Soca-re",
+   "gloss": "wheel for ships.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.1011,
+    "y": 0.6402,
+    "w": 0.2042,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 90,
+   "form": "Cambā",
+   "gloss": "rope.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "ROPE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1005,
+    "y": 0.6619,
+    "w": 0.1423,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 91,
+   "form": "Deva",
+   "gloss": "compass for ships.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.0988,
+    "y": 0.679,
+    "w": 0.2065,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 92,
+   "form": "Dorbeen",
+   "gloss": "spy-glass.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.0999,
+    "y": 0.6974,
+    "w": 0.2053,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 93,
+   "form": "Keo",
+   "gloss": "looking-glass.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.0994,
+    "y": 0.7155,
+    "w": 0.1999,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 94,
+   "form": "Dārushā",
+   "gloss": "window.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WINDOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0994,
+    "y": 0.7327,
+    "w": 0.1899,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 95,
+   "form": "Foongoā",
+   "gloss": "open.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "OPEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0999,
+    "y": 0.7541,
+    "w": 0.1634,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 96,
+   "form": "Melango",
+   "gloss": "door.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "DOOR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0994,
+    "y": 0.7702,
+    "w": 0.1581,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 97,
+   "form": "Numba",
+   "gloss": "house.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0994,
+    "y": 0.7888,
+    "w": 0.1581,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 98,
+   "form": "Frass",
+   "gloss": "horse.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HORSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0988,
+    "y": 0.8072,
+    "w": 0.1382,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 99,
+   "form": "Cadogā",
+   "gloss": "small.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.0999,
+    "y": 0.826,
+    "w": 0.1564,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 100,
+   "form": "Bāhāre",
+   "gloss": "sea.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SEA"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0999,
+    "y": 0.8445,
+    "w": 0.1364,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 101,
+   "form": "Booza",
+   "gloss": "goat.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "GOAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0994,
+    "y": 0.8637,
+    "w": 0.1323,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 102,
+   "form": "Cutoonga",
+   "gloss": "onions.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "ONION"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0994,
+    "y": 0.8813,
+    "w": 0.1881,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 103,
+   "form": "Boone",
+   "gloss": "coffee.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "COFFEE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0988,
+    "y": 0.899,
+    "w": 0.1487,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 104,
+   "form": "Māsepe",
+   "gloss": "line.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "LINE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.0988,
+    "y": 0.9182,
+    "w": 0.1411,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 105,
+   "form": "Doana",
+   "gloss": "hook.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HOOK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5103,
+    "y": 0.1055,
+    "w": 0.1411,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 106,
+   "form": "Gopā",
+   "gloss": "afraid.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5103,
+    "y": 0.1247,
+    "w": 0.1387,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 107,
+   "form": "Way-yā",
+   "gloss": "you.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "YOU"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5115,
+    "y": 0.1456,
+    "w": 0.147,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 108,
+   "form": "Mattooma",
+   "gloss": "slave.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SLAVE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5109,
+    "y": 0.1613,
+    "w": 0.1764,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 109,
+   "form": "Daga",
+   "gloss": "bird.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5097,
+    "y": 0.1802,
+    "w": 0.1235,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 110,
+   "form": "Ouliā",
+   "gloss": "England.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5097,
+    "y": 0.1992,
+    "w": 0.167,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 111,
+   "form": "Americano",
+   "gloss": "American.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5103,
+    "y": 0.2166,
+    "w": 0.2322,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 112,
+   "form": "Hāpā",
+   "gloss": "here.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HERE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5109,
+    "y": 0.2351,
+    "w": 0.1305,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 113,
+   "form": "Kudthen",
+   "gloss": "apart.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5097,
+    "y": 0.2553,
+    "w": 0.1646,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 114,
+   "form": "Meshāharā",
+   "gloss": "wages, or pay.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "PAY",
+    "WAGES"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5097,
+    "y": 0.2749,
+    "w": 0.2757,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 115,
+   "form": "Karamoo",
+   "gloss": "feast.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5091,
+    "y": 0.2902,
+    "w": 0.1652,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 116,
+   "form": "Pāne",
+   "gloss": "lightning.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5097,
+    "y": 0.3098,
+    "w": 0.1681,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 117,
+   "form": "Tookānā",
+   "gloss": "blackguardism, or swearing.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5097,
+    "y": 0.3286,
+    "w": 0.3909,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 118,
+   "form": "Goom bāna",
+   "gloss": "not friends.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5103,
+    "y": 0.3455,
+    "w": 0.2434,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 119,
+   "form": "Lenā",
+   "gloss": "where.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WHERE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5085,
+    "y": 0.3635,
+    "w": 0.1417,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 120,
+   "form": "Sā fe re",
+   "gloss": "going to sea.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5091,
+    "y": 0.3837,
+    "w": 0.2287,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 121,
+   "form": "Marrā en gāpe",
+   "gloss": "how many times.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5091,
+    "y": 0.4015,
+    "w": 0.3327,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 122,
+   "form": "En gāpe",
+   "gloss": "how many.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5091,
+    "y": 0.4219,
+    "w": 0.2116,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 123,
+   "form": "Mahala gana",
+   "gloss": "what place.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5085,
+    "y": 0.439,
+    "w": 0.2646,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 124,
+   "form": "Mala",
+   "gloss": "merchandise.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "MERCHANDISE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5097,
+    "y": 0.456,
+    "w": 0.2034,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 125,
+   "form": "Lahabu",
+   "gloss": "gold.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "GOLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5085,
+    "y": 0.4753,
+    "w": 0.1464,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 126,
+   "form": "Feather",
+   "gloss": "silver.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SILVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5079,
+    "y": 0.4929,
+    "w": 0.1628,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 127,
+   "form": "Chābā",
+   "gloss": "brass.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BRASS"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5085,
+    "y": 0.5113,
+    "w": 0.1452,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 128,
+   "form": "Poo-ā",
+   "gloss": "steel.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "STEEL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5073,
+    "y": 0.5302,
+    "w": 0.1364,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 129,
+   "form": "Chuma",
+   "gloss": "iron.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5085,
+    "y": 0.5482,
+    "w": 0.137,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 130,
+   "form": "Me-te",
+   "gloss": "tree.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5073,
+    "y": 0.5664,
+    "w": 0.127,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 131,
+   "form": "Pouma-le",
+   "gloss": "yards [of a ship].",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5068,
+    "y": 0.5858,
+    "w": 0.2904,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 132,
+   "form": "Negota",
+   "gloss": "mast [of a ship].",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5073,
+    "y": 0.6045,
+    "w": 0.2634,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 133,
+   "form": "Mabing-oo",
+   "gloss": "cloud.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CLOUD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5073,
+    "y": 0.6227,
+    "w": 0.1869,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 134,
+   "form": "Nayota",
+   "gloss": "star.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5068,
+    "y": 0.6409,
+    "w": 0.1376,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 135,
+   "form": "Qua ka",
+   "gloss": "at his house.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.6584,
+    "w": 0.2199,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 136,
+   "form": "Tanga",
+   "gloss": "sail.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SAIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.6782,
+    "w": 0.1287,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 137,
+   "form": "Mācaboo",
+   "gloss": "vessel.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.6964,
+    "w": 0.1775,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 138,
+   "form": "Mo-she",
+   "gloss": "smoke.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SMOKE (INHALE)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.7149,
+    "w": 0.1628,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 139,
+   "form": "Roodeza",
+   "gloss": "return.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.7337,
+    "w": 0.1781,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 140,
+   "form": "Wa than egā",
+   "gloss": "what do you think of it.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.7517,
+    "w": 0.3921,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 141,
+   "form": "Ouwāwā",
+   "gloss": "fine.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FINE (PENALTY)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.7704,
+    "w": 0.1534,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 142,
+   "form": "Oochomgoo",
+   "gloss": "bitter.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BITTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.7894,
+    "w": 0.1981,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 143,
+   "form": "Tam-oo",
+   "gloss": "sweet.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SWEET"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.8074,
+    "w": 0.1599,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 144,
+   "form": "Cāseā",
+   "gloss": "owe.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "OWE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.8268,
+    "w": 0.1299,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 145,
+   "form": "Mahareba",
+   "gloss": "sundown.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.8449,
+    "w": 0.2128,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 146,
+   "form": "A la se-re",
+   "gloss": "about four o'clock [in the morning at cock-crowing].",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5068,
+    "y": 0.8631,
+    "w": 0.4027,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 147,
+   "form": "Mechana",
+   "gloss": "noon.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "NOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.505,
+    "y": 0.9015,
+    "w": 0.1664,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 148,
+   "form": "Hā nā",
+   "gloss": "he has not any.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.9188,
+    "w": 0.2393,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 149,
+   "form": "Boudā",
+   "gloss": "old man.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1047,
+    "y": 0.1026,
+    "w": 0.1733,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 150,
+   "form": "Keza",
+   "gloss": "dark.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "DARK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1053,
+    "y": 0.1223,
+    "w": 0.1257,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 151,
+   "form": "Negoomoo",
+   "gloss": "hard.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HARD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1041,
+    "y": 0.1415,
+    "w": 0.1798,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 152,
+   "form": "Māpeā",
+   "gloss": "new.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "NEW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1047,
+    "y": 0.1603,
+    "w": 0.1374,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 153,
+   "form": "Alāmā",
+   "gloss": "number.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "NUMBER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1041,
+    "y": 0.1777,
+    "w": 0.1721,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 154,
+   "form": "Mavoole",
+   "gloss": "umbrella.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "UMBRELLA"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1041,
+    "y": 0.1964,
+    "w": 0.2017,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 155,
+   "form": "Ooma que ba",
+   "gloss": "you stole it.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1035,
+    "y": 0.215,
+    "w": 0.2023,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 156,
+   "form": "Hapananitoo",
+   "gloss": "nobody.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1035,
+    "y": 0.234,
+    "w": 0.2023,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 157,
+   "form": "Coopatare",
+   "gloss": "last.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "LAST (FINAL)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1035,
+    "y": 0.2526,
+    "w": 0.1651,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 158,
+   "form": "Toon goosha",
+   "gloss": "turn it round.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1024,
+    "y": 0.2691,
+    "w": 0.2035,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 159,
+   "form": "See meka",
+   "gloss": "stand it up.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1035,
+    "y": 0.2875,
+    "w": 0.2023,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 160,
+   "form": "Sama-ke",
+   "gloss": "fish.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1029,
+    "y": 0.307,
+    "w": 0.1492,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 161,
+   "form": "Me me ra",
+   "gloss": "pour it out.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1029,
+    "y": 0.3266,
+    "w": 0.2029,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 162,
+   "form": "Se ma gee",
+   "gloss": "don't spill it.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1029,
+    "y": 0.345,
+    "w": 0.2029,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 163,
+   "form": "E-majar",
+   "gloss": "full.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FULL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1024,
+    "y": 0.3634,
+    "w": 0.1445,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 164,
+   "form": "Neja",
+   "gloss": "outside.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "OUTSIDE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1024,
+    "y": 0.3817,
+    "w": 0.1504,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 165,
+   "form": "He-itosha",
+   "gloss": "enough.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "ENOUGH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1024,
+    "y": 0.4003,
+    "w": 0.1998,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 166,
+   "form": "Tan gooka",
+   "gloss": "it will fall.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1012,
+    "y": 0.4172,
+    "w": 0.2046,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 167,
+   "form": "Gwabere-ke",
+   "gloss": "thank you.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1012,
+    "y": 0.4373,
+    "w": 0.2046,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 168,
+   "form": "Feneka",
+   "gloss": "cover.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "COVER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1006,
+    "y": 0.4564,
+    "w": 0.1598,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 169,
+   "form": "Ga-le",
+   "gloss": "dear.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "DEAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1006,
+    "y": 0.4742,
+    "w": 0.1286,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 170,
+   "form": "Taka",
+   "gloss": "duty.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1006,
+    "y": 0.4932,
+    "w": 0.1269,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 171,
+   "form": "Zema",
+   "gloss": "put out.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1024,
+    "y": 0.5111,
+    "w": 0.1586,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 172,
+   "form": "Cartar* se",
+   "gloss": "paper.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "PAPER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1018,
+    "y": 0.5321,
+    "w": 0.1915,
+    "h": 0.0173
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "footnote: * Portuguese, carta. — Edit.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 173,
+   "form": "Cālāmo",
+   "gloss": "pen.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "PEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1012,
+    "y": 0.5505,
+    "w": 0.1433,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 174,
+   "form": "Kondeker",
+   "gloss": "write.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WRITE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1006,
+    "y": 0.5666,
+    "w": 0.1762,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 175,
+   "form": "Winnu",
+   "gloss": "ink.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "INK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1006,
+    "y": 0.5854,
+    "w": 0.1327,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 176,
+   "form": "Zeātoo,†",
+   "gloss": "shoes.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1018,
+    "y": 0.604,
+    "w": 0.1651,
+    "h": 0.0173
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "footnote: † Qu. Portuguese, zapáto? — Edit.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 177,
+   "form": "Māungo",
+   "gloss": "back.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BACK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1,
+    "y": 0.6224,
+    "w": 0.1592,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 178,
+   "form": "Ouso",
+   "gloss": "forehead.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FOREHEAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0994,
+    "y": 0.6401,
+    "w": 0.1639,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 179,
+   "form": "Māchābou",
+   "gloss": "cheek.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CHEEK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1,
+    "y": 0.6585,
+    "w": 0.1933,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 180,
+   "form": "Zedola zumgo",
+   "gloss": "toes.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1,
+    "y": 0.6764,
+    "w": 0.2058,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 181,
+   "form": "Naye",
+   "gloss": "foot.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0994,
+    "y": 0.6964,
+    "w": 0.1198,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 182,
+   "form": "Segegu",
+   "gloss": "heel.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HEEL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1,
+    "y": 0.715,
+    "w": 0.1439,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 183,
+   "form": "Segeno",
+   "gloss": "ancle.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.1,
+    "y": 0.733,
+    "w": 0.1545,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 184,
+   "form": "Chaff",
+   "gloss": "calf.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CALF"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0994,
+    "y": 0.7505,
+    "w": 0.1204,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 185,
+   "form": "Padyā",
+   "gloss": "thigh.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "THIGH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1,
+    "y": 0.7699,
+    "w": 0.1463,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 186,
+   "form": "Coffee",
+   "gloss": "palm of hand.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.0994,
+    "y": 0.7872,
+    "w": 0.2064,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 187,
+   "form": "Conda",
+   "gloss": "hand.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1,
+    "y": 0.8054,
+    "w": 0.1416,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 188,
+   "form": "Mākoochā",
+   "gloss": "finger-nail.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.0994,
+    "y": 0.8254,
+    "w": 0.2064,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 189,
+   "form": "Zedola",
+   "gloss": "finger.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0988,
+    "y": 0.8434,
+    "w": 0.1598,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 190,
+   "form": "Kewoongo",
+   "gloss": "wrist.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WRIST"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.0988,
+    "y": 0.8617,
+    "w": 0.1821,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 191,
+   "form": "Cā-pwā",
+   "gloss": "arm-pit.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.5109,
+    "y": 0.1042,
+    "w": 0.1786,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 192,
+   "form": "Kefrua",
+   "gloss": "breast.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5103,
+    "y": 0.1219,
+    "w": 0.1586,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 193,
+   "form": "Maga",
+   "gloss": "leg.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5115,
+    "y": 0.1415,
+    "w": 0.1157,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 194,
+   "form": "Beggā",
+   "gloss": "shoulder.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SHOULDER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5115,
+    "y": 0.1597,
+    "w": 0.1804,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 195,
+   "form": "Segero",
+   "gloss": "elbow.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "ELBOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5115,
+    "y": 0.1785,
+    "w": 0.1539,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 196,
+   "form": "Mercono",
+   "gloss": "arm.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5109,
+    "y": 0.1972,
+    "w": 0.1539,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 197,
+   "form": "Go-at",
+   "gloss": "knee.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5098,
+    "y": 0.2144,
+    "w": 0.1339,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 198,
+   "form": "Tumbo",
+   "gloss": "belly.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5092,
+    "y": 0.234,
+    "w": 0.1504,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 199,
+   "form": "Davu",
+   "gloss": "beard.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5092,
+    "y": 0.2521,
+    "w": 0.1404,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 200,
+   "form": "King-wa",
+   "gloss": "jaw.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "JAW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5086,
+    "y": 0.2713,
+    "w": 0.1521,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 201,
+   "form": "Oulemā",
+   "gloss": "tongue.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5086,
+    "y": 0.2909,
+    "w": 0.1739,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 202,
+   "form": "Cādavu",
+   "gloss": "chin.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CHIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5092,
+    "y": 0.3077,
+    "w": 0.148,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 203,
+   "form": "Domo",
+   "gloss": "mouth.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5092,
+    "y": 0.3262,
+    "w": 0.1504,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 204,
+   "form": "Mano",
+   "gloss": "teeth.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5092,
+    "y": 0.3444,
+    "w": 0.1345,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 205,
+   "form": "Noush",
+   "gloss": "eyebrow.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "EYEBROW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5092,
+    "y": 0.364,
+    "w": 0.1757,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 206,
+   "form": "Oucopawādu",
+   "gloss": "eyelash.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "EYELASH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5092,
+    "y": 0.3823,
+    "w": 0.2315,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 207,
+   "form": "Macho",
+   "gloss": "eye.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5086,
+    "y": 0.4023,
+    "w": 0.1327,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 208,
+   "form": "Pouā",
+   "gloss": "nose.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5092,
+    "y": 0.4191,
+    "w": 0.1275,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 209,
+   "form": "Muskeo",
+   "gloss": "ear.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5098,
+    "y": 0.4381,
+    "w": 0.138,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 210,
+   "form": "Kechor",
+   "gloss": "head.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.508,
+    "y": 0.4562,
+    "w": 0.1504,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 211,
+   "form": "Sofera",
+   "gloss": "pot.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "POT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.508,
+    "y": 0.476,
+    "w": 0.1251,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 212,
+   "form": "Chooroona",
+   "gloss": "missing.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.5086,
+    "y": 0.494,
+    "w": 0.2109,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 213,
+   "form": "Cooyou-a",
+   "gloss": "drink.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.508,
+    "y": 0.5123,
+    "w": 0.1774,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 214,
+   "form": "Sān gārpy sarsa",
+   "gloss": "what o'clock.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.5074,
+    "y": 0.5295,
+    "w": 0.3121,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 215,
+   "form": "Cassa gā-ne",
+   "gloss": "what price.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.5068,
+    "y": 0.5493,
+    "w": 0.2574,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 216,
+   "form": "Coubā",
+   "gloss": "large.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.508,
+    "y": 0.5683,
+    "w": 0.1469,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 217,
+   "form": "Wā-le",
+   "gloss": "boiled rice.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.5074,
+    "y": 0.5846,
+    "w": 0.1992,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 218,
+   "form": "Wemba",
+   "gloss": "razor.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "RAZOR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5074,
+    "y": 0.605,
+    "w": 0.1604,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 219,
+   "form": "Dare-ne",
+   "gloss": "up stairs.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.5062,
+    "y": 0.6226,
+    "w": 0.1956,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 220,
+   "form": "Ramgā",
+   "gloss": "paint.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "PAINT (PIGMENTS)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5062,
+    "y": 0.6419,
+    "w": 0.1527,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 221,
+   "form": "Megā-me",
+   "gloss": "grass.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "GRASS"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5074,
+    "y": 0.6623,
+    "w": 0.1739,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 222,
+   "form": "Bon",
+   "gloss": "board.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BOARD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5062,
+    "y": 0.6781,
+    "w": 0.1257,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 223,
+   "form": "Neyou-ala",
+   "gloss": "hair.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5056,
+    "y": 0.6977,
+    "w": 0.171,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 224,
+   "form": "Mecā seā",
+   "gloss": "ear.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5056,
+    "y": 0.7158,
+    "w": 0.1568,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 225,
+   "form": "Kouse",
+   "gloss": "black.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5051,
+    "y": 0.7338,
+    "w": 0.1463,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 226,
+   "form": "Munjano",
+   "gloss": "yellow.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "YELLOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5051,
+    "y": 0.7528,
+    "w": 0.181,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 227,
+   "form": "Mecotanaze",
+   "gloss": "green.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "GREEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5045,
+    "y": 0.773,
+    "w": 0.2056,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 228,
+   "form": "Pomgoosha",
+   "gloss": "wipe.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WIPE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5045,
+    "y": 0.7899,
+    "w": 0.188,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 229,
+   "form": "Vevu",
+   "gloss": "lazy.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "LAZY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5045,
+    "y": 0.8081,
+    "w": 0.1239,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 230,
+   "form": "Neja",
+   "gloss": "outside.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "OUTSIDE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5045,
+    "y": 0.8268,
+    "w": 0.1469,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 231,
+   "form": "Cutecate",
+   "gloss": "mud.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "MUD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5051,
+    "y": 0.8442,
+    "w": 0.1604,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 232,
+   "form": "Toneka",
+   "gloss": "cover.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "COVER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5051,
+    "y": 0.863,
+    "w": 0.1586,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 233,
+   "form": "Choocooā",
+   "gloss": "carry.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CARRY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5045,
+    "y": 0.8834,
+    "w": 0.1798,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 234,
+   "form": "Coonja",
+   "gloss": "double.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 2,
+    "x": 0.5039,
+    "y": 0.8999,
+    "w": 0.1633,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 235,
+   "form": "Nayola",
+   "gloss": "shave.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SHAVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5027,
+    "y": 0.9187,
+    "w": 0.1574,
+    "h": 0.0173
+   }
+  },
+  {
+   "n": 236,
+   "form": "Tiare",
+   "gloss": "ready.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "READY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1036,
+    "y": 0.1065,
+    "w": 0.1431,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 237,
+   "form": "Potaza",
+   "gloss": "lost.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1048,
+    "y": 0.1242,
+    "w": 0.1325,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 238,
+   "form": "Poorooma",
+   "gloss": "push.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "PUSH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1042,
+    "y": 0.1436,
+    "w": 0.1737,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 239,
+   "form": "Popota",
+   "gloss": "any time.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.106,
+    "y": 0.1616,
+    "w": 0.1831,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 240,
+   "form": "Rahese",
+   "gloss": "cheap.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CHEAP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1042,
+    "y": 0.1808,
+    "w": 0.1596,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 241,
+   "form": "Reesha",
+   "gloss": "thin.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "THIN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1031,
+    "y": 0.1977,
+    "w": 0.1396,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 242,
+   "form": "Wa ka oo pan da roo",
+   "gloss": "put it this side.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1036,
+    "y": 0.2163,
+    "w": 0.2015,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 243,
+   "form": "Wa ka oo pan da wa pe la",
+   "gloss": "put it that side.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1025,
+    "y": 0.2355,
+    "w": 0.2026,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 244,
+   "form": "Wā kam ba la",
+   "gloss": "keep separate.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1031,
+    "y": 0.2726,
+    "w": 0.2021,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 245,
+   "form": "Pala pala",
+   "gloss": "the same place.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1013,
+    "y": 0.2912,
+    "w": 0.2038,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 246,
+   "form": "Ta fa tha le",
+   "gloss": "if you please.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1013,
+    "y": 0.3081,
+    "w": 0.2038,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 247,
+   "form": "Me me na",
+   "gloss": "put it down.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1007,
+    "y": 0.3285,
+    "w": 0.2044,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 248,
+   "form": "Whas a ta",
+   "gloss": "light the lamp.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1001,
+    "y": 0.3469,
+    "w": 0.205,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 249,
+   "form": "Ye a to ra",
+   "gloss": "where did it come from.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1001,
+    "y": 0.3636,
+    "w": 0.205,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 250,
+   "form": "Ye a nooka",
+   "gloss": "smells bad.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1001,
+    "y": 0.3822,
+    "w": 0.205,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 251,
+   "form": "High do roo",
+   "gloss": "never mind.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1001,
+    "y": 0.402,
+    "w": 0.205,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 252,
+   "form": "Coo me za",
+   "gloss": "did it hurt ?",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1013,
+    "y": 0.4187,
+    "w": 0.2038,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 253,
+   "form": "Se ta ra",
+   "gloss": "I don't want to.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1019,
+    "y": 0.4385,
+    "w": 0.2032,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 254,
+   "form": "Pa soo a",
+   "gloss": "don't tear it.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1019,
+    "y": 0.4567,
+    "w": 0.2032,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 255,
+   "form": "Coo na ne ne",
+   "gloss": "what 's the matter ?",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1013,
+    "y": 0.4744,
+    "w": 0.2038,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 256,
+   "form": "Wa cha ka ne ne",
+   "gloss": "why do you laugh ?",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1013,
+    "y": 0.4949,
+    "w": 0.2038,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 257,
+   "form": "Ha too fa-ne-be-a-cha-ra",
+   "gloss": "we can't trade.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.0995,
+    "y": 0.5132,
+    "w": 0.2056,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 258,
+   "form": "Na rwe ta",
+   "gloss": "he calls you.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1001,
+    "y": 0.5508,
+    "w": 0.205,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 259,
+   "form": "Wen da na nane",
+   "gloss": "who are you going with ?",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.0995,
+    "y": 0.5693,
+    "w": 0.2056,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 260,
+   "form": "Se pen da",
+   "gloss": "I don't like it.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.0995,
+    "y": 0.6042,
+    "w": 0.2056,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 261,
+   "form": "Wa to ka whappy",
+   "gloss": "where did you come from ?",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.1001,
+    "y": 0.6242,
+    "w": 0.205,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 262,
+   "form": "Na ne gin ā lā roo",
+   "gloss": "what is your name?",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.0984,
+    "y": 0.6618,
+    "w": 0.2068,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 263,
+   "form": "Ye a maza ma na no",
+   "gloss": "stop that talk.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.0989,
+    "y": 0.6806,
+    "w": 0.2062,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 264,
+   "form": "Nde vio",
+   "gloss": "that is it.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "THAT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.0984,
+    "y": 0.6983,
+    "w": 0.1907,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 265,
+   "form": "Goza",
+   "gloss": "piece.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "PIECE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.0989,
+    "y": 0.7189,
+    "w": 0.1319,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 266,
+   "form": "Car-le",
+   "gloss": "hot.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HOT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1001,
+    "y": 0.7373,
+    "w": 0.1243,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 267,
+   "form": "Nau our ba",
+   "gloss": "I hope.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.0989,
+    "y": 0.7561,
+    "w": 0.2062,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 268,
+   "form": "Papata",
+   "gloss": "lifted.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.0984,
+    "y": 0.7749,
+    "w": 0.1478,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 269,
+   "form": "Sahaboo",
+   "gloss": "raisins.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.0984,
+    "y": 0.7928,
+    "w": 0.1772,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 270,
+   "form": "Ca na he",
+   "gloss": "same as this.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.0984,
+    "y": 0.8116,
+    "w": 0.2068,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 271,
+   "form": "Yaka",
+   "gloss": "own.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "OWN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5105,
+    "y": 0.1071,
+    "w": 0.1266,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 272,
+   "form": "Quanga",
+   "gloss": "before.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BEFORE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5099,
+    "y": 0.1253,
+    "w": 0.169,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 273,
+   "form": "Haba-re",
+   "gloss": "news.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "NEWS"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5099,
+    "y": 0.1444,
+    "w": 0.1607,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 274,
+   "form": "Duffta-re",
+   "gloss": "book.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BOOK"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5075,
+    "y": 0.1614,
+    "w": 0.1648,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 275,
+   "form": "Sena",
+   "gloss": "have not any.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.5081,
+    "y": 0.18,
+    "w": 0.2072,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 276,
+   "form": "Newnew-a",
+   "gloss": "buy.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BUY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5075,
+    "y": 0.1997,
+    "w": 0.1701,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 277,
+   "form": "Cooza",
+   "gloss": "sold.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.5075,
+    "y": 0.2178,
+    "w": 0.1701,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 278,
+   "form": "Sheka",
+   "gloss": "hold.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HOLD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5075,
+    "y": 0.2359,
+    "w": 0.1701,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 279,
+   "form": "Muesha",
+   "gloss": "last.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "LAST (FINAL)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5069,
+    "y": 0.254,
+    "w": 0.1396,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 280,
+   "form": "Cavoo",
+   "gloss": "dry.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "DRY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5069,
+    "y": 0.2736,
+    "w": 0.1249,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 281,
+   "form": "Maquetā",
+   "gloss": "call.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CALL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5063,
+    "y": 0.2918,
+    "w": 0.1531,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 282,
+   "form": "Rupta",
+   "gloss": "bale.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.5058,
+    "y": 0.31,
+    "w": 0.1319,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 283,
+   "form": "Hesaboo",
+   "gloss": "figures.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.5063,
+    "y": 0.3297,
+    "w": 0.1848,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 284,
+   "form": "Bāre-de",
+   "gloss": "cold.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5046,
+    "y": 0.3469,
+    "w": 0.1496,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 285,
+   "form": "Machora",
+   "gloss": "tired.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TIRED"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5052,
+    "y": 0.3653,
+    "w": 0.1613,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 286,
+   "form": "La bou dā",
+   "gloss": "I think so.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.5046,
+    "y": 0.383,
+    "w": 0.2295,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 287,
+   "form": "Se gu ā",
+   "gloss": "I don't know.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.5058,
+    "y": 0.4016,
+    "w": 0.233,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 288,
+   "form": "Quālā",
+   "gloss": "true.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TRUE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5052,
+    "y": 0.4208,
+    "w": 0.1302,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 289,
+   "form": "Fida",
+   "gloss": "profit.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.5058,
+    "y": 0.4404,
+    "w": 0.1196,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 290,
+   "form": "Sāfā",
+   "gloss": "clean.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "CLEAN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5058,
+    "y": 0.4583,
+    "w": 0.1296,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 291,
+   "form": "Yaomu",
+   "gloss": "ache.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "ACHE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.504,
+    "y": 0.4767,
+    "w": 0.1466,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 292,
+   "form": "Mapeshe",
+   "gloss": "cook.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "COOK (PERSON)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.504,
+    "y": 0.4957,
+    "w": 0.1466,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 293,
+   "form": "Cosha",
+   "gloss": "wash.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "WASH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.504,
+    "y": 0.5146,
+    "w": 0.1466,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 294,
+   "form": "Kejana",
+   "gloss": "boy.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.504,
+    "y": 0.5336,
+    "w": 0.1354,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 295,
+   "form": "Hā-re",
+   "gloss": "sweat.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SWEAT (PERSPIRE)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5058,
+    "y": 0.5512,
+    "w": 0.1449,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 296,
+   "form": "Tuā",
+   "gloss": "lower.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.5058,
+    "y": 0.5698,
+    "w": 0.1449,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 297,
+   "form": "Twaka",
+   "gloss": "hoist.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.5034,
+    "y": 0.5885,
+    "w": 0.1431,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 298,
+   "form": "Yarrebo",
+   "gloss": "try.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TRY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5028,
+    "y": 0.6085,
+    "w": 0.1413,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 299,
+   "form": "Ma-un-go",
+   "gloss": "God.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5028,
+    "y": 0.6265,
+    "w": 0.1437,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 300,
+   "form": "Shatan",
+   "gloss": "devil.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "DEVIL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.504,
+    "y": 0.6446,
+    "w": 0.1437,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 301,
+   "form": "E-māmu",
+   "gloss": "priest.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "PRIEST"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.504,
+    "y": 0.6629,
+    "w": 0.1437,
+    "h": 0.0152,
+    "approx": true
+   }
+  },
+  {
+   "n": 302,
+   "form": "Vouā",
+   "gloss": "rain.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.504,
+    "y": 0.6812,
+    "w": 0.1225,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 303,
+   "form": "Godoro",
+   "gloss": "bed.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "BED"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5034,
+    "y": 0.6997,
+    "w": 0.1372,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 304,
+   "form": "Tabebe",
+   "gloss": "doctor.",
+   "section": "Vocabulary of the Soahili Language.",
+   "box": {
+    "page": 3,
+    "x": 0.5028,
+    "y": 0.7181,
+    "w": 0.166,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 305,
+   "form": "Chuo-ne",
+   "gloss": "school.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SCHOOL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.504,
+    "y": 0.7367,
+    "w": 0.1748,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 306,
+   "form": "Marlim",
+   "gloss": "teacher.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "TEACHER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.504,
+    "y": 0.7549,
+    "w": 0.1725,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 307,
+   "form": "Car-the",
+   "gloss": "judge.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "JUDGE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5034,
+    "y": 0.7744,
+    "w": 0.159,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 308,
+   "form": "Papo-ne",
+   "gloss": "heaven.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.504,
+    "y": 0.793,
+    "w": 0.1825,
+    "h": 0.0152
+   }
+  },
+  {
+   "n": 309,
+   "form": "Motto-ne",
+   "gloss": "hell.",
+   "section": "Vocabulary of the Soahili Language.",
+   "concepts": [
+    "HELL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5034,
+    "y": 0.8106,
+    "w": 0.1531,
+    "h": 0.0152
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 309,
+  "notes": 4,
+  "located": 309
+ },
+ "partial": null,
+ "relation": null
+}

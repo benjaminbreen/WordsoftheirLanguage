@@ -78,6 +78,13 @@
    "form": "Hippo ilk Meco",
    "gloss": "M'Gillivray, or the good Child King",
    "section": "Catalogue of Indian Words",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name/title",
+    "compare": null,
+    "checked": false
+   },
    "box": {
     "page": 0,
     "x": 0.2716,
@@ -96,6 +103,13 @@
     "DO",
     "MAN"
    ],
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Do. = M'Gillivray",
+    "compare": null,
+    "checked": false
+   },
    "box": {
     "page": 0,
     "x": 0.2716,
@@ -117,6 +131,13 @@
     "w": 0.1201,
     "h": 0.0148,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -130,6 +151,13 @@
     "y": 0.722,
     "w": 0.1201,
     "h": 0.0148
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -143,6 +171,13 @@
     "y": 0.7319,
     "w": 0.1218,
     "h": 0.0148
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -157,13 +192,27 @@
     "w": 0.1002,
     "h": 0.0148,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name?",
+    "compare": null,
+    "checked": false
    }
   },
   {
    "n": 8,
    "form": "Cowawigee",
    "gloss": "Mr. Thomas Kerr, or the Little Partridge",
-   "section": "Catalogue of Indian Words"
+   "section": "Catalogue of Indian Words",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name",
+    "compare": null,
+    "checked": false
+   }
   },
   {
    "n": 9,
@@ -179,6 +228,13 @@
     "y": 0.6714,
     "w": 0.1528,
     "h": 0.0148
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -186,6 +242,13 @@
    "form": "Chuleſenekaw",
    "gloss": "the mad Dog",
    "section": "Catalogue of Indian Words",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name",
+    "compare": null,
+    "checked": false
+   },
    "box": {
     "page": 0,
     "x": 0.4521,
@@ -207,6 +270,13 @@
     "w": 0.1607,
     "h": 0.0148,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -214,6 +284,13 @@
    "form": "Senetehawgo",
    "gloss": "wait for the Day",
    "section": "Catalogue of Indian Words",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name",
+    "compare": null,
+    "checked": false
+   },
    "box": {
     "page": 0,
     "x": 0.4521,
@@ -235,13 +312,27 @@
     "w": 0.2053,
     "h": 0.0148,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "personal name",
+    "compare": null,
+    "checked": false
    }
   },
   {
    "n": 14,
    "form": "Miſs Sukee",
    "gloss": "",
-   "section": "Catalogue of Indian Words"
+   "section": "Catalogue of Indian Words",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "no gloss printed; column ends at catchword",
+    "compare": null,
+    "checked": false
+   }
   },
   {
    "n": 15,
@@ -287,6 +378,13 @@
     "y": 0.2453,
     "w": 0.0188,
     "h": 0.01
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "reading of final letters uncertain (cvu/cwu)",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -742,6 +840,13 @@
     "w": 0.0188,
     "h": 0.01,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed without space",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -792,6 +897,13 @@
     "w": 0.0227,
     "h": 0.01,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "gloss in Latin",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -805,6 +917,13 @@
     "y": 0.592,
     "w": 0.0227,
     "h": 0.01
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "gloss in Latin",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -818,6 +937,13 @@
     "y": 0.2265,
     "w": 0.1842,
     "h": 0.01
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "gloss in Latin",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -825,6 +951,13 @@
    "form": "Hieſka",
    "gloss": "Fœminam ſubagitare",
    "section": "Catalogue of Indian Words",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "gloss in Latin",
+    "compare": null,
+    "checked": false
+   },
    "box": {
     "page": 1,
     "x": 0.549,
@@ -1090,6 +1223,13 @@
     "w": 0.199,
     "h": 0.01,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "phrase",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1104,6 +1244,13 @@
     "w": 0.1998,
     "h": 0.01,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "phrase",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1118,6 +1265,13 @@
     "w": 0.1042,
     "h": 0.01,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "phrase",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1125,6 +1279,13 @@
    "form": "Iſte nata iſca?",
    "gloss": "where did you come from?",
    "section": "Catalogue of Indian Words",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "phrase",
+    "compare": null,
+    "checked": false
+   },
    "box": {
     "page": 1,
     "x": 0.5671,
@@ -1146,6 +1307,13 @@
     "w": 0.1183,
     "h": 0.01,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "phrase",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1250,7 +1418,14 @@
    "n": 80,
    "form": "Telawgo Hatchee",
    "gloss": "Pea Creek",
-   "section": "River and creek names near Pensacola"
+   "section": "River and creek names near Pensacola",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "place-name, in running text below list",
+    "compare": null,
+    "checked": false
+   }
   },
   {
    "n": 81,
@@ -1264,6 +1439,13 @@
     "w": 0.4422,
     "h": 0.01,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "place-name, in running text",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1277,6 +1459,13 @@
     "y": 0.6556,
     "w": 0.4422,
     "h": 0.01
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "place-name, in running text",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1290,6 +1479,13 @@
     "y": 0.6805,
     "w": 0.3778,
     "h": 0.01
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "place-name, in running text",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1303,6 +1499,13 @@
     "y": 0.705,
     "w": 0.3786,
     "h": 0.01
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "place-name, in running text",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1316,19 +1519,33 @@
     "y": 0.705,
     "w": 0.3786,
     "h": 0.01
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "place-name, in running text",
+    "compare": null,
+    "checked": false
    }
   },
   {
    "n": 86,
    "form": "Conakee Hatchee",
    "gloss": "",
-   "section": "River and creek names near Pensacola"
+   "section": "River and creek names near Pensacola",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "place-name, in running text; no translation (forms the Bay of Penſacola)",
+    "compare": null,
+    "checked": false
+   }
   }
  ],
  "identification": null,
  "stats": {
   "entries": 86,
-  "notes": 0,
+  "notes": 31,
   "located": 82
  },
  "partial": null,

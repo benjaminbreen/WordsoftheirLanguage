@@ -1709,6 +1709,13 @@
     "y": 0.8416,
     "w": 0.2324,
     "h": 0.0152
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed identical to 16",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1957,6 +1964,13 @@
     "y": 0.3449,
     "w": 0.3336,
     "h": 0.0152
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed identical to 600",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -2222,6 +2236,13 @@
     "y": 0.537,
     "w": 0.2189,
     "h": 0.014
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed identical to six",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -3344,7 +3365,7 @@
  "identification": null,
  "stats": {
   "entries": 226,
-  "notes": 0,
+  "notes": 3,
   "located": 210
  },
  "partial": null,

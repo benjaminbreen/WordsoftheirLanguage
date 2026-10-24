@@ -239,6 +239,13 @@
     "y": 0.4548,
     "w": 0.1761,
     "h": 0.0152
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed in running text: \"Ten is also represented by Wôn-ei\"",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -323,7 +330,14 @@
    "n": 21,
    "form": "Soó-pah stĕ-reī",
    "gloss": "40",
-   "section": "NUMERALS"
+   "section": "NUMERALS",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed \"and so on to 90\"",
+    "compare": null,
+    "checked": false
+   }
   },
   {
    "n": 22,
@@ -359,7 +373,14 @@
    "n": 26,
    "form": "Soó-pah see-voo",
    "gloss": "400",
-   "section": "NUMERALS"
+   "section": "NUMERALS",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed \"&c.\"",
+    "compare": null,
+    "checked": false
+   }
   },
   {
    "n": 27,
@@ -586,6 +607,13 @@
     "y": 0.6592,
     "w": 0.1881,
     "h": 0.0152
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed note: \"The first includes boys, the second girls\"",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -823,7 +851,14 @@
    "n": 61,
    "form": "ma-san",
    "gloss": "——",
-   "section": "ARTICLES OF DRESS AND FURNITURE"
+   "section": "ARTICLES OF DRESS AND FURNITURE",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "gloss printed as a dash (ditto?) after Petticoat; meaning unclear",
+    "compare": null,
+    "checked": false
+   }
   },
   {
    "n": 62,
@@ -1725,7 +1760,7 @@
  "identification": null,
  "stats": {
   "entries": 127,
-  "notes": 0,
+  "notes": 5,
   "located": 99
  },
  "partial": null,

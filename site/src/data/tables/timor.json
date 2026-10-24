@@ -201,6 +201,13 @@
     "w": 0.4562,
     "h": 0.0244,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "no final stop printed; long s (ſ) normalised to s",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -547,6 +554,13 @@
     "w": 0.3421,
     "h": 0.025,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "gloss abbreviated: gemeen man; long s (ſ) normalised to s",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -625,6 +639,13 @@
     "y": 0.5085,
     "w": 0.5938,
     "h": 0.025
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "form printed 'ouſſ' or 'ouff' (long s ligature ambiguous); long s (ſ) normalised to s",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -704,6 +725,13 @@
     "y": 0.655,
     "w": 0.5662,
     "h": 0.025
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "'Au ouf' could be 'Au ouſ'; long s (ſ) normalised to s",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -813,6 +841,13 @@
     "y": 0.1334,
     "w": 0.5421,
     "h": 0.0237
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "accent on final i uncertain (Moukí/Mouké); long s (ſ) normalised to s",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -866,6 +901,13 @@
     "y": 0.2316,
     "w": 0.1234,
     "h": 0.0237
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "'Maſſé', final letter partly unclear; long s (ſ) normalised to s",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -879,6 +921,13 @@
     "y": 0.2585,
     "w": 0.6317,
     "h": 0.0237
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "form badly printed: 'Touak k ſſi' (T resembles 7); spacing as printed; long s (ſ) normalised to s",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -919,6 +968,13 @@
     "y": 0.3281,
     "w": 0.636,
     "h": 0.0237
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "'ousl' possibly 'ouſt' (long s + t?); long s (ſ) normalised to s",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1304,6 +1360,13 @@
     "w": 0.5326,
     "h": 0.0249,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "'Anit' could be 'Amt'; long s (ſ) normalised to s",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1502,7 +1565,7 @@
  "identification": null,
  "stats": {
   "entries": 107,
-  "notes": 0,
+  "notes": 9,
   "located": 104
  },
  "partial": null,

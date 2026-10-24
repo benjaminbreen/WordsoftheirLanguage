@@ -1,0 +1,3426 @@
+{
+ "schema": 1,
+ "id": "kafir",
+ "wtl": "WTL-0035",
+ "heading": "List of Kāfir words, compared with those given by Sir A. Burnes.",
+ "headings": [
+  "IV.—NUMERALS. CARDINAL NUMBERS.",
+  "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+  "APPENDIX II. List of Kūhistānī (Kooner) Words."
+ ],
+ "language": {
+  "name": "Kafir (Nuristani) and Kuhistani",
+  "glottocode": "",
+  "family": null,
+  "path": [],
+  "labels": [
+   "Burnes",
+   "Kāfir",
+   "Kūhistānī (Kooner)"
+  ]
+ },
+ "region": "Asia",
+ "book": {
+  "short": "On the Language of the So-called Kafirs of the Indian Caucasus",
+  "title": "On the Language of the so-called Kafirs of the Indian Caucasus",
+  "author": "Ernest Trumpp",
+  "printed": 1862,
+  "imprint": "Journal of the Royal Asiatic Society of Great Britain and Ireland, 19, 1862, pp. 1-29",
+  "tcp": "",
+  "cover": "kafir"
+ },
+ "provenance": {
+  "collector": "Ernest Trumpp, from three Kafirs recruited by Major Lumsden at Mardan and sent to Peshawar via Col. Herbert Edwardes, with Muhammad Rasul, a Kuhistani of Panjcore, as interpreter",
+  "place": "Peshawar",
+  "heard": "1859 (end of March)"
+ },
+ "scan": {
+  "ia": "jstor-25228711",
+  "url": "https://archive.org/details/jstor-25228711",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Trumpp took down the Kafir words at Peshawar from three Kafir men brought from Mardan, with the Panjcore Kuhistani Muhammad Rasul interpreting, and added a short Kuhistani (Kooner) list and Burnes's earlier forms for comparison.",
+ "pages": [
+  {
+   "leaf": 14,
+   "w": 1525,
+   "h": 2425,
+   "sm": "/scans/kafir/0014-900.webp",
+   "lg": "/scans/kafir/0014-1800.webp"
+  },
+  {
+   "leaf": 23,
+   "w": 1525,
+   "h": 2425,
+   "sm": "/scans/kafir/0023-900.webp",
+   "lg": "/scans/kafir/0023-1800.webp"
+  },
+  {
+   "leaf": 24,
+   "w": 1525,
+   "h": 2425,
+   "sm": "/scans/kafir/0024-900.webp",
+   "lg": "/scans/kafir/0024-1800.webp"
+  },
+  {
+   "leaf": 25,
+   "w": 1525,
+   "h": 2425,
+   "sm": "/scans/kafir/0025-900.webp",
+   "lg": "/scans/kafir/0025-1800.webp"
+  },
+  {
+   "leaf": 26,
+   "w": 1525,
+   "h": 2425,
+   "sm": "/scans/kafir/0026-900.webp",
+   "lg": "/scans/kafir/0026-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "ăčh",
+   "gloss": "One",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1157,
+    "y": 0.4754,
+    "w": 0.2406,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 2,
+   "form": "dŭ",
+   "gloss": "Two",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1157,
+    "y": 0.4996,
+    "w": 0.2406,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 3,
+   "form": "trĕ",
+   "gloss": "Three",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1176,
+    "y": 0.5233,
+    "w": 0.2387,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 4,
+   "form": "tsadā",
+   "gloss": "Four",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1203,
+    "y": 0.5476,
+    "w": 0.236,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 5,
+   "form": "punts",
+   "gloss": "Five",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1235,
+    "y": 0.5703,
+    "w": 0.2328,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 6,
+   "form": "šu",
+   "gloss": "Six",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1216,
+    "y": 0.5936,
+    "w": 0.2347,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 7,
+   "form": "sūt",
+   "gloss": "Seven",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1222,
+    "y": 0.6173,
+    "w": 0.2341,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 8,
+   "form": "ušt",
+   "gloss": "Eight",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1242,
+    "y": 0.6425,
+    "w": 0.2321,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 9,
+   "form": "nŭ",
+   "gloss": "Nine",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1242,
+    "y": 0.6647,
+    "w": 0.2321,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 10,
+   "form": "dŏs",
+   "gloss": "Ten",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1242,
+    "y": 0.6878,
+    "w": 0.2321,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 11,
+   "form": "jŭnis",
+   "gloss": "Eleven",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "ELEVEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1255,
+    "y": 0.7101,
+    "w": 0.2308,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 12,
+   "form": "bĭis",
+   "gloss": "Twelve",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "TWELVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1235,
+    "y": 0.733,
+    "w": 0.2328,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 13,
+   "form": "trĭis",
+   "gloss": "Thirteen",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "THIRTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1235,
+    "y": 0.7552,
+    "w": 0.2328,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 14,
+   "form": "tsōdis",
+   "gloss": "Fourteen",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "FOURTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1242,
+    "y": 0.779,
+    "w": 0.2321,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 15,
+   "form": "pătsis",
+   "gloss": "Fifteen",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "FIFTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1249,
+    "y": 0.8016,
+    "w": 0.2314,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 16,
+   "form": "šŭris",
+   "gloss": "Sixteen",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "SIXTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1249,
+    "y": 0.8016,
+    "w": 0.2314,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 17,
+   "form": "satăis",
+   "gloss": "Seventeen",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "SEVENTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1249,
+    "y": 0.8484,
+    "w": 0.2314,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 18,
+   "form": "ăštais",
+   "gloss": "Eighteen",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "EIGHTEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1255,
+    "y": 0.8744,
+    "w": 0.2308,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 19,
+   "form": "usū",
+   "gloss": "Nineteen",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "NINETEEN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1255,
+    "y": 0.8967,
+    "w": 0.2308,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 20,
+   "form": "vĭši",
+   "gloss": "Twenty",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "TWENTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1255,
+    "y": 0.9225,
+    "w": 0.2308,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 21,
+   "form": "višāčh",
+   "gloss": "Twenty-one",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.5039,
+    "y": 0.4765,
+    "w": 0.2906,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 22,
+   "form": "višādŭ",
+   "gloss": "Twenty-two",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.5045,
+    "y": 0.5002,
+    "w": 0.2926,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 23,
+   "form": "višātrĕ",
+   "gloss": "Twenty-three",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.5052,
+    "y": 0.5241,
+    "w": 0.2946,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 24,
+   "form": "višātsadā",
+   "gloss": "Twenty-four",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.5078,
+    "y": 0.5705,
+    "w": 0.3214,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 25,
+   "form": "višāpunts",
+   "gloss": "Twenty-five",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.5078,
+    "y": 0.5705,
+    "w": 0.3214,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 26,
+   "form": "višāšu",
+   "gloss": "Twenty-six",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.5078,
+    "y": 0.5705,
+    "w": 0.3214,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 27,
+   "form": "višāsūt",
+   "gloss": "Twenty-seven",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.5078,
+    "y": 0.5705,
+    "w": 0.3214,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 28,
+   "form": "višā-ušt",
+   "gloss": "Twenty-eight",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.5091,
+    "y": 0.6416,
+    "w": 0.3031,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 29,
+   "form": "višānŭ",
+   "gloss": "Twenty-nine",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.5098,
+    "y": 0.6649,
+    "w": 0.2913,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 30,
+   "form": "višā-dŏs",
+   "gloss": "Thirty",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "THIRTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5104,
+    "y": 0.688,
+    "w": 0.307,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 31,
+   "form": "dŭ-iši",
+   "gloss": "Forty",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "FORTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5117,
+    "y": 0.7103,
+    "w": 0.2801,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 32,
+   "form": "dŭ-išā-dŏs",
+   "gloss": "Fifty",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "FIFTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5117,
+    "y": 0.7336,
+    "w": 0.3332,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 33,
+   "form": "trē-viši",
+   "gloss": "Sixty",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "SIXTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5117,
+    "y": 0.7571,
+    "w": 0.2965,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 34,
+   "form": "trē-viši-dŏs",
+   "gloss": "Seventy",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "SEVENTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5117,
+    "y": 0.7802,
+    "w": 0.3398,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 35,
+   "form": "tsădā-viši",
+   "gloss": "Eighty",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "EIGHTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5144,
+    "y": 0.8035,
+    "w": 0.3221,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 36,
+   "form": "tsadā-viši-dŏs",
+   "gloss": "Ninety",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "concepts": [
+    "NINETY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.513,
+    "y": 0.8264,
+    "w": 0.366,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 37,
+   "form": "punč",
+   "gloss": "One hundred",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.513,
+    "y": 0.8491,
+    "w": 0.2736,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 38,
+   "form": "dŭšjī",
+   "gloss": "Two hundred",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.5137,
+    "y": 0.8717,
+    "w": 0.2716,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 39,
+   "form": "patsišjī",
+   "gloss": "Three hundred",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.513,
+    "y": 0.8965,
+    "w": 0.3011,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 40,
+   "form": "viši-vĭši",
+   "gloss": "Four hundred",
+   "section": "IV.—NUMERALS. CARDINAL NUMBERS.",
+   "col": "Kāfir",
+   "box": {
+    "page": 0,
+    "x": 0.513,
+    "y": 0.9196,
+    "w": 0.307,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 41,
+   "form": "daī",
+   "gloss": "Father",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1028,
+    "y": 0.2889,
+    "w": 0.2533,
+    "h": 0.0171
+   }
+  },
+  {
+   "n": 42,
+   "form": "Tala",
+   "gloss": "Father",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1028,
+    "y": 0.2889,
+    "w": 0.2533,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 43,
+   "form": "ărau",
+   "gloss": "Mother",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1054,
+    "y": 0.3366,
+    "w": 0.2507,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 44,
+   "form": "Hai",
+   "gloss": "Mother",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1054,
+    "y": 0.3366,
+    "w": 0.2507,
+    "h": 0.0171
+   }
+  },
+  {
+   "n": 45,
+   "form": "blā",
+   "gloss": "Brother",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1054,
+    "y": 0.3366,
+    "w": 0.2507,
+    "h": 0.0171
+   }
+  },
+  {
+   "n": 46,
+   "form": "Bura",
+   "gloss": "Brother",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1054,
+    "y": 0.3366,
+    "w": 0.2507,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 47,
+   "form": "saggā",
+   "gloss": "Son",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1054,
+    "y": 0.384,
+    "w": 0.2507,
+    "h": 0.0171
+   }
+  },
+  {
+   "n": 48,
+   "form": "Dabla",
+   "gloss": "Son",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1054,
+    "y": 0.384,
+    "w": 0.2507,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 49,
+   "form": "sŭ",
+   "gloss": "Daughter",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.106,
+    "y": 0.4069,
+    "w": 0.2501,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 50,
+   "form": "Dable",
+   "gloss": "Daughter",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.106,
+    "y": 0.4069,
+    "w": 0.2501,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 51,
+   "form": "sŭs",
+   "gloss": "Sister",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1073,
+    "y": 0.43,
+    "w": 0.2488,
+    "h": 0.0171
+   }
+  },
+  {
+   "n": 52,
+   "form": "Sosi",
+   "gloss": "Sister",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1073,
+    "y": 0.43,
+    "w": 0.2488,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 53,
+   "form": "mãts",
+   "gloss": "Man (generally)",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "box": {
+    "page": 1,
+    "x": 0.1073,
+    "y": 0.4535,
+    "w": 0.2488,
+    "h": 0.0171
+   }
+  },
+  {
+   "n": 54,
+   "form": "wirē",
+   "gloss": "Man",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1093,
+    "y": 0.4751,
+    "w": 0.2468,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 55,
+   "form": "Nawista",
+   "gloss": "Man",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1087,
+    "y": 0.4999,
+    "w": 0.2474,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 56,
+   "form": "istrī",
+   "gloss": "Woman",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1087,
+    "y": 0.4999,
+    "w": 0.2474,
+    "h": 0.0171
+   }
+  },
+  {
+   "n": 57,
+   "form": "Mushi",
+   "gloss": "Woman",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1087,
+    "y": 0.4999,
+    "w": 0.2474,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 58,
+   "form": "dē",
+   "gloss": "God",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1093,
+    "y": 0.5454,
+    "w": 0.2468,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 59,
+   "form": "Yamrai, Doghum",
+   "gloss": "God",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1093,
+    "y": 0.5454,
+    "w": 0.2468,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 60,
+   "form": "Adrik Pānō",
+   "gloss": "Name of the god or idol of the Kāfirs",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "box": {
+    "page": 1,
+    "x": 0.1093,
+    "y": 0.5454,
+    "w": 0.2468,
+    "h": 0.0171
+   }
+  },
+  {
+   "n": 61,
+   "form": "but-tsida",
+   "gloss": "Temple",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "TEMPLE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1146,
+    "y": 0.6978,
+    "w": 0.2312,
+    "h": 0.0171
+   }
+  },
+  {
+   "n": 62,
+   "form": "suranwālī",
+   "gloss": "King",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "KING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1178,
+    "y": 0.743,
+    "w": 0.2383,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 63,
+   "form": "Pasha",
+   "gloss": "King",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "KING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1178,
+    "y": 0.743,
+    "w": 0.2383,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 64,
+   "form": "bādur",
+   "gloss": "Chieftain",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "CHIEFTAIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1205,
+    "y": 0.7968,
+    "w": 0.2356,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 65,
+   "form": "Salmanash",
+   "gloss": "Chieftain",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "CHIEFTAIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1205,
+    "y": 0.7968,
+    "w": 0.2356,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 66,
+   "form": "gŭṛŭ",
+   "gloss": "Horse",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "HORSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1224,
+    "y": 0.8207,
+    "w": 0.2337,
+    "h": 0.0171,
+    "approx": true
+   }
+  },
+  {
+   "n": 67,
+   "form": "gā",
+   "gloss": "Cow",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "COW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1456,
+    "y": 0.1226,
+    "w": 0.2109,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 68,
+   "form": "Goa",
+   "gloss": "Cow",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "COW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1456,
+    "y": 0.1226,
+    "w": 0.2109,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 69,
+   "form": "kŭṛi",
+   "gloss": "Dog",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1456,
+    "y": 0.1409,
+    "w": 0.2109,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 70,
+   "form": "Tun",
+   "gloss": "Dog",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1456,
+    "y": 0.1591,
+    "w": 0.2109,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 71,
+   "form": "tsīt",
+   "gloss": "Body",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "BODY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1456,
+    "y": 0.1774,
+    "w": 0.2109,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 72,
+   "form": "sā",
+   "gloss": "Breath",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "BREATH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.1956,
+    "w": 0.2063,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 73,
+   "form": "dŭs",
+   "gloss": "Hand",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.215,
+    "w": 0.2069,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 74,
+   "form": "Ehapalpain",
+   "gloss": "Hand",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.2345,
+    "w": 0.2069,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 75,
+   "form": "kuṛ",
+   "gloss": "Foot (knee)",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "box": {
+    "page": 2,
+    "x": 0.1496,
+    "y": 0.2539,
+    "w": 0.2069,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 76,
+   "form": "Kur",
+   "gloss": "Foot (knee)",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "box": {
+    "page": 2,
+    "x": 0.1496,
+    "y": 0.2539,
+    "w": 0.2069,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 77,
+   "form": "āši",
+   "gloss": "Mouth",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.2774,
+    "w": 0.2063,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 78,
+   "form": "Ash",
+   "gloss": "Mouth",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.2774,
+    "w": 0.2063,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 79,
+   "form": "ušt",
+   "gloss": "Lip",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.3006,
+    "w": 0.2076,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 80,
+   "form": "nāsuṛi",
+   "gloss": "Nose",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1489,
+    "y": 0.3238,
+    "w": 0.2076,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 81,
+   "form": "ăṅu",
+   "gloss": "Finger",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.3714,
+    "w": 0.2063,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 82,
+   "form": "Azun",
+   "gloss": "Finger",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.3829,
+    "w": 0.2063,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 83,
+   "form": "ănsi",
+   "gloss": "Eye",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.3943,
+    "w": 0.2063,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 84,
+   "form": "Achau",
+   "gloss": "Eye",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.4057,
+    "w": 0.2063,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 85,
+   "form": "drŭ",
+   "gloss": "Hair",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1489,
+    "y": 0.4172,
+    "w": 0.1323,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 86,
+   "form": "Kesh",
+   "gloss": "Hair",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1489,
+    "y": 0.4172,
+    "w": 0.1323,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 87,
+   "form": "šā",
+   "gloss": "Head",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1489,
+    "y": 0.4426,
+    "w": 0.2076,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 88,
+   "form": "dōnt",
+   "gloss": "Tooth",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1489,
+    "y": 0.465,
+    "w": 0.2076,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 89,
+   "form": "Dint",
+   "gloss": "Tooth",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1489,
+    "y": 0.465,
+    "w": 0.2076,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 90,
+   "form": "karna",
+   "gloss": "Ear",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1483,
+    "y": 0.4881,
+    "w": 0.2082,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 91,
+   "form": "Kar",
+   "gloss": "Ear",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1483,
+    "y": 0.4881,
+    "w": 0.2082,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 92,
+   "form": "glām",
+   "gloss": "Village",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "VILLAGE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1483,
+    "y": 0.5139,
+    "w": 0.2082,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 93,
+   "form": "pātala",
+   "gloss": "Village",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "VILLAGE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1483,
+    "y": 0.5139,
+    "w": 0.2082,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 94,
+   "form": "āma",
+   "gloss": "House",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.5605,
+    "w": 0.1586,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 95,
+   "form": "Ama",
+   "gloss": "House",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.5605,
+    "w": 0.1586,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 96,
+   "form": "dā",
+   "gloss": "Mountain",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "MOUNTAIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.5828,
+    "w": 0.2063,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 97,
+   "form": "Da",
+   "gloss": "Mountain",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "MOUNTAIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.5828,
+    "w": 0.2063,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 98,
+   "form": "gŭl",
+   "gloss": "River",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.602,
+    "w": 0.2063,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 99,
+   "form": "Gulnucka",
+   "gloss": "River",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.6211,
+    "w": 0.2063,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 100,
+   "form": "ābu",
+   "gloss": "Water",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.6403,
+    "w": 0.2063,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 101,
+   "form": "An",
+   "gloss": "Water",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1502,
+    "y": 0.6403,
+    "w": 0.2063,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 102,
+   "form": "āṅa",
+   "gloss": "Fire",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1496,
+    "y": 0.6667,
+    "w": 0.2069,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 103,
+   "form": "Ai",
+   "gloss": "Fire",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1496,
+    "y": 0.6667,
+    "w": 0.2069,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 104,
+   "form": "kānṭa",
+   "gloss": "Tree",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1489,
+    "y": 0.6908,
+    "w": 0.2076,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 105,
+   "form": "Ushtun",
+   "gloss": "Tree",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1489,
+    "y": 0.6908,
+    "w": 0.2076,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 106,
+   "form": "šuts",
+   "gloss": "Grass",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "GRASS"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1476,
+    "y": 0.7143,
+    "w": 0.15,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 107,
+   "form": "Yus",
+   "gloss": "Grass",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "GRASS"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1476,
+    "y": 0.7143,
+    "w": 0.15,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 108,
+   "form": "dau",
+   "gloss": "Wood",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1489,
+    "y": 0.7366,
+    "w": 0.2076,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 109,
+   "form": "au",
+   "gloss": "Bread",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1476,
+    "y": 0.7624,
+    "w": 0.1376,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 110,
+   "form": "Eu",
+   "gloss": "Bread",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1476,
+    "y": 0.7624,
+    "w": 0.1376,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 111,
+   "form": "zŭ",
+   "gloss": "Milk",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "MILK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.147,
+    "y": 0.7832,
+    "w": 0.2095,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 112,
+   "form": "Zor",
+   "gloss": "Milk",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "MILK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.147,
+    "y": 0.7832,
+    "w": 0.2095,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 113,
+   "form": "ānda",
+   "gloss": "Flesh",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1476,
+    "y": 0.8057,
+    "w": 0.1592,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 114,
+   "form": "kātā",
+   "gloss": "Sword",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "SWORD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.147,
+    "y": 0.8306,
+    "w": 0.2095,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 115,
+   "form": "Tarwāle",
+   "gloss": "Sword",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "SWORD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.147,
+    "y": 0.8306,
+    "w": 0.2095,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 116,
+   "form": "drā",
+   "gloss": "Bow",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1476,
+    "y": 0.8537,
+    "w": 0.2089,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 117,
+   "form": "Shindri",
+   "gloss": "Bow",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.147,
+    "y": 0.8772,
+    "w": 0.2095,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 118,
+   "form": "kān",
+   "gloss": "Arrow",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.147,
+    "y": 0.8772,
+    "w": 0.2095,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 119,
+   "form": "Kain",
+   "gloss": "Arrow",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.147,
+    "y": 0.8772,
+    "w": 0.2095,
+    "h": 0.0182,
+    "approx": true
+   }
+  },
+  {
+   "n": 120,
+   "form": "bāda",
+   "gloss": "Shield",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "SHIELD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1463,
+    "y": 0.8997,
+    "w": 0.1631,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 121,
+   "form": "Karai",
+   "gloss": "Shield",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "SHIELD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.701,
+    "y": 0.9022,
+    "w": 0.0897,
+    "h": 0.0182
+   }
+  },
+  {
+   "n": 122,
+   "form": "virtšu",
+   "gloss": "Road",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "ROAD"
+   ]
+  },
+  {
+   "n": 123,
+   "form": "prĕna",
+   "gloss": "Cloth",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "CLOTH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1196,
+    "y": 0.1381,
+    "w": 0.1614,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 124,
+   "form": "Kamis",
+   "gloss": "Cloth",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "CLOTH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1196,
+    "y": 0.1381,
+    "w": 0.1614,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 125,
+   "form": "kōšaṛa",
+   "gloss": "Boot",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "BOOT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1196,
+    "y": 0.1617,
+    "w": 0.1614,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 126,
+   "form": "wātsa",
+   "gloss": "Boot",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "BOOT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1196,
+    "y": 0.1854,
+    "w": 0.1614,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 127,
+   "form": "drāš",
+   "gloss": "Grape",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "GRAPE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1196,
+    "y": 0.209,
+    "w": 0.1614,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 128,
+   "form": "tin",
+   "gloss": "Wine",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "WINE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1249,
+    "y": 0.2326,
+    "w": 0.126,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 129,
+   "form": "imlu",
+   "gloss": "Nut",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "NUT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1235,
+    "y": 0.255,
+    "w": 0.1313,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 130,
+   "form": "āṛu",
+   "gloss": "Peach",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "PEACH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1255,
+    "y": 0.2785,
+    "w": 0.1431,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 131,
+   "form": "tsīra",
+   "gloss": "Apricot",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "box": {
+    "page": 3,
+    "x": 0.1249,
+    "y": 0.3029,
+    "w": 0.1759,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 132,
+   "form": "āmar",
+   "gloss": "Pomegranate",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "box": {
+    "page": 3,
+    "x": 0.1262,
+    "y": 0.3336,
+    "w": 0.2301,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 133,
+   "form": "kāl",
+   "gloss": "Year",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "YEAR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1262,
+    "y": 0.3605,
+    "w": 0.2301,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 134,
+   "form": "mās",
+   "gloss": "Month",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "MONTH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1262,
+    "y": 0.3874,
+    "w": 0.2301,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 135,
+   "form": "dōs",
+   "gloss": "Day",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1262,
+    "y": 0.414,
+    "w": 0.2301,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 136,
+   "form": "yĕnu",
+   "gloss": "To-day",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "box": {
+    "page": 3,
+    "x": 0.1249,
+    "y": 0.4453,
+    "w": 0.2314,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 137,
+   "form": "šākiū",
+   "gloss": "To-morrow",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "TOMORROW"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1255,
+    "y": 0.4742,
+    "w": 0.2308,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 138,
+   "form": "dōs",
+   "gloss": "Yesterday",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "YESTERDAY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1268,
+    "y": 0.5012,
+    "w": 0.2295,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 139,
+   "form": "satr",
+   "gloss": "Night",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1268,
+    "y": 0.5561,
+    "w": 0.2295,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 140,
+   "form": "wŭsunṭ",
+   "gloss": "Spring",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "SPRING (OF WATER)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1262,
+    "y": 0.5798,
+    "w": 0.2301,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 141,
+   "form": "Wasunt",
+   "gloss": "Spring",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "SPRING (OF WATER)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1262,
+    "y": 0.5798,
+    "w": 0.2301,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 142,
+   "form": "nĭṇa",
+   "gloss": "Summer",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "SUMMER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1262,
+    "y": 0.6025,
+    "w": 0.191,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 143,
+   "form": "Westmik",
+   "gloss": "Summer",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "SUMMER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1262,
+    "y": 0.6025,
+    "w": 0.191,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 144,
+   "form": "sŭru",
+   "gloss": "Autumn",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "AUTUMN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1262,
+    "y": 0.6264,
+    "w": 0.2301,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 145,
+   "form": "Shuri",
+   "gloss": "Autumn",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "AUTUMN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1262,
+    "y": 0.6264,
+    "w": 0.2301,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 146,
+   "form": "zē",
+   "gloss": "Winter",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "WINTER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1268,
+    "y": 0.6526,
+    "w": 0.2295,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 147,
+   "form": "Zuin",
+   "gloss": "Winter",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "WINTER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1268,
+    "y": 0.6526,
+    "w": 0.2295,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 148,
+   "form": "tāp",
+   "gloss": "Heat",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "HEAT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1275,
+    "y": 0.6851,
+    "w": 0.2288,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 149,
+   "form": "Tapi",
+   "gloss": "Heat",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "HEAT"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1275,
+    "y": 0.6851,
+    "w": 0.2288,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 150,
+   "form": "ālčhega",
+   "gloss": "Cold",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1268,
+    "y": 0.7097,
+    "w": 0.1726,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 151,
+   "form": "Yos",
+   "gloss": "Cold",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1268,
+    "y": 0.7097,
+    "w": 0.1726,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 152,
+   "form": "šim",
+   "gloss": "Snow",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1268,
+    "y": 0.7313,
+    "w": 0.2295,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 153,
+   "form": "Zim",
+   "gloss": "Snow",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1268,
+    "y": 0.7313,
+    "w": 0.2295,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 154,
+   "form": "āstrama",
+   "gloss": "Ice",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1288,
+    "y": 0.7561,
+    "w": 0.1608,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 155,
+   "form": "Achama",
+   "gloss": "Ice",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "ICE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1288,
+    "y": 0.7561,
+    "w": 0.1608,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 156,
+   "form": "sū",
+   "gloss": "Sun",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1275,
+    "y": 0.7787,
+    "w": 0.2288,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 157,
+   "form": "Soo",
+   "gloss": "Sun",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1275,
+    "y": 0.7787,
+    "w": 0.2288,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 158,
+   "form": "mās",
+   "gloss": "Moon",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1281,
+    "y": 0.8031,
+    "w": 0.2282,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 159,
+   "form": "Mas",
+   "gloss": "Moon",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1281,
+    "y": 0.8031,
+    "w": 0.2282,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 160,
+   "form": "wēri",
+   "gloss": "Word",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "WORD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1294,
+    "y": 0.8237,
+    "w": 0.2269,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 161,
+   "form": "istā",
+   "gloss": "Star",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1294,
+    "y": 0.8394,
+    "w": 0.2269,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 162,
+   "form": "Tara",
+   "gloss": "Star",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Burnes",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1294,
+    "y": 0.855,
+    "w": 0.2269,
+    "h": 0.0177,
+    "approx": true
+   }
+  },
+  {
+   "n": 163,
+   "form": "nām",
+   "gloss": "Name",
+   "section": "APPENDIX I. List of Kāfir words, compared with those given by Sir A. Burnes.",
+   "col": "Kāfir",
+   "concepts": [
+    "NAME"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1308,
+    "y": 0.8707,
+    "w": 0.2255,
+    "h": 0.0177
+   }
+  },
+  {
+   "n": 164,
+   "form": "bā",
+   "gloss": "Father",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1398,
+    "y": 0.3376,
+    "w": 0.1119,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 165,
+   "form": "aī",
+   "gloss": "Mother",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "MOTHER"
+   ]
+  },
+  {
+   "n": 166,
+   "form": "lē",
+   "gloss": "Brother",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1398,
+    "y": 0.3376,
+    "w": 0.2173,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 167,
+   "form": "pušlin",
+   "gloss": "Son",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1411,
+    "y": 0.3611,
+    "w": 0.216,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 168,
+   "form": "wătạk",
+   "gloss": "Daughter",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1398,
+    "y": 0.3864,
+    "w": 0.2173,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 169,
+   "form": "tsădạk",
+   "gloss": "Sister",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1391,
+    "y": 0.4083,
+    "w": 0.2179,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 170,
+   "form": "astim",
+   "gloss": "Hand",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1391,
+    "y": 0.4318,
+    "w": 0.2192,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 171,
+   "form": "laṅ",
+   "gloss": "Foot",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1378,
+    "y": 0.4553,
+    "w": 0.2192,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 172,
+   "form": "kuta",
+   "gloss": "Knee",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1385,
+    "y": 0.479,
+    "w": 0.2186,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 173,
+   "form": "dōr",
+   "gloss": "Mouth",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1385,
+    "y": 0.5272,
+    "w": 0.2186,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 174,
+   "form": "dōrim",
+   "gloss": "My mouth",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1385,
+    "y": 0.5272,
+    "w": 0.2186,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 175,
+   "form": "nāst",
+   "gloss": "Nose",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1405,
+    "y": 0.5503,
+    "w": 0.2166,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 176,
+   "form": "aṅgur",
+   "gloss": "Finger",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1411,
+    "y": 0.5747,
+    "w": 0.216,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 177,
+   "form": "ānj",
+   "gloss": "Eye",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1405,
+    "y": 0.5974,
+    "w": 0.2166,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 178,
+   "form": "šaṭ",
+   "gloss": "Hair",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1405,
+    "y": 0.6203,
+    "w": 0.2166,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 179,
+   "form": "sir",
+   "gloss": "Head",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1411,
+    "y": 0.6433,
+    "w": 0.216,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 180,
+   "form": "dānt",
+   "gloss": "Tooth",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5247,
+    "y": 0.2918,
+    "w": 0.2955,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 181,
+   "form": "χār",
+   "gloss": "Ear",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5254,
+    "y": 0.3143,
+    "w": 0.0607,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 182,
+   "form": "gōlang",
+   "gloss": "Cow",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "COW"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5221,
+    "y": 0.3384,
+    "w": 0.321,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 183,
+   "form": "šuṛi",
+   "gloss": "Dog",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5234,
+    "y": 0.3629,
+    "w": 0.2896,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 184,
+   "form": "dāšek",
+   "gloss": "Grape",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "GRAPE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5234,
+    "y": 0.3862,
+    "w": 0.3053,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 185,
+   "form": "adami",
+   "gloss": "Man (generally)",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "box": {
+    "page": 4,
+    "x": 0.5234,
+    "y": 0.4085,
+    "w": 0.3165,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 186,
+   "form": "tseīb",
+   "gloss": "Woman",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5234,
+    "y": 0.4326,
+    "w": 0.2942,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 187,
+   "form": "gōšim",
+   "gloss": "House",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5234,
+    "y": 0.4557,
+    "w": 0.3066,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 188,
+   "form": "gōṛa",
+   "gloss": "Horse",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "HORSE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5228,
+    "y": 0.4794,
+    "w": 0.2942,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 189,
+   "form": "šīr",
+   "gloss": "Milk",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "MILK"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5228,
+    "y": 0.5027,
+    "w": 0.2751,
+    "h": 0.0199,
+    "approx": true
+   }
+  },
+  {
+   "n": 190,
+   "form": "dār",
+   "gloss": "Mountain",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "MOUNTAIN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5228,
+    "y": 0.526,
+    "w": 0.285,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 191,
+   "form": "dār-watan",
+   "gloss": "Kūhistān",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "box": {
+    "page": 4,
+    "x": 0.5241,
+    "y": 0.5499,
+    "w": 0.3571,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 192,
+   "form": "gal",
+   "gloss": "River",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5247,
+    "y": 0.5734,
+    "w": 0.2824,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 193,
+   "form": "wărek",
+   "gloss": "Water",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5267,
+    "y": 0.5967,
+    "w": 0.0948,
+    "h": 0.0199
+   }
+  },
+  {
+   "n": 194,
+   "form": "wīrek",
+   "gloss": "Man",
+   "section": "APPENDIX II. List of Kūhistānī (Kooner) Words.",
+   "col": "Kūhistānī (Kooner)",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.526,
+    "y": 0.6204,
+    "w": 0.3047,
+    "h": 0.0199
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 194,
+  "notes": 0,
+  "located": 192
+ },
+ "partial": null,
+ "relation": null
+}

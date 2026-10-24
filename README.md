@@ -15,7 +15,7 @@ The title comes from Stephen Burrough's 1557 account of the Kola coast, printed 
 
 ## What is here now
 
-28 tables in 26 languages (4,319 entries), 1580–1868.
+44 tables in 42 languages (8,709 entries), 1580–1895.
 
 | Language | Source | Printed |
 |---|---|---|
@@ -47,6 +47,22 @@ The title comes from Stephen Burrough's 1557 account of the Kola coast, printed 
 | Ngarigu | John Lhotsky, in *Journal of the Royal Geographical Society* | 1839 |
 | Tasmanian | John Lhotsky (1835) and Péron's expedition (1803), in *Journal of the Royal Geographical Society* | 1839 |
 | Kavalan | Cuthbert Collingwood, in *Transactions of the Ethnological Society* | 1868 |
+| Beothuk | H. Robinson (journal); vocabulary by Rev. J. Leigh, Vocabulary of the Language of the Natives of Newfoundland | 1834 |
+| Garifuna | Juan Galindo, Notice of the Caribs in Central America | 1833 |
+| Caddo | Otis T. Mason (section editor); vocabulary by Dr. John Sibley, Dr. Sibley's Caddo vocabulary | 1879 |
+| Chinantec (Yolox) | Daniel G. Brinton, Observations on the Chinantec Language of Mexico | 1892 |
+| Huautla Mazatec | Daniel G. Brinton, On the Mazatec Language of Mexico | 1892 |
+| Soqotri | J. R. Wellsted, Memoir on the Island of Socotra | 1835 |
+| Kafir (Nuristani) and Kuhistani | Ernest Trumpp, On the Language of the So-called Kafirs of the Indian Caucasus | 1862 |
+| Gbe, Hausa and Fon | J. P. Lesley (vocabularies obtained by Rev. Alexander Crummell), Words from recaptured Africans landed at Sino, Liberia | 1862 |
+| Selk'nam (Ona) | D. G. Brinton, Further Notes on Fuegian Languages | 1892 |
+| Swahili | Samuel K. Masury, A Vocabulary of the Soahili Language | 1846 |
+| Limbu | A. Campbell, On the Tribes around Darjeeling | 1869 |
+| Rama, Kuna and Tawahka | Daniel G. Brinton, Vocabularies from the Musquito Coast | 1891 |
+| Jebero, Cholón, Manao, Bonari and others | Daniel G. Brinton, Studies in South American Native Languages | 1892 |
+| Yavitero, Puinave and Piaroa | A. Ernst, Upper Orinoco Vocabularies | 1895 |
+| Matagalpa and Cacaopera | D. G. Brinton, The Matagalpan Linguistic Stock of Central America | 1895 |
+| Formosan languages (Siraya and others) | J. B. Steere, Formosa | 1874 |
 
 Each table has a page with the scanned pages, the transcription, and a panel for the selected
 entry. Clicking a line on the scan finds its entry, and the reverse. Entries have permanent links

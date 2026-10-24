@@ -1,0 +1,5103 @@
+{
+ "schema": 1,
+ "id": "limbu",
+ "wtl": "WTL-0039",
+ "heading": "Limboo Vocabulary. Two Hundred Words. (V. for verb ; N. for noun.)",
+ "headings": [
+  "Limboo Vocabulary. Two Hundred Words.",
+  "Numbers."
+ ],
+ "language": {
+  "name": "Limbu",
+  "glottocode": "limb1266",
+  "family": "Sino-Tibetan",
+  "path": [
+   "Sino-Tibetan",
+   "Himalayish",
+   "Mahakiranti",
+   "Kiranti",
+   "Eastern Kiranti",
+   "Tamar"
+  ],
+  "labels": []
+ },
+ "region": "Asia",
+ "book": {
+  "short": "On the Tribes around Darjeeling",
+  "title": "On the Tribes around Darjeeling",
+  "author": "A. Campbell",
+  "printed": 1869,
+  "imprint": "Transactions of the Ethnological Society of London, 7, 1869, pp. 157-159",
+  "tcp": "",
+  "cover": "limbu"
+ },
+ "provenance": {
+  "collector": "A. Campbell",
+  "place": "Darjeeling",
+  "heard": ""
+ },
+ "scan": {
+  "ia": "jstor-3014347",
+  "url": "https://archive.org/details/jstor-3014347",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "An English–Limbu vocabulary of about two hundred words with numerals, printed by A. Campbell to close his account of the Limboos among the tribes around Darjeeling.",
+ "pages": [
+  {
+   "leaf": 14,
+   "w": 1494,
+   "h": 2414,
+   "sm": "/scans/limbu/0014-900.webp",
+   "lg": "/scans/limbu/0014-1800.webp"
+  },
+  {
+   "leaf": 15,
+   "w": 1494,
+   "h": 2414,
+   "sm": "/scans/limbu/0015-900.webp",
+   "lg": "/scans/limbu/0015-1800.webp"
+  },
+  {
+   "leaf": 16,
+   "w": 1494,
+   "h": 2414,
+   "sm": "/scans/limbu/0016-900.webp",
+   "lg": "/scans/limbu/0016-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "tángh",
+   "gloss": "Above",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ABOVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1105,
+    "y": 0.1644,
+    "w": 0.1478,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 2,
+   "form": "kapoba",
+   "gloss": "aged",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.1793,
+    "w": 0.1431,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 3,
+   "form": "shámi",
+   "gloss": "air",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "AIR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.1936,
+    "w": 0.1157,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 4,
+   "form": "keere",
+   "gloss": "all",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ALL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.2081,
+    "w": 0.1003,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 5,
+   "form": "hook",
+   "gloss": "arm",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1105,
+    "y": 0.2245,
+    "w": 0.1116,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 6,
+   "form": "thoong",
+   "gloss": "arrow",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1105,
+    "y": 0.2392,
+    "w": 0.1485,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 7,
+   "form": "kapoo",
+   "gloss": "ashes",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ASH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1105,
+    "y": 0.252,
+    "w": 0.1364,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 8,
+   "form": "shelaaste",
+   "gloss": "ask",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ASK (INQUIRE)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1105,
+    "y": 0.2663,
+    "w": 0.1438,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 9,
+   "form": "tonti",
+   "gloss": "axe",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "AXE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.2824,
+    "w": 0.1076,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 10,
+   "form": "ar",
+   "gloss": "back",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BACK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.2955,
+    "w": 0.1297,
+    "h": 0.0148
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed \"ar, n.\"",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 11,
+   "form": "menzegāba",
+   "gloss": "bad",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1105,
+    "y": 0.3098,
+    "w": 0.1659,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 12,
+   "form": "shoowa",
+   "gloss": "bag",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BAG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1105,
+    "y": 0.3244,
+    "w": 0.1659,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 13,
+   "form": "phā",
+   "gloss": "bamboo",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BAMBOO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1092,
+    "y": 0.339,
+    "w": 0.1398,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 14,
+   "form": "ho",
+   "gloss": "bark",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BARK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1092,
+    "y": 0.368,
+    "w": 0.1786,
+    "h": 0.0148
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed \"ho, v.\"",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 15,
+   "form": "shinghoori",
+   "gloss": "bark",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BARK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1092,
+    "y": 0.368,
+    "w": 0.1786,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 16,
+   "form": "towa",
+   "gloss": "barrel",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 0,
+    "x": 0.1085,
+    "y": 0.3825,
+    "w": 0.1304,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 17,
+   "form": "eiche",
+   "gloss": "bead",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1085,
+    "y": 0.3968,
+    "w": 0.121,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 18,
+   "form": "magsgen",
+   "gloss": "bear",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BEAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1085,
+    "y": 0.4119,
+    "w": 0.1866,
+    "h": 0.0148
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed \"magsgen, n.\"",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 19,
+   "form": "sheray",
+   "gloss": "beat",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BEAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1085,
+    "y": 0.4266,
+    "w": 0.1331,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 20,
+   "form": "noghá",
+   "gloss": "beautiful",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BEAUTIFUL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1092,
+    "y": 0.4407,
+    "w": 0.1799,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 21,
+   "form": "netuádry",
+   "gloss": "bed",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BED"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1085,
+    "y": 0.4554,
+    "w": 0.1545,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 22,
+   "form": "leem",
+   "gloss": "bee",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BEE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1092,
+    "y": 0.4695,
+    "w": 0.1056,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 23,
+   "form": "pongyay",
+   "gloss": "bell",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BELL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1092,
+    "y": 0.4863,
+    "w": 0.1485,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 24,
+   "form": "shápoo",
+   "gloss": "belly",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.4993,
+    "w": 0.1438,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 25,
+   "form": "mōōyava",
+   "gloss": "bird",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.5155,
+    "w": 0.1538,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 26,
+   "form": "kí",
+   "gloss": "bitter",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BITTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.5281,
+    "w": 0.1029,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 27,
+   "form": "mákloh",
+   "gloss": "black",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.5426,
+    "w": 0.1545,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 28,
+   "form": "nāmboo",
+   "gloss": "blanket",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BLANKET"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.5569,
+    "w": 0.1772,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 29,
+   "form": "lakshokpa",
+   "gloss": "blood",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1105,
+    "y": 0.5718,
+    "w": 0.1786,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 30,
+   "form": "mukloh",
+   "gloss": "blue",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BLUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.5861,
+    "w": 0.1431,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 31,
+   "form": "shingophreu",
+   "gloss": "board",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BOARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1105,
+    "y": 0.601,
+    "w": 0.1961,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 32,
+   "form": "kombe",
+   "gloss": "boat",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BOAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1098,
+    "y": 0.6153,
+    "w": 0.1304,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 33,
+   "form": "yām",
+   "gloss": "body",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BODY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1092,
+    "y": 0.6304,
+    "w": 0.119,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 34,
+   "form": "kúlúngjí",
+   "gloss": "bone",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BONE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1092,
+    "y": 0.6443,
+    "w": 0.1605,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 35,
+   "form": "sápla",
+   "gloss": "book",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BOOK"
+   ]
+  },
+  {
+   "n": 36,
+   "form": "lí",
+   "gloss": "bow, N,",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 0,
+    "x": 0.1092,
+    "y": 0.6443,
+    "w": 0.1605,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 37,
+   "form": "henja",
+   "gloss": "boy",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1092,
+    "y": 0.6878,
+    "w": 0.1163,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 38,
+   "form": "shiringma",
+   "gloss": "bracelet",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BRACELET"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1085,
+    "y": 0.7021,
+    "w": 0.1981,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 39,
+   "form": "kōōneke",
+   "gloss": "branch",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BRANCH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1085,
+    "y": 0.7168,
+    "w": 0.1712,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 40,
+   "form": "loongma",
+   "gloss": "breast",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1085,
+    "y": 0.7315,
+    "w": 0.1705,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 41,
+   "form": "phoong",
+   "gloss": "bridge",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BRIDGE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1085,
+    "y": 0.7462,
+    "w": 0.1605,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 42,
+   "form": "yomba",
+   "gloss": "broad",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BROAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1078,
+    "y": 0.7609,
+    "w": 0.1465,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 43,
+   "form": "amphoo",
+   "gloss": "brother",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1078,
+    "y": 0.7754,
+    "w": 0.1772,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 44,
+   "form": "nisha",
+   "gloss": "—— younger",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 0,
+    "x": 0.1861,
+    "y": 0.7918,
+    "w": 0.1205,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 45,
+   "form": "shángwá",
+   "gloss": "buffalo",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BUFFALO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1078,
+    "y": 0.8044,
+    "w": 0.1833,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 46,
+   "form": "meuloong",
+   "gloss": "buy",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BUY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1078,
+    "y": 0.8193,
+    "w": 0.1605,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 47,
+   "form": "tiáloo",
+   "gloss": "candle",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "CANDLE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1078,
+    "y": 0.8334,
+    "w": 0.1478,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 48,
+   "form": "pootang",
+   "gloss": "cannon",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "CANNON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1078,
+    "y": 0.85,
+    "w": 0.1779,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 49,
+   "form": "keloongji",
+   "gloss": "caste",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "CAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1078,
+    "y": 0.8634,
+    "w": 0.1665,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 50,
+   "form": "miongma",
+   "gloss": "cat",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "CAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1078,
+    "y": 0.8779,
+    "w": 0.1538,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 51,
+   "form": "nedengbá",
+   "gloss": "cheek",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "CHEEK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1072,
+    "y": 0.8922,
+    "w": 0.1752,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 52,
+   "form": "oong negwá",
+   "gloss": "child",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1065,
+    "y": 0.9069,
+    "w": 0.1946,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 53,
+   "form": "pang yek",
+   "gloss": "city",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "CITY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5054,
+    "y": 0.165,
+    "w": 0.1545,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 54,
+   "form": "tek",
+   "gloss": "cloth",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "CLOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5054,
+    "y": 0.1793,
+    "w": 0.1056,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 55,
+   "form": "ká-mí",
+   "gloss": "cloud",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "CLOUD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5061,
+    "y": 0.1936,
+    "w": 0.1411,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 56,
+   "form": "choongsi",
+   "gloss": "cold",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5061,
+    "y": 0.2085,
+    "w": 0.1531,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 57,
+   "form": "takomah",
+   "gloss": "comb",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "COMB"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5074,
+    "y": 0.2226,
+    "w": 0.1612,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 58,
+   "form": "tángay",
+   "gloss": "come",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "COME"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5074,
+    "y": 0.239,
+    "w": 0.1458,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 59,
+   "form": "támbá",
+   "gloss": "copper",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "COPPER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5068,
+    "y": 0.2537,
+    "w": 0.1565,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 60,
+   "form": "takay",
+   "gloss": "cotton",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "COTTON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5068,
+    "y": 0.2669,
+    "w": 0.1444,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 61,
+   "form": "humámá",
+   "gloss": "cough",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "COUGH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5068,
+    "y": 0.2808,
+    "w": 0.1752,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 62,
+   "form": "lájay",
+   "gloss": "country",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "COUNTRY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5061,
+    "y": 0.2963,
+    "w": 0.1572,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 63,
+   "form": "yepi",
+   "gloss": "cow",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "COW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5061,
+    "y": 0.3112,
+    "w": 0.1063,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 64,
+   "form": "chamkoo",
+   "gloss": "cubit",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 0,
+    "x": 0.5054,
+    "y": 0.3243,
+    "w": 0.1625,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 65,
+   "form": "cheptay",
+   "gloss": "cut, v.",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.3392,
+    "w": 0.1612,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 66,
+   "form": "langmá",
+   "gloss": "dance, v,",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 0,
+    "x": 0.5054,
+    "y": 0.3535,
+    "w": 0.1853,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 67,
+   "form": "meuchumá",
+   "gloss": "daughter",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.3676,
+    "w": 0.2234,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 68,
+   "form": "koolen",
+   "gloss": "day",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.3823,
+    "w": 0.1237,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 69,
+   "form": "nátákpie",
+   "gloss": "deaf",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "DEAF"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.3968,
+    "w": 0.1585,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 70,
+   "form": "guáktee",
+   "gloss": "dear",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "DEAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.4113,
+    "w": 0.1438,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 71,
+   "form": "keliba",
+   "gloss": "deer",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "DEER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.426,
+    "w": 0.127,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 72,
+   "form": "shray",
+   "gloss": "die",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "DIE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.4405,
+    "w": 0.1431,
+    "h": 0.0148
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed \"shray, B.\"",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 73,
+   "form": "kamtoyie",
+   "gloss": "dig (earth)",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.4552,
+    "w": 0.2201,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 74,
+   "form": "kochoo",
+   "gloss": "dog",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.4693,
+    "w": 0.1257,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 75,
+   "form": "ōōkay",
+   "gloss": "draw",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "DRAW (WATER)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.4842,
+    "w": 0.1304,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 76,
+   "form": "toongay",
+   "gloss": "drink, v.",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.4989,
+    "w": 0.1839,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 77,
+   "form": "kohedia",
+   "gloss": "dry",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "DRY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.5132,
+    "w": 0.1371,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 78,
+   "form": "negurá",
+   "gloss": "eagle",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "EAGLE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.5283,
+    "w": 0.1505,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 79,
+   "form": "neko",
+   "gloss": "ear",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.5567,
+    "w": 0.1839,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 80,
+   "form": "kámbekmá",
+   "gloss": "earth",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.5567,
+    "w": 0.1839,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 81,
+   "form": "namgam",
+   "gloss": "east",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "EAST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.5735,
+    "w": 0.1531,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 82,
+   "form": "wáteen",
+   "gloss": "egg",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "EGG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5041,
+    "y": 0.5875,
+    "w": 0.1297,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 83,
+   "form": "noksōōmbá",
+   "gloss": "elbow",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ELBOW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.6002,
+    "w": 0.192,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 84,
+   "form": "hoblang",
+   "gloss": "empty",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "EMPTY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.6155,
+    "w": 0.1659,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 85,
+   "form": "námtaych",
+   "gloss": "evening",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "EVENING"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.6294,
+    "w": 0.2033,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 86,
+   "form": "mih",
+   "gloss": "eye",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5021,
+    "y": 0.6453,
+    "w": 0.0996,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 87,
+   "form": "guá",
+   "gloss": "face",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5021,
+    "y": 0.6584,
+    "w": 0.1063,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 88,
+   "form": "mánká",
+   "gloss": "far",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.6725,
+    "w": 0.1264,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 89,
+   "form": "so",
+   "gloss": "fat",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FAT (OILY)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.6874,
+    "w": 0.0748,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 90,
+   "form": "amba",
+   "gloss": "father",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5021,
+    "y": 0.7015,
+    "w": 0.1411,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 91,
+   "form": "waylup",
+   "gloss": "feather",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FEATHER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5021,
+    "y": 0.7164,
+    "w": 0.1726,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 92,
+   "form": "toong-dushu",
+   "gloss": "fever",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FEVER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.7309,
+    "w": 0.2007,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 93,
+   "form": "yeán",
+   "gloss": "field",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FIELD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.746,
+    "w": 0.119,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 94,
+   "form": "kemá",
+   "gloss": "fight",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FIGHT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.7595,
+    "w": 0.1311,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 95,
+   "form": "komah",
+   "gloss": "find",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FIND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.7742,
+    "w": 0.1304,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 96,
+   "form": "hookejah",
+   "gloss": "finger",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.7891,
+    "w": 0.1719,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 97,
+   "form": "may",
+   "gloss": "fire",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.8048,
+    "w": 0.1063,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 98,
+   "form": "guá",
+   "gloss": "fish",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.8199,
+    "w": 0.1003,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 99,
+   "form": "karay",
+   "gloss": "flesh",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.8328,
+    "w": 0.1311,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 100,
+   "form": "phoong",
+   "gloss": "flower",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FLOWER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.8471,
+    "w": 0.1585,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 101,
+   "form": "kámay",
+   "gloss": "fog",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FOG"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.8616,
+    "w": 0.127,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 102,
+   "form": "kengbungba",
+   "gloss": "fool",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FOOL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.8763,
+    "w": 0.1786,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 103,
+   "form": "leugyetimba",
+   "gloss": "foot",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5034,
+    "y": 0.8908,
+    "w": 0.1839,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 104,
+   "form": "tamphoong",
+   "gloss": "forest",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FOREST"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5027,
+    "y": 0.9055,
+    "w": 0.1906,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 105,
+   "form": "kooshay",
+   "gloss": "fruit",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FRUIT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.1049,
+    "w": 0.1395,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 106,
+   "form": "koodeen",
+   "gloss": "full",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "FULL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.119,
+    "w": 0.1388,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 107,
+   "form": "kame",
+   "gloss": "garden",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "GARDEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1683,
+    "y": 0.1337,
+    "w": 0.1382,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 108,
+   "form": "húmbe",
+   "gloss": "ginger",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "GINGER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1689,
+    "y": 0.1484,
+    "w": 0.1375,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 109,
+   "form": "mendá",
+   "gloss": "goat",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "GOAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1689,
+    "y": 0.1635,
+    "w": 0.1367,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 110,
+   "form": "shám",
+   "gloss": "god",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1689,
+    "y": 0.1774,
+    "w": 0.1153,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 111,
+   "form": "shamiang",
+   "gloss": "gold",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "GOLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1689,
+    "y": 0.1921,
+    "w": 0.1375,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 112,
+   "form": "note",
+   "gloss": "good",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1689,
+    "y": 0.2068,
+    "w": 0.1133,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 114,
+   "form": "yombá",
+   "gloss": "great",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 1,
+    "x": 0.1689,
+    "y": 0.2362,
+    "w": 0.1375,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 115,
+   "form": "tumok",
+   "gloss": "gun",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "GUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1683,
+    "y": 0.2521,
+    "w": 0.126,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 116,
+   "form": "phoh",
+   "gloss": "hail",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HAIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1689,
+    "y": 0.2646,
+    "w": 0.1112,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 117,
+   "form": "tugek",
+   "gloss": "hair",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1683,
+    "y": 0.2791,
+    "w": 0.1186,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 118,
+   "form": "hook",
+   "gloss": "hand",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.2934,
+    "w": 0.1206,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 119,
+   "form": "chimjoomlo",
+   "gloss": "hard",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HARD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.3079,
+    "w": 0.1395,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 120,
+   "form": "kepshoobi",
+   "gloss": "hear",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HEAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.3228,
+    "w": 0.1395,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 121,
+   "form": "leep",
+   "gloss": "heavy",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HEAVY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.3375,
+    "w": 0.122,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 122,
+   "form": "ningwá",
+   "gloss": "heart",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.352,
+    "w": 0.1388,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 123,
+   "form": "shanglumdung",
+   "gloss": "heaven",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1683,
+    "y": 0.3663,
+    "w": 0.1382,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 124,
+   "form": "tangshukpá",
+   "gloss": "hell",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HELL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1683,
+    "y": 0.3806,
+    "w": 0.1382,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 125,
+   "form": "wáh",
+   "gloss": "hen",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1683,
+    "y": 0.3949,
+    "w": 0.1059,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 126,
+   "form": "kotna",
+   "gloss": "here",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HERE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1689,
+    "y": 0.4096,
+    "w": 0.124,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 127,
+   "form": "tank",
+   "gloss": "high",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HIGH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1689,
+    "y": 0.4245,
+    "w": 0.1173,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 128,
+   "form": "tohsong",
+   "gloss": "hill",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1689,
+    "y": 0.439,
+    "w": 0.134,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 129,
+   "form": "phak",
+   "gloss": "hog",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.4535,
+    "w": 0.1126,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 130,
+   "form": "koodang",
+   "gloss": "horn",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HORN (ANATOMY)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.468,
+    "w": 0.1395,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 131,
+   "form": "on",
+   "gloss": "horse",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HORSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.4825,
+    "w": 0.134,
+    "h": 0.0149
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed \"on, L.\"",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 132,
+   "form": "namsay",
+   "gloss": "hat",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.499,
+    "w": 0.136,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 133,
+   "form": "terá",
+   "gloss": "house",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1663,
+    "y": 0.5115,
+    "w": 0.122,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 134,
+   "form": "shilák",
+   "gloss": "hunger",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HUNGER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1663,
+    "y": 0.5266,
+    "w": 0.1402,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 135,
+   "form": "meet",
+   "gloss": "husband",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "HUSBAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.5409,
+    "w": 0.1395,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 136,
+   "form": "eruga",
+   "gloss": "I",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "I"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.5575,
+    "w": 0.0905,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 137,
+   "form": "phenjay",
+   "gloss": "iron",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.5701,
+    "w": 0.1395,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 138,
+   "form": "sheray",
+   "gloss": "kill, v.",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.5846,
+    "w": 0.1395,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 139,
+   "form": "hung",
+   "gloss": "king",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "KING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.5995,
+    "w": 0.1213,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 140,
+   "form": "kurdá",
+   "gloss": "knife",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.6136,
+    "w": 0.138,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 141,
+   "form": "khorá",
+   "gloss": "knee",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.6281,
+    "w": 0.1293,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 142,
+   "form": "preng",
+   "gloss": "ladder",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LADDER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.6442,
+    "w": 0.1388,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 143,
+   "form": "dío",
+   "gloss": "lamp",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LAMP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1683,
+    "y": 0.6573,
+    "w": 0.1046,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 144,
+   "form": "yemá",
+   "gloss": "laugh",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LAUGH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.6722,
+    "w": 0.136,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 145,
+   "form": "ke shoobá",
+   "gloss": "lazy",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LAZY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.6842,
+    "w": 0.1388,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 146,
+   "form": "telá",
+   "gloss": "leaf",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LEAF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.7006,
+    "w": 0.0999,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 147,
+   "form": "chookpá",
+   "gloss": "lead",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LEAD (GUIDE)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.7153,
+    "w": 0.1388,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 148,
+   "form": "hochoom-lokpa",
+   "gloss": "leap",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 1,
+    "x": 0.1676,
+    "y": 0.73,
+    "w": 0.1388,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 149,
+   "form": "lukphet",
+   "gloss": "leech",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LEECH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1683,
+    "y": 0.7443,
+    "w": 0.1382,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 150,
+   "form": "pheuchanga",
+   "gloss": "left",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LEFT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.759,
+    "w": 0.1395,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 151,
+   "form": "poklám",
+   "gloss": "leg",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LEG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.7735,
+    "w": 0.1367,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 152,
+   "form": "ke bá",
+   "gloss": "leopard",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LEOPARD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.7863,
+    "w": 0.1395,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 153,
+   "form": "imshí",
+   "gloss": "lie",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LIE (REST)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.8025,
+    "w": 0.1046,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 154,
+   "form": "chookpa",
+   "gloss": "little",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 1,
+    "x": 0.1663,
+    "y": 0.817,
+    "w": 0.1402,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 155,
+   "form": "gok",
+   "gloss": "load",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LOAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1663,
+    "y": 0.8317,
+    "w": 0.1012,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 156,
+   "form": "chiriketokpa",
+   "gloss": "loom",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LOOM"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1663,
+    "y": 0.846,
+    "w": 0.1402,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 157,
+   "form": "kembá",
+   "gloss": "long",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LONG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1663,
+    "y": 0.8609,
+    "w": 0.1313,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 158,
+   "form": "shee",
+   "gloss": "louse",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LOUSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1656,
+    "y": 0.875,
+    "w": 0.1146,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 159,
+   "form": "yeo",
+   "gloss": "low",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "LOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.8918,
+    "w": 0.0912,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 160,
+   "form": "menchia",
+   "gloss": "maid",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 1,
+    "x": 0.1669,
+    "y": 0.9042,
+    "w": 0.1395,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 161,
+   "form": "mákee",
+   "gloss": "maize",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MAIZE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5592,
+    "y": 0.1047,
+    "w": 0.1447,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 162,
+   "form": "namni",
+   "gloss": "man",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5592,
+    "y": 0.1208,
+    "w": 0.136,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 163,
+   "form": "yeolik",
+   "gloss": "many",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MANY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5592,
+    "y": 0.1357,
+    "w": 0.1394,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 165,
+   "form": "lompay",
+   "gloss": "mat",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5585,
+    "y": 0.1635,
+    "w": 0.1373,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 166,
+   "form": "kooloomio",
+   "gloss": "middle",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MIDDLE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5585,
+    "y": 0.177,
+    "w": 0.1902,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 167,
+   "form": "bidno",
+   "gloss": "milk",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MILK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5578,
+    "y": 0.1917,
+    "w": 0.1286,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 168,
+   "form": "chobá",
+   "gloss": "monkey",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MONKEY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5585,
+    "y": 0.2068,
+    "w": 0.1568,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 169,
+   "form": "moorá",
+   "gloss": "mouth",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5578,
+    "y": 0.2207,
+    "w": 0.1548,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 170,
+   "form": "lhábá",
+   "gloss": "moon",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5578,
+    "y": 0.2368,
+    "w": 0.136,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 171,
+   "form": "amó",
+   "gloss": "mother",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5578,
+    "y": 0.2499,
+    "w": 0.138,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 172,
+   "form": "shoobá",
+   "gloss": "mouse",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MOUSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5572,
+    "y": 0.2662,
+    "w": 0.1514,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 173,
+   "form": "lebá",
+   "gloss": "mouth",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5572,
+    "y": 0.2789,
+    "w": 0.1614,
+    "h": 0.0149
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed \"lebá, L.\"",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 174,
+   "form": "legua khám",
+   "gloss": "mud",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "MUD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5565,
+    "y": 0.2934,
+    "w": 0.1869,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 175,
+   "form": "nung",
+   "gloss": "nail",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5565,
+    "y": 0.3097,
+    "w": 0.1173,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 176,
+   "form": "koming",
+   "gloss": "name",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "NAME"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5565,
+    "y": 0.3242,
+    "w": 0.1534,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 177,
+   "form": "koyeo",
+   "gloss": "near",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "NEAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5565,
+    "y": 0.3385,
+    "w": 0.1213,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 178,
+   "form": "shurrá",
+   "gloss": "neck",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "NECK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5572,
+    "y": 0.3512,
+    "w": 0.14,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 179,
+   "form": "sumett",
+   "gloss": "needle",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "NEEDLE (FOR SEWING)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5572,
+    "y": 0.3659,
+    "w": 0.1527,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 180,
+   "form": "kioong or churi",
+   "gloss": "net",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "NET"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5578,
+    "y": 0.381,
+    "w": 0.2137,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 181,
+   "form": "kusong",
+   "gloss": "new",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "NEW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5572,
+    "y": 0.3967,
+    "w": 0.1347,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 182,
+   "form": "sendik",
+   "gloss": "night",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5578,
+    "y": 0.4085,
+    "w": 0.1434,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 183,
+   "form": "thó",
+   "gloss": "north",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "NORTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5578,
+    "y": 0.4241,
+    "w": 0.1112,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 184,
+   "form": "nebáú",
+   "gloss": "nose",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5572,
+    "y": 0.4402,
+    "w": 0.1286,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 185,
+   "form": "mingay",
+   "gloss": "oil",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "OIL (FROM PLANTS)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5572,
+    "y": 0.4535,
+    "w": 0.1293,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 186,
+   "form": "koo drong",
+   "gloss": "old",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "OLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5565,
+    "y": 0.4676,
+    "w": 0.1554,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 187,
+   "form": "mákó",
+   "gloss": "onion",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ONION"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5565,
+    "y": 0.4821,
+    "w": 0.1353,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 189,
+   "form": "egi umbá",
+   "gloss": "other",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "OTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.5111,
+    "w": 0.1708,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 190,
+   "form": "beet",
+   "gloss": "ox",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "OX"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.5259,
+    "w": 0.1708,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 191,
+   "form": "yāh",
+   "gloss": "paddy",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.5407,
+    "w": 0.1246,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 193,
+   "form": "myoongjay",
+   "gloss": "peacock",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "PEACOCK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.5699,
+    "w": 0.2123,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 194,
+   "form": "poor shay",
+   "gloss": "pine-apple",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.5844,
+    "w": 0.2277,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 195,
+   "form": "la jee",
+   "gloss": "place",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "PLACE (POSITION)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.5987,
+    "w": 0.1347,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 196,
+   "form": "telā she",
+   "gloss": "plantain",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "PLANTAIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.6117,
+    "w": 0.1842,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 198,
+   "form": "ning",
+   "gloss": "poison",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "POISON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5572,
+    "y": 0.6424,
+    "w": 0.1641,
+    "h": 0.0149
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed \"ning, L.\"",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 199,
+   "form": "kay",
+   "gloss": "potato or yam",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "POTATO",
+    "YAM"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5565,
+    "y": 0.6571,
+    "w": 0.2043,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 201,
+   "form": "hurra hurra",
+   "gloss": "quick",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 1,
+    "x": 0.5565,
+    "y": 0.684,
+    "w": 0.2063,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 202,
+   "form": "weehi",
+   "gloss": "rain",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.6997,
+    "w": 0.122,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 203,
+   "form": "shi",
+   "gloss": "ratan",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.7151,
+    "w": 0.1099,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 204,
+   "form": "neeray",
+   "gloss": "read",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "READ"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5565,
+    "y": 0.7306,
+    "w": 0.1347,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 205,
+   "form": "he tamba",
+   "gloss": "red",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5565,
+    "y": 0.742,
+    "w": 0.1461,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 206,
+   "form": "shiáh",
+   "gloss": "rice",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "RICE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5552,
+    "y": 0.7579,
+    "w": 0.1193,
+    "h": 0.0149
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "apparent broken or extra type between h and á",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 207,
+   "form": "phenchung",
+   "gloss": "right",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "RIGHT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.7727,
+    "w": 0.1842,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 208,
+   "form": "doomshay",
+   "gloss": "ripe",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "RIPE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5545,
+    "y": 0.7874,
+    "w": 0.1621,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 209,
+   "form": "bōghay",
+   "gloss": "rise",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "RISE (ONESELF)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5552,
+    "y": 0.8014,
+    "w": 0.1313,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 210,
+   "form": "yeomba choa",
+   "gloss": "river",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5552,
+    "y": 0.8157,
+    "w": 0.1963,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 211,
+   "form": "lum",
+   "gloss": "road",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ROAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.8307,
+    "w": 0.1092,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 212,
+   "form": "tuk pá",
+   "gloss": "rope",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ROPE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.847,
+    "w": 0.1387,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 213,
+   "form": "sháp",
+   "gloss": "root",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ROOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.8605,
+    "w": 0.1119,
+    "h": 0.0149,
+    "approx": true
+   }
+  },
+  {
+   "n": 214,
+   "form": "him tong",
+   "gloss": "roof",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ROOF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.8744,
+    "w": 0.1568,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 215,
+   "form": "kooshay",
+   "gloss": "round",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "ROUND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5558,
+    "y": 0.8889,
+    "w": 0.1635,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 216,
+   "form": "yim",
+   "gloss": "salt",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SALT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5572,
+    "y": 0.9038,
+    "w": 0.1046,
+    "h": 0.0149
+   }
+  },
+  {
+   "n": 217,
+   "form": "yeu kā",
+   "gloss": "sand",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.1004,
+    "w": 0.1379,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 218,
+   "form": "kuturna",
+   "gloss": "scissors",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 2,
+    "x": 0.1104,
+    "y": 0.1151,
+    "w": 0.1794,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 219,
+   "form": "yeálí",
+   "gloss": "seed",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SEED"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1104,
+    "y": 0.1298,
+    "w": 0.1473,
+    "h": 0.0148,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed \"yeálí, L.\"",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 220,
+   "form": "koh",
+   "gloss": "shield",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SHIELD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1111,
+    "y": 0.1439,
+    "w": 0.1178,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 222,
+   "form": "phak tang",
+   "gloss": "shoulder",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SHOULDER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1111,
+    "y": 0.1735,
+    "w": 0.1949,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 223,
+   "form": "sāk-te",
+   "gloss": "shut",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SHUT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1111,
+    "y": 0.1878,
+    "w": 0.1265,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 224,
+   "form": "took",
+   "gloss": "sick",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SICK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.2021,
+    "w": 0.1051,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 225,
+   "form": "yāng",
+   "gloss": "silver",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SILVER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.2191,
+    "w": 0.1292,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 226,
+   "form": "minobā",
+   "gloss": "sin",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.2315,
+    "w": 0.1285,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 227,
+   "form": "noosa-noonchema",
+   "gloss": "sister",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.2462,
+    "w": 0.1936,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 228,
+   "form": "noosa-empercha",
+   "gloss": "brother",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.2613,
+    "w": 0.1936,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 229,
+   "form": "yoong-e",
+   "gloss": "sit",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SIT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1131,
+    "y": 0.2771,
+    "w": 0.1238,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 230,
+   "form": "somā",
+   "gloss": "scratch",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SCRATCH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1131,
+    "y": 0.2901,
+    "w": 0.1473,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 231,
+   "form": "henja",
+   "gloss": "slave",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SLAVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1131,
+    "y": 0.3044,
+    "w": 0.1272,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 232,
+   "form": "beecha",
+   "gloss": "female slave",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 2,
+    "x": 0.1359,
+    "y": 0.3173,
+    "w": 0.1701,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 233,
+   "form": "mig yeu",
+   "gloss": "sleep",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.3336,
+    "w": 0.156,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 234,
+   "form": "tanga",
+   "gloss": "small",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 2,
+    "x": 0.1118,
+    "y": 0.3487,
+    "w": 0.1352,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 235,
+   "form": "thembá",
+   "gloss": "smith",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.362,
+    "w": 0.1513,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 236,
+   "form": "me koo",
+   "gloss": "smoke",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SMOKE (INHALE)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.3765,
+    "w": 0.1513,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 237,
+   "form": "wá seh",
+   "gloss": "snake",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SNAKE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.3908,
+    "w": 0.1466,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 238,
+   "form": "náh",
+   "gloss": "snow",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1124,
+    "y": 0.4074,
+    "w": 0.1131,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 240,
+   "form": "koosa",
+   "gloss": "son",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1131,
+    "y": 0.4362,
+    "w": 0.1111,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 241,
+   "form": "yeō",
+   "gloss": "south",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SOUTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1131,
+    "y": 0.4515,
+    "w": 0.1111,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 242,
+   "form": "báp má",
+   "gloss": "speak",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SPEAK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1131,
+    "y": 0.4639,
+    "w": 0.1546,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 243,
+   "form": "ebe",
+   "gloss": "stand",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "STAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1138,
+    "y": 0.4782,
+    "w": 0.1044,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 244,
+   "form": "sohor",
+   "gloss": "star",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1145,
+    "y": 0.4937,
+    "w": 0.1151,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 245,
+   "form": "lōōng",
+   "gloss": "stone",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1145,
+    "y": 0.5086,
+    "w": 0.1292,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 246,
+   "form": "don don ba",
+   "gloss": "straight",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "STRAIGHT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1145,
+    "y": 0.5207,
+    "w": 0.1916,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 247,
+   "form": "hipar",
+   "gloss": "strike",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "STRIKE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1151,
+    "y": 0.537,
+    "w": 0.1386,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 248,
+   "form": "tomt oomba",
+   "gloss": "strong",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "STRONG"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1158,
+    "y": 0.5507,
+    "w": 0.1902,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 249,
+   "form": "nam",
+   "gloss": "sun",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1158,
+    "y": 0.5677,
+    "w": 0.1044,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 250,
+   "form": "so-al",
+   "gloss": "sweat",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SWEAT (PERSPIRE)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1165,
+    "y": 0.5809,
+    "w": 0.1272,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 251,
+   "form": "limba",
+   "gloss": "sweet",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "SWEET"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1171,
+    "y": 0.5954,
+    "w": 0.1352,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 252,
+   "form": "sheem",
+   "gloss": "tail",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "TAIL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1171,
+    "y": 0.6095,
+    "w": 0.1151,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 253,
+   "form": "kootriba",
+   "gloss": "thief",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "THIEF"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1165,
+    "y": 0.6238,
+    "w": 0.1519,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 254,
+   "form": "poklam",
+   "gloss": "thigh",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "THIGH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1165,
+    "y": 0.6385,
+    "w": 0.1506,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 255,
+   "form": "chookbá",
+   "gloss": "thin",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "THIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1165,
+    "y": 0.6528,
+    "w": 0.1426,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 256,
+   "form": "kenne",
+   "gloss": "thou",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "THOU"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1171,
+    "y": 0.6675,
+    "w": 0.1278,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 257,
+   "form": "kee",
+   "gloss": "thread",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "THREAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1165,
+    "y": 0.6816,
+    "w": 0.1191,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 258,
+   "form": "koodom",
+   "gloss": "thumb",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "THUMB"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1171,
+    "y": 0.6959,
+    "w": 0.162,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 259,
+   "form": "kāmian",
+   "gloss": "thunder",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1171,
+    "y": 0.7108,
+    "w": 0.1821,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 260,
+   "form": "keba",
+   "gloss": "tiger",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "TIGER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1165,
+    "y": 0.7253,
+    "w": 0.1158,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 261,
+   "form": "shirka",
+   "gloss": "tobacco",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "TOBACCO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1165,
+    "y": 0.7396,
+    "w": 0.162,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 262,
+   "form": "eu",
+   "gloss": "to-day",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 2,
+    "x": 0.1171,
+    "y": 0.7547,
+    "w": 0.1098,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 263,
+   "form": "tāndu",
+   "gloss": "to-morrow",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "TOMORROW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5013,
+    "y": 0.1012,
+    "w": 0.1881,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 264,
+   "form": "ullee",
+   "gloss": "tongue",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.502,
+    "y": 0.1161,
+    "w": 0.1379,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 265,
+   "form": "hā",
+   "gloss": "tooth",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5027,
+    "y": 0.1294,
+    "w": 0.1037,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 266,
+   "form": "shing",
+   "gloss": "tree",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.502,
+    "y": 0.1449,
+    "w": 0.1185,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 267,
+   "form": "koochā",
+   "gloss": "true",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "TRUE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5027,
+    "y": 0.1596,
+    "w": 0.1339,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 268,
+   "form": "pake",
+   "gloss": "turban",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 2,
+    "x": 0.5027,
+    "y": 0.1735,
+    "w": 0.1426,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 269,
+   "form": "hakemba",
+   "gloss": "tusk",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "TUSK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.502,
+    "y": 0.1876,
+    "w": 0.1546,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 271,
+   "form": "umpunga",
+   "gloss": "uncle",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "UNCLE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5027,
+    "y": 0.2195,
+    "w": 0.1754,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 272,
+   "form": "yeo",
+   "gloss": "under",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 2,
+    "x": 0.5027,
+    "y": 0.2338,
+    "w": 0.1151,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 273,
+   "form": "mudoomsin",
+   "gloss": "unripe",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "UNRIPE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.504,
+    "y": 0.2462,
+    "w": 0.2048,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 274,
+   "form": "tompoya",
+   "gloss": "valley",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "VALLEY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5033,
+    "y": 0.262,
+    "w": 0.168,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 275,
+   "form": "bang pe",
+   "gloss": "village",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "VILLAGE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.504,
+    "y": 0.2752,
+    "w": 0.1747,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 276,
+   "form": "pe shoo",
+   "gloss": "vomit",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "VOMIT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5047,
+    "y": 0.2899,
+    "w": 0.1499,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 277,
+   "form": "lang, kekma",
+   "gloss": "walk",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WALK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5047,
+    "y": 0.304,
+    "w": 0.1928,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 278,
+   "form": "tokma",
+   "gloss": "war",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5047,
+    "y": 0.3204,
+    "w": 0.1218,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 279,
+   "form": "mowah",
+   "gloss": "warm",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WARM"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5027,
+    "y": 0.3349,
+    "w": 0.1499,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 280,
+   "form": "choa",
+   "gloss": "water",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.504,
+    "y": 0.3483,
+    "w": 0.1238,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 281,
+   "form": "malim",
+   "gloss": "wax",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 2,
+    "x": 0.5033,
+    "y": 0.3639,
+    "w": 0.1285,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 282,
+   "form": "annigay",
+   "gloss": "we",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5033,
+    "y": 0.3782,
+    "w": 0.1352,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 283,
+   "form": "mun toomba",
+   "gloss": "weak",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WEAK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5027,
+    "y": 0.3908,
+    "w": 0.1981,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 284,
+   "form": "bidooa",
+   "gloss": "widow",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WIDOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5033,
+    "y": 0.4055,
+    "w": 0.1486,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 285,
+   "form": "rāndā",
+   "gloss": "widower",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WIDOWER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5033,
+    "y": 0.4198,
+    "w": 0.1707,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 286,
+   "form": "lāngtuk",
+   "gloss": "weave",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WEAVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5033,
+    "y": 0.4364,
+    "w": 0.164,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 288,
+   "form": "tāngu",
+   "gloss": "weigh",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WEIGH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5054,
+    "y": 0.4647,
+    "w": 0.1426,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 289,
+   "form": "nāmtā",
+   "gloss": "west",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WEST"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5047,
+    "y": 0.4788,
+    "w": 0.1359,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 290,
+   "form": "hene go",
+   "gloss": "what is it ?",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WHAT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5054,
+    "y": 0.4912,
+    "w": 0.2088,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 291,
+   "form": "alte lajee",
+   "gloss": "where",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WHERE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5054,
+    "y": 0.5074,
+    "w": 0.1707,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 292,
+   "form": "thuriyok",
+   "gloss": "whistle, v.",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 2,
+    "x": 0.5054,
+    "y": 0.5219,
+    "w": 0.2102,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 293,
+   "form": "pho dāng be",
+   "gloss": "white",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.5364,
+    "w": 0.2001,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 294,
+   "form": "Eng, oh",
+   "gloss": "who",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WHO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.5509,
+    "w": 0.1439,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 295,
+   "form": "sāmet yemba",
+   "gloss": "wind, N.",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.5656,
+    "w": 0.2256,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 296,
+   "form": "menchima",
+   "gloss": "woman",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.5816,
+    "w": 0.1961,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 297,
+   "form": "āmett",
+   "gloss": "wife",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.594,
+    "w": 0.1198,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 298,
+   "form": "shing",
+   "gloss": "wood",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.6091,
+    "w": 0.1278,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 299,
+   "form": "bān",
+   "gloss": "word",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WORD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5054,
+    "y": 0.623,
+    "w": 0.1111,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 300,
+   "form": "yeolik lâjee",
+   "gloss": "world",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WORLD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5054,
+    "y": 0.6377,
+    "w": 0.1914,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 301,
+   "form": "támboo",
+   "gloss": "worm",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WORM"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.6538,
+    "w": 0.1513,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 302,
+   "form": "mangjokma",
+   "gloss": "worship",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "WORSHIP"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.6669,
+    "w": 0.2222,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 303,
+   "form": "ke",
+   "gloss": "yam",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "YAM"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5047,
+    "y": 0.6833,
+    "w": 0.0904,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 304,
+   "form": "toong be tik",
+   "gloss": "year",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "YEAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5054,
+    "y": 0.6969,
+    "w": 0.1867,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 305,
+   "form": "peyor bu",
+   "gloss": "yellow",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "YELLOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5054,
+    "y": 0.7104,
+    "w": 0.1767,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 306,
+   "form": "anchen",
+   "gloss": "yesterday",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "YESTERDAY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.7249,
+    "w": 0.1921,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 307,
+   "form": "taugmen",
+   "gloss": "young",
+   "section": "Limboo Vocabulary. Two Hundred Words.",
+   "concepts": [
+    "YOUNG"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.7412,
+    "w": 0.1794,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 308,
+   "form": "teek",
+   "gloss": "one",
+   "section": "Numbers.",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.7675,
+    "w": 0.1794,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 309,
+   "form": "netchí",
+   "gloss": "two",
+   "section": "Numbers.",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.508,
+    "y": 0.7939,
+    "w": 0.162,
+    "h": 0.0148,
+    "approx": true
+   }
+  },
+  {
+   "n": 310,
+   "form": "somchí",
+   "gloss": "three",
+   "section": "Numbers.",
+   "concepts": [
+    "THREE"
+   ]
+  },
+  {
+   "n": 311,
+   "form": "leeskí",
+   "gloss": "four",
+   "section": "Numbers.",
+   "concepts": [
+    "FOUR"
+   ]
+  },
+  {
+   "n": 312,
+   "form": "nashí",
+   "gloss": "five",
+   "section": "Numbers.",
+   "concepts": [
+    "FIVE"
+   ]
+  },
+  {
+   "n": 313,
+   "form": "tookshí",
+   "gloss": "six",
+   "section": "Numbers.",
+   "concepts": [
+    "SIX"
+   ]
+  },
+  {
+   "n": 314,
+   "form": "noshí",
+   "gloss": "seven",
+   "section": "Numbers.",
+   "concepts": [
+    "SEVEN"
+   ]
+  },
+  {
+   "n": 315,
+   "form": "etchí",
+   "gloss": "eight",
+   "section": "Numbers.",
+   "concepts": [
+    "EIGHT"
+   ]
+  },
+  {
+   "n": 316,
+   "form": "phangshí",
+   "gloss": "nine",
+   "section": "Numbers.",
+   "concepts": [
+    "NINE"
+   ]
+  },
+  {
+   "n": 317,
+   "form": "thíbong",
+   "gloss": "ten",
+   "section": "Numbers.",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.508,
+    "y": 0.7939,
+    "w": 0.162,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 318,
+   "form": "nibong",
+   "gloss": "twenty",
+   "section": "Numbers.",
+   "concepts": [
+    "TWENTY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.508,
+    "y": 0.7939,
+    "w": 0.162,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 319,
+   "form": "soombong",
+   "gloss": "thirty",
+   "section": "Numbers.",
+   "concepts": [
+    "THIRTY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5087,
+    "y": 0.8079,
+    "w": 0.1747,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 320,
+   "form": "libong",
+   "gloss": "forty",
+   "section": "Numbers.",
+   "concepts": [
+    "FORTY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.508,
+    "y": 0.8224,
+    "w": 0.1365,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 321,
+   "form": "nabong",
+   "gloss": "fifty",
+   "section": "Numbers.",
+   "concepts": [
+    "FIFTY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.508,
+    "y": 0.8369,
+    "w": 0.1386,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 322,
+   "form": "tookbong",
+   "gloss": "sixty",
+   "section": "Numbers.",
+   "concepts": [
+    "SIXTY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5087,
+    "y": 0.8516,
+    "w": 0.16,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 323,
+   "form": "nobong",
+   "gloss": "seventy",
+   "section": "Numbers.",
+   "concepts": [
+    "SEVENTY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5094,
+    "y": 0.8666,
+    "w": 0.1693,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 324,
+   "form": "etbong",
+   "gloss": "eighty",
+   "section": "Numbers.",
+   "concepts": [
+    "EIGHTY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5094,
+    "y": 0.8806,
+    "w": 0.1506,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 325,
+   "form": "phang bong",
+   "gloss": "ninety",
+   "section": "Numbers.",
+   "concepts": [
+    "NINETY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5094,
+    "y": 0.8949,
+    "w": 0.2041,
+    "h": 0.0148
+   }
+  },
+  {
+   "n": 326,
+   "form": "thíbong bong",
+   "gloss": "hundred",
+   "section": "Numbers.",
+   "concepts": [
+    "HUNDRED"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.51,
+    "y": 0.9092,
+    "w": 0.239,
+    "h": 0.0148
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 316,
+  "notes": 9,
+  "located": 308
+ },
+ "partial": null,
+ "relation": null
+}

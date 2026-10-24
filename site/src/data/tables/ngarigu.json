@@ -332,6 +332,13 @@
     "y": 0.334,
     "w": 0.2466,
     "h": 0.0128
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "two forms bracketed together",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -348,6 +355,13 @@
     "y": 0.3473,
     "w": 0.2826,
     "h": 0.0128
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "two forms bracketed together",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -2478,7 +2492,7 @@
  "identification": null,
  "stats": {
   "entries": 164,
-  "notes": 0,
+  "notes": 2,
   "located": 152
  },
  "partial": null,

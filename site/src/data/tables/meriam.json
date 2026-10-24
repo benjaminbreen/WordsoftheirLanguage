@@ -388,6 +388,13 @@
     "w": 0.7882,
     "h": 0.0166,
     "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "final letter blurred in scan: e with acute accent, or possibly d",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -770,6 +777,13 @@
     "y": 0.6127,
     "w": 0.7882,
     "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "diaeresis on i uncertain in scan",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -905,6 +919,13 @@
     "y": 0.6631,
     "w": 0.7885,
     "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "accent over final letters unclear in scan; reading Perapere with acute on final e",
+    "compare": null,
+    "checked": false
    }
   },
   {
@@ -1076,7 +1097,7 @@
  "identification": null,
  "stats": {
   "entries": 68,
-  "notes": 0,
+  "notes": 3,
   "located": 68
  },
  "partial": null,

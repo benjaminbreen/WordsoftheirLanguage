@@ -1,0 +1,3211 @@
+{
+ "schema": 1,
+ "id": "matagalpa",
+ "wtl": "WTL-0043",
+ "heading": "In the vocabulary, the words from the list by Noguera are marked with an N. Those not so distinguished are from the article of Mendoza.",
+ "headings": [
+  "Vocabulary.",
+  "Verbs."
+ ],
+ "language": {
+  "name": "Matagalpa and Cacaopera",
+  "glottocode": "",
+  "family": null,
+  "path": [],
+  "labels": [
+   "N."
+  ]
+ },
+ "region": "Caribbean & South America",
+ "book": {
+  "short": "The Matagalpan Linguistic Stock of Central America",
+  "title": "The Matagalpan Linguistic Stock of Central America",
+  "author": "D. G. Brinton",
+  "printed": 1895,
+  "imprint": "Proceedings of the American Philosophical Society, 34, 1895, pp. 411-414 (vocabulary); article 403-415",
+  "tcp": "",
+  "cover": "matagalpa"
+ },
+ "provenance": {
+  "collector": "Rev. Victor Noguera (N.); Jeremías Mendoza",
+  "place": "Matagalpa, Nicaragua; Cacaopera, El Salvador",
+  "heard": "Noguera's list after 1853; Mendoza's article published June 1895"
+ },
+ "scan": {
+  "ia": "jstor-982898",
+  "url": "https://archive.org/details/jstor-982898",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Brinton combined words from Jeremias Mendoza's 1895 article on Cacaopera in La Universidad (San Salvador) with a list furnished to Berendt by Rev. Victor Noguera, curate at Matagalpa and San Jorge, marking Noguera's words with N.",
+ "pages": [
+  {
+   "leaf": 9,
+   "w": 1577,
+   "h": 2417,
+   "sm": "/scans/matagalpa/0009-900.webp",
+   "lg": "/scans/matagalpa/0009-1800.webp"
+  },
+  {
+   "leaf": 10,
+   "w": 1577,
+   "h": 2417,
+   "sm": "/scans/matagalpa/0010-900.webp",
+   "lg": "/scans/matagalpa/0010-1800.webp"
+  },
+  {
+   "leaf": 11,
+   "w": 1577,
+   "h": 2417,
+   "sm": "/scans/matagalpa/0011-900.webp",
+   "lg": "/scans/matagalpa/0011-1800.webp"
+  },
+  {
+   "leaf": 12,
+   "w": 1577,
+   "h": 2417,
+   "sm": "/scans/matagalpa/0012-900.webp",
+   "lg": "/scans/matagalpa/0012-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "ruc",
+   "gloss": "Above",
+   "section": "Vocabulary.",
+   "concepts": [
+    "ABOVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1237,
+    "y": 0.7091,
+    "w": 0.1268,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 2,
+   "form": "huyá",
+   "gloss": "Alcalde",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 0,
+    "x": 0.1237,
+    "y": 0.7261,
+    "w": 0.1535,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 3,
+   "form": "sukale",
+   "gloss": "Ant",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "ANT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.123,
+    "y": 0.7424,
+    "w": 0.1604,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 4,
+   "form": "yukitu",
+   "gloss": "Anus",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "ANUS"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.123,
+    "y": 0.7606,
+    "w": 0.1788,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 5,
+   "form": "panamá",
+   "gloss": "Arm",
+   "section": "Vocabulary.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.123,
+    "y": 0.7776,
+    "w": 0.1827,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 6,
+   "form": "panake",
+   "gloss": "Arm",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.123,
+    "y": 0.7776,
+    "w": 0.1827,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 7,
+   "form": "kisu",
+   "gloss": "Armadillo",
+   "section": "Vocabulary.",
+   "concepts": [
+    "ARMADILLO"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.123,
+    "y": 0.8115,
+    "w": 0.1827,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 8,
+   "form": "sista",
+   "gloss": "Arrow",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1224,
+    "y": 0.8285,
+    "w": 0.1833,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 9,
+   "form": "cáurre",
+   "gloss": "Atole",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 0,
+    "x": 0.1224,
+    "y": 0.8456,
+    "w": 0.1458,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 10,
+   "form": "ígua",
+   "gloss": "Ayote fruit",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 0,
+    "x": 0.1224,
+    "y": 0.8634,
+    "w": 0.1833,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 11,
+   "form": "ferácaca",
+   "gloss": "Bad",
+   "section": "Vocabulary.",
+   "concepts": [
+    "BAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1218,
+    "y": 0.8806,
+    "w": 0.184,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 12,
+   "form": "cusní",
+   "gloss": "Barranco",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 0,
+    "x": 0.5054,
+    "y": 0.7079,
+    "w": 0.1699,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 13,
+   "form": "tapit",
+   "gloss": "Basin",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.7263,
+    "w": 0.1313,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 14,
+   "form": "pác",
+   "gloss": "Beans",
+   "section": "Vocabulary.",
+   "concepts": [
+    "BEAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.7608,
+    "w": 0.3602,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 15,
+   "form": "yálaca",
+   "gloss": "Beautiful",
+   "section": "Vocabulary.",
+   "concepts": [
+    "BEAUTIFUL"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.7608,
+    "w": 0.3602,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 16,
+   "form": "ukraske",
+   "gloss": "Bed",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "BED"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.7935,
+    "w": 0.1737,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 17,
+   "form": "tácan",
+   "gloss": "Before",
+   "section": "Vocabulary.",
+   "concepts": [
+    "BEFORE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.8115,
+    "w": 0.1458,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 18,
+   "form": "manacát",
+   "gloss": "Behind",
+   "section": "Vocabulary.",
+   "concepts": [
+    "BEHIND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5048,
+    "y": 0.8286,
+    "w": 0.1458,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 19,
+   "form": "batíe",
+   "gloss": "Below",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 0,
+    "x": 0.5035,
+    "y": 0.8456,
+    "w": 0.1382,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 20,
+   "form": "puke",
+   "gloss": "Belly",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5035,
+    "y": 0.8636,
+    "w": 0.3006,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 21,
+   "form": "kul",
+   "gloss": "Bench (of wood)",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 0,
+    "x": 0.5035,
+    "y": 0.8808,
+    "w": 0.3006,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 22,
+   "form": "guásirri",
+   "gloss": "Bird",
+   "section": "Vocabulary.",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5035,
+    "y": 0.898,
+    "w": 0.2479,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 23,
+   "form": "yulo",
+   "gloss": "Bird",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5035,
+    "y": 0.898,
+    "w": 0.2479,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 24,
+   "form": "mulka",
+   "gloss": "Black",
+   "section": "Vocabulary.",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.128,
+    "y": 0.12,
+    "w": 0.146,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 25,
+   "form": "juip",
+   "gloss": "Bow",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.1376,
+    "w": 0.1504,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 26,
+   "form": "macár",
+   "gloss": "Brasil wood",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.1268,
+    "y": 0.1541,
+    "w": 0.1784,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 27,
+   "form": "tatke",
+   "gloss": "Breasts",
+   "section": "Vocabulary.",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.173,
+    "w": 0.1777,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 28,
+   "form": "michi",
+   "gloss": "Cat",
+   "section": "Vocabulary.",
+   "concepts": [
+    "CAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.128,
+    "y": 0.2241,
+    "w": 0.1771,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 29,
+   "form": "cumá",
+   "gloss": "Chile",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.2594,
+    "w": 0.1358,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 30,
+   "form": "teópan",
+   "gloss": "Church",
+   "section": "Vocabulary.",
+   "concepts": [
+    "CHURCH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.2758,
+    "w": 0.1777,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 31,
+   "form": "amú",
+   "gloss": "Cloud",
+   "section": "Vocabulary.",
+   "concepts": [
+    "CLOUD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.3109,
+    "w": 0.1314,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 32,
+   "form": "piyú-apu",
+   "gloss": "Cock (fowl)",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.3279,
+    "w": 0.1777,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 33,
+   "form": "tústata",
+   "gloss": "Cold",
+   "section": "Vocabulary.",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.3623,
+    "w": 0.1409,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 34,
+   "form": "kalortita",
+   "gloss": "Color",
+   "section": "Vocabulary.",
+   "concepts": [
+    "COLOR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.3794,
+    "w": 0.1777,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 35,
+   "form": "dapan",
+   "gloss": "Cotton",
+   "section": "Vocabulary.",
+   "concepts": [
+    "COTTON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.415,
+    "w": 0.1561,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 36,
+   "form": "su",
+   "gloss": "Cunnus (fem.)",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.4324,
+    "w": 0.1777,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 37,
+   "form": "rinnicá",
+   "gloss": "Dark",
+   "section": "Vocabulary.",
+   "concepts": [
+    "DARK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.4489,
+    "w": 0.1498,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 38,
+   "form": "lántaca",
+   "gloss": "Day",
+   "section": "Vocabulary.",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1268,
+    "y": 0.4665,
+    "w": 0.1784,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 39,
+   "form": "cúlam",
+   "gloss": "Dead",
+   "section": "Vocabulary.",
+   "concepts": [
+    "DEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.128,
+    "y": 0.4833,
+    "w": 0.1377,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 40,
+   "form": "yán",
+   "gloss": "Deer",
+   "section": "Vocabulary.",
+   "concepts": [
+    "DEER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1268,
+    "y": 0.5023,
+    "w": 0.1784,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 41,
+   "form": "yau",
+   "gloss": "Deer",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "DEER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1268,
+    "y": 0.5023,
+    "w": 0.1784,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 42,
+   "form": "barran",
+   "gloss": "Dish",
+   "section": "Vocabulary.",
+   "concepts": [
+    "DISH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1268,
+    "y": 0.5182,
+    "w": 0.1428,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 43,
+   "form": "halu",
+   "gloss": "Dog",
+   "section": "Vocabulary.",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.128,
+    "y": 0.535,
+    "w": 0.1771,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 44,
+   "form": "sulo",
+   "gloss": "Dog",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.128,
+    "y": 0.535,
+    "w": 0.1771,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 45,
+   "form": "topalke",
+   "gloss": "Ear",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.5877,
+    "w": 0.1777,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 46,
+   "form": "durrú",
+   "gloss": "Earth, land",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.128,
+    "y": 0.6043,
+    "w": 0.1771,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 47,
+   "form": "doyu",
+   "gloss": "Earth, land",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 1,
+    "x": 0.128,
+    "y": 0.6043,
+    "w": 0.1771,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 48,
+   "form": "ki",
+   "gloss": "Egg",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "EGG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.128,
+    "y": 0.6556,
+    "w": 0.1206,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 49,
+   "form": "currál",
+   "gloss": "Enclosure",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.1274,
+    "y": 0.6736,
+    "w": 0.1777,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 50,
+   "form": "yalabesca",
+   "gloss": "Enough",
+   "section": "Vocabulary.",
+   "concepts": [
+    "ENOUGH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.128,
+    "y": 0.6914,
+    "w": 0.1771,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 51,
+   "form": "kunkán",
+   "gloss": "Eye",
+   "section": "Vocabulary.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1287,
+    "y": 0.7075,
+    "w": 0.1765,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 52,
+   "form": "kuñke",
+   "gloss": "Eye",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1287,
+    "y": 0.7075,
+    "w": 0.1765,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 53,
+   "form": "nakila",
+   "gloss": "Eyebrows",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "EYEBROW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1287,
+    "y": 0.7245,
+    "w": 0.1765,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 54,
+   "form": "kilike",
+   "gloss": "Eyelashes",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "EYELASH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1287,
+    "y": 0.7414,
+    "w": 0.1765,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 55,
+   "form": "amiske",
+   "gloss": "Father (parent ?)",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 1,
+    "x": 0.1287,
+    "y": 0.7594,
+    "w": 0.1765,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 56,
+   "form": "yorra",
+   "gloss": "Female",
+   "section": "Vocabulary.",
+   "concepts": [
+    "FEMALE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1287,
+    "y": 0.862,
+    "w": 0.1765,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 57,
+   "form": "yueiya",
+   "gloss": "Female",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "FEMALE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1287,
+    "y": 0.862,
+    "w": 0.1765,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 58,
+   "form": "úppi",
+   "gloss": "Field, plain",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5098,
+    "y": 0.1208,
+    "w": 0.1885,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 59,
+   "form": "laguáli",
+   "gloss": "Fire",
+   "section": "Vocabulary.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5104,
+    "y": 0.1378,
+    "w": 0.2512,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 60,
+   "form": "lauale",
+   "gloss": "Fire",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5104,
+    "y": 0.1378,
+    "w": 0.2512,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 61,
+   "form": "jokane",
+   "gloss": "Fireband",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 1,
+    "x": 0.511,
+    "y": 0.155,
+    "w": 0.2132,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 62,
+   "form": "zál",
+   "gloss": "Fish",
+   "section": "Vocabulary.",
+   "concepts": [
+    "FISH"
+   ],
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "initial letter of zál unclear in print",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 63,
+   "form": "yale",
+   "gloss": "Fish",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "FISH"
+   ]
+  },
+  {
+   "n": 64,
+   "form": "a",
+   "gloss": "Fly",
+   "section": "Vocabulary.",
+   "concepts": [
+    "FLY (INSECT)"
+   ]
+  },
+  {
+   "n": 65,
+   "form": "sime",
+   "gloss": "Fly",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "FLY (INSECT)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.511,
+    "y": 0.155,
+    "w": 0.2132,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 66,
+   "form": "napake",
+   "gloss": "Foot",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5098,
+    "y": 0.2071,
+    "w": 0.1789,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 67,
+   "form": "bácaca",
+   "gloss": "Good",
+   "section": "Vocabulary.",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5098,
+    "y": 0.2329,
+    "w": 0.3571,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 68,
+   "form": "suna",
+   "gloss": "Gourd",
+   "section": "Vocabulary.",
+   "concepts": [
+    "GOURD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5098,
+    "y": 0.2586,
+    "w": 0.3571,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 69,
+   "form": "güiia",
+   "gloss": "Gourd, another kind",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 1,
+    "x": 0.5294,
+    "y": 0.2764,
+    "w": 0.0667,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 70,
+   "form": "sásaca",
+   "gloss": "Green",
+   "section": "Vocabulary.",
+   "concepts": [
+    "GREEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5091,
+    "y": 0.2929,
+    "w": 0.3584,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 71,
+   "form": "kilima",
+   "gloss": "Hair",
+   "section": "Vocabulary.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5104,
+    "y": 0.3103,
+    "w": 0.2259,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 72,
+   "form": "kile",
+   "gloss": "Hair",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5104,
+    "y": 0.3103,
+    "w": 0.2259,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 73,
+   "form": "parri",
+   "gloss": "Hamack",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5104,
+    "y": 0.3276,
+    "w": 0.2259,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 74,
+   "form": "panake",
+   "gloss": "Hand",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5104,
+    "y": 0.3449,
+    "w": 0.184,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 75,
+   "form": "guapúe",
+   "gloss": "Hat",
+   "section": "Vocabulary.",
+   "concepts": [
+    "HAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5104,
+    "y": 0.3639,
+    "w": 0.1352,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 76,
+   "form": "assá",
+   "gloss": "Hawk",
+   "section": "Vocabulary.",
+   "concepts": [
+    "HAWK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5104,
+    "y": 0.3803,
+    "w": 0.3603,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 77,
+   "form": "guará",
+   "gloss": "Head",
+   "section": "Vocabulary.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5091,
+    "y": 0.3968,
+    "w": 0.3603,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 78,
+   "form": "máike",
+   "gloss": "Head",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5091,
+    "y": 0.3968,
+    "w": 0.3603,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 79,
+   "form": "guayuka",
+   "gloss": "Heat",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "HEAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5104,
+    "y": 0.4487,
+    "w": 0.1935,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 80,
+   "form": "piyú-mayrro",
+   "gloss": "Hen",
+   "section": "Vocabulary.",
+   "concepts": [
+    "HEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5098,
+    "y": 0.4655,
+    "w": 0.3578,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 81,
+   "form": "boluko",
+   "gloss": "Hen",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "HEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5098,
+    "y": 0.4655,
+    "w": 0.3578,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 82,
+   "form": "carrán",
+   "gloss": "Hill",
+   "section": "Vocabulary.",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5098,
+    "y": 0.4914,
+    "w": 0.3578,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 83,
+   "form": "kayan",
+   "gloss": "Hill",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5098,
+    "y": 0.5172,
+    "w": 0.3578,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 84,
+   "form": "pálca",
+   "gloss": "Hillside",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5098,
+    "y": 0.5431,
+    "w": 0.3578,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 85,
+   "form": "darráy",
+   "gloss": "Horse",
+   "section": "Vocabulary.",
+   "concepts": [
+    "HORSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.511,
+    "y": 0.5689,
+    "w": 0.2658,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 86,
+   "form": "drêije",
+   "gloss": "Horse",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "HORSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.511,
+    "y": 0.5689,
+    "w": 0.2658,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 87,
+   "form": "u",
+   "gloss": "House",
+   "section": "Vocabulary.",
+   "concepts": [
+    "HOUSE"
+   ]
+  },
+  {
+   "n": 88,
+   "form": "u",
+   "gloss": "House",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "HOUSE"
+   ]
+  },
+  {
+   "n": 89,
+   "form": "caridi",
+   "gloss": "How",
+   "section": "Vocabulary.",
+   "concepts": [
+    "HOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.511,
+    "y": 0.5689,
+    "w": 0.2658,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 90,
+   "form": "sepa",
+   "gloss": "Hunger",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "HUNGER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.511,
+    "y": 0.6036,
+    "w": 0.3464,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 91,
+   "form": "jamai",
+   "gloss": "Iguana",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "IGUANA"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.511,
+    "y": 0.6382,
+    "w": 0.3464,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 92,
+   "form": "dávi",
+   "gloss": "Indian",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5123,
+    "y": 0.656,
+    "w": 0.1333,
+    "h": 0.015,
+    "approx": true
+   }
+  },
+  {
+   "n": 93,
+   "form": "tútu",
+   "gloss": "Jar",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5117,
+    "y": 0.6738,
+    "w": 0.1035,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 94,
+   "form": "suanke",
+   "gloss": "Knee",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5123,
+    "y": 0.6897,
+    "w": 0.1783,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 95,
+   "form": "mulcám",
+   "gloss": "Ladino",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5117,
+    "y": 0.7077,
+    "w": 0.1707,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 96,
+   "form": "huilca",
+   "gloss": "Large",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5123,
+    "y": 0.7239,
+    "w": 0.2779,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 97,
+   "form": "baibaka",
+   "gloss": "Large",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 1,
+    "x": 0.5123,
+    "y": 0.7239,
+    "w": 0.2779,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 98,
+   "form": "mántaca",
+   "gloss": "Leaf",
+   "section": "Vocabulary.",
+   "concepts": [
+    "LEAF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5117,
+    "y": 0.7421,
+    "w": 0.2899,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 99,
+   "form": "básaca",
+   "gloss": "Left",
+   "section": "Vocabulary.",
+   "concepts": [
+    "LEFT"
+   ]
+  },
+  {
+   "n": 100,
+   "form": "dánmisa",
+   "gloss": "Little (poco)",
+   "section": "Vocabulary."
+  },
+  {
+   "n": 101,
+   "form": "áluba",
+   "gloss": "Lizard (garrobo)",
+   "section": "Vocabulary."
+  },
+  {
+   "n": 102,
+   "form": "sírru",
+   "gloss": "Maguey",
+   "section": "Vocabulary."
+  },
+  {
+   "n": 103,
+   "form": "aymá",
+   "gloss": "Maize",
+   "section": "Vocabulary.",
+   "concepts": [
+    "MAIZE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.7919,
+    "y": 0.8794,
+    "w": 0.0819,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 104,
+   "form": "aima",
+   "gloss": "Maize",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "MAIZE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.7919,
+    "y": 0.8794,
+    "w": 0.0819,
+    "h": 0.015
+   }
+  },
+  {
+   "n": 105,
+   "form": "misil",
+   "gloss": "Male (vir)",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.1465,
+    "y": 0.1197,
+    "w": 0.1592,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 106,
+   "form": "misa",
+   "gloss": "Male (vir)",
+   "section": "Vocabulary.",
+   "col": "N."
+  },
+  {
+   "n": 107,
+   "form": "ómba",
+   "gloss": "Man",
+   "section": "Vocabulary.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1465,
+    "y": 0.1197,
+    "w": 0.1592,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 108,
+   "form": "tali",
+   "gloss": "Man",
+   "section": "Vocabulary.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1465,
+    "y": 0.1361,
+    "w": 0.1592,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 109,
+   "form": "nacat",
+   "gloss": "Meat (flesh)",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.1712,
+    "w": 0.1795,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 110,
+   "form": "bubal",
+   "gloss": "Meat (flesh)",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.1712,
+    "w": 0.1795,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 111,
+   "form": "sirrúka",
+   "gloss": "Mezcal",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.1249,
+    "y": 0.2056,
+    "w": 0.1699,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 112,
+   "form": "yapá",
+   "gloss": "Money",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "MONEY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.2232,
+    "w": 0.1769,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 113,
+   "form": "áicu",
+   "gloss": "Moon",
+   "section": "Vocabulary.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.2405,
+    "w": 0.1802,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 114,
+   "form": "haiko",
+   "gloss": "Moon",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.2405,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 115,
+   "form": "tamaguá",
+   "gloss": "Mouth",
+   "section": "Vocabulary.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.2575,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 116,
+   "form": "tauake",
+   "gloss": "Mouth",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.2575,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 117,
+   "form": "báybaya",
+   "gloss": "Much",
+   "section": "Vocabulary.",
+   "concepts": [
+    "MUCH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.2753,
+    "w": 0.168,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 118,
+   "form": "susuke",
+   "gloss": "Nails (of fingers, etc.)",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.2927,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 119,
+   "form": "uyá",
+   "gloss": "Nest (of bird)",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.3098,
+    "w": 0.1802,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 120,
+   "form": "güilije",
+   "gloss": "Net",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "NET"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.326,
+    "w": 0.1592,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 121,
+   "form": "irranta",
+   "gloss": "Night",
+   "section": "Vocabulary.",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.3438,
+    "w": 0.1598,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 122,
+   "form": "guaca",
+   "gloss": "No",
+   "section": "Vocabulary.",
+   "concepts": [
+    "NO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.3624,
+    "w": 0.1179,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 123,
+   "form": "namke",
+   "gloss": "Nose",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.3771,
+    "w": 0.1744,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 124,
+   "form": "uskám",
+   "gloss": "Old",
+   "section": "Vocabulary.",
+   "concepts": [
+    "OLD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.3947,
+    "w": 0.1268,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 125,
+   "form": "iskirri",
+   "gloss": "Owl",
+   "section": "Vocabulary.",
+   "concepts": [
+    "OWL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.412,
+    "w": 0.1332,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 126,
+   "form": "acáguata",
+   "gloss": "Pain",
+   "section": "Vocabulary.",
+   "concepts": [
+    "PAIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.43,
+    "w": 0.1573,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 127,
+   "form": "naske",
+   "gloss": "Penis",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "PENIS"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.4466,
+    "w": 0.1687,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 128,
+   "form": "yavirra",
+   "gloss": "Person",
+   "section": "Vocabulary.",
+   "concepts": [
+    "PERSON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1268,
+    "y": 0.4652,
+    "w": 0.1718,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 129,
+   "form": "yus",
+   "gloss": "Petticoat",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.4834,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 130,
+   "form": "yus",
+   "gloss": "Petticoat (N. \"manta,\")",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.4834,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 131,
+   "form": "útuyu",
+   "gloss": "Pigeon",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.5002,
+    "w": 0.156,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 132,
+   "form": "ku",
+   "gloss": "Pine tree",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 2,
+    "x": 0.1249,
+    "y": 0.5159,
+    "w": 0.1769,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 133,
+   "form": "ku",
+   "gloss": "Pine knot",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.5337,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 134,
+   "form": "inti",
+   "gloss": "Pitcher",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.5502,
+    "w": 0.137,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 135,
+   "form": "pa",
+   "gloss": "Plantain",
+   "section": "Vocabulary.",
+   "concepts": [
+    "PLANTAIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1268,
+    "y": 0.5701,
+    "w": 0.1401,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 136,
+   "form": "sarru",
+   "gloss": "Pot",
+   "section": "Vocabulary.",
+   "concepts": [
+    "POT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.586,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 137,
+   "form": "seia",
+   "gloss": "Pot",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "POT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.586,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 138,
+   "form": "guas, iya",
+   "gloss": "Rain",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.6034,
+    "w": 0.1795,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 139,
+   "form": "lalá",
+   "gloss": "Red",
+   "section": "Vocabulary.",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.6371,
+    "w": 0.1802,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 140,
+   "form": "lúbu",
+   "gloss": "Ridge pole",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.6545,
+    "w": 0.1776,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 141,
+   "form": "áydica",
+   "gloss": "Right",
+   "section": "Vocabulary.",
+   "concepts": [
+    "RIGHT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1262,
+    "y": 0.6715,
+    "w": 0.149,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 142,
+   "form": "yelka",
+   "gloss": "River",
+   "section": "Vocabulary.",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.6892,
+    "w": 0.1363,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 143,
+   "form": "lap",
+   "gloss": "Road (path)",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.7066,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 144,
+   "form": "yelka-uriaka",
+   "gloss": "Shore (bank)",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.1256,
+    "y": 0.7242,
+    "w": 0.1802,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 145,
+   "form": "chiki",
+   "gloss": "Small",
+   "section": "Vocabulary."
+  },
+  {
+   "n": 146,
+   "form": "kintxe",
+   "gloss": "Small",
+   "section": "Vocabulary.",
+   "col": "N."
+  },
+  {
+   "n": 147,
+   "form": "soni",
+   "gloss": "Snail",
+   "section": "Vocabulary.",
+   "concepts": [
+    "SNAIL"
+   ]
+  },
+  {
+   "n": 148,
+   "form": "baybês",
+   "gloss": "Something",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.1547,
+    "w": 0.1953,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 149,
+   "form": "sás",
+   "gloss": "Soon",
+   "section": "Vocabulary.",
+   "concepts": [
+    "SOON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.1716,
+    "w": 0.1953,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 150,
+   "form": "tahalí",
+   "gloss": "Spittle",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.1886,
+    "w": 0.1522,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 151,
+   "form": "irra",
+   "gloss": "Storm",
+   "section": "Vocabulary.",
+   "concepts": [
+    "STORM"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.2058,
+    "w": 0.1306,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 152,
+   "form": "appa",
+   "gloss": "Stone",
+   "section": "Vocabulary.",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.2234,
+    "w": 0.3608,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 153,
+   "form": "nañá",
+   "gloss": "Sugar cane",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.2759,
+    "w": 0.1902,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 154,
+   "form": "lan",
+   "gloss": "Sun",
+   "section": "Vocabulary.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.2916,
+    "w": 0.1902,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 155,
+   "form": "lal",
+   "gloss": "Sun",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.2916,
+    "w": 0.1902,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 156,
+   "form": "yayá",
+   "gloss": "Sweet",
+   "section": "Vocabulary.",
+   "concepts": [
+    "SWEET"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.3098,
+    "w": 0.1363,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 157,
+   "form": "guilin",
+   "gloss": "Tobacco",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "TOBACCO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.3274,
+    "w": 0.3614,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 158,
+   "form": "tomamke",
+   "gloss": "Tongue",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.3607,
+    "w": 0.2245,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 159,
+   "form": "ninike",
+   "gloss": "Tooth",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.3785,
+    "w": 0.3621,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 160,
+   "form": "hin",
+   "gloss": "Tortilla",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.4131,
+    "w": 0.3621,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 161,
+   "form": "taska",
+   "gloss": "Tortilla",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.4131,
+    "w": 0.3621,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 162,
+   "form": "mán",
+   "gloss": "Tree",
+   "section": "Vocabulary.",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.4487,
+    "w": 0.2162,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 163,
+   "form": "man",
+   "gloss": "Tree",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.4487,
+    "w": 0.2162,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 164,
+   "form": "kúsma",
+   "gloss": "Turkey buzzard",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.4658,
+    "w": 0.2517,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 165,
+   "form": "fiéraba",
+   "gloss": "Ugly",
+   "section": "Vocabulary.",
+   "concepts": [
+    "UGLY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.4827,
+    "w": 0.2517,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 166,
+   "form": "kúkuke",
+   "gloss": "Uncle",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "UNCLE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.4995,
+    "w": 0.1896,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 167,
+   "form": "lí",
+   "gloss": "Water",
+   "section": "Vocabulary.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5079,
+    "y": 0.5175,
+    "w": 0.3583,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 168,
+   "form": "li",
+   "gloss": "Water",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5079,
+    "y": 0.5175,
+    "w": 0.3583,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 169,
+   "form": "simila",
+   "gloss": "Wax",
+   "section": "Vocabulary.",
+   "col": "N.",
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.5341,
+    "w": 0.1693,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 170,
+   "form": "saju",
+   "gloss": "White",
+   "section": "Vocabulary.",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5086,
+    "y": 0.5525,
+    "w": 0.3595,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 171,
+   "form": "huin",
+   "gloss": "Wind",
+   "section": "Vocabulary.",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5086,
+    "y": 0.5813,
+    "w": 0.3595,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 172,
+   "form": "mairro",
+   "gloss": "Woman",
+   "section": "Vocabulary.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5086,
+    "y": 0.6102,
+    "w": 0.3595,
+    "h": 0.0166,
+    "approx": true
+   }
+  },
+  {
+   "n": 173,
+   "form": "tiquitguanan",
+   "gloss": "Work",
+   "section": "Vocabulary.",
+   "concepts": [
+    "WORK (LABOUR)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5086,
+    "y": 0.639,
+    "w": 0.2086,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 174,
+   "form": "dáne",
+   "gloss": "Wood",
+   "section": "Vocabulary.",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.6559,
+    "w": 0.1344,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 175,
+   "form": "yurra",
+   "gloss": "Woods",
+   "section": "Vocabulary.",
+   "concepts": [
+    "FOREST"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5073,
+    "y": 0.675,
+    "w": 0.1541,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 176,
+   "form": "mayú",
+   "gloss": "Yellow",
+   "section": "Vocabulary.",
+   "concepts": [
+    "YELLOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.6907,
+    "w": 0.1585,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 177,
+   "form": "ende",
+   "gloss": "Yes",
+   "section": "Vocabulary.",
+   "concepts": [
+    "YES"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.7077,
+    "w": 0.1097,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 178,
+   "form": "tapá",
+   "gloss": "Zapote fruit",
+   "section": "Vocabulary.",
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.7252,
+    "w": 0.1902,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 179,
+   "form": "utúnajali",
+   "gloss": "to arrive",
+   "section": "Verbs.",
+   "concepts": [
+    "ARRIVE"
+   ]
+  },
+  {
+   "n": 180,
+   "form": "idíguajali",
+   "gloss": "to bathe",
+   "section": "Verbs.",
+   "concepts": [
+    "BATHE"
+   ]
+  },
+  {
+   "n": 181,
+   "form": "yájujali",
+   "gloss": "to carry",
+   "section": "Verbs.",
+   "concepts": [
+    "CARRY"
+   ]
+  },
+  {
+   "n": 182,
+   "form": "ayrájali",
+   "gloss": "to come",
+   "section": "Verbs.",
+   "concepts": [
+    "COME"
+   ],
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "second letter unclear in print (ayr/ayt)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 183,
+   "form": "cátjali",
+   "gloss": "to cut",
+   "section": "Verbs.",
+   "concepts": [
+    "CUT"
+   ]
+  },
+  {
+   "n": 184,
+   "form": "yakájali",
+   "gloss": "to draw",
+   "section": "Verbs.",
+   "concepts": [
+    "DRAW (WATER)"
+   ]
+  },
+  {
+   "n": 185,
+   "form": "dípajali",
+   "gloss": "to drink",
+   "section": "Verbs.",
+   "concepts": [
+    "DRINK"
+   ]
+  },
+  {
+   "n": 186,
+   "form": "dúri",
+   "gloss": "to eat",
+   "section": "Verbs.",
+   "concepts": [
+    "EAT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.7966,
+    "w": 0.1275,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 187,
+   "form": "bilúejali",
+   "gloss": "to embrace",
+   "section": "Verbs.",
+   "concepts": [
+    "EMBRACE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.8146,
+    "w": 0.3576,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 188,
+   "form": "biluka",
+   "gloss": "an embrace",
+   "section": "Verbs.",
+   "concepts": [
+    "EMBRACE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5269,
+    "y": 0.8318,
+    "w": 0.0843,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 189,
+   "form": "mitiaja",
+   "gloss": "to give",
+   "section": "Verbs.",
+   "col": "N.",
+   "concepts": [
+    "GIVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.8487,
+    "w": 0.3602,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 190,
+   "form": "niquia",
+   "gloss": "to give",
+   "section": "Verbs.",
+   "concepts": [
+    "GIVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5263,
+    "y": 0.8661,
+    "w": 0.0786,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 191,
+   "form": "dihúnan",
+   "gloss": "to go",
+   "section": "Verbs.",
+   "concepts": [
+    "GO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.8841,
+    "w": 0.2879,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 192,
+   "form": "guate",
+   "gloss": "to go (also)",
+   "section": "Verbs.",
+   "box": {
+    "page": 2,
+    "x": 0.506,
+    "y": 0.8841,
+    "w": 0.2879,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 193,
+   "form": "yaguatáguali",
+   "gloss": "to go away",
+   "section": "Verbs.",
+   "box": {
+    "page": 2,
+    "x": 0.5067,
+    "y": 0.9021,
+    "w": 0.2651,
+    "h": 0.0166
+   }
+  },
+  {
+   "n": 194,
+   "form": "kánnaba",
+   "gloss": "to go down",
+   "section": "Verbs.",
+   "box": {
+    "page": 3,
+    "x": 0.1302,
+    "y": 0.1248,
+    "w": 0.1753,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 195,
+   "form": "güita",
+   "gloss": "to grind",
+   "section": "Verbs.",
+   "concepts": [
+    "GRIND"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1308,
+    "y": 0.1426,
+    "w": 0.1588,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 196,
+   "form": "dáinati",
+   "gloss": "to have (tener)",
+   "section": "Verbs.",
+   "box": {
+    "page": 3,
+    "x": 0.1295,
+    "y": 0.1591,
+    "w": 0.176,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 197,
+   "form": "nacadúajali",
+   "gloss": "to join",
+   "section": "Verbs.",
+   "concepts": [
+    "JOIN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1295,
+    "y": 0.1773,
+    "w": 0.176,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 198,
+   "form": "culinájali",
+   "gloss": "to kill",
+   "section": "Verbs.",
+   "concepts": [
+    "KILL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1295,
+    "y": 0.1943,
+    "w": 0.176,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 199,
+   "form": "páytijali",
+   "gloss": "to kindle",
+   "section": "Verbs.",
+   "box": {
+    "page": 3,
+    "x": 0.1295,
+    "y": 0.2117,
+    "w": 0.176,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 200,
+   "form": "isnaguate",
+   "gloss": "to laugh",
+   "section": "Verbs.",
+   "concepts": [
+    "LAUGH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1295,
+    "y": 0.2293,
+    "w": 0.176,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 201,
+   "form": "dastaira",
+   "gloss": "to leave",
+   "section": "Verbs.",
+   "concepts": [
+    "LEAVE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1295,
+    "y": 0.2456,
+    "w": 0.176,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 202,
+   "form": "upútijali",
+   "gloss": "to lift up",
+   "section": "Verbs.",
+   "box": {
+    "page": 3,
+    "x": 0.5119,
+    "y": 0.1264,
+    "w": 0.2013,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 203,
+   "form": "kútijali",
+   "gloss": "to play",
+   "section": "Verbs.",
+   "concepts": [
+    "PLAY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5119,
+    "y": 0.1434,
+    "w": 0.1715,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 204,
+   "form": "buta táguali",
+   "gloss": "to sing",
+   "section": "Verbs.",
+   "concepts": [
+    "SING"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5126,
+    "y": 0.161,
+    "w": 0.2127,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 205,
+   "form": "yábunajali",
+   "gloss": "to sleep",
+   "section": "Verbs.",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5113,
+    "y": 0.1782,
+    "w": 0.2095,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 206,
+   "form": "sígjali",
+   "gloss": "to take",
+   "section": "Verbs.",
+   "concepts": [
+    "TAKE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5119,
+    "y": 0.1951,
+    "w": 0.1569,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 207,
+   "form": "sácajali",
+   "gloss": "to wash",
+   "section": "Verbs.",
+   "concepts": [
+    "WASH"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5107,
+    "y": 0.2125,
+    "w": 0.1791,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 208,
+   "form": "guálbajali",
+   "gloss": "to weep",
+   "section": "Verbs.",
+   "box": {
+    "page": 3,
+    "x": 0.5113,
+    "y": 0.2301,
+    "w": 0.2,
+    "h": 0.0161
+   }
+  },
+  {
+   "n": 209,
+   "form": "nati",
+   "gloss": "to wish",
+   "section": "Verbs.",
+   "box": {
+    "page": 3,
+    "x": 0.5113,
+    "y": 0.2464,
+    "w": 0.1404,
+    "h": 0.0161,
+    "approx": true
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 209,
+  "notes": 2,
+  "located": 189
+ },
+ "partial": null,
+ "relation": null
+}

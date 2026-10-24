@@ -295,9 +295,17 @@ def fetch_image(ia, leaf, md, outdir):
     return out
 
 
+# Tables added through the registry (data/site/extra_tables.json): IA item, transcription, leaves.
+if os.path.exists("data/site/extra_tables.json"):
+    for _t in json.load(open("data/site/extra_tables.json", encoding="utf-8")):
+        TABLES[_t["id"]] = (_t["ia"], _t["csv"], _t.get("filt"), _t.get("scan_note", ""))
+
 # Tables whose pages the OCR cannot find on its own (poorly recognised forms): leaves fixed by hand.
 LEAVES = {"pope": [59, 60], "kavalan": [10, 11], "tobi": list(range(31, 39)),
           "ngarigu": [3, 4, 5, 6], "tasmania": [3, 4, 5, 6]}
+if os.path.exists("data/site/extra_tables.json"):
+    LEAVES.update({_t["id"]: _t["leaves"] for _t in json.load(open("data/site/extra_tables.json", encoding="utf-8"))
+                   if _t.get("leaves")})
 
 
 def run(tid):

@@ -1,0 +1,5226 @@
+{
+ "schema": 1,
+ "id": "soqotri",
+ "wtl": "WTL-0034",
+ "heading": "The following Words and Phrases in the Socotran and Arabic are given as a Specimen of the Language of that Island.",
+ "headings": [],
+ "language": {
+  "name": "Soqotri",
+  "glottocode": "soqo1240",
+  "family": "Afro-Asiatic",
+  "path": [
+   "Afro-Asiatic",
+   "Semitic",
+   "West Semitic",
+   "Modern South Arabian",
+   "Eastern MSA"
+  ],
+  "labels": []
+ },
+ "region": "Africa & Indian Ocean",
+ "book": {
+  "short": "Memoir on the Island of Socotra",
+  "title": "Memoir on the Island of Socotra",
+  "author": "J. R. Wellsted",
+  "printed": 1835,
+  "imprint": "Journal of the Royal Geographical Society of London, 5, 1835, pp. 220-229",
+  "tcp": "",
+  "cover": "soqotri"
+ },
+ "provenance": {
+  "collector": "J. R. Wellsted",
+  "place": "Socotra",
+  "heard": ""
+ },
+ "scan": {
+  "ia": "jstor-1797874",
+  "url": "https://archive.org/details/jstor-1797874",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Printed as a specimen of the language of Socotra, with Arabic and the Socotran words in Arabic script beside them.",
+ "pages": [
+  {
+   "leaf": 96,
+   "w": 3245,
+   "h": 5075,
+   "sm": "/scans/soqotri/0096-900.webp",
+   "lg": "/scans/soqotri/0096-1800.webp"
+  },
+  {
+   "leaf": 97,
+   "w": 3245,
+   "h": 5075,
+   "sm": "/scans/soqotri/0097-900.webp",
+   "lg": "/scans/soqotri/0097-1800.webp"
+  },
+  {
+   "leaf": 98,
+   "w": 3245,
+   "h": 5075,
+   "sm": "/scans/soqotri/0098-900.webp",
+   "lg": "/scans/soqotri/0098-1800.webp"
+  },
+  {
+   "leaf": 99,
+   "w": 3245,
+   "h": 5075,
+   "sm": "/scans/soqotri/0099-900.webp",
+   "lg": "/scans/soqotri/0099-1800.webp"
+  },
+  {
+   "leaf": 100,
+   "w": 3245,
+   "h": 5075,
+   "sm": "/scans/soqotri/0100-900.webp",
+   "lg": "/scans/soqotri/0100-1800.webp"
+  },
+  {
+   "leaf": 101,
+   "w": 3245,
+   "h": 5075,
+   "sm": "/scans/soqotri/0101-900.webp",
+   "lg": "/scans/soqotri/0101-1800.webp"
+  },
+  {
+   "leaf": 102,
+   "w": 3245,
+   "h": 5075,
+   "sm": "/scans/soqotri/0102-900.webp",
+   "lg": "/scans/soqotri/0102-1800.webp"
+  },
+  {
+   "leaf": 103,
+   "w": 3245,
+   "h": 5075,
+   "sm": "/scans/soqotri/0103-900.webp",
+   "lg": "/scans/soqotri/0103-1800.webp"
+  },
+  {
+   "leaf": 104,
+   "w": 3245,
+   "h": 5075,
+   "sm": "/scans/soqotri/0104-900.webp",
+   "lg": "/scans/soqotri/0104-1800.webp"
+  },
+  {
+   "leaf": 105,
+   "w": 3245,
+   "h": 5075,
+   "sm": "/scans/soqotri/0105-900.webp",
+   "lg": "/scans/soqotri/0105-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "ríyau",
+   "gloss": "Tall.  Long.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4429,
+    "y": 0.2339,
+    "w": 0.3333,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: طويل; Socotran in Arabic script: ريدو",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 2,
+   "form": "karhaï",
+   "gloss": "Short.",
+   "section": "",
+   "concepts": [
+    "SHORT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4315,
+    "y": 0.2622,
+    "w": 0.2695,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: قصير; Socotran in Arabic script: كرهي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 3,
+   "form": "Riyoh réh'n",
+   "gloss": "Salt Water.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.3739,
+    "y": 0.2931,
+    "w": 0.3844,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ماي بحر; Socotran in Arabic script: ريه رنهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 4,
+   "form": "Riyoh ḥálí",
+   "gloss": "Sweet or Fresh Water",
+   "section": "",
+   "concepts": [
+    "FRESH",
+    "SWEET",
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.2072,
+    "y": 0.3244,
+    "w": 0.6494,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ماي حلو; Socotran in Arabic script: ريه حالي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 5,
+   "form": "Riyoh larí",
+   "gloss": "Water to drink.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.3927,
+    "y": 0.3523,
+    "w": 0.4124,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ماي اشرب; Socotran in Arabic script: ريه لري",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 6,
+   "form": "aṣtah",
+   "gloss": "To eat.",
+   "section": "",
+   "concepts": [
+    "EAT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4463,
+    "y": 0.3825,
+    "w": 0.2732,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اكل; Socotran in Arabic script: استه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 7,
+   "form": "ḳár",
+   "gloss": "A House.",
+   "section": "",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.462,
+    "y": 0.4125,
+    "w": 0.2809,
+    "h": 0.0156,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بيت; Socotran in Arabic script: قار",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 8,
+   "form": "chírhaï",
+   "gloss": "Town.",
+   "section": "",
+   "concepts": [
+    "TOWN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4269,
+    "y": 0.4424,
+    "w": 0.283,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بلاد; Socotran in Arabic script: چيرهي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 9,
+   "form": "eshukkó",
+   "gloss": "Sword.",
+   "section": "",
+   "concepts": [
+    "SWORD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4192,
+    "y": 0.4734,
+    "w": 0.2938,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سيف; Socotran in Arabic script: اشكو",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 10,
+   "form": "bandúḳ (Ar.)",
+   "gloss": "A Musket.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.3622,
+    "y": 0.5038,
+    "w": 0.389,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تفق; Socotran in Arabic script: بندوق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 11,
+   "form": "Raṣáṣ (Ar.)",
+   "gloss": "Musket-ball (lead.)",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.3764,
+    "y": 0.5339,
+    "w": 0.4614,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: رصاص; Socotran in Arabic script: رصاص",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 12,
+   "form": "ḥaṣ-hen",
+   "gloss": "Iron.",
+   "section": "",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4198,
+    "y": 0.5637,
+    "w": 0.0923,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حديد; Socotran in Arabic script: حصهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 13,
+   "form": "ṣafar (Ar.)",
+   "gloss": "Copper.",
+   "section": "",
+   "concepts": [
+    "COPPER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3844,
+    "y": 0.5964,
+    "w": 0.3382,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: صفر; Socotran in Arabic script: صفر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 14,
+   "form": "ṭérab",
+   "gloss": "Wood.",
+   "section": "",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4488,
+    "y": 0.6239,
+    "w": 0.2624,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حطب; Socotran in Arabic script: طيرب",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 15,
+   "form": "maṣh-hem",
+   "gloss": "Day-time.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.3973,
+    "y": 0.6545,
+    "w": 0.3465,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: نهار; Socotran in Arabic script: مشهم",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 16,
+   "form": "aḥteh",
+   "gloss": "Night-time.",
+   "section": "",
+   "box": {
+    "page": 0,
+    "x": 0.4469,
+    "y": 0.6841,
+    "w": 0.3132,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ليل; Socotran in Arabic script: احته",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 17,
+   "form": "írah",
+   "gloss": "The Moon.",
+   "section": "",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4559,
+    "y": 0.7135,
+    "w": 0.3027,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: قمر; Socotran in Arabic script: ايره",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 18,
+   "form": "kókeb (Ar.)",
+   "gloss": "The Stars.",
+   "section": "",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.3804,
+    "y": 0.7424,
+    "w": 0.3708,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: نجوم; Socotran in Arabic script: كوكب",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 19,
+   "form": "shíhen",
+   "gloss": "The Sun.",
+   "section": "",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4343,
+    "y": 0.772,
+    "w": 0.3089,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: شمس; Socotran in Arabic script: شيهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 20,
+   "form": "Ta'debah",
+   "gloss": "Come here.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4062,
+    "y": 0.1454,
+    "w": 0.3535,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تعال; Socotran in Arabic script: تعدبه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 21,
+   "form": "Tetóhar",
+   "gloss": "Go away.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4213,
+    "y": 0.1759,
+    "w": 0.3239,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: روح; Socotran in Arabic script: تتطوهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 22,
+   "form": "Istaháú (stuhúá?)",
+   "gloss": "Sit down.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2391,
+    "y": 0.2065,
+    "w": 0.506,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اجلس; Socotran in Arabic script: استحاو",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 23,
+   "form": "ta'add",
+   "gloss": "Make haste.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4401,
+    "y": 0.236,
+    "w": 0.3285,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: امشي; Socotran in Arabic script: تعد",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 24,
+   "form": "eïdem",
+   "gloss": "To sleep.",
+   "section": "",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4419,
+    "y": 0.2662,
+    "w": 0.3011,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ارقد; Socotran in Arabic script: ايدم",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 25,
+   "form": "ḳaṣsah",
+   "gloss": "Scarce.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4324,
+    "y": 0.2965,
+    "w": 0.286,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اوقف; Socotran in Arabic script: قصه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 26,
+   "form": "ḥar",
+   "gloss": "To-day.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4684,
+    "y": 0.3271,
+    "w": 0.2576,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اليوم; Socotran in Arabic script: حر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 27,
+   "form": "ḳérirí",
+   "gloss": "To-morrow.",
+   "section": "",
+   "concepts": [
+    "TOMORROW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4441,
+    "y": 0.3563,
+    "w": 0.3236,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: باكر; Socotran in Arabic script: قيرري",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 28,
+   "form": "éïj",
+   "gloss": "Male.",
+   "section": "",
+   "concepts": [
+    "MALE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4807,
+    "y": 0.3892,
+    "w": 0.2237,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: رجال; Socotran in Arabic script: عيج",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 29,
+   "form": "eïchah",
+   "gloss": "Female.",
+   "section": "",
+   "concepts": [
+    "FEMALE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4391,
+    "y": 0.4171,
+    "w": 0.2894,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حرمة; Socotran in Arabic script: عايچه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 30,
+   "form": "mobyákí",
+   "gloss": "Boy, or Male Infant.",
+   "section": "",
+   "concepts": [
+    "BOY",
+    "MALE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4154,
+    "y": 0.4492,
+    "w": 0.4441,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ولد; Socotran in Arabic script: مبياكي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 31,
+   "form": "'anab",
+   "gloss": "Large Timber.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4459,
+    "y": 0.4793,
+    "w": 0.3504,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: متين; Socotran in Arabic script: عنب",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 32,
+   "form": "kaṭ'hen",
+   "gloss": "Small Timber.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.4268,
+    "y": 0.5098,
+    "w": 0.3627,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: وصيم; Socotran in Arabic script: قطهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 33,
+   "form": "shahr (Ar.)",
+   "gloss": "A Month.",
+   "section": "",
+   "concepts": [
+    "MONTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.3855,
+    "y": 0.5389,
+    "w": 0.3627,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: شهر; Socotran in Arabic script: شهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 34,
+   "form": "terá b-shehreïn",
+   "gloss": "Two Months.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3421,
+    "y": 0.5692,
+    "w": 0.4431,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: شهرين; Socotran in Arabic script: ترابشهرين",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 35,
+   "form": "tata'ah shehr",
+   "gloss": "Three Months.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3658,
+    "y": 0.6,
+    "w": 0.4311,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ثلاثه اشهر; Socotran in Arabic script: ططعة شهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 36,
+   "form": "arb'ah shehr",
+   "gloss": "Four Months.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3763,
+    "y": 0.6305,
+    "w": 0.4133,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اربعة اشهر; Socotran in Arabic script: اربعة شهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 37,
+   "form": "khúmis shehr",
+   "gloss": "Five Months.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3612,
+    "y": 0.6605,
+    "w": 0.4256,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: خمسة اشهر; Socotran in Arabic script: خومس شهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 38,
+   "form": "yítah",
+   "gloss": "Six Months.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.2068,
+    "y": 0.6931,
+    "w": 0.5636,
+    "h": 0.0158,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سته اشهر; Socotran in Arabic script: ييتة شهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 39,
+   "form": "yibí'ah shehr",
+   "gloss": "Seven Months.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.1935,
+    "y": 0.7191,
+    "w": 0.604,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سبعه اشهر; Socotran in Arabic script: يبيعه شهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 40,
+   "form": "tamání shehr",
+   "gloss": "Eight Months.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3621,
+    "y": 0.7501,
+    "w": 0.4327,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ثمانيه اشهر; Socotran in Arabic script: تماني اشهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 41,
+   "form": "sa'ah shehr",
+   "gloss": "Nine Months.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3482,
+    "y": 0.8084,
+    "w": 0.4327,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تسعة اشهر; Socotran in Arabic script: سعه شهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 42,
+   "form": "'ashérah shehr",
+   "gloss": "Ten Months.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.3482,
+    "y": 0.8084,
+    "w": 0.4327,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: عشرة اشهر; Socotran in Arabic script: عشيره شهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 43,
+   "form": "'aṭíré woṭát",
+   "gloss": "Eleven Months.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.359,
+    "y": 0.8378,
+    "w": 0.4508,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حد عشر اشهر; Socotran in Arabic script: عطيري وطات",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 44,
+   "form": "aïnah",
+   "gloss": "A Year.",
+   "section": "",
+   "concepts": [
+    "YEAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4447,
+    "y": 0.8674,
+    "w": 0.2918,
+    "h": 0.0158,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سنه; Socotran in Arabic script: اينه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 45,
+   "form": "terí",
+   "gloss": "Two Years.",
+   "section": "",
+   "box": {
+    "page": 1,
+    "x": 0.47,
+    "y": 0.8968,
+    "w": 0.302,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سنتين; Socotran in Arabic script: تري اينه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 46,
+   "form": "ṭaṭa' aïhen",
+   "gloss": "Three Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3841,
+    "y": 0.1479,
+    "w": 0.3961,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ثلاثه سنين; Socotran in Arabic script: ثلاثه ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 47,
+   "form": "arba' —",
+   "gloss": "Four Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4069,
+    "y": 0.1789,
+    "w": 0.3641,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اربعه سنين; Socotran in Arabic script: اربع ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 48,
+   "form": "khémah —",
+   "gloss": "Five Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3757,
+    "y": 0.2084,
+    "w": 0.3937,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: خمسه سنين; Socotran in Arabic script: حيمه ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 49,
+   "form": "settah —",
+   "gloss": "Six Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3989,
+    "y": 0.2382,
+    "w": 0.3561,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سته سنين; Socotran in Arabic script: سته ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 50,
+   "form": "yibí'ah —",
+   "gloss": "Seven Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3856,
+    "y": 0.2686,
+    "w": 0.3961,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سبعه سنين; Socotran in Arabic script: يبيعه ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 51,
+   "form": "tamání —",
+   "gloss": "Eight Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1868,
+    "y": 0.3018,
+    "w": 0.5906,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ثمان سنين; Socotran in Arabic script: تماني ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 52,
+   "form": "sa'ah —",
+   "gloss": "Nine Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4087,
+    "y": 0.329,
+    "w": 0.3631,
+    "h": 0.0156,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تسنه سنين; Socotran in Arabic script: تسعه ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 53,
+   "form": "'asherah —",
+   "gloss": "Ten Years",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3757,
+    "y": 0.3594,
+    "w": 0.3816,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: عشره سنين; Socotran in Arabic script: عشره ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 54,
+   "form": "ḥad-'asher —",
+   "gloss": "Eleven Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1699,
+    "y": 0.3903,
+    "w": 0.6192,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حد عشر سنه; Socotran in Arabic script: حد عشرايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 55,
+   "form": "ethná'asher —",
+   "gloss": "Twelve Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.1699,
+    "y": 0.4202,
+    "w": 0.626,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اثنه عشر سنه; Socotran in Arabic script: اثنه عشر ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 56,
+   "form": "telát'asher —",
+   "gloss": "Thirteen Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3295,
+    "y": 0.4507,
+    "w": 0.4802,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ثلاثه عشر سنه; Socotran in Arabic script: ثلثعشر ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 57,
+   "form": "arba't'asher —",
+   "gloss": "Fourteen Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3187,
+    "y": 0.4807,
+    "w": 0.4975,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اربعة عشر سنه; Socotran in Arabic script: اربعتعشر ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 58,
+   "form": "khamsat'asher —",
+   "gloss": "Fifteen Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3194,
+    "y": 0.5109,
+    "w": 0.5317,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: خمسته عشر سنه; Socotran in Arabic script: خمسة عشرايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 59,
+   "form": "sitt'asher —",
+   "gloss": "Sixteen Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3474,
+    "y": 0.5413,
+    "w": 0.4504,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ستعشر سنه; Socotran in Arabic script: ستعشر ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 60,
+   "form": "seb'at'asher —",
+   "gloss": "Seventeen Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3184,
+    "y": 0.5716,
+    "w": 0.5037,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سباتعشر سنه; Socotran in Arabic script: سبعتعشر ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 61,
+   "form": "tmanet'asher —",
+   "gloss": "Eighteen Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3194,
+    "y": 0.6017,
+    "w": 0.4938,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ثمانتعشر شر سنه; Socotran in Arabic script: ثمانتعشرايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 62,
+   "form": "tis'at'asher —",
+   "gloss": "Nineteen Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3206,
+    "y": 0.6318,
+    "w": 0.4929,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تستعشر سنه; Socotran in Arabic script: تسعتعشرايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 63,
+   "form": "'ashrín —",
+   "gloss": "Twenty Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3606,
+    "y": 0.663,
+    "w": 0.4417,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: عشرين سنه; Socotran in Arabic script: عشرين ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 64,
+   "form": "miyah —",
+   "gloss": "One Hundred Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.3767,
+    "y": 0.6925,
+    "w": 0.4883,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ميه سنه; Socotran in Arabic script: ميه ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 65,
+   "form": "alf —",
+   "gloss": "One Thousand Years.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4078,
+    "y": 0.7217,
+    "w": 0.4614,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: الف سنه; Socotran in Arabic script: الف ايهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 66,
+   "form": "shúhaṭ",
+   "gloss": "A Fishing-line.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.4392,
+    "y": 0.7488,
+    "w": 0.3653,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: خيط; Socotran in Arabic script: شوهط",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 67,
+   "form": "aḳlahah",
+   "gloss": "A Hook.",
+   "section": "",
+   "concepts": [
+    "HOOK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4247,
+    "y": 0.7788,
+    "w": 0.3182,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: مجدآر; Socotran in Arabic script: اقلهه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 68,
+   "form": "bild",
+   "gloss": "Sounding-lead.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.47,
+    "y": 0.8088,
+    "w": 0.3305,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بلد; Socotran in Arabic script: بلد",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 69,
+   "form": "barúṣí",
+   "gloss": "Anchor.",
+   "section": "",
+   "concepts": [
+    "ANCHOR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4408,
+    "y": 0.838,
+    "w": 0.2898,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: انجر; Socotran in Arabic script: بروصي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 70,
+   "form": "sinsilah (Ar.)",
+   "gloss": "A Chain for an anchor.",
+   "section": "",
+   "box": {
+    "page": 2,
+    "x": 0.368,
+    "y": 0.8678,
+    "w": 0.5043,
+    "h": 0.0156
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سلسله; Socotran in Arabic script: سلسله",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 71,
+   "form": "daḳ'har",
+   "gloss": "A Mast.",
+   "section": "",
+   "concepts": [
+    "MAST"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4275,
+    "y": 0.8987,
+    "w": 0.3089,
+    "h": 0.0156,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: دقل; Socotran in Arabic script: دقحر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 72,
+   "form": "tarmál",
+   "gloss": "A Yard.",
+   "section": "",
+   "concepts": [
+    "YARD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4169,
+    "y": 0.1434,
+    "w": 0.3065,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: فرمن; Socotran in Arabic script: ترمل",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 73,
+   "form": "shíra' (Ar.)",
+   "gloss": "A Sail.",
+   "section": "",
+   "concepts": [
+    "SAIL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3676,
+    "y": 0.1732,
+    "w": 0.3398,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: شراع; Socotran in Arabic script: شيرع",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 74,
+   "form": "dírah",
+   "gloss": "A Compass.",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.4286,
+    "y": 0.2028,
+    "w": 0.3271,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ديره; Socotran in Arabic script: ديره",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 75,
+   "form": "fánúṣ (Ar.)",
+   "gloss": "A Lantern.",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.3608,
+    "y": 0.2349,
+    "w": 0.3885,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: فانوص; Socotran in Arabic script: فانوص",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 76,
+   "form": "Bindírah (Bandeira. Port.)",
+   "gloss": "A Flag.",
+   "section": "",
+   "concepts": [
+    "FLAG"
+   ],
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بنديره; Socotran in Arabic script: نبديره",
+    "compare": null,
+    "checked": false
+   },
+   "box": {
+    "page": 3,
+    "x": 0.3608,
+    "y": 0.2753,
+    "w": 0.4402,
+    "h": 0.0161,
+    "approx": true
+   }
+  },
+  {
+   "n": 77,
+   "form": "Fed'han",
+   "gloss": "A Hill, or Mountain.",
+   "section": "",
+   "concepts": [
+    "HILL",
+    "MOUNTAIN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3971,
+    "y": 0.3158,
+    "w": 0.4402,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: جبل; Socotran in Arabic script: فدهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 78,
+   "form": "Úbehem",
+   "gloss": "A Stone.",
+   "section": "",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4039,
+    "y": 0.346,
+    "w": 0.3207,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حجار; Socotran in Arabic script: اوبهم",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 79,
+   "form": "sherhoḳ",
+   "gloss": "At a great distance.",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.4082,
+    "y": 0.3764,
+    "w": 0.4332,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بعيد; Socotran in Arabic script: شرهق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 80,
+   "form": "shélí",
+   "gloss": "At hand.  Close.",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.4384,
+    "y": 0.4067,
+    "w": 0.3632,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: قريت; Socotran in Arabic script: شيلي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 81,
+   "form": "Shermuhem",
+   "gloss": "A Tree, Forest, &c.",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.362,
+    "y": 0.4366,
+    "w": 0.4671,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اشجار; Socotran in Arabic script: شرمهم",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 82,
+   "form": "Makedírah",
+   "gloss": "Juwârí (Holcus Sorghum.)",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.3697,
+    "y": 0.4664,
+    "w": 0.4812,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: الذره; Socotran in Arabic script: مقديره",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 83,
+   "form": "Barr",
+   "gloss": "Corn, or Wheat.",
+   "section": "",
+   "concepts": [
+    "MAIZE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4326,
+    "y": 0.5194,
+    "w": 0.3678,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بر; Socotran in Arabic script: بر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 84,
+   "form": "daḳíḳ (Ar.)",
+   "gloss": "Flour.",
+   "section": "",
+   "concepts": [
+    "FLOUR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3657,
+    "y": 0.5494,
+    "w": 0.3327,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: طحين; Socotran in Arabic script: دقيق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 85,
+   "form": "ezh-har",
+   "gloss": "Bread, or Cakes.",
+   "section": "",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4088,
+    "y": 0.5791,
+    "w": 0.3925,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: خبز; Socotran in Arabic script: ازهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 86,
+   "form": "túterdí",
+   "gloss": "Come here!",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.4181,
+    "y": 0.6096,
+    "w": 0.3352,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تعال قريب; Socotran in Arabic script: توتردي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 87,
+   "form": "tú'ad sherhoḳ",
+   "gloss": "Go away!",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.3481,
+    "y": 0.6403,
+    "w": 0.3909,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: روح بعيد; Socotran in Arabic script: توعد شرهف",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 88,
+   "form": "ta'ad sóḳ",
+   "gloss": "Go to Market or Bazaar.",
+   "section": "",
+   "concepts": [
+    "GO",
+    "MARKET"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.3919,
+    "y": 0.6702,
+    "w": 0.4584,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: روح سوق; Socotran in Arabic script: تعد سوق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 89,
+   "form": "ḥeïrah tahr",
+   "gloss": "Go to-day.",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.3663,
+    "y": 0.722,
+    "w": 0.3761,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: روح اليوم; Socotran in Arabic script: حيره طهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 90,
+   "form": "ḳarírah tiḥdehn",
+   "gloss": "Come to-morrow.",
+   "section": "",
+   "box": {
+    "page": 3,
+    "x": 0.1959,
+    "y": 0.7529,
+    "w": 0.611,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تعال باكر; Socotran in Arabic script: قريره تحدهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 91,
+   "form": "díyah",
+   "gloss": "Good.",
+   "section": "",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4264,
+    "y": 0.7824,
+    "w": 0.2689,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: زين; Socotran in Arabic script: ديية",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 92,
+   "form": "diyá",
+   "gloss": "Bad.",
+   "section": "",
+   "concepts": [
+    "BAD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4434,
+    "y": 0.8126,
+    "w": 0.2381,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: شين; Socotran in Arabic script: ديا",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 93,
+   "form": "káṭ",
+   "gloss": "One.",
+   "section": "",
+   "concepts": [
+    "ONE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4548,
+    "y": 0.8405,
+    "w": 0.2282,
+    "h": 0.0161,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: واحد; Socotran in Arabic script: قاط; footnote: tát تاط (v. p. 211.) or ḥát حاط, as in the Ethiopic dialects.—S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 94,
+   "form": "tarawah",
+   "gloss": "Two.",
+   "section": "",
+   "concepts": [
+    "TWO"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4039,
+    "y": 0.8699,
+    "w": 0.2837,
+    "h": 0.0161
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اثنين; Socotran in Arabic script: تروه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 95,
+   "form": "ṭaṭa'ah",
+   "gloss": "Three.",
+   "section": "",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4327,
+    "y": 0.1374,
+    "w": 0.2822,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ثلاثه; Socotran in Arabic script: ططعة",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 96,
+   "form": "'arba'ah",
+   "gloss": "Four.",
+   "section": "",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4185,
+    "y": 0.1671,
+    "w": 0.2905,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اربعه; Socotran in Arabic script: اربعه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 97,
+   "form": "ḥeïmish",
+   "gloss": "Five.",
+   "section": "",
+   "concepts": [
+    "FIVE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.2435,
+    "y": 0.198,
+    "w": 0.4588,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: خمسه; Socotran in Arabic script: حيمش",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 98,
+   "form": "yítah",
+   "gloss": "Six.",
+   "section": "",
+   "concepts": [
+    "SIX"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4466,
+    "y": 0.2288,
+    "w": 0.2418,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سته; Socotran in Arabic script: ايته",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 99,
+   "form": "yibí'ah",
+   "gloss": "Seven.",
+   "section": "",
+   "concepts": [
+    "SEVEN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4271,
+    "y": 0.2582,
+    "w": 0.2868,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سبع; Socotran in Arabic script: يبيعه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 100,
+   "form": "tamání",
+   "gloss": "Eight.",
+   "section": "",
+   "concepts": [
+    "EIGHT"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.429,
+    "y": 0.2868,
+    "w": 0.2819,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ثمان; Socotran in Arabic script: ثماني",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 101,
+   "form": "sa'ah",
+   "gloss": "Nine.",
+   "section": "",
+   "concepts": [
+    "NINE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.45,
+    "y": 0.3174,
+    "w": 0.2545,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تسع; Socotran in Arabic script: سعه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 102,
+   "form": "'ashrí",
+   "gloss": "Ten.",
+   "section": "",
+   "concepts": [
+    "TEN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4429,
+    "y": 0.347,
+    "w": 0.2557,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: عشر; Socotran in Arabic script: عشري",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 103,
+   "form": "ta'ashrí",
+   "gloss": "Well-dressed.",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.4238,
+    "y": 0.3774,
+    "w": 0.3645,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تكلم; Socotran in Arabic script: تعشري",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 104,
+   "form": "sawù (Ar.)",
+   "gloss": "Correct, proper, straight.",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.3933,
+    "y": 0.4091,
+    "w": 0.4267,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: عدل; Socotran in Arabic script: سوا",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 105,
+   "form": "kagh'hen",
+   "gloss": "Crooked.",
+   "section": "",
+   "concepts": [
+    "CROOKED"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4117,
+    "y": 0.461,
+    "w": 0.3272,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: عوج; Socotran in Arabic script: قغهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 106,
+   "form": "Gaï",
+   "gloss": "Plenty, numerous.",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.6003,
+    "y": 0.493,
+    "w": 0.2326,
+    "h": 0.0166,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: كثير; Socotran in Arabic script: كي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 107,
+   "form": "Ḥarar'hen",
+   "gloss": "Few, scarce.",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.3939,
+    "y": 0.5205,
+    "w": 0.3836,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: قليل; Socotran in Arabic script: حررهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 108,
+   "form": "Táshah",
+   "gloss": "Dry.",
+   "section": "",
+   "concepts": [
+    "DRY"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4296,
+    "y": 0.5508,
+    "w": 0.272,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: يابس; Socotran in Arabic script: تاشه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 109,
+   "form": "Ferhen",
+   "gloss": "Daughter, or Female Child.",
+   "section": "",
+   "concepts": [
+    "CHILD",
+    "DAUGHTER",
+    "FEMALE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4281,
+    "y": 0.5805,
+    "w": 0.4434,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بنت; Socotran in Arabic script: فرهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 110,
+   "form": "'ajúz (Ar.)",
+   "gloss": "Old Woman.",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.3969,
+    "y": 0.6357,
+    "w": 0.3824,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: عجوز; Socotran in Arabic script: عجوز",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 111,
+   "form": "sheïb",
+   "gloss": "Old Man.",
+   "section": "",
+   "box": {
+    "page": 4,
+    "x": 0.4549,
+    "y": 0.6636,
+    "w": 0.2955,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: شايب; Socotran in Arabic script: شيب",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 112,
+   "form": "rí",
+   "gloss": "The Head.",
+   "section": "",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4866,
+    "y": 0.6946,
+    "w": 0.2761,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: راس; Socotran in Arabic script: دي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 113,
+   "form": "shiff",
+   "gloss": "The Hair.",
+   "section": "",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.462,
+    "y": 0.724,
+    "w": 0.2936,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: شعر; Socotran in Arabic script: شف",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 114,
+   "form": "Terí'aïn tefrúz",
+   "gloss": "The Eyebrows.",
+   "section": "",
+   "concepts": [
+    "EYEBROW"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.2518,
+    "y": 0.7545,
+    "w": 0.5571,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: جنون; Socotran in Arabic script: تري عين تفروز",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 115,
+   "form": "teï 'an",
+   "gloss": "The Eyes.",
+   "section": "",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4407,
+    "y": 0.7812,
+    "w": 0.3195,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: عين; Socotran in Arabic script: طيعن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 116,
+   "form": "ḥaj-ḥar",
+   "gloss": "The Forehead.",
+   "section": "",
+   "concepts": [
+    "FOREHEAD"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4305,
+    "y": 0.8124,
+    "w": 0.3728,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حواجيب; Socotran in Arabic script: حجهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 117,
+   "form": "edahn (Ar.)",
+   "gloss": "The Ears.",
+   "section": "",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.3902,
+    "y": 0.8407,
+    "w": 0.367,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اذان; Socotran in Arabic script: ادهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 118,
+   "form": "naḥír",
+   "gloss": "Nose.",
+   "section": "",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4469,
+    "y": 0.8695,
+    "w": 0.2653,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: خشم; Socotran in Arabic script: نحير",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 119,
+   "form": "shíbah",
+   "gloss": "The Lips.",
+   "section": "",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.4401,
+    "y": 0.8988,
+    "w": 0.318,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: براطم; Socotran in Arabic script: شيبه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 120,
+   "form": "meṭírmish",
+   "gloss": "The Teeth.",
+   "section": "",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.2275,
+    "y": 0.1412,
+    "w": 0.5303,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ضروس; Socotran in Arabic script: مطيرمش",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 121,
+   "form": "lishen",
+   "gloss": "Tongue.",
+   "section": "",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4339,
+    "y": 0.166,
+    "w": 0.2927,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لسان; Socotran in Arabic script: لشن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 122,
+   "form": "naḥáshah",
+   "gloss": "The Throat.",
+   "section": "",
+   "concepts": [
+    "THROAT"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3957,
+    "y": 0.1957,
+    "w": 0.366,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: رقبه; Socotran in Arabic script: نحاشه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 123,
+   "form": "kaurí",
+   "gloss": "The Shoulders.",
+   "section": "",
+   "concepts": [
+    "SHOULDER"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4345,
+    "y": 0.2254,
+    "w": 0.3611,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: كتف; Socotran in Arabic script: كوري",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 124,
+   "form": "ṭádah",
+   "gloss": "The Back.",
+   "section": "",
+   "concepts": [
+    "BACK"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4361,
+    "y": 0.2564,
+    "w": 0.3127,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ضهر; Socotran in Arabic script: طاده",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 125,
+   "form": "mír",
+   "gloss": "The Stomach.",
+   "section": "",
+   "concepts": [
+    "STOMACH"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4567,
+    "y": 0.2863,
+    "w": 0.3226,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بطن; Socotran in Arabic script: مير",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 126,
+   "form": "éyaṭ",
+   "gloss": "The Arm.",
+   "section": "",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4518,
+    "y": 0.3189,
+    "w": 0.2896,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: يد; Socotran in Arabic script: ايط",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 127,
+   "form": "'aṣábi' (Ar.)",
+   "gloss": "The Fingers.",
+   "section": "",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3711,
+    "y": 0.3465,
+    "w": 0.4015,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اصابيع; Socotran in Arabic script: اصابع",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 128,
+   "form": "Ḍhafar",
+   "gloss": "The Nails.",
+   "section": "",
+   "concepts": [
+    "NAIL"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4148,
+    "y": 0.3784,
+    "w": 0.3331,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ظفور; Socotran in Arabic script: ظفر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 129,
+   "form": "s'ób",
+   "gloss": "The Feet.",
+   "section": "",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.461,
+    "y": 0.4068,
+    "w": 0.2807,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: رجول [ارجل]; Socotran in Arabic script: صوب; vowel mark blurred in print",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 130,
+   "form": "arhaz",
+   "gloss": "Rice.",
+   "section": "",
+   "concepts": [
+    "RICE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4312,
+    "y": 0.4376,
+    "w": 0.2616,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: رز; Socotran in Arabic script: ارهز",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 131,
+   "form": "Ḥamí",
+   "gloss": "Ghí (clarified butter)",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.4287,
+    "y": 0.4668,
+    "w": 0.4178,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سمن; Socotran in Arabic script: حمي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 132,
+   "form": "ḳaṭmír",
+   "gloss": "Butter.",
+   "section": "",
+   "concepts": [
+    "BUTTER"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4198,
+    "y": 0.4975,
+    "w": 0.2921,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: زبد; Socotran in Arabic script: تطمير",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 133,
+   "form": "ṣaléṭ",
+   "gloss": "Oil.",
+   "section": "",
+   "concepts": [
+    "OIL (FROM PLANTS)"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4456,
+    "y": 0.5275,
+    "w": 0.2323,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حل; Socotran in Arabic script: صليط",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 134,
+   "form": "ḥúf",
+   "gloss": "New Milk.",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.564,
+    "y": 0.5589,
+    "w": 0.1824,
+    "h": 0.0166,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حليب; Socotran in Arabic script: حوف",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 135,
+   "form": "dedáj (Ar.)",
+   "gloss": "Fowls.",
+   "section": "",
+   "concepts": [
+    "FOWL"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3785,
+    "y": 0.5889,
+    "w": 0.3291,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: دجاج; Socotran in Arabic script: دجاج",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 136,
+   "form": "beïḍh (Ar.)",
+   "gloss": "Eggs.",
+   "section": "",
+   "concepts": [
+    "EGG"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3788,
+    "y": 0.6177,
+    "w": 0.3183,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بيض; Socotran in Arabic script: بيض",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 137,
+   "form": "arhen",
+   "gloss": "Goats or Sheep.",
+   "section": "",
+   "concepts": [
+    "GOAT",
+    "SHEEP"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4296,
+    "y": 0.6478,
+    "w": 0.3697,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: غنم; Socotran in Arabic script: ارهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 138,
+   "form": "elheïteïn",
+   "gloss": "Cows or Bullocks.",
+   "section": "",
+   "concepts": [
+    "COW"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.2684,
+    "y": 0.6799,
+    "w": 0.554,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بقر; Socotran in Arabic script: الهيتين",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 139,
+   "form": "kelb (Ar.)",
+   "gloss": "A Dog.",
+   "section": "",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3908,
+    "y": 0.7073,
+    "w": 0.3275,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: كلب; Socotran in Arabic script: كلب",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 140,
+   "form": "yirbóḳ",
+   "gloss": "The Civet Cat.",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.425,
+    "y": 0.7386,
+    "w": 0.3614,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سنور; Socotran in Arabic script: يربوق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 141,
+   "form": "Jemíher",
+   "gloss": "Camels.",
+   "section": "",
+   "concepts": [
+    "CAMEL"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4043,
+    "y": 0.7717,
+    "w": 0.3106,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بوش; Socotran in Arabic script: جمي هر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 142,
+   "form": "ṭahrír",
+   "gloss": "Antelopes.",
+   "section": "",
+   "box": {
+    "page": 5,
+    "x": 0.4271,
+    "y": 0.7963,
+    "w": 0.3155,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: غزال; Socotran in Arabic script: طهرير",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 143,
+   "form": "teh",
+   "gloss": "Meat.",
+   "section": "",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4617,
+    "y": 0.8259,
+    "w": 0.2326,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لحم; Socotran in Arabic script: ته",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 144,
+   "form": "ṣódah",
+   "gloss": "Fish.",
+   "section": "",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.4327,
+    "y": 0.8553,
+    "w": 0.2576,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سمك; Socotran in Arabic script: صوده",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 145,
+   "form": "Baṣṣ'hel (Ar.)",
+   "gloss": "Onions.",
+   "section": "",
+   "concepts": [
+    "ONION"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.3436,
+    "y": 0.8856,
+    "w": 0.3707,
+    "h": 0.0166
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بصل; Socotran in Arabic script: بصهل",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 146,
+   "form": "Siráj (Ar.)",
+   "gloss": "A Light, of a candle, lamp, &c.",
+   "section": "",
+   "box": {
+    "page": 6,
+    "x": 0.3945,
+    "y": 0.1496,
+    "w": 0.4773,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: صراج; Socotran in Arabic script: صراج",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 147,
+   "form": "sheïwaṭ",
+   "gloss": "Fire.",
+   "section": "",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.4284,
+    "y": 0.1994,
+    "w": 0.2746,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: نار; Socotran in Arabic script: شيوط",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 148,
+   "form": "lebhem",
+   "gloss": "White.",
+   "section": "",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.4336,
+    "y": 0.2289,
+    "w": 0.2841,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ابيض; Socotran in Arabic script: لبهم",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 149,
+   "form": "ófir",
+   "gloss": "Red.",
+   "section": "",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.4681,
+    "y": 0.2606,
+    "w": 0.2293,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: احمر; Socotran in Arabic script: اوفر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 150,
+   "form": "Gí ríhó",
+   "gloss": "Plenty of Water.",
+   "section": "",
+   "box": {
+    "page": 6,
+    "x": 0.4191,
+    "y": 0.2898,
+    "w": 0.4089,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ماي كثير; Socotran in Arabic script: كي ريهو",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 151,
+   "form": "ríhó ḥararhen",
+   "gloss": "Scarcity of Water.",
+   "section": "",
+   "box": {
+    "page": 6,
+    "x": 0.3516,
+    "y": 0.3209,
+    "w": 0.4866,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ماي قليل; Socotran in Arabic script: ريهو حررهن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 152,
+   "form": "eb-her",
+   "gloss": "A Well.",
+   "section": "",
+   "concepts": [
+    "WELL"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.4407,
+    "y": 0.3487,
+    "w": 0.2931,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بير; Socotran in Arabic script: ابهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 153,
+   "form": "két",
+   "gloss": "A Rope.",
+   "section": "",
+   "concepts": [
+    "ROPE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.4724,
+    "y": 0.3784,
+    "w": 0.2666,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حبل; Socotran in Arabic script: قيت",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 154,
+   "form": "sárí",
+   "gloss": "A Knife.",
+   "section": "",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.4604,
+    "y": 0.4078,
+    "w": 0.2801,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: سكين; Socotran in Arabic script: صاري",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 155,
+   "form": "ḳalam (Ar.)",
+   "gloss": "A Pencil.",
+   "section": "",
+   "concepts": [
+    "PENCIL"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3794,
+    "y": 0.4377,
+    "w": 0.3683,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: قلم; Socotran in Arabic script: قلم",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 156,
+   "form": "dawáyah (Ar.)",
+   "gloss": "An Inkstand.",
+   "section": "",
+   "box": {
+    "page": 6,
+    "x": 0.2561,
+    "y": 0.4689,
+    "w": 0.5239,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: دوايه; Socotran in Arabic script: دوايه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 157,
+   "form": "ḳarṭás (Ar.)",
+   "gloss": "Paper.",
+   "section": "",
+   "concepts": [
+    "PAPER"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3769,
+    "y": 0.4981,
+    "w": 0.3399,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: قرطاس; Socotran in Arabic script: قرطاس",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 158,
+   "form": "tó-kuttab (Ar.)",
+   "gloss": "To write.",
+   "section": "",
+   "concepts": [
+    "WRITE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3479,
+    "y": 0.5284,
+    "w": 0.3966,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اكتب; Socotran in Arabic script: توكتب",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 159,
+   "form": "kitáb (Ar.)",
+   "gloss": "A Book.",
+   "section": "",
+   "concepts": [
+    "BOOK"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3932,
+    "y": 0.5586,
+    "w": 0.3464,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: كتاب; Socotran in Arabic script: كتاب",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 160,
+   "form": "jild (Ar.)",
+   "gloss": "Skin or Hide.",
+   "section": "",
+   "concepts": [
+    "HIDE",
+    "SKIN"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.4037,
+    "y": 0.5905,
+    "w": 0.3917,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: جلد; Socotran in Arabic script: جلد",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 161,
+   "form": "kúfíyah (Ar.)",
+   "gloss": "A Cap.",
+   "section": "",
+   "concepts": [
+    "CAP"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3661,
+    "y": 0.6201,
+    "w": 0.3581,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: كمه; Socotran in Arabic script: كوفيه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 162,
+   "form": "'amámah (Ar.)",
+   "gloss": "A Turban.",
+   "section": "",
+   "box": {
+    "page": 6,
+    "x": 0.2438,
+    "y": 0.6475,
+    "w": 0.5137,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: عمامه; Socotran in Arabic script: عمامه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 163,
+   "form": "thób (Ar.)",
+   "gloss": "A Shirt.",
+   "section": "",
+   "concepts": [
+    "SHIRT"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5787,
+    "y": 0.6792,
+    "w": 0.1519,
+    "h": 0.0185,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ثوب; Socotran in Arabic script: ثوب",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 164,
+   "form": "arádí",
+   "gloss": "A Sash, or Girdle.",
+   "section": "",
+   "box": {
+    "page": 6,
+    "x": 0.4447,
+    "y": 0.7073,
+    "w": 0.3932,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حزام; Socotran in Arabic script: ارادي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 165,
+   "form": "makhfáf (Ar.)",
+   "gloss": "Trowsers.",
+   "section": "",
+   "box": {
+    "page": 6,
+    "x": 0.3565,
+    "y": 0.7386,
+    "w": 0.3954,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: وزرا; Socotran in Arabic script: مخفاف",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 166,
+   "form": "ṣandúḳ (Ar.)",
+   "gloss": "A Box or Chest.",
+   "section": "",
+   "concepts": [
+    "BOX",
+    "CHEST"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3658,
+    "y": 0.7659,
+    "w": 0.4508,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: صندوق; Socotran in Arabic script: صندوق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 167,
+   "form": "kursí (Ar.)",
+   "gloss": "A Chair.",
+   "section": "",
+   "concepts": [
+    "CHAIR"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3867,
+    "y": 0.796,
+    "w": 0.3482,
+    "h": 0.0185,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: كرسي; Socotran in Arabic script: كرسي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 168,
+   "form": "ṣaḥan (Ar.)",
+   "gloss": "A Plate or Dish.",
+   "section": "",
+   "concepts": [
+    "DISH",
+    "PLATE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3806,
+    "y": 0.8253,
+    "w": 0.441,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: صحن; Socotran in Arabic script: صحن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 169,
+   "form": "merúḥah (Ar.)",
+   "gloss": "A Fan.",
+   "section": "",
+   "concepts": [
+    "FAN (OBJECT)"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.3556,
+    "y": 0.8552,
+    "w": 0.367,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: مهفه; Socotran in Arabic script: مروحه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 170,
+   "form": "medfa' (Ar.)",
+   "gloss": "A Cannon.",
+   "section": "",
+   "concepts": [
+    "CANNON"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.376,
+    "y": 0.8863,
+    "w": 0.3797,
+    "h": 0.0185
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: مدفع; Socotran in Arabic script: مدفع",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 171,
+   "form": "bárút (Ar.)",
+   "gloss": "Gunpowder.",
+   "section": "",
+   "concepts": [
+    "GUNPOWDER"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3702,
+    "y": 0.1444,
+    "w": 0.3831,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: باروت; Socotran in Arabic script: باروت",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 172,
+   "form": "selúbah",
+   "gloss": "Stop!  Gently!",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.4069,
+    "y": 0.1741,
+    "w": 0.3745,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اصبر; Socotran in Arabic script: سلوبه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 173,
+   "form": "ṭáfa'ah",
+   "gloss": "To give.",
+   "section": "",
+   "concepts": [
+    "GIVE"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.414,
+    "y": 0.206,
+    "w": 0.3079,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اعطي; Socotran in Arabic script: طافعه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 174,
+   "form": "telú",
+   "gloss": "Take hold.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.4497,
+    "y": 0.2335,
+    "w": 0.2931,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اقبض; Socotran in Arabic script: تلو",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 175,
+   "form": "sherákaḥ",
+   "gloss": "Go away.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.3863,
+    "y": 0.2636,
+    "w": 0.3471,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اخرج; Socotran in Arabic script: شراكح",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 176,
+   "form": "taktútaḥ",
+   "gloss": "Come here.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.3949,
+    "y": 0.2934,
+    "w": 0.3529,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ارجع; Socotran in Arabic script: تكتاتح",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 177,
+   "form": "taḥríz",
+   "gloss": "Kill.",
+   "section": "",
+   "concepts": [
+    "KILL"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.4226,
+    "y": 0.3229,
+    "w": 0.2546,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ازبح; Socotran in Arabic script: تحريز",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 178,
+   "form": "kín",
+   "gloss": "Plenty of any thing.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.4497,
+    "y": 0.3541,
+    "w": 0.385,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اكثير; Socotran in Arabic script: كين",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 179,
+   "form": "ta'óh",
+   "gloss": "Make haste!",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.4386,
+    "y": 0.3833,
+    "w": 0.3255,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: امشي; Socotran in Arabic script: تعوه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 180,
+   "form": "'addah faḥraï",
+   "gloss": "To be on good terms.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.3431,
+    "y": 0.4142,
+    "w": 0.5088,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اصحب; Socotran in Arabic script: عده فحري",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 181,
+   "form": "tá ṣaḥḥ (Ar.)",
+   "gloss": "To behave properly.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.3524,
+    "y": 0.4428,
+    "w": 0.4916,
+    "h": 0.0164,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: آعدل; Socotran in Arabic script: تاصح",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 182,
+   "form": "shemátó",
+   "gloss": "To converse",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.4066,
+    "y": 0.4727,
+    "w": 0.3545,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: انطف; Socotran in Arabic script: شماتو",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 183,
+   "form": "'arr",
+   "gloss": "Take hold.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.4485,
+    "y": 0.5042,
+    "w": 0.2993,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اضبط; Socotran in Arabic script: عر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 184,
+   "form": "alleḥ",
+   "gloss": "To ascend.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.4408,
+    "y": 0.533,
+    "w": 0.3067,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اصعد; Socotran in Arabic script: الح",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 185,
+   "form": "ta-ḳáfah",
+   "gloss": "To descend.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.4041,
+    "y": 0.5647,
+    "w": 0.3554,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: انزل; Socotran in Arabic script: تقافه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 186,
+   "form": "istaḥall (Ar.)",
+   "gloss": "Sit down.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.3542,
+    "y": 0.5933,
+    "w": 0.3782,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اجلس; Socotran in Arabic script: استحل",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 187,
+   "form": "taḳárí (Ar.)",
+   "gloss": "To read.",
+   "section": "",
+   "concepts": [
+    "READ"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3671,
+    "y": 0.6233,
+    "w": 0.3612,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اقرا; Socotran in Arabic script: تقاري",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 188,
+   "form": "tanáfa' (Ar.)",
+   "gloss": "To mend.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.3607,
+    "y": 0.6556,
+    "w": 0.3776,
+    "h": 0.0164,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اعمر; Socotran in Arabic script: تنافع",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 189,
+   "form": "ta-nú'ash (Ar.)",
+   "gloss": "To spoil.",
+   "section": "",
+   "concepts": [
+    "SPOIL (BECOME SPOILED)"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3366,
+    "y": 0.6842,
+    "w": 0.3954,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اخرب; Socotran in Arabic script: تنوعش",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 190,
+   "form": "ta-áṣaf (Ar.)",
+   "gloss": "To spread any Mat or Bed.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.3573,
+    "y": 0.7163,
+    "w": 0.4981,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: افرش; Socotran in Arabic script: تاصف",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 191,
+   "form": "ta ḥeïsib (Ar.)",
+   "gloss": "To count.",
+   "section": "",
+   "concepts": [
+    "COUNT"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.2128,
+    "y": 0.7672,
+    "w": 0.5261,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: احسب; Socotran in Arabic script: تحيسب",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 192,
+   "form": "shálim",
+   "gloss": "To stake a Bargain.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.4235,
+    "y": 0.7943,
+    "w": 0.4275,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اشرط; Socotran in Arabic script: شالم",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 193,
+   "form": "tawajjah (Ar.)",
+   "gloss": "To beat.",
+   "section": "",
+   "concepts": [
+    "BEAT"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3422,
+    "y": 0.8253,
+    "w": 0.3877,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اضرب; Socotran in Arabic script: توجه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 194,
+   "form": "'en tájah",
+   "gloss": "Do not strike.",
+   "section": "",
+   "box": {
+    "page": 7,
+    "x": 0.4001,
+    "y": 0.8533,
+    "w": 0.3911,
+    "h": 0.0164,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لاتضرب; Socotran in Arabic script: عن تاجه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 195,
+   "form": "ta-kása' (Ar.)",
+   "gloss": "To break.",
+   "section": "",
+   "concepts": [
+    "BREAK (CLEAVE)"
+   ],
+   "box": {
+    "page": 7,
+    "x": 0.3514,
+    "y": 0.8828,
+    "w": 0.3893,
+    "h": 0.0164
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اكسر; Socotran in Arabic script: تكاسع",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 196,
+   "form": "en-taftaf (Ar.)",
+   "gloss": "Do not break.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.3552,
+    "y": 0.1488,
+    "w": 0.432,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لا تكر; Socotran in Arabic script: ان تفطف",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 197,
+   "form": "'en elfirád",
+   "gloss": "Make no agreement.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.3949,
+    "y": 0.1794,
+    "w": 0.4634,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لا تشرط; Socotran in Arabic script: عن انفراد",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 198,
+   "form": "en tendeff",
+   "gloss": "Do not give.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.398,
+    "y": 0.2096,
+    "w": 0.3851,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لا تعطي; Socotran in Arabic script: عن تندف",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 199,
+   "form": "araḥ",
+   "gloss": "Remove or take away.",
+   "section": "",
+   "concepts": [
+    "TAKE"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.4538,
+    "y": 0.2381,
+    "w": 0.4141,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ودا; Socotran in Arabic script: ارح",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 200,
+   "form": "araḥ yinúḳ",
+   "gloss": "To take any thing away.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.3839,
+    "y": 0.2698,
+    "w": 0.4776,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ودي; Socotran in Arabic script: ارح ينوق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 201,
+   "form": "alà tiyé'í",
+   "gloss": "Do not take away.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.4054,
+    "y": 0.3214,
+    "w": 0.4406,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لا تودي; Socotran in Arabic script: علي طيعي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 202,
+   "form": "nikyán",
+   "gloss": "To bring.",
+   "section": "",
+   "concepts": [
+    "BRING"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.4319,
+    "y": 0.3524,
+    "w": 0.3155,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: جيب; Socotran in Arabic script: نكيان",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 203,
+   "form": "alankah",
+   "gloss": "Do not bring.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.4199,
+    "y": 0.3806,
+    "w": 0.3725,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لا تجيب; Socotran in Arabic script: النكه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 204,
+   "form": "díyah",
+   "gloss": "Good or well",
+   "section": "",
+   "concepts": [
+    "GOOD",
+    "WELL"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.4458,
+    "y": 0.4115,
+    "w": 0.3402,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: زين; Socotran in Arabic script: ديية",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 205,
+   "form": "diya'",
+   "gloss": "No good.  Bad.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.4535,
+    "y": 0.4417,
+    "w": 0.37,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ما هو زين; Socotran in Arabic script: ديع",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 206,
+   "form": "astà",
+   "gloss": "To eat.",
+   "section": "",
+   "concepts": [
+    "EAT"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.4627,
+    "y": 0.4693,
+    "w": 0.2628,
+    "h": 0.0153,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اكل; Socotran in Arabic script: استا",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 207,
+   "form": "an itúk",
+   "gloss": "I have not eaten.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.4224,
+    "y": 0.5005,
+    "w": 0.4095,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ما اكل; Socotran in Arabic script: ان اتوك",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 208,
+   "form": "tú taher",
+   "gloss": "Come very close.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.4205,
+    "y": 0.5292,
+    "w": 0.4064,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تقرب; Socotran in Arabic script: تو تهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 209,
+   "form": "tetú saher",
+   "gloss": "Go away to a distance.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.3986,
+    "y": 0.5604,
+    "w": 0.469,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تبعد; Socotran in Arabic script: تتو صهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 210,
+   "form": "Ḥeïheï",
+   "gloss": "A Man.",
+   "section": "",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.4301,
+    "y": 0.611,
+    "w": 0.3013,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: آدمي; Socotran in Arabic script: حيهي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 211,
+   "form": "alḍháma'",
+   "gloss": "Alive.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.4085,
+    "y": 0.6407,
+    "w": 0.3001,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: حي; Socotran in Arabic script: الظامع",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 212,
+   "form": "ṣámí",
+   "gloss": "Dead.",
+   "section": "",
+   "concepts": [
+    "DEAD"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.4523,
+    "y": 0.6717,
+    "w": 0.2566,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: مات; Socotran in Arabic script: صامي",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 213,
+   "form": "shohúm",
+   "gloss": "The Sun.",
+   "section": "",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.4267,
+    "y": 0.7011,
+    "w": 0.3195,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: شمس; Socotran in Arabic script: شهوم",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 214,
+   "form": "míl'au",
+   "gloss": "A Roof, or Top, Awning, &c.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.4353,
+    "y": 0.7306,
+    "w": 0.4323,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ظلال; Socotran in Arabic script: ميلعو",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 215,
+   "form": "shemtar",
+   "gloss": "Dressed well, or in good clothes.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.4202,
+    "y": 0.7816,
+    "w": 0.4486,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تكلم; Socotran in Arabic script: شمتر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 216,
+   "form": "shíkah",
+   "gloss": "Close to.",
+   "section": "",
+   "concepts": [
+    "CLOSE (EYES)"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.4341,
+    "y": 0.8324,
+    "w": 0.3029,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: قريب; Socotran in Arabic script: شيكه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 217,
+   "form": "serhoḳ",
+   "gloss": "At a distance off.",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.4356,
+    "y": 0.8617,
+    "w": 0.3913,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بعيد; Socotran in Arabic script: سرحق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 218,
+   "form": "en mishaḳ",
+   "gloss": "What have you got?",
+   "section": "",
+   "box": {
+    "page": 8,
+    "x": 0.3919,
+    "y": 0.8936,
+    "w": 0.473,
+    "h": 0.0153
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ايش عندك; Socotran in Arabic script: انمشق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 219,
+   "form": "āmak",
+   "gloss": "True or Truth.",
+   "section": "",
+   "concepts": [
+    "TRUE",
+    "TRUTH"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.4222,
+    "y": 0.1565,
+    "w": 0.3609,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: صدق; Socotran in Arabic script: آمك",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 220,
+   "form": "tubaṭ",
+   "gloss": "Untrue—a Falsehood.",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.4293,
+    "y": 0.1858,
+    "w": 0.416,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: كذب; Socotran in Arabic script: تبت",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 221,
+   "form": "tez'en",
+   "gloss": "Take hold.",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.38,
+    "y": 0.2454,
+    "w": 0.424,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اخذ; Socotran in Arabic script: تزعن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 222,
+   "form": "'en tez'en",
+   "gloss": "Do not take hold.",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.38,
+    "y": 0.2454,
+    "w": 0.424,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لا تاخذ; Socotran in Arabic script: عن تزعن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 223,
+   "form": "taḳáṭa' (Ar.)",
+   "gloss": "Do not sit down.",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.3495,
+    "y": 0.2752,
+    "w": 0.4493,
+    "h": 0.0158,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لا تجلس; Socotran in Arabic script: تقاطع",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 224,
+   "form": "taṭúhar",
+   "gloss": "Do not stand.",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.4068,
+    "y": 0.3055,
+    "w": 0.3609,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لا توقف; Socotran in Arabic script: تطوهر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 225,
+   "form": "t'shúf",
+   "gloss": "To sleep.",
+   "section": "",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.424,
+    "y": 0.337,
+    "w": 0.2968,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ارقد; Socotran in Arabic script: تشوق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 226,
+   "form": "tebáḥ (té-sobáḥ?)",
+   "gloss": "To wash.",
+   "section": "",
+   "concepts": [
+    "WASH"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.2435,
+    "y": 0.3657,
+    "w": 0.4789,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اسبح; Socotran in Arabic script: تباح",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 227,
+   "form": "ta-ta'eïr",
+   "gloss": "To look.",
+   "section": "",
+   "concepts": [
+    "LOOK"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3975,
+    "y": 0.3963,
+    "w": 0.3171,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: انظر; Socotran in Arabic script: تتعير",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 228,
+   "form": "'en ta'eïr",
+   "gloss": "Do not look",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.388,
+    "y": 0.4257,
+    "w": 0.3621,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: لا تنظر; Socotran in Arabic script: عن تعير",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 229,
+   "form": "teïber",
+   "gloss": "Broken.",
+   "section": "",
+   "concepts": [
+    "BROKEN"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.4262,
+    "y": 0.4565,
+    "w": 0.282,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: انكر; Socotran in Arabic script: تيبر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 230,
+   "form": "tekúde'n",
+   "gloss": "Come near.",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.3978,
+    "y": 0.4864,
+    "w": 0.3476,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: تعال قريب; Socotran in Arabic script: تكودعن",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 231,
+   "form": "tó'ad serḥoḳ",
+   "gloss": "Go away.",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.1867,
+    "y": 0.5198,
+    "w": 0.5414,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: روح بعيد; Socotran in Arabic script: توعد سرحق",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 232,
+   "form": "abí ríhó",
+   "gloss": "Bring some water.",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.396,
+    "y": 0.5463,
+    "w": 0.4213,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اعطني ماي; Socotran in Arabic script: ابي ريهه",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 233,
+   "form": "ríhó darnaham",
+   "gloss": "Salt water.",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.2025,
+    "y": 0.5789,
+    "w": 0.5374,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ماي بحر; Socotran in Arabic script: ريهه درنهم",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 234,
+   "form": "astinjar",
+   "gloss": "To buy.",
+   "section": "",
+   "concepts": [
+    "BUY"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.2157,
+    "y": 0.6098,
+    "w": 0.4968,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: اشتري; Socotran in Arabic script: استن جر",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 235,
+   "form": "kathú'am",
+   "gloss": "To sell.",
+   "section": "",
+   "concepts": [
+    "SELL"
+   ],
+   "box": {
+    "page": 9,
+    "x": 0.3871,
+    "y": 0.6401,
+    "w": 0.3211,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: بيع; Socotran in Arabic script: كثوعم",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 236,
+   "form": "eshímah",
+   "gloss": "I will sell.",
+   "section": "",
+   "box": {
+    "page": 9,
+    "x": 0.3969,
+    "y": 0.6673,
+    "w": 0.3384,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Arabic: ابيع; Socotran in Arabic script: اشيمه",
+    "compare": null,
+    "checked": false
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 236,
+  "notes": 236,
+  "located": 236
+ },
+ "partial": null,
+ "relation": null
+}

@@ -1,0 +1,2026 @@
+{
+ "schema": 1,
+ "id": "mazatec",
+ "wtl": "WTL-0033",
+ "heading": "English-Mazatecan Vocabulary.",
+ "headings": [
+  "English-Mazatecan Vocabulary.",
+  "The personal pronouns are:",
+  "Of the possessives I find the following:",
+  "The numerals are given thus:",
+  "Comparison with Lord's Prayer versions (Vocab. column)"
+ ],
+ "language": {
+  "name": "Huautla Mazatec",
+  "glottocode": "huau1238",
+  "family": "Otomanguean",
+  "path": [
+   "Otomanguean",
+   "Eastern Otomanguean",
+   "Popoloca-Zapotecan",
+   "Popolocan-Mazatecan",
+   "Mazatecan",
+   "Central Mazatec"
+  ],
+  "labels": []
+ },
+ "region": "North America",
+ "book": {
+  "short": "On the Mazatec Language of Mexico",
+  "title": "On the Mazatec Language of Mexico and its Affinities",
+  "author": "Daniel G. Brinton",
+  "printed": 1892,
+  "imprint": "Proceedings of the American Philosophical Society, 30 (no. 137), 1892, pp. 31-39 (vocabulary pp. 33-35)",
+  "tcp": "",
+  "cover": "mazatec"
+ },
+ "provenance": {
+  "collector": "a Danish officer in the service of Maximilian (manuscript furnished by Alphonse Pinart)",
+  "place": "Huantla (Huautla), northeast of Teutitlan, Oaxaca, Mexico",
+  "heard": "1860s"
+ },
+ "scan": {
+  "ia": "jstor-983207",
+  "url": "https://archive.org/details/jstor-983207",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "An unpublished vocabulary collected at Huantla by a Danish officer in the service of Maximilian, furnished to Brinton by Alphonse Pinart.",
+ "pages": [
+  {
+   "leaf": 3,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/mazatec/0003-900.webp",
+   "lg": "/scans/mazatec/0003-1800.webp"
+  },
+  {
+   "leaf": 4,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/mazatec/0004-900.webp",
+   "lg": "/scans/mazatec/0004-1800.webp"
+  },
+  {
+   "leaf": 5,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/mazatec/0005-900.webp",
+   "lg": "/scans/mazatec/0005-1800.webp"
+  },
+  {
+   "leaf": 6,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/mazatec/0006-900.webp",
+   "lg": "/scans/mazatec/0006-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "chale",
+   "gloss": "Arm",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1204,
+    "y": 0.7749,
+    "w": 0.1257,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 2,
+   "form": "minda",
+   "gloss": "Bad",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "BAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1191,
+    "y": 0.7925,
+    "w": 0.1342,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 3,
+   "form": "nacha'",
+   "gloss": "Banana",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "BANANA"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1197,
+    "y": 0.8102,
+    "w": 0.176,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 4,
+   "form": "nahma'",
+   "gloss": "Beans",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "BEAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1197,
+    "y": 0.8276,
+    "w": 0.1668,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 5,
+   "form": "tza' á",
+   "gloss": "Beard",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1184,
+    "y": 0.8444,
+    "w": 0.1453,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 6,
+   "form": "twna",
+   "gloss": "Black",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5064,
+    "y": 0.7762,
+    "w": 0.1381,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed 'twna' (w for u?); comparison table gives 'tuna'",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 7,
+   "form": "iso",
+   "gloss": "Blue",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "BLUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5064,
+    "y": 0.7938,
+    "w": 0.1054,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 8,
+   "form": "indidi (see \"Son\")",
+   "gloss": "Boy",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5064,
+    "y": 0.8123,
+    "w": 0.27,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 9,
+   "form": "chu hi",
+   "gloss": "Bread",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "BREAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5071,
+    "y": 0.8284,
+    "w": 0.1557,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 10,
+   "form": "animale",
+   "gloss": "Breast (chest)",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 0,
+    "x": 0.5057,
+    "y": 0.846,
+    "w": 0.257,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 11,
+   "form": "schene'",
+   "gloss": "Brown",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "BROWN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1123,
+    "y": 0.1214,
+    "w": 0.1731,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 12,
+   "form": "nan' da",
+   "gloss": "Cactus",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.1137,
+    "y": 0.1386,
+    "w": 0.1757,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 13,
+   "form": "chito",
+   "gloss": "Cat, a",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "CAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1137,
+    "y": 0.1563,
+    "w": 0.1352,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 14,
+   "form": "chicunai",
+   "gloss": "Chief",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.1137,
+    "y": 0.1739,
+    "w": 0.1685,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 15,
+   "form": "inai",
+   "gloss": "Church",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "CHURCH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.115,
+    "y": 0.1915,
+    "w": 0.1463,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 16,
+   "form": "nikye",
+   "gloss": "Clothing",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "CLOTHING (CLASSIFIER)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1143,
+    "y": 0.2096,
+    "w": 0.1757,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 17,
+   "form": "ifi",
+   "gloss": "Clouds",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "CLOUD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.115,
+    "y": 0.2272,
+    "w": 0.1208,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 18,
+   "form": "ngchaha'",
+   "gloss": "Cow",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "COW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.115,
+    "y": 0.2448,
+    "w": 0.1679,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 19,
+   "form": "tzadi (see \"Girl\")",
+   "gloss": "Daughter",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "DAUGHTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.115,
+    "y": 0.2622,
+    "w": 0.1909,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 20,
+   "form": "gunichi",
+   "gloss": "Day",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1156,
+    "y": 0.2796,
+    "w": 0.1457,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 21,
+   "form": "coviu",
+   "gloss": "Dead",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "DEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.2975,
+    "w": 0.1326,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 22,
+   "form": "cuiyane",
+   "gloss": "Die, to",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "DIE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1156,
+    "y": 0.3157,
+    "w": 0.1777,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 23,
+   "form": "nanya",
+   "gloss": "Dog",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.3348,
+    "w": 0.1352,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 24,
+   "form": "chutoa",
+   "gloss": "Door",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "DOOR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1156,
+    "y": 0.3504,
+    "w": 0.1463,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 25,
+   "form": "schical",
+   "gloss": "Ear",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.3678,
+    "w": 0.1352,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 26,
+   "form": "nangi",
+   "gloss": "Earth",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.3862,
+    "w": 0.1483,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 27,
+   "form": "cho'",
+   "gloss": "Egg",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "EGG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.4037,
+    "w": 0.113,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 28,
+   "form": "gischo",
+   "gloss": "Evening",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "EVENING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.4211,
+    "w": 0.1777,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 29,
+   "form": "schca",
+   "gloss": "Eye",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.4389,
+    "w": 0.1228,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 30,
+   "form": "tza ixpan (?)",
+   "gloss": "Eyebrows",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "EYEBROW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.4565,
+    "w": 0.189,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 31,
+   "form": "tata",
+   "gloss": "Father",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.4735,
+    "w": 0.1385,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 32,
+   "form": "noon-tza (see \"Hand\")",
+   "gloss": "Finger",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "FINGER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.4911,
+    "w": 0.189,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 33,
+   "form": "nii",
+   "gloss": "Fire",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.509,
+    "w": 0.1012,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 34,
+   "form": "tzócó",
+   "gloss": "Foot",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.5264,
+    "w": 0.1234,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 35,
+   "form": "ten",
+   "gloss": "Forehead",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "FOREHEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.544,
+    "w": 0.1561,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 36,
+   "form": "tzadi",
+   "gloss": "Girl",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.5616,
+    "w": 0.1195,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 37,
+   "form": "naina'",
+   "gloss": "God",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.5797,
+    "w": 0.1372,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 38,
+   "form": "naleto",
+   "gloss": "Gold",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "GOLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.5965,
+    "w": 0.1385,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 39,
+   "form": "dani",
+   "gloss": "Good",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1182,
+    "y": 0.6147,
+    "w": 0.1274,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 40,
+   "form": "tzare'",
+   "gloss": "Green",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "GREEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.6321,
+    "w": 0.147,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 41,
+   "form": "tzinayo",
+   "gloss": "Hail",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "HAIL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.6504,
+    "w": 0.1463,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 42,
+   "form": "coshe'",
+   "gloss": "Hair",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.6674,
+    "w": 0.1326,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 43,
+   "form": "tza",
+   "gloss": "Hand",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.6852,
+    "w": 0.1169,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 44,
+   "form": "tzingye",
+   "gloss": "Hat",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "HAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.7037,
+    "w": 0.1372,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 45,
+   "form": "tku",
+   "gloss": "Head",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.7212,
+    "w": 0.1574,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 46,
+   "form": "gami",
+   "gloss": "Heaven",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.7387,
+    "w": 0.1574,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 47,
+   "form": "ihndi",
+   "gloss": "Here",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "HERE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.7555,
+    "w": 0.1339,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 48,
+   "form": "nindo",
+   "gloss": "Hill",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.7729,
+    "w": 0.1274,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 49,
+   "form": "quicha",
+   "gloss": "Iron",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.7914,
+    "w": 0.1411,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 50,
+   "form": "tzea",
+   "gloss": "Large",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.8088,
+    "w": 0.1267,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 51,
+   "form": "schcatiya (= ear-tree)",
+   "gloss": "Leaf",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "LEAF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.8269,
+    "w": 0.1883,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 52,
+   "form": "ase'",
+   "gloss": "Light",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "LIGHT (COLOR)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.8439,
+    "w": 0.1248,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 53,
+   "form": "kuata",
+   "gloss": "Lightning",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.8611,
+    "w": 0.189,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 54,
+   "form": "nyesi",
+   "gloss": "Lungs",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "LUNG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.8785,
+    "w": 0.1463,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 55,
+   "form": "name'",
+   "gloss": "Maize",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "MAIZE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.895,
+    "w": 0.1496,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 56,
+   "form": "chii",
+   "gloss": "Man",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.9125,
+    "w": 0.1123,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 57,
+   "form": "yoje",
+   "gloss": "Meat",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "MEAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5016,
+    "y": 0.1219,
+    "w": 0.1195,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 58,
+   "form": "to",
+   "gloss": "Money",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "MONEY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5003,
+    "y": 0.1393,
+    "w": 0.1182,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 59,
+   "form": "sa",
+   "gloss": "Moon",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.501,
+    "y": 0.1571,
+    "w": 0.1143,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 60,
+   "form": "tanhya",
+   "gloss": "Morning",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "MORNING"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5029,
+    "y": 0.1747,
+    "w": 0.1875,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 61,
+   "form": "tzoa",
+   "gloss": "Mouth",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5023,
+    "y": 0.1913,
+    "w": 0.1365,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 62,
+   "form": "nhyu",
+   "gloss": "Night",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5003,
+    "y": 0.2096,
+    "w": 0.1404,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 63,
+   "form": "nitu",
+   "gloss": "Nose",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.501,
+    "y": 0.2268,
+    "w": 0.1228,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 64,
+   "form": "tatzo",
+   "gloss": "Onion",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "ONION"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5016,
+    "y": 0.2442,
+    "w": 0.1444,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 65,
+   "form": "schahe'",
+   "gloss": "Palm",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5016,
+    "y": 0.2618,
+    "w": 0.1561,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 66,
+   "form": "schuhu'",
+   "gloss": "Paper",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "PAPER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5023,
+    "y": 0.2799,
+    "w": 0.1672,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 67,
+   "form": "nacha'",
+   "gloss": "Plantain",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "PLANTAIN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5023,
+    "y": 0.2971,
+    "w": 0.1862,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 68,
+   "form": "titzi",
+   "gloss": "Plaza",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5036,
+    "y": 0.3145,
+    "w": 0.1261,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 69,
+   "form": "da",
+   "gloss": "Pretty",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5023,
+    "y": 0.3329,
+    "w": 0.1202,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 70,
+   "form": "tzi",
+   "gloss": "Rain",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.3501,
+    "w": 0.1045,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 71,
+   "form": "ini",
+   "gloss": "Red",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5029,
+    "y": 0.3676,
+    "w": 0.0999,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 72,
+   "form": "dahoe",
+   "gloss": "River",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.3852,
+    "w": 0.1444,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 73,
+   "form": "diya",
+   "gloss": "Road",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "ROAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5049,
+    "y": 0.403,
+    "w": 0.128,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 74,
+   "form": "dachicu",
+   "gloss": "Sea",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "SEA"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.4204,
+    "w": 0.1404,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 75,
+   "form": "chitzanga",
+   "gloss": "Sheep",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "SHEEP"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5049,
+    "y": 0.4385,
+    "w": 0.1848,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 76,
+   "form": "gihya",
+   "gloss": "Sierra",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.4563,
+    "w": 0.145,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 77,
+   "form": "tonschua",
+   "gloss": "Silver",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "SILVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5069,
+    "y": 0.4729,
+    "w": 0.1764,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 78,
+   "form": "tua",
+   "gloss": "Small",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5082,
+    "y": 0.4914,
+    "w": 0.1215,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 79,
+   "form": "dandya",
+   "gloss": "Snow",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "SNOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.5092,
+    "w": 0.162,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 80,
+   "form": "indi (see \"Boy\")",
+   "gloss": "Son",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.5266,
+    "w": 0.2541,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 81,
+   "form": "ningutzea",
+   "gloss": "Star",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5075,
+    "y": 0.5444,
+    "w": 0.1672,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 82,
+   "form": "noyo",
+   "gloss": "Stone",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.5635,
+    "w": 0.1332,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 83,
+   "form": "garonindo",
+   "gloss": "Summit, the",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "SUMMIT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5075,
+    "y": 0.5795,
+    "w": 0.2567,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 84,
+   "form": "sui",
+   "gloss": "Sun",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.5967,
+    "w": 0.1006,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 85,
+   "form": "niiyu",
+   "gloss": "Teeth",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.6151,
+    "w": 0.1417,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 86,
+   "form": "hani",
+   "gloss": "There",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "THERE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5049,
+    "y": 0.6319,
+    "w": 0.1352,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 87,
+   "form": "chamila",
+   "gloss": "Thigh",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "THIGH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5036,
+    "y": 0.6504,
+    "w": 0.1711,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 88,
+   "form": "noontzoco (see \"Foot\")",
+   "gloss": "Toe",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "TOE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5049,
+    "y": 0.6672,
+    "w": 0.3174,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 89,
+   "form": "iya",
+   "gloss": "Tree",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5069,
+    "y": 0.6854,
+    "w": 0.1104,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 90,
+   "form": "nahnu",
+   "gloss": "Tobacco",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "TOBACCO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.7029,
+    "w": 0.179,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 91,
+   "form": "gandai",
+   "gloss": "To-day",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.7213,
+    "w": 0.1705,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 92,
+   "form": "chiti",
+   "gloss": "Tomato",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "TOMATO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5049,
+    "y": 0.7381,
+    "w": 0.1574,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 93,
+   "form": "naschananda",
+   "gloss": "Town",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "TOWN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.7557,
+    "w": 0.2221,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 94,
+   "form": "nikye",
+   "gloss": "Turkey buzzard",
+   "section": "English-Mazatecan Vocabulary.",
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.774,
+    "w": 0.2462,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 95,
+   "form": "chiu",
+   "gloss": "Ugly",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "UGLY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5056,
+    "y": 0.7914,
+    "w": 0.1234,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 96,
+   "form": "nanda",
+   "gloss": "Water",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5042,
+    "y": 0.8082,
+    "w": 0.1574,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 97,
+   "form": "chuhua",
+   "gloss": "White",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5075,
+    "y": 0.826,
+    "w": 0.1633,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 98,
+   "form": "to",
+   "gloss": "Wind",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5042,
+    "y": 0.8436,
+    "w": 0.1065,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 99,
+   "form": "chu",
+   "gloss": "Woman",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.8604,
+    "w": 0.1463,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 100,
+   "form": "guno",
+   "gloss": "Year",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "YEAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5069,
+    "y": 0.8799,
+    "w": 0.1274,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 101,
+   "form": "sine",
+   "gloss": "Yellow",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "YELLOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5062,
+    "y": 0.895,
+    "w": 0.143,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 102,
+   "form": "gohia",
+   "gloss": "Yesterday",
+   "section": "English-Mazatecan Vocabulary.",
+   "concepts": [
+    "YESTERDAY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5069,
+    "y": 0.9131,
+    "w": 0.1894,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 103,
+   "form": "gāa'",
+   "gloss": "I",
+   "section": "The personal pronouns are:",
+   "concepts": [
+    "I"
+   ]
+  },
+  {
+   "n": 104,
+   "form": "gahye'",
+   "gloss": "Thou",
+   "section": "The personal pronouns are:",
+   "concepts": [
+    "THOU"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.121,
+    "y": 0.165,
+    "w": 0.1485,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 105,
+   "form": "he",
+   "gloss": "He",
+   "section": "The personal pronouns are:",
+   "concepts": [
+    "HE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1432,
+    "y": 0.619,
+    "w": 0.1624,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 106,
+   "form": "gahi",
+   "gloss": "We",
+   "section": "The personal pronouns are:",
+   "concepts": [
+    "WE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.509,
+    "y": 0.1476,
+    "w": 0.1139,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 107,
+   "form": "gahini",
+   "gloss": "You",
+   "section": "The personal pronouns are:",
+   "concepts": [
+    "YOU"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.509,
+    "y": 0.165,
+    "w": 0.1387,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 108,
+   "form": "niahne'",
+   "gloss": "They",
+   "section": "The personal pronouns are:",
+   "concepts": [
+    "THEY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.509,
+    "y": 0.1828,
+    "w": 0.157,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 109,
+   "form": "na",
+   "gloss": "Mine",
+   "section": "Of the possessives I find the following:"
+  },
+  {
+   "n": 110,
+   "form": "li",
+   "gloss": "Thine",
+   "section": "Of the possessives I find the following:",
+   "concepts": [
+    "THIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.509,
+    "y": 0.1828,
+    "w": 0.157,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 111,
+   "form": "le'",
+   "gloss": "His",
+   "section": "Of the possessives I find the following:",
+   "box": {
+    "page": 2,
+    "x": 0.5103,
+    "y": 0.2546,
+    "w": 0.0891,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 112,
+   "form": "nahan",
+   "gloss": "Our",
+   "section": "Of the possessives I find the following:",
+   "concepts": [
+    "OUR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.511,
+    "y": 0.2722,
+    "w": 0.1329,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 113,
+   "form": "go'",
+   "gloss": "1",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "ONE"
+   ]
+  },
+  {
+   "n": 114,
+   "form": "ho'",
+   "gloss": "2",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "TWO"
+   ]
+  },
+  {
+   "n": 115,
+   "form": "ha'",
+   "gloss": "3",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "THREE"
+   ]
+  },
+  {
+   "n": 116,
+   "form": "nihu'",
+   "gloss": "4",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "FOUR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.3039,
+    "y": 0.396,
+    "w": 0.0688,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 117,
+   "form": "ŭ",
+   "gloss": "5",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "FIVE"
+   ]
+  },
+  {
+   "n": 118,
+   "form": "hŭ'",
+   "gloss": "6",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "SIX"
+   ]
+  },
+  {
+   "n": 119,
+   "form": "yato'",
+   "gloss": "7",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "SEVEN"
+   ]
+  },
+  {
+   "n": 120,
+   "form": "hi",
+   "gloss": "8",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "EIGHT"
+   ],
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "8: initial h with mark above, possibly ĥ",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 121,
+   "form": "nyaha'",
+   "gloss": "9",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "NINE"
+   ]
+  },
+  {
+   "n": 122,
+   "form": "te",
+   "gloss": "10",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "TEN"
+   ]
+  },
+  {
+   "n": 123,
+   "form": "tengo",
+   "gloss": "11",
+   "section": "The numerals are given thus:",
+   "box": {
+    "page": 2,
+    "x": 0.6945,
+    "y": 0.3989,
+    "w": 0.0669,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 124,
+   "form": "chu",
+   "gloss": "15",
+   "section": "The numerals are given thus:",
+   "box": {
+    "page": 2,
+    "x": 0.6945,
+    "y": 0.4172,
+    "w": 0.0669,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 125,
+   "form": "cung",
+   "gloss": "20",
+   "section": "The numerals are given thus:",
+   "concepts": [
+    "TWENTY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.6926,
+    "y": 0.4354,
+    "w": 0.0623,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 126,
+   "form": "kate",
+   "gloss": "30",
+   "section": "The numerals are given thus:",
+   "box": {
+    "page": 2,
+    "x": 0.6919,
+    "y": 0.4501,
+    "w": 0.0545,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 127,
+   "form": "nami (\"cura\")",
+   "gloss": "Father",
+   "section": "Comparison with Lord's Prayer versions (Vocab. column)",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.6741,
+    "y": 0.2192,
+    "w": 0.1796,
+    "h": 0.0169
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "given p. 36 as the Vocabulary form; not in the printed vocabulary",
+    "compare": null,
+    "checked": false
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 127,
+  "notes": 3,
+  "located": 116
+ },
+ "partial": null,
+ "relation": null
+}

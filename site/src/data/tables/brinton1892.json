@@ -1,0 +1,6182 @@
+{
+ "schema": 1,
+ "id": "brinton1892",
+ "wtl": "WTL-0041",
+ "heading": "English-Jivaro Vocabulary; English-Cholona Vocabulary; English-Manao Words; English-Bonari Vocabulary; Descripcion del Indio (Hongote)",
+ "headings": [
+  "English-Jivaro Vocabulary",
+  "English-Cholona Vocabulary",
+  "English-Manao Words",
+  "English-Bonari Vocabulary",
+  "Descripcion del Indio",
+  "Descripcion del Indio (numerals)",
+  "No le he podido entender mas.",
+  "The other vocabulary"
+ ],
+ "language": {
+  "name": "Jebero, Cholón, Manao, Bonari and others",
+  "glottocode": "",
+  "family": null,
+  "path": [],
+  "labels": [
+   "Bonari",
+   "Cholona",
+   "Hongote",
+   "Jivaro",
+   "Manao"
+  ]
+ },
+ "region": "Caribbean & South America",
+ "book": {
+  "short": "Studies in South American Native Languages",
+  "title": "Studies in South American Native Languages",
+  "author": "Daniel G. Brinton",
+  "printed": 1892,
+  "imprint": "Proceedings of the American Philosophical Society, 30 (no. 137), 1892, pp. 65-67, 73-74, 77, 83-85",
+  "tcp": "",
+  "cover": "brinton1892"
+ },
+ "provenance": {
+  "collector": "Various (see sections)",
+  "place": "Upper Marañon (Jivaro/Xebero); upper Huallaga river (Cholona); lower Rio Negro (Manao); river Uatuma (Bonari); east coast of Patagonia (Hongote)",
+  "heard": "Cholona: 1748 (copy 1772); Jivaro: close of 18th century; Manao: c. 1740; Bonari: before 1874; Hongote: c. 1789"
+ },
+ "scan": {
+  "ia": "jstor-983209",
+  "url": "https://archive.org/details/jstor-983209",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Brinton compiled these word lists from manuscripts in the British Museum and, for Bonari, from Francisco Bernardino de Souza's Para e Amazonas (1874-5).",
+ "pages": [
+  {
+   "leaf": 21,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/brinton1892/0021-900.webp",
+   "lg": "/scans/brinton1892/0021-1800.webp"
+  },
+  {
+   "leaf": 22,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/brinton1892/0022-900.webp",
+   "lg": "/scans/brinton1892/0022-1800.webp"
+  },
+  {
+   "leaf": 23,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/brinton1892/0023-900.webp",
+   "lg": "/scans/brinton1892/0023-1800.webp"
+  },
+  {
+   "leaf": 29,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/brinton1892/0029-900.webp",
+   "lg": "/scans/brinton1892/0029-1800.webp"
+  },
+  {
+   "leaf": 30,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/brinton1892/0030-900.webp",
+   "lg": "/scans/brinton1892/0030-1800.webp"
+  },
+  {
+   "leaf": 33,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/brinton1892/0033-900.webp",
+   "lg": "/scans/brinton1892/0033-1800.webp"
+  },
+  {
+   "leaf": 39,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/brinton1892/0039-900.webp",
+   "lg": "/scans/brinton1892/0039-1800.webp"
+  },
+  {
+   "leaf": 40,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/brinton1892/0040-900.webp",
+   "lg": "/scans/brinton1892/0040-1800.webp"
+  },
+  {
+   "leaf": 41,
+   "w": 1531,
+   "h": 2383,
+   "sm": "/scans/brinton1892/0041-900.webp",
+   "lg": "/scans/brinton1892/0041-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "mosenqûec",
+   "gloss": "Above",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "ABOVE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1204,
+    "y": 0.8299,
+    "w": 0.1853,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 2,
+   "form": "tula",
+   "gloss": "Ankle",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "ANKLE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1204,
+    "y": 0.8452,
+    "w": 0.1322,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 3,
+   "form": "da'mpa",
+   "gloss": "Arm",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "ARM"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1204,
+    "y": 0.863,
+    "w": 0.1505,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 4,
+   "form": "na'mu",
+   "gloss": "Arrow",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1217,
+    "y": 0.88,
+    "w": 0.159,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 5,
+   "form": "dacotalec",
+   "gloss": "Ashamed, to be",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 0,
+    "x": 0.1204,
+    "y": 0.8974,
+    "w": 0.1853,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 6,
+   "form": "mucha",
+   "gloss": "Ask, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "ASK (INQUIRE)"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5103,
+    "y": 0.8286,
+    "w": 0.1694,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 7,
+   "form": "moâimbosu, aperosu",
+   "gloss": "Bad",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5097,
+    "y": 0.8469,
+    "w": 0.2687,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 8,
+   "form": "amucuiola noteri",
+   "gloss": "Beard",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BEARD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5097,
+    "y": 0.8637,
+    "w": 0.2583,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 9,
+   "form": "du', metpi, oquiulec",
+   "gloss": "Belly",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.5097,
+    "y": 0.8821,
+    "w": 0.2798,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 10,
+   "form": "vilenquec",
+   "gloss": "Below",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 0,
+    "x": 0.5077,
+    "y": 0.8993,
+    "w": 0.1831,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 11,
+   "form": "ilans'r, tiperllu",
+   "gloss": "Bird",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BIRD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1156,
+    "y": 0.1242,
+    "w": 0.1903,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 12,
+   "form": "catli, cadladasu",
+   "gloss": "Black",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.115,
+    "y": 0.1412,
+    "w": 0.1909,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 13,
+   "form": "dapina",
+   "gloss": "Blind",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BLIND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.1594,
+    "w": 0.1581,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 14,
+   "form": "uogladec",
+   "gloss": "Blood",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BLOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1156,
+    "y": 0.1766,
+    "w": 0.1803,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 15,
+   "form": "carcaso",
+   "gloss": "Blue",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BLUE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.1943,
+    "w": 0.1509,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 16,
+   "form": "loqueglo, timipi",
+   "gloss": "Body",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BODY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.2119,
+    "w": 0.1896,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 17,
+   "form": "lansi",
+   "gloss": "Bone",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BONE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.2287,
+    "w": 0.1319,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 18,
+   "form": "oclilec",
+   "gloss": "Born, to be",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.2461,
+    "w": 0.1896,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 19,
+   "form": "vila",
+   "gloss": "Boy",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.2643,
+    "w": 0.1084,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 20,
+   "form": "taümec",
+   "gloss": "Branch",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BRANCH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1176,
+    "y": 0.2811,
+    "w": 0.1718,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 21,
+   "form": "nan'tapi",
+   "gloss": "Brave",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BRAVE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.2992,
+    "w": 0.1764,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 22,
+   "form": "mudin, titoi",
+   "gloss": "Breast",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BREAST"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1163,
+    "y": 0.3164,
+    "w": 0.1896,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 23,
+   "form": "yalli, yuyu'uc",
+   "gloss": "Brother",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.3346,
+    "w": 0.189,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 24,
+   "form": "ügedalec",
+   "gloss": "Burn, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BURN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1169,
+    "y": 0.3518,
+    "w": 0.189,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 25,
+   "form": "ucolatolec",
+   "gloss": "Buy, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "BUY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1182,
+    "y": 0.3692,
+    "w": 0.1877,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 26,
+   "form": "pabi",
+   "gloss": "Calabash",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "CALABASH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1182,
+    "y": 0.3871,
+    "w": 0.1646,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 27,
+   "form": "pöclolec",
+   "gloss": "Call, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "CALL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1182,
+    "y": 0.4041,
+    "w": 0.1803,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 28,
+   "form": "babi",
+   "gloss": "Child",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "CHILD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1189,
+    "y": 0.4211,
+    "w": 0.1261,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 29,
+   "form": "capi",
+   "gloss": "Clothing",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "CLOTHING (CLASSIFIER)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1189,
+    "y": 0.4389,
+    "w": 0.1594,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 30,
+   "form": "undialec",
+   "gloss": "Come, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "COME"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1189,
+    "y": 0.4559,
+    "w": 0.187,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 31,
+   "form": "no'qûed, noq'r",
+   "gloss": "Cold",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1182,
+    "y": 0.4742,
+    "w": 0.1877,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 32,
+   "form": "piterlu, boûngpalo",
+   "gloss": "Cotton",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "COTTON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1189,
+    "y": 0.4918,
+    "w": 0.187,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 33,
+   "form": "patantulec",
+   "gloss": "Cover, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "COVER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1189,
+    "y": 0.509,
+    "w": 0.187,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 34,
+   "form": "danzalec",
+   "gloss": "Dance, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DANCE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1195,
+    "y": 0.526,
+    "w": 0.1863,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 35,
+   "form": "ügliti",
+   "gloss": "Dawn, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DAWN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1195,
+    "y": 0.5442,
+    "w": 0.1816,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 36,
+   "form": "'ugli",
+   "gloss": "Day",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1208,
+    "y": 0.5614,
+    "w": 0.1189,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 37,
+   "form": "timiansu",
+   "gloss": "Dead",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1202,
+    "y": 0.5784,
+    "w": 0.1698,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 38,
+   "form": "llada, nünilu",
+   "gloss": "Dear",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DEAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1202,
+    "y": 0.5958,
+    "w": 0.1857,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 39,
+   "form": "töminacasö",
+   "gloss": "Death",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DEATH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1202,
+    "y": 0.6137,
+    "w": 0.1857,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 40,
+   "form": "boro'",
+   "gloss": "Deer",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DEER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1208,
+    "y": 0.6309,
+    "w": 0.1293,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 41,
+   "form": "nini",
+   "gloss": "Dog",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DOG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1208,
+    "y": 0.6489,
+    "w": 0.1117,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 42,
+   "form": "huasu, ülec",
+   "gloss": "Drink, a",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1215,
+    "y": 0.6666,
+    "w": 0.1844,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 43,
+   "form": "upailacu",
+   "gloss": "Drink, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1208,
+    "y": 0.6838,
+    "w": 0.185,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 44,
+   "form": "tundo",
+   "gloss": "Drum",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DRUM"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1215,
+    "y": 0.7008,
+    "w": 0.1463,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 45,
+   "form": "nambilec",
+   "gloss": "Dwell, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "DWELL (LIVE, RESIDE)"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1221,
+    "y": 0.718,
+    "w": 0.1837,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 46,
+   "form": "bûec",
+   "gloss": "Ears",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1221,
+    "y": 0.7358,
+    "w": 0.1182,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 47,
+   "form": "lu'pa",
+   "gloss": "Earth, land",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 1,
+    "x": 0.1228,
+    "y": 0.7536,
+    "w": 0.1831,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 48,
+   "form": "calec, uranlec",
+   "gloss": "Eat, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "EAT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1221,
+    "y": 0.771,
+    "w": 0.1837,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 49,
+   "form": "cado",
+   "gloss": "Egg",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "EGG"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1228,
+    "y": 0.7889,
+    "w": 0.1169,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 50,
+   "form": "quög'da",
+   "gloss": "Elbow",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "ELBOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1234,
+    "y": 0.8067,
+    "w": 0.179,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 51,
+   "form": "quegma",
+   "gloss": "Enemy",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "ENEMY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1228,
+    "y": 0.8256,
+    "w": 0.179,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 52,
+   "form": "da'lec",
+   "gloss": "Enter, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "ENTER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1228,
+    "y": 0.8409,
+    "w": 0.1809,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 53,
+   "form": "llada, da'pila",
+   "gloss": "Eyes",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1241,
+    "y": 0.8585,
+    "w": 0.1818,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 54,
+   "form": "llada (see Eyes)",
+   "gloss": "Face",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FACE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1248,
+    "y": 0.876,
+    "w": 0.1811,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 55,
+   "form": "ambo'lu",
+   "gloss": "Feather",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FEATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1254,
+    "y": 0.8921,
+    "w": 0.1805,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 56,
+   "form": "cuaprⁿ",
+   "gloss": "Female",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FEMALE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1248,
+    "y": 0.9116,
+    "w": 0.1737,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 57,
+   "form": "tiq'n ñaua",
+   "gloss": "Field",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FIELD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5075,
+    "y": 0.1244,
+    "w": 0.1907,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 58,
+   "form": "tavantulec",
+   "gloss": "Finish, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FINISH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5069,
+    "y": 0.1416,
+    "w": 0.2325,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 59,
+   "form": "poung",
+   "gloss": "Fire",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5088,
+    "y": 0.1609,
+    "w": 0.1332,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 60,
+   "form": "samer, lapisamed",
+   "gloss": "Fish",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5069,
+    "y": 0.1764,
+    "w": 0.2476,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 61,
+   "form": "canan",
+   "gloss": "Flesh, meat",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 1,
+    "x": 0.5049,
+    "y": 0.194,
+    "w": 0.2123,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 62,
+   "form": "mosed",
+   "gloss": "Flint",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 1,
+    "x": 0.5101,
+    "y": 0.2112,
+    "w": 0.1411,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 63,
+   "form": "pi'leaña",
+   "gloss": "Flute",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FLUTE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5082,
+    "y": 0.2293,
+    "w": 0.1666,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 64,
+   "form": "dancu",
+   "gloss": "Flower, a",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FLOWER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5082,
+    "y": 0.2461,
+    "w": 0.1894,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 65,
+   "form": "ca'lo'",
+   "gloss": "Food",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5069,
+    "y": 0.2637,
+    "w": 0.1365,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 66,
+   "form": "la'ndec",
+   "gloss": "Foot",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5095,
+    "y": 0.2815,
+    "w": 0.1528,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 67,
+   "form": "teqûeda'",
+   "gloss": "Forehead",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FOREHEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5082,
+    "y": 0.2996,
+    "w": 0.2071,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 68,
+   "form": "tana",
+   "gloss": "Forest",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "FOREST"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5075,
+    "y": 0.3166,
+    "w": 0.1404,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 69,
+   "form": "vilalu",
+   "gloss": "Girl",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5095,
+    "y": 0.3342,
+    "w": 0.1267,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 70,
+   "form": "n'galec",
+   "gloss": "Give, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "GIVE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5075,
+    "y": 0.3522,
+    "w": 0.1809,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 71,
+   "form": "palec",
+   "gloss": "Go, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "GO"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5088,
+    "y": 0.3695,
+    "w": 0.1476,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 72,
+   "form": "uri",
+   "gloss": "Gold",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "GOLD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5088,
+    "y": 0.3864,
+    "w": 0.1137,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 73,
+   "form": "môa, moali",
+   "gloss": "Good",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5069,
+    "y": 0.4037,
+    "w": 0.1927,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 74,
+   "form": "papaiangu",
+   "gloss": "Grandfather",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "GRANDFATHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5069,
+    "y": 0.4219,
+    "w": 0.2658,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 75,
+   "form": "ami'",
+   "gloss": "Grandmother",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "GRANDMOTHER"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5075,
+    "y": 0.4387,
+    "w": 0.2136,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 76,
+   "form": "cuni, chi, halupi",
+   "gloss": "Great",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 1,
+    "x": 0.5069,
+    "y": 0.4565,
+    "w": 0.256,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 77,
+   "form": "canin'rtia",
+   "gloss": "Green",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "GREEN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5088,
+    "y": 0.4742,
+    "w": 0.1907,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 78,
+   "form": "zuzulec",
+   "gloss": "Grow, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "GROW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5075,
+    "y": 0.4918,
+    "w": 0.1901,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 79,
+   "form": "hintic",
+   "gloss": "Hair",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5108,
+    "y": 0.5094,
+    "w": 0.1339,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 80,
+   "form": "ta'la",
+   "gloss": "Hammock",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HAMMOCK"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5108,
+    "y": 0.527,
+    "w": 0.1816,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 81,
+   "form": "ötegla",
+   "gloss": "Hand",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5088,
+    "y": 0.5453,
+    "w": 0.1437,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 82,
+   "form": "nali, napali",
+   "gloss": "Have, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HAVE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5108,
+    "y": 0.5625,
+    "w": 0.2358,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 83,
+   "form": "uma",
+   "gloss": "Head",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5101,
+    "y": 0.5801,
+    "w": 0.1293,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 84,
+   "form": "la'oclec",
+   "gloss": "Hear, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HEAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5108,
+    "y": 0.5973,
+    "w": 0.1894,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 85,
+   "form": "cangan",
+   "gloss": "Heart",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HEART"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5108,
+    "y": 0.617,
+    "w": 0.16,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 86,
+   "form": "mosninanlo",
+   "gloss": "Heaven",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5114,
+    "y": 0.6324,
+    "w": 0.2221,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 87,
+   "form": "puma, daubad",
+   "gloss": "Herb",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HERB"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5108,
+    "y": 0.65,
+    "w": 0.2227,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 88,
+   "form": "chi",
+   "gloss": "High",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HIGH"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5095,
+    "y": 0.6678,
+    "w": 0.1156,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 89,
+   "form": "mutopi",
+   "gloss": "Hill",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5108,
+    "y": 0.6854,
+    "w": 0.1398,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 90,
+   "form": "pi'dec",
+   "gloss": "House",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5121,
+    "y": 0.7026,
+    "w": 0.1515,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 91,
+   "form": "mapoli",
+   "gloss": "How?",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HOW"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5127,
+    "y": 0.719,
+    "w": 0.1555,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 92,
+   "form": "ucasu",
+   "gloss": "Hot",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "HOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5134,
+    "y": 0.7385,
+    "w": 0.1228,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 93,
+   "form": "aa, n'tati",
+   "gloss": "If",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "IF"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5127,
+    "y": 0.7549,
+    "w": 0.1424,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 94,
+   "form": "pa'lec",
+   "gloss": "In",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "IN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5127,
+    "y": 0.7731,
+    "w": 0.111,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 95,
+   "form": "muda, cuaprⁿ",
+   "gloss": "Indian",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 1,
+    "x": 0.5134,
+    "y": 0.7906,
+    "w": 0.2351,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 96,
+   "form": "huana'",
+   "gloss": "Iron",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "IRON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.514,
+    "y": 0.8076,
+    "w": 0.145,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 97,
+   "form": "atiminlec",
+   "gloss": "Kill, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "KILL"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5134,
+    "y": 0.8254,
+    "w": 0.194,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 98,
+   "form": "toto'pi",
+   "gloss": "Knee",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "KNEE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5153,
+    "y": 0.8434,
+    "w": 0.147,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 99,
+   "form": "seotic",
+   "gloss": "Knife",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "KNIFE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.514,
+    "y": 0.8598,
+    "w": 0.1404,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 100,
+   "form": "nintitulec",
+   "gloss": "Know, to (things)",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 1,
+    "x": 0.5134,
+    "y": 0.8772,
+    "w": 0.3116,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 101,
+   "form": "loatulec",
+   "gloss": "Know, to (persons)",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 1,
+    "x": 0.5585,
+    "y": 0.8955,
+    "w": 0.1986,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 102,
+   "form": "sangna",
+   "gloss": "Lake",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "LAKE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.5147,
+    "y": 0.9141,
+    "w": 0.1528,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 103,
+   "form": "na'pi",
+   "gloss": "Last",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "LAST (FINAL)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1143,
+    "y": 0.1101,
+    "w": 0.1274,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 104,
+   "form": "nintitanalec",
+   "gloss": "Learn, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "LEARN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1156,
+    "y": 0.1265,
+    "w": 0.1903,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 105,
+   "form": "nambiacasu",
+   "gloss": "Life",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "LIFE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1163,
+    "y": 0.1437,
+    "w": 0.1896,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 106,
+   "form": "ugli, ocli",
+   "gloss": "Light, a",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "LIGHT (COLOR)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1163,
+    "y": 0.1621,
+    "w": 0.1896,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 107,
+   "form": "atengtulec",
+   "gloss": "Light a fire, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.1169,
+    "y": 0.1796,
+    "w": 0.189,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 108,
+   "form": "yümerlec",
+   "gloss": "Lightning",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "LIGHTNING"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1169,
+    "y": 0.1972,
+    "w": 0.189,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 109,
+   "form": "ü'tec",
+   "gloss": "Lip",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "LIP"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1169,
+    "y": 0.2138,
+    "w": 0.113,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 110,
+   "form": "nambilec",
+   "gloss": "Live, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "LIVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1176,
+    "y": 0.2314,
+    "w": 0.1883,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 111,
+   "form": "tuda, lili",
+   "gloss": "Lizard",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "LIZARD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1176,
+    "y": 0.2488,
+    "w": 0.1862,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 112,
+   "form": "tan'deñlec",
+   "gloss": "Love, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "LOVE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1176,
+    "y": 0.2662,
+    "w": 0.1883,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 113,
+   "form": "tötrⁿ, tötrlla",
+   "gloss": "Maize",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "MAIZE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1182,
+    "y": 0.2841,
+    "w": 0.1877,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 114,
+   "form": "queñmopineñ",
+   "gloss": "Man (vir)",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.1182,
+    "y": 0.3019,
+    "w": 0.1877,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 115,
+   "form": "sadalec",
+   "gloss": "Married man",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.1182,
+    "y": 0.3183,
+    "w": 0.1877,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 116,
+   "form": "sudalec",
+   "gloss": "Married woman",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.1182,
+    "y": 0.3359,
+    "w": 0.1877,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 117,
+   "form": "pichotasu muda",
+   "gloss": "Medicine man, wizard",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.1189,
+    "y": 0.3543,
+    "w": 0.187,
+    "h": 0.0169,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed 'pichotasu' at line end, 'muda' on next line",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 118,
+   "form": "duda, isolo, lolo",
+   "gloss": "Monkey",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "MONKEY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1189,
+    "y": 0.3898,
+    "w": 0.187,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 119,
+   "form": "ducat",
+   "gloss": "Moon",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.4066,
+    "w": 0.143,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 120,
+   "form": "hapia",
+   "gloss": "More",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "MORE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.4248,
+    "w": 0.1404,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 121,
+   "form": "halupi, mointi",
+   "gloss": "Most",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.1195,
+    "y": 0.442,
+    "w": 0.1863,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 122,
+   "form": "auauc",
+   "gloss": "Mother",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1195,
+    "y": 0.4611,
+    "w": 0.1653,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 123,
+   "form": "lala'",
+   "gloss": "Mouth",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.4771,
+    "w": 0.143,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 124,
+   "form": "cupi, bapo",
+   "gloss": "Much",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "MUCH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1195,
+    "y": 0.496,
+    "w": 0.1863,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 125,
+   "form": "linlin or lintin",
+   "gloss": "Name",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "NAME"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1189,
+    "y": 0.5128,
+    "w": 0.187,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 126,
+   "form": "mumu'la",
+   "gloss": "Navel",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "NAVEL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1189,
+    "y": 0.5304,
+    "w": 0.1803,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 127,
+   "form": "pa'ula",
+   "gloss": "Near",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "NEAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1195,
+    "y": 0.5486,
+    "w": 0.1444,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 128,
+   "form": "na'lu",
+   "gloss": "New",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "NEW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.5656,
+    "w": 0.1326,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 129,
+   "form": "dogpili",
+   "gloss": "Night",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "NIGHT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.5841,
+    "w": 0.1574,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 130,
+   "form": "cola",
+   "gloss": "No",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "NO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.6011,
+    "w": 0.1006,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 131,
+   "form": "ne'tic",
+   "gloss": "Nose",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1215,
+    "y": 0.6185,
+    "w": 0.1352,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 132,
+   "form": "epala",
+   "gloss": "Now",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "NOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.6368,
+    "w": 0.1332,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 133,
+   "form": "tas'serpi",
+   "gloss": "Old",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "OLD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.6544,
+    "w": 0.1502,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 134,
+   "form": "tas'pitosu",
+   "gloss": "Old (man)",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.6714,
+    "w": 0.185,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 135,
+   "form": "tas'serllu",
+   "gloss": "Old (woman)",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.688,
+    "w": 0.185,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 136,
+   "form": "höquêrlec",
+   "gloss": "Open, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "OPEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.7066,
+    "w": 0.185,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 137,
+   "form": "vapomuda",
+   "gloss": "People",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "PEOPLE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.7245,
+    "w": 0.1857,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 138,
+   "form": "malealec",
+   "gloss": "Pray, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "PRAY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1195,
+    "y": 0.7413,
+    "w": 0.1863,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 139,
+   "form": "sudu'",
+   "gloss": "Raft",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "RAFT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1195,
+    "y": 0.7582,
+    "w": 0.13,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 140,
+   "form": "ölaⁿ, olanli",
+   "gloss": "Rain, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1195,
+    "y": 0.7763,
+    "w": 0.1863,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 141,
+   "form": "podo'na",
+   "gloss": "Rainbow",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "RAINBOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.7943,
+    "w": 0.1857,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 142,
+   "form": "pip'rasu, togua",
+   "gloss": "Red",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.8117,
+    "w": 0.1857,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 143,
+   "form": "degaun",
+   "gloss": "Road",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "ROAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.8294,
+    "w": 0.1548,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 144,
+   "form": "ötecnin",
+   "gloss": "Root",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "ROOT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.8457,
+    "w": 0.1483,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 145,
+   "form": "tecalec",
+   "gloss": "Run, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "RUN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1202,
+    "y": 0.8629,
+    "w": 0.1711,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 146,
+   "form": "lamu'la",
+   "gloss": "Salt",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SALT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1195,
+    "y": 0.8804,
+    "w": 0.147,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 147,
+   "form": "tulec",
+   "gloss": "Say, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SAY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1195,
+    "y": 0.8984,
+    "w": 0.1476,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 148,
+   "form": "lölec, löapalec",
+   "gloss": "See, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SEE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1189,
+    "y": 0.9158,
+    "w": 0.187,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 149,
+   "form": "miladöc",
+   "gloss": "Semen",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SEMEN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5069,
+    "y": 0.1093,
+    "w": 0.1757,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 150,
+   "form": "piuglec",
+   "gloss": "Send, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SEND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.1271,
+    "w": 0.1848,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 151,
+   "form": "dachu'na",
+   "gloss": "Shade, shadow",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.5069,
+    "y": 0.1439,
+    "w": 0.2789,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 152,
+   "form": "obituna",
+   "gloss": "Sierra",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.5069,
+    "y": 0.1613,
+    "w": 0.1653,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 153,
+   "form": "hucha",
+   "gloss": "Sin, a",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SIN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5082,
+    "y": 0.1791,
+    "w": 0.1502,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 154,
+   "form": "peclalec",
+   "gloss": "Sing, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SING"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.1968,
+    "w": 0.1855,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 155,
+   "form": "culiqued",
+   "gloss": "Silver",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SILVER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5069,
+    "y": 0.2142,
+    "w": 0.1724,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 156,
+   "form": "chayauc, cadecuc",
+   "gloss": "Sister",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SISTER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5056,
+    "y": 0.2312,
+    "w": 0.258,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 157,
+   "form": "bitilec",
+   "gloss": "Sleep",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SLEEP"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5069,
+    "y": 0.249,
+    "w": 0.1424,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 158,
+   "form": "hamecha",
+   "gloss": "Small",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.5069,
+    "y": 0.2662,
+    "w": 0.1744,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 159,
+   "form": "cadlo or callo",
+   "gloss": "Smoke",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SMOKE (INHALE)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5075,
+    "y": 0.2836,
+    "w": 0.2319,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 160,
+   "form": "daua",
+   "gloss": "Snake",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SNAKE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.3015,
+    "w": 0.1437,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 161,
+   "form": "vada, timipi",
+   "gloss": "Soul",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SOUL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.3193,
+    "w": 0.1992,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 162,
+   "form": "vadan",
+   "gloss": "Spaniard",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.5062,
+    "y": 0.3369,
+    "w": 0.1829,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 163,
+   "form": "laonlec, lalalec",
+   "gloss": "Speak, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SPEAK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5062,
+    "y": 0.3543,
+    "w": 0.1829,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 164,
+   "form": "tandola",
+   "gloss": "Star",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.3718,
+    "w": 0.1476,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 165,
+   "form": "na'la, unguña",
+   "gloss": "Stick",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "STICK"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5062,
+    "y": 0.3892,
+    "w": 0.2253,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 166,
+   "form": "nantapi",
+   "gloss": "Strong",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "STRONG"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5082,
+    "y": 0.407,
+    "w": 0.1764,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 167,
+   "form": "quö'qui",
+   "gloss": "Sun",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5069,
+    "y": 0.4244,
+    "w": 0.145,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 168,
+   "form": "yali",
+   "gloss": "Sweet",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "SWEET"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.4423,
+    "w": 0.1306,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 169,
+   "form": "malec",
+   "gloss": "Take, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "TAKE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5075,
+    "y": 0.4597,
+    "w": 0.1731,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 170,
+   "form": "daiali",
+   "gloss": "Tame",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.5062,
+    "y": 0.4773,
+    "w": 0.1476,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 171,
+   "form": "pahuala",
+   "gloss": "Tapir",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "TAPIR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.4956,
+    "w": 0.1679,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 172,
+   "form": "anintitulec",
+   "gloss": "Teach, to",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "TEACH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5082,
+    "y": 0.5128,
+    "w": 0.2319,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 173,
+   "form": "unqued",
+   "gloss": "Throat",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "THROAT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5069,
+    "y": 0.5306,
+    "w": 0.1724,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 174,
+   "form": "intimutu",
+   "gloss": "Thumb",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "THUMB"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5075,
+    "y": 0.5474,
+    "w": 0.194,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 175,
+   "form": "qûec",
+   "gloss": "To",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.5036,
+    "y": 0.5833,
+    "w": 0.2835,
+    "h": 0.0169,
+    "approx": true
+   }
+  },
+  {
+   "n": 176,
+   "form": "pinterlo, uhualec",
+   "gloss": "Tobacco",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "TOBACCO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5036,
+    "y": 0.5833,
+    "w": 0.2835,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 177,
+   "form": "ninegla",
+   "gloss": "Tongue",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.6015,
+    "w": 0.1848,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 178,
+   "form": "la'tec",
+   "gloss": "Tooth",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5108,
+    "y": 0.6183,
+    "w": 0.1444,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 179,
+   "form": "patun",
+   "gloss": "Totem, clan",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.5075,
+    "y": 0.6361,
+    "w": 0.211,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 180,
+   "form": "ninan'lo",
+   "gloss": "Town",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "TOWN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.6535,
+    "w": 0.1737,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 181,
+   "form": "nala, squig'uinti",
+   "gloss": "Tree",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "TREE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5069,
+    "y": 0.671,
+    "w": 0.2436,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 182,
+   "form": "mado",
+   "gloss": "Turtle",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "TURTLE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.6882,
+    "w": 0.1483,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 183,
+   "form": "aprcha",
+   "gloss": "Uncle",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "UNCLE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5069,
+    "y": 0.7066,
+    "w": 0.1613,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 184,
+   "form": "sa'caⁿ",
+   "gloss": "Valley",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "VALLEY"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5075,
+    "y": 0.7243,
+    "w": 0.1613,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 185,
+   "form": "inilad",
+   "gloss": "Virgin",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.5062,
+    "y": 0.7415,
+    "w": 0.1581,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 186,
+   "form": "lupa, patenpi",
+   "gloss": "Wall",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "WALL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5082,
+    "y": 0.7589,
+    "w": 0.2129,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 187,
+   "form": "döc",
+   "gloss": "Water",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.7761,
+    "w": 0.1267,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 188,
+   "form": "dadapua'su",
+   "gloss": "White",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.795,
+    "w": 0.2103,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 189,
+   "form": "deng",
+   "gloss": "Who",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "WHO"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5095,
+    "y": 0.8124,
+    "w": 0.1261,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 190,
+   "form": "tanlo'a",
+   "gloss": "Wind",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5075,
+    "y": 0.8287,
+    "w": 0.1587,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 191,
+   "form": "que'negla",
+   "gloss": "Within",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "box": {
+    "page": 2,
+    "x": 0.5088,
+    "y": 0.8478,
+    "w": 0.1946,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 192,
+   "form": "a'dipi",
+   "gloss": "Without",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "WITHOUT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5062,
+    "y": 0.8646,
+    "w": 0.1764,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 193,
+   "form": "cuaprⁿ, sada",
+   "gloss": "Woman",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5075,
+    "y": 0.8814,
+    "w": 0.2384,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 194,
+   "form": "deboe",
+   "gloss": "Wood",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "WOOD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5049,
+    "y": 0.898,
+    "w": 0.1437,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 195,
+   "form": "chapicaso",
+   "gloss": "Yellow",
+   "section": "English-Jivaro Vocabulary",
+   "col": "Jivaro",
+   "concepts": [
+    "YELLOW"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.5082,
+    "y": 0.9167,
+    "w": 0.1992,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 196,
+   "form": "xax, tacla",
+   "gloss": "Armadillo",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "ARMADILLO"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1134,
+    "y": 0.4932,
+    "w": 0.1921,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 197,
+   "form": "ixivaj",
+   "gloss": "Bad, evil",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.1134,
+    "y": 0.5111,
+    "w": 0.1782,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 198,
+   "form": "zaluch or chal",
+   "gloss": "Black",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1127,
+    "y": 0.5285,
+    "w": 0.1927,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 199,
+   "form": "nun-pullup",
+   "gloss": "Boy",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "BOY"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1127,
+    "y": 0.5467,
+    "w": 0.1782,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 200,
+   "form": "colhac",
+   "gloss": "Die, to",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "DIE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1134,
+    "y": 0.5635,
+    "w": 0.1592,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 201,
+   "form": "axitlam",
+   "gloss": "Drink, a",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1127,
+    "y": 0.5809,
+    "w": 0.1919,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 202,
+   "form": "axcan",
+   "gloss": "Drink, to",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "DRINK"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1121,
+    "y": 0.599,
+    "w": 0.1815,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 203,
+   "form": "ñanmac",
+   "gloss": "Each, every",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.1114,
+    "y": 0.617,
+    "w": 0.1941,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 204,
+   "form": "nache",
+   "gloss": "Eyes",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1114,
+    "y": 0.6344,
+    "w": 0.1351,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 205,
+   "form": "pa",
+   "gloss": "Father",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1108,
+    "y": 0.6533,
+    "w": 0.1214,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 206,
+   "form": "aycha (K.)",
+   "gloss": "Flesh, body",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.1108,
+    "y": 0.6693,
+    "w": 0.1947,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 207,
+   "form": "apuchan",
+   "gloss": "Food",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "FOOD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1114,
+    "y": 0.6871,
+    "w": 0.1671,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 208,
+   "form": "sup",
+   "gloss": "Fox",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "FOX"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1114,
+    "y": 0.7058,
+    "w": 0.1037,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 209,
+   "form": "ila-pullup",
+   "gloss": "Girl",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1108,
+    "y": 0.7217,
+    "w": 0.1638,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 210,
+   "form": "allan",
+   "gloss": "Give, to",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "GIVE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1108,
+    "y": 0.7389,
+    "w": 0.1625,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 211,
+   "form": "pallou",
+   "gloss": "Good",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "GOOD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1108,
+    "y": 0.757,
+    "w": 0.1442,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 212,
+   "form": "llin",
+   "gloss": "Green",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "GREEN"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1114,
+    "y": 0.7742,
+    "w": 0.1227,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 213,
+   "form": "pe",
+   "gloss": "Hair",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "HAIR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1114,
+    "y": 0.7935,
+    "w": 0.0965,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 214,
+   "form": "nen",
+   "gloss": "Hands",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1101,
+    "y": 0.8096,
+    "w": 0.1344,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 215,
+   "form": "tech",
+   "gloss": "Head",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1101,
+    "y": 0.8266,
+    "w": 0.1227,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 216,
+   "form": "zip, chip",
+   "gloss": "House",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1101,
+    "y": 0.8438,
+    "w": 0.1775,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 217,
+   "form": "muluch",
+   "gloss": "Husband",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "HUSBAND"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1088,
+    "y": 0.8604,
+    "w": 0.1919,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 218,
+   "form": "izoz, ichoch",
+   "gloss": "Idols",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "IDOL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.1082,
+    "y": 0.878,
+    "w": 0.1919,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 219,
+   "form": "ulluc",
+   "gloss": "Lance or dart",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.1088,
+    "y": 0.8954,
+    "w": 0.1967,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 220,
+   "form": "cullâ",
+   "gloss": "Louse",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "LOUSE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5027,
+    "y": 0.4934,
+    "w": 0.139,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 221,
+   "form": "agollan",
+   "gloss": "Love, to",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "LOVE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5014,
+    "y": 0.5119,
+    "w": 0.188,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 222,
+   "form": "agole",
+   "gloss": "my love",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "LOVE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5445,
+    "y": 0.5304,
+    "w": 0.1619,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 223,
+   "form": "acoleuch",
+   "gloss": "my lover",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.5451,
+    "y": 0.5469,
+    "w": 0.2037,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 224,
+   "form": "cach",
+   "gloss": "Maize",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "MAIZE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5033,
+    "y": 0.5639,
+    "w": 0.1344,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 225,
+   "form": "iayu or hayu",
+   "gloss": "Man (homo)",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.5014,
+    "y": 0.5824,
+    "w": 0.2879,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 226,
+   "form": "nun",
+   "gloss": "Man (male)",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.5458,
+    "y": 0.6,
+    "w": 0.137,
+    "h": 0.0157
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed as sub-entry '(male)' under Man (homo)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 227,
+   "form": "muluch",
+   "gloss": "Man (married)",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.5451,
+    "y": 0.6174,
+    "w": 0.1997,
+    "h": 0.0157
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed as sub-entry '(married)' under Man",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 228,
+   "form": "pel",
+   "gloss": "Moon",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5014,
+    "y": 0.6355,
+    "w": 0.1135,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 229,
+   "form": "pan",
+   "gloss": "Mother",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "MOTHER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5001,
+    "y": 0.6539,
+    "w": 0.1403,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 230,
+   "form": "liman",
+   "gloss": "Mountain, sierra",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.5001,
+    "y": 0.6693,
+    "w": 0.2553,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 231,
+   "form": "quexum",
+   "gloss": "Nose",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5007,
+    "y": 0.689,
+    "w": 0.1553,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 232,
+   "form": "ma",
+   "gloss": "Not, nothing",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.4988,
+    "y": 0.7053,
+    "w": 0.1926,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 233,
+   "form": "amchan",
+   "gloss": "Place, to",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "PLACE (POSITION)"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5001,
+    "y": 0.7217,
+    "w": 0.1997,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 234,
+   "form": "llaca",
+   "gloss": "Red",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "RED"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5001,
+    "y": 0.7389,
+    "w": 0.1187,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 235,
+   "form": "xocot",
+   "gloss": "River",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5001,
+    "y": 0.7572,
+    "w": 0.1338,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 236,
+   "form": "panâ",
+   "gloss": "Road, path",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.5014,
+    "y": 0.7756,
+    "w": 0.1919,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 237,
+   "form": "capac (Kechua)",
+   "gloss": "Rule, to",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "RULE"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5001,
+    "y": 0.7933,
+    "w": 0.2742,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 238,
+   "form": "cama",
+   "gloss": "Sick",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "SICK"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.5001,
+    "y": 0.8105,
+    "w": 0.1259,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 239,
+   "form": "checho",
+   "gloss": "Silver",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "SILVER"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4994,
+    "y": 0.8268,
+    "w": 0.1553,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 240,
+   "form": "pul",
+   "gloss": "Son",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4994,
+    "y": 0.8449,
+    "w": 0.0998,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 241,
+   "form": "zall or chall",
+   "gloss": "Soul",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "SOUL"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4981,
+    "y": 0.8612,
+    "w": 0.1899,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 242,
+   "form": "ollê",
+   "gloss": "Spittle",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 3,
+    "x": 0.4988,
+    "y": 0.8789,
+    "w": 0.1285,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 243,
+   "form": "kenna",
+   "gloss": "Stars",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 3,
+    "x": 0.4988,
+    "y": 0.8961,
+    "w": 0.1383,
+    "h": 0.0157
+   }
+  },
+  {
+   "n": 244,
+   "form": "pusim",
+   "gloss": "Straw, dry grass",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 4,
+    "x": 0.1106,
+    "y": 0.123,
+    "w": 0.1951,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 245,
+   "form": "muxac",
+   "gloss": "Sun",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1106,
+    "y": 0.1402,
+    "w": 0.1355,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 246,
+   "form": "alê",
+   "gloss": "Teeth, my",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1112,
+    "y": 0.1566,
+    "w": 0.1642,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 247,
+   "form": "monzey",
+   "gloss": "Tongue",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1112,
+    "y": 0.1763,
+    "w": 0.1799,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 248,
+   "form": "putam",
+   "gloss": "Town",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "TOWN"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1093,
+    "y": 0.1929,
+    "w": 0.1577,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 249,
+   "form": "cot",
+   "gloss": "Water",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1106,
+    "y": 0.2088,
+    "w": 0.1218,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 250,
+   "form": "chech",
+   "gloss": "White",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1112,
+    "y": 0.2262,
+    "w": 0.1459,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 251,
+   "form": "zala",
+   "gloss": "Wife",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.1125,
+    "y": 0.2445,
+    "w": 0.1204,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 252,
+   "form": "men",
+   "gloss": "Will, wish",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 4,
+    "x": 0.5012,
+    "y": 0.1222,
+    "w": 0.1773,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 253,
+   "form": "amen",
+   "gloss": "my will",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 4,
+    "x": 0.5449,
+    "y": 0.1398,
+    "w": 0.1642,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 254,
+   "form": "ameñan",
+   "gloss": "I wish",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 4,
+    "x": 0.5462,
+    "y": 0.1568,
+    "w": 0.174,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 255,
+   "form": "ila",
+   "gloss": "Woman (female)",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 4,
+    "x": 0.5025,
+    "y": 0.1734,
+    "w": 0.2321,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 256,
+   "form": "ilajayu",
+   "gloss": "Woman (female)",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 4,
+    "x": 0.5456,
+    "y": 0.1925,
+    "w": 0.0865,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 257,
+   "form": "zala",
+   "gloss": "Woman (married)",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 4,
+    "x": 0.5456,
+    "y": 0.2095,
+    "w": 0.1707,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 258,
+   "form": "hil",
+   "gloss": "Word",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "concepts": [
+    "WORD"
+   ],
+   "box": {
+    "page": 4,
+    "x": 0.5018,
+    "y": 0.2267,
+    "w": 0.1139,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 259,
+   "form": "el",
+   "gloss": "Yuca",
+   "section": "English-Cholona Vocabulary",
+   "col": "Cholona",
+   "box": {
+    "page": 4,
+    "x": 0.5031,
+    "y": 0.2441,
+    "w": 0.1041,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 260,
+   "form": "sabaque",
+   "gloss": "All",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "ALL"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1165,
+    "y": 0.648,
+    "w": 0.1394,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 261,
+   "form": "lyxaöäri",
+   "gloss": "Always",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "ALWAYS"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1165,
+    "y": 0.6658,
+    "w": 0.1892,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 262,
+   "form": "sahi",
+   "gloss": "Be, to",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "BE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1165,
+    "y": 0.6824,
+    "w": 0.1335,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 263,
+   "form": "yaniqui",
+   "gloss": "Believe, to",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "BELIEVE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1165,
+    "y": 0.7013,
+    "w": 0.1892,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 264,
+   "form": "tuba",
+   "gloss": "Belly",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "BELLY"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1158,
+    "y": 0.7187,
+    "w": 0.1899,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: tula, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 265,
+   "form": "cacadÿr",
+   "gloss": "Body",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "BODY"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1165,
+    "y": 0.7365,
+    "w": 0.1892,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: katy, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 266,
+   "form": "samaco",
+   "gloss": "Day",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "DAY"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1158,
+    "y": 0.7539,
+    "w": 0.1899,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: tzamâko, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 267,
+   "form": "matica",
+   "gloss": "Die, to",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "DIE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1165,
+    "y": 0.7711,
+    "w": 0.1892,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "first letter(s) of form damaged in print (m?tica); Brinton's Spix form in brackets: uamatika, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 268,
+   "form": "etudeo",
+   "gloss": "Earth",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1171,
+    "y": 0.7894,
+    "w": 0.1886,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: ete'e, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 269,
+   "form": "yracary",
+   "gloss": "Father",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "FATHER"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1165,
+    "y": 0.8074,
+    "w": 0.1892,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: apakony, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 270,
+   "form": "Tupa",
+   "gloss": "God",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1158,
+    "y": 0.8246,
+    "w": 0.1899,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "initial letter printed as broken T; text below has Tupa; Brinton adds Spix's form in brackets: mauary, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 271,
+   "form": "quinaucudeo",
+   "gloss": "Heaven",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1165,
+    "y": 0.8423,
+    "w": 0.1892,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: ghinauigota, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 272,
+   "form": "caman latyma",
+   "gloss": "Hell",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "HELL"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.1178,
+    "y": 0.8758,
+    "w": 0.1879,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 273,
+   "form": "herenary",
+   "gloss": "Man",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5025,
+    "y": 0.6501,
+    "w": 0.3066,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: yrinâly, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 274,
+   "form": "mehe",
+   "gloss": "No, not",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "box": {
+    "page": 5,
+    "x": 0.5057,
+    "y": 0.6679,
+    "w": 0.2648,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: me'e, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 275,
+   "form": "öëne",
+   "gloss": "Our, us",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "box": {
+    "page": 5,
+    "x": 0.5038,
+    "y": 0.6857,
+    "w": 0.2674,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: huene, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 276,
+   "form": "öâbata",
+   "gloss": "See, to",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "SEE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5057,
+    "y": 0.7032,
+    "w": 0.2922,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: pipata, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 277,
+   "form": "barâyda",
+   "gloss": "Sins",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "SIN"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5051,
+    "y": 0.721,
+    "w": 0.1544,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 278,
+   "form": "bauri, dayri",
+   "gloss": "Son",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "SON"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5018,
+    "y": 0.7382,
+    "w": 0.302,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: tany, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 279,
+   "form": "kÿá",
+   "gloss": "Stone",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "STONE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5038,
+    "y": 0.7558,
+    "w": 0.2361,
+    "h": 0.0163,
+    "approx": true
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: ghüa, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 280,
+   "form": "caÿna",
+   "gloss": "Teach, to",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "TEACH"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5044,
+    "y": 0.7737,
+    "w": 0.1871,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 281,
+   "form": "piaduqui",
+   "gloss": "Three",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "THREE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5057,
+    "y": 0.7917,
+    "w": 0.3177,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton adds Spix's form in brackets: pialuky, S.",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 282,
+   "form": "caura",
+   "gloss": "True",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "TRUE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5051,
+    "y": 0.8089,
+    "w": 0.1381,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 283,
+   "form": "sabyra",
+   "gloss": "Virgin",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "box": {
+    "page": 5,
+    "x": 0.5051,
+    "y": 0.8265,
+    "w": 0.1629,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 284,
+   "form": "padeura",
+   "gloss": "Where?",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "WHERE"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5051,
+    "y": 0.8436,
+    "w": 0.1629,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 285,
+   "form": "capeda",
+   "gloss": "Why?",
+   "section": "English-Manao Words",
+   "col": "Manao",
+   "concepts": [
+    "WHY"
+   ],
+   "box": {
+    "page": 5,
+    "x": 0.5051,
+    "y": 0.8607,
+    "w": 0.1551,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 286,
+   "form": "cabu",
+   "gloss": "Air",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "AIR"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.2792,
+    "w": 0.1097,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 287,
+   "form": "purena'",
+   "gloss": "Arrow",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "ARROW"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1169,
+    "y": 0.2981,
+    "w": 0.1744,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 288,
+   "form": "tapaiuna",
+   "gloss": "Black",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "BLACK"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1163,
+    "y": 0.3153,
+    "w": 0.1809,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 289,
+   "form": "urapa'",
+   "gloss": "Bow",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "BOW"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1169,
+    "y": 0.3338,
+    "w": 0.145,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 290,
+   "form": "mimien",
+   "gloss": "Brother",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "BROTHER"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1163,
+    "y": 0.3497,
+    "w": 0.1835,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 291,
+   "form": "tecominhoa'",
+   "gloss": "Cold",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "COLD"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.3671,
+    "w": 0.1883,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 292,
+   "form": "timiara",
+   "gloss": "Dance",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "DANCE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.3848,
+    "w": 0.1705,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 293,
+   "form": "panare'",
+   "gloss": "Ear",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.4037,
+    "w": 0.1463,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 294,
+   "form": "nono",
+   "gloss": "Earth",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.4211,
+    "w": 0.1365,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 295,
+   "form": "nurvba'",
+   "gloss": "Eye",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.4381,
+    "w": 0.1496,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 296,
+   "form": "uatu",
+   "gloss": "Fire",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.4553,
+    "w": 0.1195,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 297,
+   "form": "uutu",
+   "gloss": "Fish",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "FISH"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1182,
+    "y": 0.4729,
+    "w": 0.1221,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 298,
+   "form": "meacaba'",
+   "gloss": "Girl",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "GIRL"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1182,
+    "y": 0.4905,
+    "w": 0.1613,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 299,
+   "form": "tupan",
+   "gloss": "God",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "GOD"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1182,
+    "y": 0.5092,
+    "w": 0.1274,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 300,
+   "form": "tamunbã",
+   "gloss": "Grandfather",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "GRANDFATHER"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.5258,
+    "w": 0.1883,
+    "h": 0.0169
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "vocabulary prints tamunbã; Brinton's following text cites tamunhã",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 301,
+   "form": "iriopo'",
+   "gloss": "Head",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1182,
+    "y": 0.5436,
+    "w": 0.1496,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 302,
+   "form": "atupeua'",
+   "gloss": "Heat",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "HEAT"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.5616,
+    "w": 0.1653,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 303,
+   "form": "maica-paa",
+   "gloss": "Heaven",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "SKY"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1169,
+    "y": 0.5789,
+    "w": 0.189,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 304,
+   "form": "abeno'",
+   "gloss": "House",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.5958,
+    "w": 0.1574,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 305,
+   "form": "unhô",
+   "gloss": "Husband",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "HUSBAND"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.1176,
+    "y": 0.6139,
+    "w": 0.1705,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 306,
+   "form": "pitianhea",
+   "gloss": "Infant",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "box": {
+    "page": 6,
+    "x": 0.5062,
+    "y": 0.2805,
+    "w": 0.1881,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 307,
+   "form": "ataquice",
+   "gloss": "Light",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "LIGHT (COLOR)"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5062,
+    "y": 0.2983,
+    "w": 0.1705,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 308,
+   "form": "uquere'",
+   "gloss": "Man",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5049,
+    "y": 0.3159,
+    "w": 0.1483,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 309,
+   "form": "quecê",
+   "gloss": "Moon",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5056,
+    "y": 0.3352,
+    "w": 0.1398,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 310,
+   "form": "tapoucu'",
+   "gloss": "Old",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "OLD"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5049,
+    "y": 0.3516,
+    "w": 0.1522,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 311,
+   "form": "nafoucu'",
+   "gloss": "Old woman",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "box": {
+    "page": 6,
+    "x": 0.5069,
+    "y": 0.369,
+    "w": 0.2364,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 312,
+   "form": "cunoba",
+   "gloss": "Rain",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "RAIN (RAINING)"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5062,
+    "y": 0.386,
+    "w": 0.1476,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 313,
+   "form": "tuna' (see Water)",
+   "gloss": "River",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "RIVER"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5095,
+    "y": 0.4043,
+    "w": 0.2685,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 314,
+   "form": "meco'",
+   "gloss": "Son, child",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "box": {
+    "page": 6,
+    "x": 0.5062,
+    "y": 0.4211,
+    "w": 0.1888,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 315,
+   "form": "ubudiana",
+   "gloss": "String",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "STRING"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5069,
+    "y": 0.4393,
+    "w": 0.1862,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 316,
+   "form": "usiu'",
+   "gloss": "Sun",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5075,
+    "y": 0.4563,
+    "w": 0.1202,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 317,
+   "form": "darara'",
+   "gloss": "Thunder",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "THUNDER"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5069,
+    "y": 0.4739,
+    "w": 0.1966,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 318,
+   "form": "jorê",
+   "gloss": "Tooth",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5062,
+    "y": 0.4924,
+    "w": 0.1287,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 319,
+   "form": "uemi",
+   "gloss": "Uncle",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "UNCLE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5056,
+    "y": 0.509,
+    "w": 0.1378,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 320,
+   "form": "tuna",
+   "gloss": "Water",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5042,
+    "y": 0.5266,
+    "w": 0.1417,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 321,
+   "form": "tiada'",
+   "gloss": "White",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "WHITE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5082,
+    "y": 0.544,
+    "w": 0.1522,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 322,
+   "form": "upuiten",
+   "gloss": "Wife",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "WIFE"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5062,
+    "y": 0.5623,
+    "w": 0.1496,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 323,
+   "form": "iriane'",
+   "gloss": "Wind",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "WIND"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5056,
+    "y": 0.5793,
+    "w": 0.1568,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 324,
+   "form": "uauri",
+   "gloss": "Woman",
+   "section": "English-Bonari Vocabulary",
+   "col": "Bonari",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 6,
+    "x": 0.5069,
+    "y": 0.5969,
+    "w": 0.1659,
+    "h": 0.0169
+   }
+  },
+  {
+   "n": 325,
+   "form": "seyocup",
+   "gloss": "Caveza",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5286,
+    "y": 0.6146,
+    "w": 0.0904,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 326,
+   "form": "eyssen",
+   "gloss": "Frente",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5293,
+    "y": 0.6322,
+    "w": 0.0767,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 327,
+   "form": "can",
+   "gloss": "Ojos",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5293,
+    "y": 0.6497,
+    "w": 0.1943,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 328,
+   "form": "coana (qy. coaua)",
+   "gloss": "Orejas",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5293,
+    "y": 0.6671,
+    "w": 0.1943,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 329,
+   "form": "bacsen",
+   "gloss": "Narizes",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5299,
+    "y": 0.6828,
+    "w": 0.0793,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 330,
+   "form": "suman",
+   "gloss": "Cejas",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5299,
+    "y": 0.7015,
+    "w": 0.0819,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 331,
+   "form": "zuzin",
+   "gloss": "Boca",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5286,
+    "y": 0.7178,
+    "w": 0.0688,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 332,
+   "form": "idis",
+   "gloss": "Dientes",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5306,
+    "y": 0.7348,
+    "w": 0.0525,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 333,
+   "form": "saislan",
+   "gloss": "Pescuezo",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5299,
+    "y": 0.7529,
+    "w": 0.0865,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 334,
+   "form": "cheslan",
+   "gloss": "Brazos",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5299,
+    "y": 0.7703,
+    "w": 0.0871,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 335,
+   "form": "cupa'ches",
+   "gloss": "Manos",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5312,
+    "y": 0.7894,
+    "w": 0.1093,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 336,
+   "form": "gadyocoye",
+   "gloss": "Dedos",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5293,
+    "y": 0.8072,
+    "w": 0.1152,
+    "h": 0.0163
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton's alphabetical English list gives gaayocoye",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 337,
+   "form": "coaa'",
+   "gloss": "Barriga",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "Brinton's alphabetical English list gives Belly, coya'",
+    "compare": null,
+    "checked": false
+   },
+   "box": {
+    "page": 7,
+    "x": 0.5293,
+    "y": 0.8239,
+    "w": 0.1152,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 338,
+   "form": "cava'",
+   "gloss": "Muslos",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5306,
+    "y": 0.8406,
+    "w": 0.0669,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 339,
+   "form": "euxin",
+   "gloss": "Pierna",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5306,
+    "y": 0.8576,
+    "w": 0.0695,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 340,
+   "form": "paxasen",
+   "gloss": "Pie",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5299,
+    "y": 0.8775,
+    "w": 0.0917,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 341,
+   "form": "chavin (?)",
+   "gloss": "A las conchas",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5293,
+    "y": 0.9098,
+    "w": 0.0675,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 342,
+   "form": "chavi",
+   "gloss": "Cuchillos",
+   "section": "Descripcion del Indio",
+   "col": "Hongote",
+   "box": {
+    "page": 7,
+    "x": 0.5293,
+    "y": 0.9098,
+    "w": 0.0675,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 343,
+   "form": "pa",
+   "gloss": "1",
+   "section": "Descripcion del Indio (numerals)",
+   "col": "Hongote",
+   "concepts": [
+    "ONE"
+   ]
+  },
+  {
+   "n": 344,
+   "form": "sa",
+   "gloss": "2",
+   "section": "Descripcion del Indio (numerals)",
+   "col": "Hongote",
+   "concepts": [
+    "TWO"
+   ]
+  },
+  {
+   "n": 345,
+   "form": "chalas",
+   "gloss": "3",
+   "section": "Descripcion del Indio (numerals)",
+   "col": "Hongote",
+   "concepts": [
+    "THREE"
+   ]
+  },
+  {
+   "n": 346,
+   "form": "bok",
+   "gloss": "4",
+   "section": "Descripcion del Indio (numerals)",
+   "col": "Hongote",
+   "concepts": [
+    "FOUR"
+   ]
+  },
+  {
+   "n": 347,
+   "form": "ciechs",
+   "gloss": "5",
+   "section": "Descripcion del Indio (numerals)",
+   "col": "Hongote",
+   "concepts": [
+    "FIVE"
+   ]
+  },
+  {
+   "n": 348,
+   "form": "tesan",
+   "gloss": "6",
+   "section": "Descripcion del Indio (numerals)",
+   "col": "Hongote",
+   "concepts": [
+    "SIX"
+   ]
+  },
+  {
+   "n": 349,
+   "form": "zohs",
+   "gloss": "7",
+   "section": "Descripcion del Indio (numerals)",
+   "col": "Hongote",
+   "concepts": [
+    "SEVEN"
+   ]
+  },
+  {
+   "n": 350,
+   "form": "tachs",
+   "gloss": "8",
+   "section": "Descripcion del Indio (numerals)",
+   "col": "Hongote",
+   "concepts": [
+    "EIGHT"
+   ]
+  },
+  {
+   "n": 351,
+   "form": "teus (?)",
+   "gloss": "9",
+   "section": "Descripcion del Indio (numerals)",
+   "col": "Hongote",
+   "concepts": [
+    "NINE"
+   ]
+  },
+  {
+   "n": 352,
+   "form": "o'pen",
+   "gloss": "10",
+   "section": "Descripcion del Indio (numerals)",
+   "col": "Hongote",
+   "concepts": [
+    "TEN"
+   ]
+  },
+  {
+   "n": 353,
+   "form": "tasabay",
+   "gloss": "Canoa",
+   "section": "No le he podido entender mas.",
+   "col": "Hongote",
+   "concepts": [
+    "CANOE"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.2758,
+    "y": 0.3049,
+    "w": 0.0298,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 354,
+   "form": "asaup",
+   "gloss": "Canalete",
+   "section": "No le he podido entender mas.",
+   "col": "Hongote",
+   "box": {
+    "page": 8,
+    "x": 0.2752,
+    "y": 0.3223,
+    "w": 0.0305,
+    "h": 0.0163,
+    "approx": true
+   }
+  },
+  {
+   "n": 355,
+   "form": "coyocuy",
+   "gloss": "Toda clase de botones",
+   "section": "No le he podido entender mas.",
+   "col": "Hongote",
+   "box": {
+    "page": 8,
+    "x": 0.2739,
+    "y": 0.3395,
+    "w": 0.0318,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 356,
+   "form": "jamts (?)",
+   "gloss": "Abalorios",
+   "section": "No le he podido entender mas.",
+   "col": "Hongote",
+   "box": {
+    "page": 8,
+    "x": 0.1197,
+    "y": 0.4803,
+    "w": 0.1792,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 357,
+   "form": "kanikerk",
+   "gloss": "Fire",
+   "section": "The other vocabulary",
+   "col": "Hongote",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.1152,
+    "y": 0.7214,
+    "w": 0.1603,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 358,
+   "form": "cuk-hin",
+   "gloss": "Water",
+   "section": "The other vocabulary",
+   "col": "Hongote",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.1152,
+    "y": 0.7392,
+    "w": 0.1681,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 359,
+   "form": "kekar",
+   "gloss": "Sun",
+   "section": "The other vocabulary",
+   "col": "Hongote",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.1158,
+    "y": 0.7564,
+    "w": 0.1257,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 360,
+   "form": "becok",
+   "gloss": "Woman",
+   "section": "The other vocabulary",
+   "col": "Hongote",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.1152,
+    "y": 0.7741,
+    "w": 0.1603,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 361,
+   "form": "kavak",
+   "gloss": "Eyes",
+   "section": "The other vocabulary",
+   "col": "Hongote",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.5044,
+    "y": 0.7225,
+    "w": 0.14,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 362,
+   "form": "kakuk",
+   "gloss": "Ears",
+   "section": "The other vocabulary",
+   "col": "Hongote",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.5018,
+    "y": 0.7395,
+    "w": 0.1413,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 363,
+   "form": "kakhe",
+   "gloss": "Mouth",
+   "section": "The other vocabulary",
+   "col": "Hongote",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.5031,
+    "y": 0.7573,
+    "w": 0.1564,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 364,
+   "form": "kakshlüt",
+   "gloss": "Tongue",
+   "section": "The other vocabulary",
+   "col": "Hongote",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 8,
+    "x": 0.5038,
+    "y": 0.7753,
+    "w": 0.1929,
+    "h": 0.0163
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 364,
+  "notes": 21,
+  "located": 354
+ },
+ "partial": null,
+ "relation": null
+}

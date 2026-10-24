@@ -1,0 +1,1247 @@
+{
+ "schema": 1,
+ "id": "mosquito",
+ "wtl": "WTL-0040",
+ "heading": "The following is the list of the words sent me. The orthography is German.",
+ "headings": [
+  "Rama.",
+  "San Blas.",
+  "Twaka."
+ ],
+ "language": {
+  "name": "Rama, Kuna and Tawahka",
+  "glottocode": "",
+  "family": null,
+  "path": [],
+  "labels": [
+   "Rama.",
+   "San Blas.",
+   "Twaka",
+   "Twaka."
+  ]
+ },
+ "region": "Caribbean & South America",
+ "book": {
+  "short": "Vocabularies from the Musquito Coast",
+  "title": "Vocabularies from the Musquito Coast",
+  "author": "Daniel G. Brinton",
+  "printed": 1891,
+  "imprint": "Proceedings of the American Philosophical Society, XXIX, No. 135, 1891, pp. 1-4",
+  "tcp": "",
+  "cover": "mosquito"
+ },
+ "provenance": {
+  "collector": "Rev. W. Siebarger",
+  "place": "Musquito Coast (Rama: small island in Blewfield lagoon; Twaka: headwaters of the Tungla or Princeapula rivers; San Blas words picked up on the coast)",
+  "heard": ""
+ },
+ "scan": {
+  "ia": "jstor-983010",
+  "url": "https://archive.org/details/jstor-983010",
+  "holder": "JSTOR",
+  "note": null,
+  "rights": "Public domain scan; image via Internet Archive"
+ },
+ "transcription": "Transcribed from the scan; spellings kept as printed",
+ "about": "Word lists of Rama, Twaka and Cuna (San Blas) sent to Brinton by Rev. W. Siebarger, a United Brethren missionary resident on the Musquito coast, and read before the American Philosophical Society on March 6, 1891.",
+ "pages": [
+  {
+   "leaf": 2,
+   "w": 1534,
+   "h": 2463,
+   "sm": "/scans/mosquito/0002-900.webp",
+   "lg": "/scans/mosquito/0002-1800.webp"
+  },
+  {
+   "leaf": 3,
+   "w": 1534,
+   "h": 2463,
+   "sm": "/scans/mosquito/0003-900.webp",
+   "lg": "/scans/mosquito/0003-1800.webp"
+  },
+  {
+   "leaf": 4,
+   "w": 1534,
+   "h": 2463,
+   "sm": "/scans/mosquito/0004-900.webp",
+   "lg": "/scans/mosquito/0004-1800.webp"
+  }
+ ],
+ "entries": [
+  {
+   "n": 1,
+   "form": "nikikna",
+   "gloss": "Man,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1167,
+    "y": 0.379,
+    "w": 0.2712,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 2,
+   "form": "kuma.",
+   "gloss": "Woman,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1167,
+    "y": 0.3968,
+    "w": 0.2542,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 3,
+   "form": "nunik.",
+   "gloss": "Sun,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1173,
+    "y": 0.4141,
+    "w": 0.2536,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 4,
+   "form": "tvkan.",
+   "gloss": "Moon,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1167,
+    "y": 0.4315,
+    "w": 0.2536,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 5,
+   "form": "abung.",
+   "gloss": "Fire,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.118,
+    "y": 0.4484,
+    "w": 0.2529,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 6,
+   "form": "sii.",
+   "gloss": "Water,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.118,
+    "y": 0.4657,
+    "w": 0.2216,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 7,
+   "form": "kiing.",
+   "gloss": "Head,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1173,
+    "y": 0.4829,
+    "w": 0.2503,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 8,
+   "form": "up.",
+   "gloss": "Eye,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1173,
+    "y": 0.5012,
+    "w": 0.2262,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 9,
+   "form": "kuka.",
+   "gloss": "Ear,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1825,
+    "y": 0.7072,
+    "w": 0.2233,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 10,
+   "form": "kaka.",
+   "gloss": "Mouth,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1832,
+    "y": 0.7237,
+    "w": 0.2227,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 11,
+   "form": "taik.",
+   "gloss": "Nose,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.1845,
+    "y": 0.7423,
+    "w": 0.2214,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 12,
+   "form": "kup.",
+   "gloss": "Tongue,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4928,
+    "y": 0.3816,
+    "w": 0.2373,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 13,
+   "form": "siik.",
+   "gloss": "Tooth,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4915,
+    "y": 0.3993,
+    "w": 0.236,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 14,
+   "form": "kuik.",
+   "gloss": "Hand,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4928,
+    "y": 0.4135,
+    "w": 0.2432,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 15,
+   "form": "kaat.",
+   "gloss": "Foot,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4915,
+    "y": 0.432,
+    "w": 0.2458,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 16,
+   "form": "knu.",
+   "gloss": "House,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 0,
+    "x": 0.4928,
+    "y": 0.449,
+    "w": 0.2373,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 17,
+   "form": "saiming.",
+   "gloss": "1,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "box": {
+    "page": 0,
+    "x": 0.6773,
+    "y": 0.4673,
+    "w": 0.0932,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 18,
+   "form": "puk sak.",
+   "gloss": "2,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "box": {
+    "page": 0,
+    "x": 0.6773,
+    "y": 0.4843,
+    "w": 0.0926,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 19,
+   "form": "pang sak.",
+   "gloss": "3,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "box": {
+    "page": 0,
+    "x": 0.6754,
+    "y": 0.5034,
+    "w": 0.1056,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 20,
+   "form": "kun kun beiso.",
+   "gloss": "4,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "box": {
+    "page": 0,
+    "x": 0.6773,
+    "y": 0.518,
+    "w": 0.1473,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 21,
+   "form": "kwik astar.",
+   "gloss": "5,",
+   "section": "Rama.",
+   "col": "Rama.",
+   "box": {
+    "page": 1,
+    "x": 0.1213,
+    "y": 0.1991,
+    "w": 0.2846,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 22,
+   "form": "tula",
+   "gloss": "Man,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1206,
+    "y": 0.545,
+    "w": 0.2853,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 23,
+   "form": "siradi.",
+   "gloss": "Man,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1206,
+    "y": 0.545,
+    "w": 0.2853,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 24,
+   "form": "hoam.",
+   "gloss": "Woman,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1206,
+    "y": 0.5625,
+    "w": 0.2529,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 25,
+   "form": "tata.",
+   "gloss": "Sun,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1206,
+    "y": 0.5795,
+    "w": 0.2405,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 26,
+   "form": "nu.",
+   "gloss": "Moon,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1206,
+    "y": 0.5966,
+    "w": 0.2262,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 27,
+   "form": "ibia.",
+   "gloss": "Eye,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1206,
+    "y": 0.6145,
+    "w": 0.2373,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 28,
+   "form": "auar.",
+   "gloss": "Ear,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1206,
+    "y": 0.6317,
+    "w": 0.251,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 29,
+   "form": "aregena.",
+   "gloss": "Hand,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.1213,
+    "y": 0.649,
+    "w": 0.2751,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 30,
+   "form": "naga.",
+   "gloss": "Foot,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 1,
+    "x": 0.4948,
+    "y": 0.5467,
+    "w": 0.2503,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 31,
+   "form": "kuenohikua.",
+   "gloss": "1,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "box": {
+    "page": 1,
+    "x": 0.6806,
+    "y": 0.5635,
+    "w": 0.1265,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 32,
+   "form": "pogua.",
+   "gloss": "2,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "box": {
+    "page": 1,
+    "x": 0.6773,
+    "y": 0.5834,
+    "w": 0.0763,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 33,
+   "form": "pagua.",
+   "gloss": "3,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "box": {
+    "page": 1,
+    "x": 0.6786,
+    "y": 0.6006,
+    "w": 0.0782,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 34,
+   "form": "pakawa.",
+   "gloss": "4,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "box": {
+    "page": 1,
+    "x": 0.6773,
+    "y": 0.6169,
+    "w": 0.0939,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 35,
+   "form": "atali.",
+   "gloss": "5,",
+   "section": "San Blas.",
+   "col": "San Blas.",
+   "box": {
+    "page": 1,
+    "x": 0.6825,
+    "y": 0.6327,
+    "w": 0.0613,
+    "h": 0.0163
+   }
+  },
+  {
+   "n": 36,
+   "form": "all.",
+   "gloss": "Man,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "MAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1214,
+    "y": 0.1344,
+    "w": 0.2252,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 37,
+   "form": "mui.",
+   "gloss": "Men,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "box": {
+    "page": 2,
+    "x": 0.1214,
+    "y": 0.1509,
+    "w": 0.2382,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 38,
+   "form": "yall",
+   "gloss": "Woman,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.1683,
+    "w": 0.2849,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 39,
+   "form": "wana.",
+   "gloss": "Woman,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "WOMAN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.1683,
+    "w": 0.2849,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 40,
+   "form": "ma.",
+   "gloss": "Sun,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "SUN"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1214,
+    "y": 0.186,
+    "w": 0.2304,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 41,
+   "form": "waiku.",
+   "gloss": "Moon,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "MOON"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1214,
+    "y": 0.2024,
+    "w": 0.2578,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 42,
+   "form": "yalla.",
+   "gloss": "Star,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "STAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1214,
+    "y": 0.2203,
+    "w": 0.2512,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 43,
+   "form": "sau.",
+   "gloss": "Earth,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "EARTH (SOIL)"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.2378,
+    "w": 0.2349,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 44,
+   "form": "kuma.",
+   "gloss": "Sea,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "SEA"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1214,
+    "y": 0.2546,
+    "w": 0.2545,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 45,
+   "form": "ku.",
+   "gloss": "Fire,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "FIRE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.2721,
+    "w": 0.2258,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 46,
+   "form": "wass.",
+   "gloss": "Water,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "WATER"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.2897,
+    "w": 0.2447,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 47,
+   "form": "tunuk.",
+   "gloss": "Head,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "HEAD"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.3068,
+    "w": 0.2578,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 48,
+   "form": "makpa.",
+   "gloss": "Eye,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "EYE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1214,
+    "y": 0.3244,
+    "w": 0.2662,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 49,
+   "form": "tappan.",
+   "gloss": "Ear,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "EAR"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.3411,
+    "w": 0.2688,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 50,
+   "form": "nangtak.",
+   "gloss": "Nose,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "NOSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.3581,
+    "w": 0.2799,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 51,
+   "form": "annak.",
+   "gloss": "Tooth,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "TOOTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.3752,
+    "w": 0.263,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 52,
+   "form": "matikpas.",
+   "gloss": "Mouth,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "MOUTH"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.1208,
+    "y": 0.3921,
+    "w": 0.2849,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 53,
+   "form": "taki.",
+   "gloss": "Tongue,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "TONGUE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4943,
+    "y": 0.1348,
+    "w": 0.2415,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 54,
+   "form": "tingki",
+   "gloss": "Hand,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.495,
+    "y": 0.1513,
+    "w": 0.3666,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 55,
+   "form": "tingma.",
+   "gloss": "Hand,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "HAND"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.495,
+    "y": 0.1513,
+    "w": 0.3666,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 56,
+   "form": "kallni.",
+   "gloss": "Foot,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "FOOT"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4956,
+    "y": 0.1683,
+    "w": 0.2578,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 57,
+   "form": "honi.",
+   "gloss": "House,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "HOUSE"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4956,
+    "y": 0.1856,
+    "w": 0.2441,
+    "h": 0.0158,
+    "approx": true
+   }
+  },
+  {
+   "n": 58,
+   "form": "assam.",
+   "gloss": "Hill,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "concepts": [
+    "HILL"
+   ],
+   "box": {
+    "page": 2,
+    "x": 0.4956,
+    "y": 0.2026,
+    "w": 0.261,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 59,
+   "form": "as.",
+   "gloss": "1,",
+   "section": "Twaka.",
+   "col": "Twaka."
+  },
+  {
+   "n": 60,
+   "form": "bo.",
+   "gloss": "2,",
+   "section": "Twaka.",
+   "col": "Twaka."
+  },
+  {
+   "n": 61,
+   "form": "bass.",
+   "gloss": "3,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "box": {
+    "page": 2,
+    "x": 0.6801,
+    "y": 0.2536,
+    "w": 0.055,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 62,
+   "form": "araunka.",
+   "gloss": "4,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "box": {
+    "page": 2,
+    "x": 0.6801,
+    "y": 0.2709,
+    "w": 0.1,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 63,
+   "form": "singka.",
+   "gloss": "5,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "box": {
+    "page": 2,
+    "x": 0.6788,
+    "y": 0.2895,
+    "w": 0.0785,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 64,
+   "form": "tiesko-as.",
+   "gloss": "6,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "box": {
+    "page": 2,
+    "x": 0.6801,
+    "y": 0.3056,
+    "w": 0.0967,
+    "h": 0.0158
+   },
+   "note": {
+    "kind": "compare",
+    "label": "Note",
+    "text": "printed 'tiesko·as.' (raised point)",
+    "compare": null,
+    "checked": false
+   }
+  },
+  {
+   "n": 65,
+   "form": "tiesko-bo.",
+   "gloss": "7,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "box": {
+    "page": 2,
+    "x": 0.6808,
+    "y": 0.3226,
+    "w": 0.0961,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 66,
+   "form": "tiesko-bass.",
+   "gloss": "8,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "box": {
+    "page": 2,
+    "x": 0.6795,
+    "y": 0.3397,
+    "w": 0.1143,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 67,
+   "form": "tiesko-araunka.",
+   "gloss": "9,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "box": {
+    "page": 2,
+    "x": 0.6808,
+    "y": 0.3571,
+    "w": 0.16,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 68,
+   "form": "sallap.",
+   "gloss": "10,",
+   "section": "Twaka.",
+   "col": "Twaka.",
+   "box": {
+    "page": 2,
+    "x": 0.6762,
+    "y": 0.3752,
+    "w": 0.0739,
+    "h": 0.0158
+   }
+  },
+  {
+   "n": 69,
+   "form": "mui aslui",
+   "gloss": "twenty",
+   "section": "",
+   "col": "Twaka",
+   "concepts": [
+    "TWENTY"
+   ]
+  },
+  {
+   "n": 70,
+   "form": "parrasta",
+   "gloss": "How are you?",
+   "section": "",
+   "col": "Twaka"
+  },
+  {
+   "n": 71,
+   "form": "balna",
+   "gloss": "plural suffix",
+   "section": "",
+   "col": "Twaka"
+  },
+  {
+   "n": 72,
+   "form": "Ma papangki",
+   "gloss": "God, or the Supreme Deity",
+   "section": "",
+   "col": "Twaka",
+   "concepts": [
+    "DEITY",
+    "GOD"
+   ]
+  },
+  {
+   "n": 73,
+   "form": "issing sawram",
+   "gloss": "liver split = angry",
+   "section": "",
+   "col": "Twaka",
+   "box": {
+    "page": 2,
+    "x": 0.5198,
+    "y": 0.7075,
+    "w": 0.2213,
+    "h": 0.0158,
+    "approx": true
+   }
+  },
+  {
+   "n": 74,
+   "form": "issing pini",
+   "gloss": "liver white = kind",
+   "section": "",
+   "col": "Twaka",
+   "box": {
+    "page": 2,
+    "x": 0.5191,
+    "y": 0.7236,
+    "w": 0.2069,
+    "h": 0.0158,
+    "approx": true
+   }
+  },
+  {
+   "n": 75,
+   "form": "issing sani",
+   "gloss": "liver black = unkind",
+   "section": "",
+   "col": "Twaka",
+   "box": {
+    "page": 2,
+    "x": 0.5217,
+    "y": 0.7406,
+    "w": 0.2323,
+    "h": 0.0158,
+    "approx": true
+   }
+  }
+ ],
+ "identification": null,
+ "stats": {
+  "entries": 75,
+  "notes": 1,
+  "located": 69
+ },
+ "partial": null,
+ "relation": null
+}
